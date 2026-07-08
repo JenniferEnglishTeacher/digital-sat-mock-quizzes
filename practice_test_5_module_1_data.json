@@ -1,0 +1,1223 @@
+[
+  {
+    "n": 1,
+    "concept": "Words in Context: trace as evidence left behind.",
+    "original": "The following text is from the 1913 story \"The King's Coin\" by Emily Pauline Johnson, a Kanienkahagen (Mohawk) writer also known as Tekahionwake. Fox-Foot, a young Ojibwe man, is guiding a group of fur traders who are traveling by canoe and suspects that they are being followed.\n\nAt supper time, Fox-Foot would allow no fire to be built, no landing to be made, no trace of their passing to be left. They ate canned meat and marmalade, drank again of the stream and pushed on, until just at dusk they reached the edge of a long, still lake, with shores of granite and dense fir forest.\n\nAs used in the text, what does the word \"trace\" most nearly mean?\nA) Evidence\nB) Blemish\nC) Amount\nD) Sketch",
+    "generated": [
+      {
+        "id": "1.1",
+        "text": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. Before leaving the excavation site, the archaeologists brushed the floor smooth so that any faint ______ of recent footsteps would be visible when they returned the next morning.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) quantity\nB) evidence\nC) outline\nD) blemish",
+        "answer": "B",
+        "explanation": "Evidence means a sign showing that something happened."
+      },
+      {
+        "id": "1.2",
+        "text": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. The detective found only a slight ______ of soil on the windowsill, but laboratory analysis showed that it matched the clay from the riverbank.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) mark\nB) estimate\nC) sketch\nD) amount",
+        "answer": "A",
+        "explanation": "Mark means a visible sign or indication."
+      },
+      {
+        "id": "1.3",
+        "text": "A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. Because migrating animals rarely remain in one place, field biologists often rely on indirect ______, such as hair, tracks, or partially eaten plants, to determine whether a species has passed through an area.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) quantities\nB) signs\nC) drawings\nD) summaries",
+        "answer": "B",
+        "explanation": "Signs are indications or evidence."
+      },
+      {
+        "id": "1.4",
+        "text": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. The storm erased almost every ______ of the temporary camp; by dawn, even the wheel tracks that had crossed the sand were no longer visible.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) defect\nB) portion\nC) diagram\nD) indication",
+        "answer": "D",
+        "explanation": "Indication means evidence or a sign."
+      },
+      {
+        "id": "1.5",
+        "text": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. Conservators examined the old canvas for any ______ of the artist's first design, hoping that faint pencil lines beneath the paint might reveal how the composition had changed.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) amount\nB) illustration\nC) remnant\nD) blemish",
+        "answer": "C",
+        "explanation": "A remnant is a remaining trace or sign."
+      }
+    ]
+  },
+  {
+    "n": 2,
+    "concept": "Words in Context: fragile or easily broken.",
+    "original": "Many ancient sculptures of people's heads are missing their noses. This is because the nose is the most _______ part of a sculpture of a person's head. It is delicate and sticks out from the rest of the sculpture, making it especially easy to break.\n\nWhich choice completes the text with the most logical and precise word or phrase?\nA) recognizable\nB) fragile\nC) common\nD) sophisticated",
+    "generated": [
+      {
+        "id": "2.1",
+        "text": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. The thin handle of the ceremonial cup is the most ______ part of the artifact: it projects from the body of the vessel and has already cracked in two places.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) sophisticated\nB) fragile\nC) ornate\nD) ordinary",
+        "answer": "B",
+        "explanation": "Fragile means easily broken."
+      },
+      {
+        "id": "2.2",
+        "text": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. Museum staff packed the glass negatives in separate sleeves because the plates were unusually ______ and could fracture if even slight pressure were applied.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) modern\nB) common\nC) delicate\nD) recognizable",
+        "answer": "C",
+        "explanation": "Delicate means easily damaged."
+      },
+      {
+        "id": "2.3",
+        "text": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. Although the carved figure is made of stone, the fingers are ______ because they are narrow, unsupported, and exposed to accidental contact from visitors.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) breakable\nB) ancient\nC) familiar\nD) valuable",
+        "answer": "A",
+        "explanation": "Breakable means easily broken."
+      },
+      {
+        "id": "2.4",
+        "text": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. The old manuscript's binding remained sturdy, but its pages had become ______ after decades in a dry storeroom, so librarians turned them only with special tools.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) legible\nB) portable\nC) brittle\nD) decorative",
+        "answer": "C",
+        "explanation": "Brittle means hard but easily broken."
+      },
+      {
+        "id": "2.5",
+        "text": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. The antenna is the rover's most ______ component; unlike the wheels and body panels, it protrudes from the frame and can be bent during transport.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) common\nB) identical\nC) complex\nD) vulnerable",
+        "answer": "D",
+        "explanation": "Vulnerable means easily harmed or damaged."
+      }
+    ]
+  },
+  {
+    "n": 3,
+    "concept": "Words in Context: impending solar flare.",
+    "original": "K.D. Leka and colleagues found that the Sun's corona provides an advance indication of solar flares--intense eruptions of electromagnetic radiation that emanate from active regions in the Sun's photosphere and can interfere with telecommunications on Earth. Preceding a flare, the corona temporarily exhibits increased brightness above the region where the flare is _______.\n\nWhich choice completes the text with the most logical and precise word or phrase?\nA) antecedent\nB) impending\nC) innocuous\nD) perpetual",
+    "generated": [
+      {
+        "id": "3.1",
+        "text": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. The monitoring system detects a brief increase in pressure in the hours before an eruption, giving researchers an early signal that an eruption is ______.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) obsolete\nB) impending\nC) ordinary\nD) distant",
+        "answer": "B",
+        "explanation": "Impending means about to happen."
+      },
+      {
+        "id": "3.2",
+        "text": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. Satellite images showed rapidly thickening clouds above the coast, a warning that the tropical storm was ______ and that evacuation orders might soon be necessary.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) perpetual\nB) completed\nC) approaching\nD) innocuous",
+        "answer": "C",
+        "explanation": "Approaching means coming nearer."
+      },
+      {
+        "id": "3.3",
+        "text": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. The sudden drop in air pressure suggested that a severe thunderstorm was ______, so the airport temporarily halted takeoffs and moved ground crews indoors.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) past\nB) harmless\nC) constant\nD) imminent",
+        "answer": "D",
+        "explanation": "Imminent means about to occur."
+      },
+      {
+        "id": "3.4",
+        "text": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. When the volcano began releasing larger amounts of sulfur dioxide, geologists interpreted the change as evidence that a new eruption was ______ rather than merely possible in the distant future.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) permanent\nB) minor\nC) historic\nD) forthcoming",
+        "answer": "D",
+        "explanation": "Forthcoming means coming soon."
+      },
+      {
+        "id": "3.5",
+        "text": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. The electrical activity in the region above the Sun's surface indicated that a flare was ______, allowing technicians to prepare satellites for possible interference.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) anticipated\nB) innocent\nC) irrelevant\nD) dormant",
+        "answer": "A",
+        "explanation": "Anticipated means expected to happen."
+      }
+    ]
+  },
+  {
+    "n": 4,
+    "concept": "Words in Context: exploit a tendency/use productively.",
+    "original": "To demonstrate that the integrity of underground metal pipes can be assessed without unearthing the pipes, engineer Aroba Saleem and colleagues _______ the tendency of some metals' internal magnetic fields to alter under stress: the team showed that such alterations can be measured from a distance and can reveal concentrations of stress in the pipes.\n\nWhich choice completes the text with the most logical and precise word or phrase?\nA) hypothesized\nB) discounted\nC) redefined\nD) exploited",
+    "generated": [
+      {
+        "id": "4.1",
+        "text": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. To test whether bridge cables can be inspected without dismantling them, engineers ______ the fact that tiny changes in vibration patterns reveal internal weaknesses.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) exploited\nB) predicted\nC) ignored\nD) misstated",
+        "answer": "A",
+        "explanation": "Exploited means made practical use of."
+      },
+      {
+        "id": "4.2",
+        "text": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. The medical team ______ the fluorescent properties of the dye, using the dye to make otherwise invisible tumors easier to locate during surgery.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) dismissed\nB) withheld\nC) utilized\nD) redefined",
+        "answer": "C",
+        "explanation": "Utilized means used for a practical purpose."
+      },
+      {
+        "id": "4.3",
+        "text": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. Rather than drill into the ancient wall, conservators ______ the stone's natural response to infrared light to identify hidden layers of paint.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) harnessed\nB) simplified\nC) questioned\nD) discounted",
+        "answer": "A",
+        "explanation": "Harnessed means used effectively."
+      },
+      {
+        "id": "4.4",
+        "text": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. The software ______ small differences in users' typing rhythms, turning those differences into a method for confirming identity without requiring an additional password.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) concealed\nB) leveraged\nC) imitated\nD) overlooked",
+        "answer": "B",
+        "explanation": "Leveraged means used to gain an advantage."
+      },
+      {
+        "id": "4.5",
+        "text": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. Researchers ______ the tendency of certain bacteria to bind to heavy metals, developing a low-cost system for filtering contaminated water.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) postulated\nB) distorted\nC) rejected\nD) employed",
+        "answer": "D",
+        "explanation": "Employed means used."
+      }
+    ]
+  },
+  {
+    "n": 5,
+    "concept": "Words in Context: ameliorate a research limitation.",
+    "original": "Despite the generalizations about human behavior they have produced, many studies of behavioral psychology have used highly unrepresentative subject pools: students at the colleges and universities where the researchers are employed. To _______ this situation, it is necessary to actively recruit subjects from diverse backgrounds and locations.\n\nWhich choice completes the text with the most logical and precise word or phrase?\nA) sanction\nB) ameliorate\nC) rationalize\nD) postulate",
+    "generated": [
+      {
+        "id": "5.1",
+        "text": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. Because many early clinical trials relied on participants from a narrow age range, researchers now try to ______ this limitation by recruiting volunteers from older and younger populations as well.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) rationalize\nB) postulate\nC) sanction\nD) address",
+        "answer": "D",
+        "explanation": "Address means deal with or improve a problem."
+      },
+      {
+        "id": "5.2",
+        "text": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. The city planted trees along the hottest streets to ______ the effects of extreme summer temperatures, particularly in neighborhoods with little shade.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) mitigate\nB) endorse\nC) justify\nD) predict",
+        "answer": "A",
+        "explanation": "Mitigate means make less severe."
+      },
+      {
+        "id": "5.3",
+        "text": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. To ______ the shortage of bilingual nurses, the hospital created scholarships for students who already spoke the languages most common among local patients.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) defend\nB) describe\nC) alleviate\nD) ignore",
+        "answer": "C",
+        "explanation": "Alleviate means make a problem less serious."
+      },
+      {
+        "id": "5.4",
+        "text": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. The revised survey was designed to ______ the bias in the original sample by including respondents from rural districts as well as major cities.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) validate\nB) conceal\nC) remedy\nD) summarize",
+        "answer": "C",
+        "explanation": "Remedy means correct or improve a problem."
+      },
+      {
+        "id": "5.5",
+        "text": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. The new archive will not eliminate gaps in the historical record, but it may ______ them by preserving letters and photographs from communities previously overlooked by scholars.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) rationalize\nB) ameliorate\nC) complicate\nD) authorize",
+        "answer": "B",
+        "explanation": "Ameliorate means improve or make less severe."
+      }
+    ]
+  },
+  {
+    "n": 6,
+    "concept": "Literary purpose: explain why narrator may make team.",
+    "original": "The following text is adapted from Jean Webster's 1912 novel Daddy-Long-Legs. The narrator is a young college student writing letters detailing her weekly experiences.\n\n[The college is] organizing the Freshman basket-ball team and there's just a chance that I shall make it. I'm little of course, but terribly quick and wiry and tough. While the others are hopping about in the air, I can dodge under their feet and grab the ball.\n\nWhich choice best states the main purpose of the text?\nA) To compare basketball with other sports\nB) To provide details of how to play basketball\nC) To state how players will be chosen for the basketball team\nD) To explain why the narrator thinks she might make the basketball team",
+    "generated": [
+      {
+        "id": "6.1",
+        "text": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. In a short story excerpt, an elderly musician waits beside an open window while a younger relative returns from the garden with flowers. The narration lingers on the evening light, the prepared room, and the small signs that a long-anticipated visitor is about to arrive.\n\nWhich choice best states the main idea or main purpose of the text?\n\nA) To explain why music has lost its importance\nB) To summarize a conflict between two relatives\nC) To portray a setting and mood as characters prepare for an arrival\nD) To argue that the characters should leave the house",
+        "answer": "C",
+        "explanation": "The passage primarily establishes scene and expectation."
+      },
+      {
+        "id": "6.2",
+        "text": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. A poem describes a speaker standing at the edge of a harbor as ships depart at dawn. Rather than narrating a completed journey, the poem emphasizes mist, movement, and the speaker's awareness that the travelers are entering uncertain but promising conditions.\n\nWhich choice best states the main idea or main purpose of the text?\n\nA) To list the technical features of a harbor\nB) To criticize sailors for taking unnecessary risks\nC) To compare several forms of transportation\nD) To present an atmosphere of departure and possibility",
+        "answer": "D",
+        "explanation": "The central purpose is atmospheric rather than argumentative."
+      },
+      {
+        "id": "6.3",
+        "text": "A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. A novel excerpt shows a crowded kitchen before a festival meal. The narrator notes the polished bowls, the careful arrangement of chairs, and the way family members pause whenever footsteps sound outside, waiting for a guest who has not visited for many years.\n\nWhich choice best states the main idea or main purpose of the text?\n\nA) To describe a completed celebration from beginning to end\nB) To depict preparations that reveal anticipation within a family\nC) To contrast rural and urban customs\nD) To explain why the family dislikes visitors",
+        "answer": "B",
+        "explanation": "The details focus on preparation and anticipation."
+      },
+      {
+        "id": "6.4",
+        "text": "A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. A passage from a memoir describes a teacher unlocking a classroom before sunrise, straightening notebooks, and listening as students gather in the hallway. The text does not yet present the lesson itself; instead, it highlights the quiet rituals that precede it.\n\nWhich choice best states the main idea or main purpose of the text?\n\nA) To argue that early classes should be canceled\nB) To describe the moments before a significant daily activity begins\nC) To evaluate the quality of a school's curriculum\nD) To recount a student's entire academic career",
+        "answer": "B",
+        "explanation": "The purpose is to depict a scene before an event."
+      },
+      {
+        "id": "6.5",
+        "text": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. A literary passage presents a garden after rain: wet paths, bright leaves, and a bench set beneath a tree. A character pauses there with a letter in hand, and the description makes the setting feel calm but expectant.\n\nWhich choice best states the main idea or main purpose of the text?\n\nA) To establish a reflective mood before a character acts\nB) To reveal the full contents of a letter\nC) To compare two different seasons\nD) To give instructions for maintaining a garden",
+        "answer": "A",
+        "explanation": "The setting prepares a mood of reflection and expectation."
+      }
+    ]
+  },
+  {
+    "n": 7,
+    "concept": "Main purpose: Spanish-language newspapers in Texas.",
+    "original": "In the late 1800s, Spanish-language newspapers flourished in cities across Texas. San Antonio alone produced eleven newspapers in Spanish between 1890 and 1900. But El Paso surpassed all other cities in the state. This city produced twenty-two newspapers in Spanish during that period. El Paso is located on the border with Mexico and has always had a large population of Spanish speakers. Thus, it is unsurprising that this city became such a rich site for Spanish-language journalism.\n\nWhich choice best states the main purpose of the text?\nA) To compare Spanish-language newspapers published in Texas today with ones published there during the late 1800s\nB) To explain that Spanish-language newspapers thrived in Texas and especially in El Paso during the late 1800s\nC) To argue that Spanish-language newspapers published in El Paso influenced the ones published in San Antonio during the late 1800s\nD) To explain why Spanish-language newspapers published in Texas were so popular in Mexico during the late 1800s",
+    "generated": [
+      {
+        "id": "7.1",
+        "text": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. In a short story excerpt, an elderly musician waits beside an open window while a younger relative returns from the garden with flowers. The narration lingers on the evening light, the prepared room, and the small signs that a long-anticipated visitor is about to arrive.\n\nWhich choice best states the main idea or main purpose of the text?\n\nA) To explain why music has lost its importance\nB) To portray a setting and mood as characters prepare for an arrival\nC) To argue that the characters should leave the house\nD) To summarize a conflict between two relatives",
+        "answer": "B",
+        "explanation": "The passage primarily establishes scene and expectation."
+      },
+      {
+        "id": "7.2",
+        "text": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. A poem describes a speaker standing at the edge of a harbor as ships depart at dawn. Rather than narrating a completed journey, the poem emphasizes mist, movement, and the speaker's awareness that the travelers are entering uncertain but promising conditions.\n\nWhich choice best states the main idea or main purpose of the text?\n\nA) To compare several forms of transportation\nB) To list the technical features of a harbor\nC) To criticize sailors for taking unnecessary risks\nD) To present an atmosphere of departure and possibility",
+        "answer": "D",
+        "explanation": "The central purpose is atmospheric rather than argumentative."
+      },
+      {
+        "id": "7.3",
+        "text": "A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. A novel excerpt shows a crowded kitchen before a festival meal. The narrator notes the polished bowls, the careful arrangement of chairs, and the way family members pause whenever footsteps sound outside, waiting for a guest who has not visited for many years.\n\nWhich choice best states the main idea or main purpose of the text?\n\nA) To explain why the family dislikes visitors\nB) To describe a completed celebration from beginning to end\nC) To depict preparations that reveal anticipation within a family\nD) To contrast rural and urban customs",
+        "answer": "C",
+        "explanation": "The details focus on preparation and anticipation."
+      },
+      {
+        "id": "7.4",
+        "text": "A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. A passage from a memoir describes a teacher unlocking a classroom before sunrise, straightening notebooks, and listening as students gather in the hallway. The text does not yet present the lesson itself; instead, it highlights the quiet rituals that precede it.\n\nWhich choice best states the main idea or main purpose of the text?\n\nA) To evaluate the quality of a school's curriculum\nB) To recount a student's entire academic career\nC) To argue that early classes should be canceled\nD) To describe the moments before a significant daily activity begins",
+        "answer": "D",
+        "explanation": "The purpose is to depict a scene before an event."
+      },
+      {
+        "id": "7.5",
+        "text": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. A literary passage presents a garden after rain: wet paths, bright leaves, and a bench set beneath a tree. A character pauses there with a letter in hand, and the description makes the setting feel calm but expectant.\n\nWhich choice best states the main idea or main purpose of the text?\n\nA) To establish a reflective mood before a character acts\nB) To give instructions for maintaining a garden\nC) To compare two different seasons\nD) To reveal the full contents of a letter",
+        "answer": "A",
+        "explanation": "The setting prepares a mood of reflection and expectation."
+      }
+    ]
+  },
+  {
+    "n": 8,
+    "concept": "Text Function: why researchers study Atacama Desert.",
+    "original": "Chile's Atacama Desert is one of the driest places on Earth. Mary Beth Wilhelm and other astrobiologists search for life, or its remains, in this harsh place because the desert closely mirrors the extreme environment on Mars. The algae and bacteria found in Atacama's driest regions may offer clues about Martian life. By studying how these and other microorganisms survive such extreme conditions on Earth, Wilhelm's team hopes to determine whether similar life might have existed on Mars and to develop the best tools to look for evidence of it.\n\nWhich choice best describes the function of the underlined sentence in the text as a whole?\nA) To contrast the conditions in the Atacama Desert with those on Mars\nB) To explain why many life-forms cannot survive in the Atacama Desert\nC) To indicate why astrobiologists choose to conduct research in the Atacama Desert\nD) To describe certain limitations to conducting scientific study in the Atacama Desert",
+    "generated": [
+      {
+        "id": "8.1",
+        "text": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. A science text first explains that a comet's surface changes whenever it passes close to the Sun. The second sentence notes that researchers cannot predict those changes well because the comet's interior structure remains poorly understood. The final sentence describes a study that tested whether radar could solve the problem but found that the signal did not penetrate deeply enough.\n\nWhich choice best describes the structure or function of the text?\n\nA) It offers evidence that radar is always reliable.\nB) It states the study's final conclusion.\nC) It describes how other researchers criticized the work.\nD) It identifies the uncertainty that motivated the study.",
+        "answer": "D",
+        "explanation": "The sentence presents the problem researchers tried to address."
+      },
+      {
+        "id": "8.2",
+        "text": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. An archaeology passage begins by saying that a settlement clearly traded with distant regions. The next sentence explains that the route used for this exchange is still unknown because nearby roads have left almost no physical trace. The passage then discusses a team that looked for chemical signatures in pottery but reached only tentative conclusions.\n\nWhich choice best describes the structure or function of the text?\n\nA) It defines the problem the later investigation attempts to address.\nB) It contradicts the claim made in the first sentence.\nC) It summarizes the team's strongest result.\nD) It shifts the discussion away from archaeology.",
+        "answer": "A",
+        "explanation": "The sentence frames the central research question."
+      },
+      {
+        "id": "8.3",
+        "text": "A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. A biology text states that a plant species can survive long droughts. The following sentence explains that scientists remain uncertain about which cellular mechanism allows this survival. The rest of the text describes an experiment that eliminated one possible mechanism.\n\nWhich choice best describes the structure or function of the text?\n\nA) It lists the materials used in the experiment.\nB) It gives a historical overview of plant classification.\nC) It introduces a gap in knowledge that the experiment examines.\nD) It proves that drought has no effect on plants.",
+        "answer": "C",
+        "explanation": "The sentence identifies an unresolved issue."
+      },
+      {
+        "id": "8.4",
+        "text": "A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. A literary analysis begins by noting that a novel's ending has often been described as optimistic. The second sentence observes that this interpretation is difficult to sustain because the final chapter contains several images of confinement. The rest of the paragraph explains how those images complicate earlier readings.\n\nWhich choice best describes the structure or function of the text?\n\nA) It introduces an unrelated theme.\nB) It raises a difficulty with a common interpretation.\nC) It provides biographical information about the novelist.\nD) It summarizes the novel's publication history.",
+        "answer": "B",
+        "explanation": "The sentence challenges a prior view and sets up analysis."
+      },
+      {
+        "id": "8.5",
+        "text": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. A technology passage first says that autonomous underwater vehicles can map the ocean floor. The next sentence explains that they often fail in narrow caves, where GPS signals are absent and currents are unpredictable. The final sentence describes engineers testing a new guidance system for those conditions.\n\nWhich choice best describes the structure or function of the text?\n\nA) It compares underwater vehicles with aircraft.\nB) It explains the limitation that the new system is meant to address.\nC) It announces that the technology is already flawless.\nD) It gives a personal anecdote about engineers.",
+        "answer": "B",
+        "explanation": "The sentence identifies the practical limitation motivating the work."
+      }
+    ]
+  },
+  {
+    "n": 9,
+    "concept": "Text Function: transit ridership depends on context.",
+    "original": "More than 60% of journeys in Mexico City occur via public transit, but simply reproducing a feature of the city's transit system--e.g., its low fares--is unlikely to induce a significant increase in another city's transit ridership. As Erick Guerra et al. have shown, transportation mode choice in urban areas of Mexico is the product of a complex mix of factors, including population density, the spatial distribution of jobs, and demographic characteristics of individuals. System features do affect ridership, of course, but there is an irreducibly contextual dimension of transportation mode choice.\n\nWhich choice best describes the function of the underlined portion in the text as a whole?\nA) It presents an objection to the argument of Guerra et al. about transportation mode choice in urban areas of Mexico.\nB) It explains why it is challenging to influence transit ridership solely by altering characteristics of a transit system.\nC) It illustrates the claim that a characteristic associated with high transit ridership in Mexico City is not associated with high transit ridership elsewhere.\nD) It substantiates the assertion that population density, the spatial distribution of jobs, and demographic characteristics are important factors in transportation mode choice.",
+    "generated": [
+      {
+        "id": "9.1",
+        "text": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. A science text first explains that a comet's surface changes whenever it passes close to the Sun. The second sentence notes that researchers cannot predict those changes well because the comet's interior structure remains poorly understood. The final sentence describes a study that tested whether radar could solve the problem but found that the signal did not penetrate deeply enough.\n\nWhich choice best describes the structure or function of the text?\n\nA) It describes how other researchers criticized the work.\nB) It identifies the uncertainty that motivated the study.\nC) It offers evidence that radar is always reliable.\nD) It states the study's final conclusion.",
+        "answer": "B",
+        "explanation": "The sentence presents the problem researchers tried to address."
+      },
+      {
+        "id": "9.2",
+        "text": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. An archaeology passage begins by saying that a settlement clearly traded with distant regions. The next sentence explains that the route used for this exchange is still unknown because nearby roads have left almost no physical trace. The passage then discusses a team that looked for chemical signatures in pottery but reached only tentative conclusions.\n\nWhich choice best describes the structure or function of the text?\n\nA) It shifts the discussion away from archaeology.\nB) It summarizes the team's strongest result.\nC) It defines the problem the later investigation attempts to address.\nD) It contradicts the claim made in the first sentence.",
+        "answer": "C",
+        "explanation": "The sentence frames the central research question."
+      },
+      {
+        "id": "9.3",
+        "text": "A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. A biology text states that a plant species can survive long droughts. The following sentence explains that scientists remain uncertain about which cellular mechanism allows this survival. The rest of the text describes an experiment that eliminated one possible mechanism.\n\nWhich choice best describes the structure or function of the text?\n\nA) It gives a historical overview of plant classification.\nB) It proves that drought has no effect on plants.\nC) It lists the materials used in the experiment.\nD) It introduces a gap in knowledge that the experiment examines.",
+        "answer": "D",
+        "explanation": "The sentence identifies an unresolved issue."
+      },
+      {
+        "id": "9.4",
+        "text": "A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. A literary analysis begins by noting that a novel's ending has often been described as optimistic. The second sentence observes that this interpretation is difficult to sustain because the final chapter contains several images of confinement. The rest of the paragraph explains how those images complicate earlier readings.\n\nWhich choice best describes the structure or function of the text?\n\nA) It provides biographical information about the novelist.\nB) It introduces an unrelated theme.\nC) It summarizes the novel's publication history.\nD) It raises a difficulty with a common interpretation.",
+        "answer": "D",
+        "explanation": "The sentence challenges a prior view and sets up analysis."
+      },
+      {
+        "id": "9.5",
+        "text": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. A technology passage first says that autonomous underwater vehicles can map the ocean floor. The next sentence explains that they often fail in narrow caves, where GPS signals are absent and currents are unpredictable. The final sentence describes engineers testing a new guidance system for those conditions.\n\nWhich choice best describes the structure or function of the text?\n\nA) It explains the limitation that the new system is meant to address.\nB) It gives a personal anecdote about engineers.\nC) It announces that the technology is already flawless.\nD) It compares underwater vehicles with aircraft.",
+        "answer": "A",
+        "explanation": "The sentence identifies the practical limitation motivating the work."
+      }
+    ]
+  },
+  {
+    "n": 10,
+    "concept": "Text Structure: hypothesis contradicted by soil-depth finding.",
+    "original": "Changes to vegetation cover and other human activities influence carbon and nitrogen levels in soil, though how deep these effects extend is unclear. Hypothesizing that differences in land use lead to differences in carbon and nitrogen levels that are not restricted to the topsoil layer (0-30 cm deep), Chukwuebuka Okolo and colleagues sampled soils across multiple land-use types (e.g., grazing land, cropland, forest) within each of several Ethiopian locations. They found, though, that across land-use types, carbon and nitrogen decreased to comparably low levels beyond depths of 30 cm.\n\nWhich choice best describes the overall structure of the text?\nA) It describes a phenomenon that scientists do not fully understand, explains a research team's hypothesis about that phenomenon, and then describes a finding that led the team to refine the hypothesis.\nB) It introduces an unresolved scientific question, presents a research team's hypothesis pertaining to that question, and then describes an observation made by the team that conflicts with that hypothesis.\nC) It discusses a process that scientists are somewhat unclear about, introduces competing hypotheses about that process, and then explains how a research team concluded that one of those hypotheses is likely correct.\nD) It explains a hypothesis that has been the subject of scientific debate, discusses how a research team tested that hypothesis, and then presents data the team collected that validate the hypothesis.",
+    "generated": [
+      {
+        "id": "10.1",
+        "text": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. A science text first explains that a comet's surface changes whenever it passes close to the Sun. The second sentence notes that researchers cannot predict those changes well because the comet's interior structure remains poorly understood. The final sentence describes a study that tested whether radar could solve the problem but found that the signal did not penetrate deeply enough.\n\nWhich choice best describes the structure or function of the text?\n\nA) It identifies the uncertainty that motivated the study.\nB) It offers evidence that radar is always reliable.\nC) It describes how other researchers criticized the work.\nD) It states the study's final conclusion.",
+        "answer": "A",
+        "explanation": "The sentence presents the problem researchers tried to address."
+      },
+      {
+        "id": "10.2",
+        "text": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. An archaeology passage begins by saying that a settlement clearly traded with distant regions. The next sentence explains that the route used for this exchange is still unknown because nearby roads have left almost no physical trace. The passage then discusses a team that looked for chemical signatures in pottery but reached only tentative conclusions.\n\nWhich choice best describes the structure or function of the text?\n\nA) It contradicts the claim made in the first sentence.\nB) It summarizes the team's strongest result.\nC) It shifts the discussion away from archaeology.\nD) It defines the problem the later investigation attempts to address.",
+        "answer": "D",
+        "explanation": "The sentence frames the central research question."
+      },
+      {
+        "id": "10.3",
+        "text": "A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. A biology text states that a plant species can survive long droughts. The following sentence explains that scientists remain uncertain about which cellular mechanism allows this survival. The rest of the text describes an experiment that eliminated one possible mechanism.\n\nWhich choice best describes the structure or function of the text?\n\nA) It proves that drought has no effect on plants.\nB) It lists the materials used in the experiment.\nC) It introduces a gap in knowledge that the experiment examines.\nD) It gives a historical overview of plant classification.",
+        "answer": "C",
+        "explanation": "The sentence identifies an unresolved issue."
+      },
+      {
+        "id": "10.4",
+        "text": "A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. A literary analysis begins by noting that a novel's ending has often been described as optimistic. The second sentence observes that this interpretation is difficult to sustain because the final chapter contains several images of confinement. The rest of the paragraph explains how those images complicate earlier readings.\n\nWhich choice best describes the structure or function of the text?\n\nA) It introduces an unrelated theme.\nB) It raises a difficulty with a common interpretation.\nC) It summarizes the novel's publication history.\nD) It provides biographical information about the novelist.",
+        "answer": "B",
+        "explanation": "The sentence challenges a prior view and sets up analysis."
+      },
+      {
+        "id": "10.5",
+        "text": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. A technology passage first says that autonomous underwater vehicles can map the ocean floor. The next sentence explains that they often fail in narrow caves, where GPS signals are absent and currents are unpredictable. The final sentence describes engineers testing a new guidance system for those conditions.\n\nWhich choice best describes the structure or function of the text?\n\nA) It explains the limitation that the new system is meant to address.\nB) It compares underwater vehicles with aircraft.\nC) It gives a personal anecdote about engineers.\nD) It announces that the technology is already flawless.",
+        "answer": "A",
+        "explanation": "The sentence identifies the practical limitation motivating the work."
+      }
+    ]
+  },
+  {
+    "n": 11,
+    "concept": "Reading Detail: surprise about marsquakes.",
+    "original": "Recently, scientists looked at data collected by NASA's InSight lander to learn more about seismic activity on Mars, known as marsquakes. The data show that the marsquakes all started from the same location on the planet. This discovery was surprising to scientists, as they expected that the marsquakes would originate from all over the planet because of the cooling of the planet's surface. Now, scientists believe that there could be areas of active magma flows deep beneath the planet's surface that trigger the marsquakes.\n\nAccording to the text, what was surprising to scientists studying the seismic activity data from NASA's InSight lander?\nA) The surface temperature of Mars has been rising.\nB) There were different types of seismic waves causing marsquakes.\nC) NASA's InSight lander collected less data than scientists had expected.\nD) All the marsquakes started from the same location on the planet.",
+    "generated": [
+      {
+        "id": "11.1",
+        "text": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. A nineteenth-century novel describes a young woman who is only eighteen but regularly advises older relatives because she remains calm when others react impulsively. The narrator stresses that her affection is sincere, yet she can restrain her emotions when judgment is needed.\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) She lacks affection for her family.\nB) She refuses to give advice to others.\nC) She shows unusual maturity and self-command.\nD) She is admired mainly for her wealth.",
+        "answer": "C",
+        "explanation": "The text emphasizes judgment, calmness, and emotional control."
+      },
+      {
+        "id": "11.2",
+        "text": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. In a memoir, a child observes that her grandmother rarely speaks during family disputes, but when she finally offers a suggestion, everyone in the room accepts it. The narrator explains that the grandmother's authority comes from patience rather than force.\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) The family ignores the grandmother's opinions.\nB) The narrator thinks patience is useless.\nC) The grandmother avoids family matters entirely.\nD) The grandmother's influence is quiet but substantial.",
+        "answer": "D",
+        "explanation": "The family respects her careful judgment."
+      },
+      {
+        "id": "11.3",
+        "text": "A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. A story describes a clerk who notices tiny errors in ledgers that others have already approved. Although his coworkers sometimes find his caution irritating, the narrator says that the business survives because of his exactness.\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) The clerk's carefulness is valuable despite being inconvenient.\nB) The business fails because of excessive caution.\nC) The coworkers are more accurate than the clerk.\nD) The clerk intentionally creates errors.",
+        "answer": "A",
+        "explanation": "The passage praises his precision."
+      },
+      {
+        "id": "11.4",
+        "text": "A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. A passage states that a village leader listens to every speaker before making decisions, even when the answer seems obvious. The narrator suggests that this habit slows meetings but prevents resentment among people who might otherwise feel dismissed.\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) The leader values inclusive deliberation.\nB) The leader dislikes public meetings.\nC) The leader makes decisions without hearing others.\nD) The leader is unable to reach conclusions.",
+        "answer": "A",
+        "explanation": "The evidence shows patience and inclusion."
+      },
+      {
+        "id": "11.5",
+        "text": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. In an excerpt, a scientist is described as generous with students but uncompromising about evidence. She encourages speculation in early discussions, yet she will not publish a claim until every measurement has been checked.\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) She publishes claims before testing them.\nB) She combines intellectual openness with rigorous standards.\nC) She rejects all imaginative thinking.\nD) She avoids working with students.",
+        "answer": "B",
+        "explanation": "The contrast shows openness and rigor."
+      }
+    ]
+  },
+  {
+    "n": 12,
+    "concept": "Reading Detail: Maya zero may come from Olmec civilization.",
+    "original": "The ancient writing system used in the Maya kingdoms of southern Mexico and Central America had a symbol for the number zero. The earliest known example of the symbol dates to more than 2,000 years ago. At that time, almost none of the writing systems elsewhere in the world possessed a zero symbol. And the use of zero in Mexico and Central America may be even more ancient. Some historians suggest that Maya mathematicians inherited it from the Olmec civilization, which flourished in the region 2,400-3,600 years ago.\n\nAccording to the text, what do some historians suggest about Maya civilization?\nA) Maya civilization acquired the use of zero from the Olmec civilization.\nB) Maya civilization respected its historians more than it respected its mathematicians.\nC) Maya civilization was highly secretive about its intellectual achievements.\nD) Maya civilization tried to introduce its writing system to other civilizations.",
+    "generated": [
+      {
+        "id": "12.1",
+        "text": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. A nineteenth-century novel describes a young woman who is only eighteen but regularly advises older relatives because she remains calm when others react impulsively. The narrator stresses that her affection is sincere, yet she can restrain her emotions when judgment is needed.\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) She lacks affection for her family.\nB) She refuses to give advice to others.\nC) She shows unusual maturity and self-command.\nD) She is admired mainly for her wealth.",
+        "answer": "C",
+        "explanation": "The text emphasizes judgment, calmness, and emotional control."
+      },
+      {
+        "id": "12.2",
+        "text": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. In a memoir, a child observes that her grandmother rarely speaks during family disputes, but when she finally offers a suggestion, everyone in the room accepts it. The narrator explains that the grandmother's authority comes from patience rather than force.\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) The grandmother's influence is quiet but substantial.\nB) The grandmother avoids family matters entirely.\nC) The family ignores the grandmother's opinions.\nD) The narrator thinks patience is useless.",
+        "answer": "A",
+        "explanation": "The family respects her careful judgment."
+      },
+      {
+        "id": "12.3",
+        "text": "A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. A story describes a clerk who notices tiny errors in ledgers that others have already approved. Although his coworkers sometimes find his caution irritating, the narrator says that the business survives because of his exactness.\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) The business fails because of excessive caution.\nB) The coworkers are more accurate than the clerk.\nC) The clerk intentionally creates errors.\nD) The clerk's carefulness is valuable despite being inconvenient.",
+        "answer": "D",
+        "explanation": "The passage praises his precision."
+      },
+      {
+        "id": "12.4",
+        "text": "A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. A passage states that a village leader listens to every speaker before making decisions, even when the answer seems obvious. The narrator suggests that this habit slows meetings but prevents resentment among people who might otherwise feel dismissed.\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) The leader makes decisions without hearing others.\nB) The leader dislikes public meetings.\nC) The leader is unable to reach conclusions.\nD) The leader values inclusive deliberation.",
+        "answer": "D",
+        "explanation": "The evidence shows patience and inclusion."
+      },
+      {
+        "id": "12.5",
+        "text": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. In an excerpt, a scientist is described as generous with students but uncompromising about evidence. She encourages speculation in early discussions, yet she will not publish a claim until every measurement has been checked.\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) She rejects all imaginative thinking.\nB) She combines intellectual openness with rigorous standards.\nC) She publishes claims before testing them.\nD) She avoids working with students.",
+        "answer": "B",
+        "explanation": "The contrast shows openness and rigor."
+      }
+    ]
+  },
+  {
+    "n": 13,
+    "concept": "Command of Evidence: quotation showing distress.",
+    "original": "\"The Bet\" is an 1889 short story by Anton Chekhov. In the story, a banker is described as being very upset about something: _______\n\nWhich quotation from \"The Bet\" most effectively illustrates the claim?\nA) \"Then the banker cautiously broke the seals off the door and put the key in the keyhole.\"\nB) \"It struck three o'clock, the banker listened; everyone was asleep in the house and nothing could be heard outside but the rustling of the chilled trees.\"\nC) \"The banker, spoilt and frivolous, with millions beyond his reckoning, was delighted at the bet.\"\nD) \"When [the banker] got home he lay on his bed, but his tears and emotion kept him for hours from sleeping.\"",
+    "generated": [
+      {
+        "id": "13.1",
+        "text": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. A student claims that a historian treats a revolutionary leader more as a national emblem than as a practical policymaker. Which quotation would best illustrate that claim?\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) 'The leader signed several decrees during his first month in office.'\nB) 'The leader's symbolic role in the birth of the nation matters more than the brief and uneven record of his administration.'\nC) 'The administration faced economic challenges from the beginning.'\nD) 'The leader's speeches are preserved in several archives.'",
+        "answer": "B",
+        "explanation": "The quotation emphasizes symbolism over concrete actions."
+      },
+      {
+        "id": "13.2",
+        "text": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. A graph shows that female farmers made up 64% of vegetable growers in the southern region but less than 35% of grain growers in the northern and central regions. Which statement best uses the graph to support a claim about regional crop patterns?\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) Some farmers grew vegetables, while others grew grain.\nB) The southern region was included in the survey.\nC) The graph contains information about three regions.\nD) Women formed a majority of southern vegetable growers but not of northern or central grain growers.",
+        "answer": "D",
+        "explanation": "The answer uses a specific contrast in the data."
+      },
+      {
+        "id": "13.3",
+        "text": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. Astronomers claim that rocky planets never contain more iron than their host stars. Which finding would most directly weaken the claim?\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) One rocky planet has a thin atmosphere.\nB) Some stars contain hydrogen and helium.\nC) Several rocky planets are found to contain a substantially higher proportion of iron than the stars they orbit.\nD) The method used to study stars requires a telescope.",
+        "answer": "C",
+        "explanation": "A planet with more iron than its host star contradicts the claim."
+      },
+      {
+        "id": "13.4",
+        "text": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. A folklorist argues that a tradition developed through recent cultural exchange rather than being merely imported unchanged from a distant country. Which finding would best support the argument?\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) Some songs use a meter also found in older European poetry.\nB) The tradition is studied by scholars in several countries.\nC) Several ballads include local historical events and blended musical forms that arose after different communities came into sustained contact.\nD) Many performers learned songs from relatives.",
+        "answer": "C",
+        "explanation": "Recent blended features support cultural exchange."
+      },
+      {
+        "id": "13.5",
+        "text": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. A table shows that the number of trained volunteers rose from 18 to 46 after a community program began, while the number in a comparable town without the program stayed near 20. Which conclusion is best supported?\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) The program was associated with a clear increase in trained volunteers compared with the town without the program.\nB) Both towns had some volunteers.\nC) The program took place in a community.\nD) The table includes more than one year.",
+        "answer": "A",
+        "explanation": "The comparison supports the program's effect."
+      }
+    ]
+  },
+  {
+    "n": 14,
+    "concept": "Quantitative Evidence: de-extinction and longest elapsed time.",
+    "original": "Partial List of Candidate Species for De-extinction\nHuia (Heteralocha acutirostris): became extinct 1907.\nCaribbean monk seal (Monachus tropicalis): became extinct 1952.\nPassenger pigeon (Ectopistes migratorius): became extinct 1914.\nSaber-toothed cat (Smilodon): became extinct 11,000 years before present.\nWoolly mammoth (Mammuthus primigenius): became extinct 6,400 years before present.\n\nThe passage of time is among the many obstacles faced by scientists who are pursuing de-extinction efforts--that is, efforts to use breeding or a mixture of cloning and genetic engineering to bring back extinct species. Specifically, researchers are concerned that the longer a species has been extinct, the less likely it is that a suitable habitat still exists for that species. Among candidate species for de-extinction, this problem would be especially concerning for the _______\n\nWhich choice most effectively uses data from the table to complete the statement?\nA) passenger pigeon (Ectopistes migratorius), which became extinct only a few years after the huia (Heteralocha acutirostris).\nB) saber-toothed cat (Smilodon), which became extinct 11,000 years ago.\nC) woolly mammoth (Mammuthus primigenius), which became extinct several thousand years before the saber-toothed cat (Smilodon).\nD) Caribbean monk seal (Monachus tropicalis), which became extinct in 1952.",
+    "generated": [
+      {
+        "id": "14.1",
+        "text": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. A student claims that a historian treats a revolutionary leader more as a national emblem than as a practical policymaker. Which quotation would best illustrate that claim?\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) 'The leader signed several decrees during his first month in office.'\nB) 'The administration faced economic challenges from the beginning.'\nC) 'The leader's speeches are preserved in several archives.'\nD) 'The leader's symbolic role in the birth of the nation matters more than the brief and uneven record of his administration.'",
+        "answer": "D",
+        "explanation": "The quotation emphasizes symbolism over concrete actions."
+      },
+      {
+        "id": "14.2",
+        "text": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. A graph shows that female farmers made up 64% of vegetable growers in the southern region but less than 35% of grain growers in the northern and central regions. Which statement best uses the graph to support a claim about regional crop patterns?\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) Some farmers grew vegetables, while others grew grain.\nB) The graph contains information about three regions.\nC) Women formed a majority of southern vegetable growers but not of northern or central grain growers.\nD) The southern region was included in the survey.",
+        "answer": "C",
+        "explanation": "The answer uses a specific contrast in the data."
+      },
+      {
+        "id": "14.3",
+        "text": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. Astronomers claim that rocky planets never contain more iron than their host stars. Which finding would most directly weaken the claim?\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) Several rocky planets are found to contain a substantially higher proportion of iron than the stars they orbit.\nB) Some stars contain hydrogen and helium.\nC) The method used to study stars requires a telescope.\nD) One rocky planet has a thin atmosphere.",
+        "answer": "A",
+        "explanation": "A planet with more iron than its host star contradicts the claim."
+      },
+      {
+        "id": "14.4",
+        "text": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. A folklorist argues that a tradition developed through recent cultural exchange rather than being merely imported unchanged from a distant country. Which finding would best support the argument?\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) The tradition is studied by scholars in several countries.\nB) Many performers learned songs from relatives.\nC) Some songs use a meter also found in older European poetry.\nD) Several ballads include local historical events and blended musical forms that arose after different communities came into sustained contact.",
+        "answer": "D",
+        "explanation": "Recent blended features support cultural exchange."
+      },
+      {
+        "id": "14.5",
+        "text": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. A table shows that the number of trained volunteers rose from 18 to 46 after a community program began, while the number in a comparable town without the program stayed near 20. Which conclusion is best supported?\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) The program took place in a community.\nB) The program was associated with a clear increase in trained volunteers compared with the town without the program.\nC) The table includes more than one year.\nD) Both towns had some volunteers.",
+        "answer": "B",
+        "explanation": "The comparison supports the program's effect."
+      }
+    ]
+  },
+  {
+    "n": 15,
+    "concept": "Command of Evidence: quotation showing mixed feelings.",
+    "original": "\"The Yellow Wallpaper\" is an 1892 short story by Charlotte Perkins Gilman. In the story, the narrator expresses mixed feelings about her surroundings: _______\n\nWhich quotation from \"The Yellow Wallpaper\" most effectively illustrates the claim?\nA) \"This wallpaper has a kind of sub-pattern in a different shade, a particularly irritating one, for you can only see it in certain lights, and not clearly then.\"\nB) \"By moonlight--the moon shines in all night when there is a moon--I wouldn't know it was the same paper.\"\nC) \"I'm really getting quite fond of the big room, all but that horrid [wall]paper.\"\nD) \"The color is repellant, almost revolting; a smouldering, unclean yellow, strangely faded by the slow-turning sunlight.\"",
+    "generated": [
+      {
+        "id": "15.1",
+        "text": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. A student claims that a historian treats a revolutionary leader more as a national emblem than as a practical policymaker. Which quotation would best illustrate that claim?\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) 'The leader's symbolic role in the birth of the nation matters more than the brief and uneven record of his administration.'\nB) 'The administration faced economic challenges from the beginning.'\nC) 'The leader signed several decrees during his first month in office.'\nD) 'The leader's speeches are preserved in several archives.'",
+        "answer": "A",
+        "explanation": "The quotation emphasizes symbolism over concrete actions."
+      },
+      {
+        "id": "15.2",
+        "text": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. A graph shows that female farmers made up 64% of vegetable growers in the southern region but less than 35% of grain growers in the northern and central regions. Which statement best uses the graph to support a claim about regional crop patterns?\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) The graph contains information about three regions.\nB) Some farmers grew vegetables, while others grew grain.\nC) The southern region was included in the survey.\nD) Women formed a majority of southern vegetable growers but not of northern or central grain growers.",
+        "answer": "D",
+        "explanation": "The answer uses a specific contrast in the data."
+      },
+      {
+        "id": "15.3",
+        "text": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. Astronomers claim that rocky planets never contain more iron than their host stars. Which finding would most directly weaken the claim?\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) Some stars contain hydrogen and helium.\nB) Several rocky planets are found to contain a substantially higher proportion of iron than the stars they orbit.\nC) One rocky planet has a thin atmosphere.\nD) The method used to study stars requires a telescope.",
+        "answer": "B",
+        "explanation": "A planet with more iron than its host star contradicts the claim."
+      },
+      {
+        "id": "15.4",
+        "text": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. A folklorist argues that a tradition developed through recent cultural exchange rather than being merely imported unchanged from a distant country. Which finding would best support the argument?\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) Some songs use a meter also found in older European poetry.\nB) Many performers learned songs from relatives.\nC) The tradition is studied by scholars in several countries.\nD) Several ballads include local historical events and blended musical forms that arose after different communities came into sustained contact.",
+        "answer": "D",
+        "explanation": "Recent blended features support cultural exchange."
+      },
+      {
+        "id": "15.5",
+        "text": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. A table shows that the number of trained volunteers rose from 18 to 46 after a community program began, while the number in a comparable town without the program stayed near 20. Which conclusion is best supported?\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) The table includes more than one year.\nB) The program took place in a community.\nC) The program was associated with a clear increase in trained volunteers compared with the town without the program.\nD) Both towns had some volunteers.",
+        "answer": "C",
+        "explanation": "The comparison supports the program's effect."
+      }
+    ]
+  },
+  {
+    "n": 16,
+    "concept": "Quantitative Evidence: oxygenation role in coral decline.",
+    "original": "Ratio of Manganese to Calcium in Samples from Alboran Sea and Mauritanian Coast\nThe population of the coral Lophelia pertusa declined significantly around 9,000 years ago in the Alboran Sea and around 11,000 years ago near the Mauritanian coast. Using the ratio of manganese to calcium, which inversely correlates with ocean oxygenation levels, marine scientist Rodrigo da Costa Portilho-Ramos and colleagues evaluated whether oxygenation played a role in the declines of L. pertusa. The researchers concluded that oxygenation may have been important in the Alboran Sea but not near the Mauritanian coast, since _______\n\nWhich choice most effectively uses data from the graph to complete the statement?\nA) a substantial increase in oxygenation in the Alboran Sea corresponded with the local decline in L. pertusa, but the opposite relationship between oxygenation and L. pertusa was found near the Mauritanian coast.\nB) L. pertusa declined in the Alboran Sea during a period of substantial local decline in oxygenation, but L. pertusa declined near the Mauritanian coast during a period of little local change in oxygenation.\nC) oxygenation in the Alboran Sea was higher before the decline in L. pertusa than after the decline, whereas oxygenation near the Mauritanian coast was relatively low both before and after the decline in L. pertusa.\nD) oxygenation in the Alboran Sea tended to be substantially higher than oxygenation near the Mauritanian coast during the period studied.",
+    "generated": [
+      {
+        "id": "16.1",
+        "text": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. A student claims that a historian treats a revolutionary leader more as a national emblem than as a practical policymaker. Which quotation would best illustrate that claim?\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) 'The administration faced economic challenges from the beginning.'\nB) 'The leader's speeches are preserved in several archives.'\nC) 'The leader's symbolic role in the birth of the nation matters more than the brief and uneven record of his administration.'\nD) 'The leader signed several decrees during his first month in office.'",
+        "answer": "C",
+        "explanation": "The quotation emphasizes symbolism over concrete actions."
+      },
+      {
+        "id": "16.2",
+        "text": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. A graph shows that female farmers made up 64% of vegetable growers in the southern region but less than 35% of grain growers in the northern and central regions. Which statement best uses the graph to support a claim about regional crop patterns?\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) Women formed a majority of southern vegetable growers but not of northern or central grain growers.\nB) Some farmers grew vegetables, while others grew grain.\nC) The southern region was included in the survey.\nD) The graph contains information about three regions.",
+        "answer": "A",
+        "explanation": "The answer uses a specific contrast in the data."
+      },
+      {
+        "id": "16.3",
+        "text": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. Astronomers claim that rocky planets never contain more iron than their host stars. Which finding would most directly weaken the claim?\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) Some stars contain hydrogen and helium.\nB) Several rocky planets are found to contain a substantially higher proportion of iron than the stars they orbit.\nC) The method used to study stars requires a telescope.\nD) One rocky planet has a thin atmosphere.",
+        "answer": "B",
+        "explanation": "A planet with more iron than its host star contradicts the claim."
+      },
+      {
+        "id": "16.4",
+        "text": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. A folklorist argues that a tradition developed through recent cultural exchange rather than being merely imported unchanged from a distant country. Which finding would best support the argument?\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) The tradition is studied by scholars in several countries.\nB) Many performers learned songs from relatives.\nC) Some songs use a meter also found in older European poetry.\nD) Several ballads include local historical events and blended musical forms that arose after different communities came into sustained contact.",
+        "answer": "D",
+        "explanation": "Recent blended features support cultural exchange."
+      },
+      {
+        "id": "16.5",
+        "text": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. A table shows that the number of trained volunteers rose from 18 to 46 after a community program began, while the number in a comparable town without the program stayed near 20. Which conclusion is best supported?\n\nWhich choice most effectively uses evidence from the text, table, graph, or study?\n\nA) The program was associated with a clear increase in trained volunteers compared with the town without the program.\nB) The program took place in a community.\nC) The table includes more than one year.\nD) Both towns had some volunteers.",
+        "answer": "A",
+        "explanation": "The comparison supports the program's effect."
+      }
+    ]
+  },
+  {
+    "n": 17,
+    "concept": "Logical Completion: crater age is not yet known.",
+    "original": "The Younger Dryas was a period of extreme cooling from 11,700 to 12,900 years ago in the Northern Hemisphere. Some scientists argue that a comet fragment hitting Earth brought about the cooling. Others disagree, partly because there is no known crater from such an impact that dates to the beginning of the period. In 2015, a team led by Kurt Kjaer detected a 19-mile-wide crater beneath a glacier in Greenland. The scientists who believe an impact caused the Younger Dryas claim that this discovery supports their view. However, Kjaer's team hasn't yet been able to determine the age of the crater. Therefore, the team suggests that _______\n\nWhich choice most logically completes the text?\nA) it can't be concluded that the impact that made the crater was connected to the beginning of the Younger Dryas.\nB) it can't be determined whether a comet fragment could make a crater as large as 19 miles wide.\nC) scientists have ignored the possibility that something other than a comet fragment could have made the crater.\nD) the scientists who believe an impact caused the Younger Dryas have made incorrect assumptions about when the period began.",
+    "generated": [
+      {
+        "id": "17.1",
+        "text": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. A city policy requires landlords to disclose rent increases to tenants but allows those notices to remain unavailable to public agencies. Housing advocates warn that the policy may have the unintended effect of ______\n\nWhich choice most logically completes the text?\n\nA) making it harder for officials to identify neighborhoods where rent increases are unusually severe.\nB) reducing tenants' interest in renewing leases.\nC) encouraging landlords to repair apartments before raising rents.\nD) preventing tenants from discussing rent changes with one another.",
+        "answer": "A",
+        "explanation": "The concern is that confidentiality prevents outside evaluation."
+      },
+      {
+        "id": "17.2",
+        "text": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. A grant program encourages pharmaceutical firms to partner with public hospitals but permits the firms to keep the terms of each research agreement confidential. Patient advocates argue that the rule could ______\n\nWhich choice most logically completes the text?\n\nA) require hospitals to publish every patient's medical history.\nB) make it difficult to determine whether hospitals are receiving fair compensation for the use of patient data.\nC) prevent companies from profiting from successful drugs.\nD) reduce the number of diseases that hospitals are able to study.",
+        "answer": "B",
+        "explanation": "The issue is the inability of outside observers to evaluate fairness."
+      },
+      {
+        "id": "17.3",
+        "text": "A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. The new archive law requires museums to consult descendant communities before displaying cultural objects, but it allows museums to keep consultation agreements sealed. Some community leaders worry that this provision may ______\n\nWhich choice most logically completes the text?\n\nA) discourage museums from preserving fragile objects.\nB) obscure whether communities actually have meaningful influence over display decisions.\nC) prevent curators from learning about the objects' cultural meanings.\nD) force museums to return every object in their collections.",
+        "answer": "B",
+        "explanation": "Sealed agreements make accountability difficult."
+      },
+      {
+        "id": "17.4",
+        "text": "A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. A fishing treaty requires corporations to compensate coastal villages for using traditional ecological knowledge, yet the treaty allows payment contracts to remain private. Critics argue that this privacy rule could ______\n\nWhich choice most logically completes the text?\n\nA) reduce villages' knowledge of marine species.\nB) increase the number of fish caught by local crews.\nC) stop companies from conducting ecological research.\nD) make it impossible for independent observers to judge whether compensation is equitable.",
+        "answer": "D",
+        "explanation": "Private contracts prevent independent assessment of equity."
+      },
+      {
+        "id": "17.5",
+        "text": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. A university policy requires technology companies to compensate Indigenous language speakers when their recordings are used to train speech-recognition systems, but it permits the contracts to be confidential. Advocates warn that the policy may ______\n\nWhich choice most logically completes the text?\n\nA) require speakers to learn programming skills.\nB) increase the cost of recording equipment.\nC) prevent outsiders from verifying whether speakers are paid fairly.\nD) discourage researchers from documenting endangered languages.",
+        "answer": "C",
+        "explanation": "The concern is lack of transparent verification."
+      }
+    ]
+  },
+  {
+    "n": 18,
+    "concept": "Logical Completion: appendix likely immune benefit.",
+    "original": "In 2016 biological anthropologist Heather F. Smith and her team investigated the evolution of the appendix, an intestinal organ that is present in some mammals, including humans, but is generally thought to have no function. Studying 533 mammal species, the team found that the appendix has emerged independently across multiple lineages in separate instances and, significantly, hasn't disappeared after emerging in specific lineages. Moreover, the team determined that species with the organ tend to have higher concentrations of lymphoid tissue, which supports immune responses, in the cecum, the organ the appendix is attached to. Therefore, the team hypothesized that the appendix likely _______\n\nWhich choice most logically completes the text?\nA) was once present in many nonmammal species but has since disappeared from those lineages.\nB) has been preserved in certain mammal species because it benefits their immune systems.\nC) will emerge in a greater number of mammal species because it may serve a necessary function in the immune system.\nD) produced higher concentrations of lymphoid tissue in mammals in the past than it does currently.",
+    "generated": [
+      {
+        "id": "18.1",
+        "text": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. A city policy requires landlords to disclose rent increases to tenants but allows those notices to remain unavailable to public agencies. Housing advocates warn that the policy may have the unintended effect of ______\n\nWhich choice most logically completes the text?\n\nA) preventing tenants from discussing rent changes with one another.\nB) encouraging landlords to repair apartments before raising rents.\nC) reducing tenants' interest in renewing leases.\nD) making it harder for officials to identify neighborhoods where rent increases are unusually severe.",
+        "answer": "D",
+        "explanation": "The concern is that confidentiality prevents outside evaluation."
+      },
+      {
+        "id": "18.2",
+        "text": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. A grant program encourages pharmaceutical firms to partner with public hospitals but permits the firms to keep the terms of each research agreement confidential. Patient advocates argue that the rule could ______\n\nWhich choice most logically completes the text?\n\nA) make it difficult to determine whether hospitals are receiving fair compensation for the use of patient data.\nB) require hospitals to publish every patient's medical history.\nC) reduce the number of diseases that hospitals are able to study.\nD) prevent companies from profiting from successful drugs.",
+        "answer": "A",
+        "explanation": "The issue is the inability of outside observers to evaluate fairness."
+      },
+      {
+        "id": "18.3",
+        "text": "A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. The new archive law requires museums to consult descendant communities before displaying cultural objects, but it allows museums to keep consultation agreements sealed. Some community leaders worry that this provision may ______\n\nWhich choice most logically completes the text?\n\nA) force museums to return every object in their collections.\nB) prevent curators from learning about the objects' cultural meanings.\nC) discourage museums from preserving fragile objects.\nD) obscure whether communities actually have meaningful influence over display decisions.",
+        "answer": "D",
+        "explanation": "Sealed agreements make accountability difficult."
+      },
+      {
+        "id": "18.4",
+        "text": "A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. A fishing treaty requires corporations to compensate coastal villages for using traditional ecological knowledge, yet the treaty allows payment contracts to remain private. Critics argue that this privacy rule could ______\n\nWhich choice most logically completes the text?\n\nA) stop companies from conducting ecological research.\nB) increase the number of fish caught by local crews.\nC) make it impossible for independent observers to judge whether compensation is equitable.\nD) reduce villages' knowledge of marine species.",
+        "answer": "C",
+        "explanation": "Private contracts prevent independent assessment of equity."
+      },
+      {
+        "id": "18.5",
+        "text": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. A university policy requires technology companies to compensate Indigenous language speakers when their recordings are used to train speech-recognition systems, but it permits the contracts to be confidential. Advocates warn that the policy may ______\n\nWhich choice most logically completes the text?\n\nA) discourage researchers from documenting endangered languages.\nB) prevent outsiders from verifying whether speakers are paid fairly.\nC) increase the cost of recording equipment.\nD) require speakers to learn programming skills.",
+        "answer": "B",
+        "explanation": "The concern is lack of transparent verification."
+      }
+    ]
+  },
+  {
+    "n": 19,
+    "concept": "Logical Completion: Aztec ethics depend on social role.",
+    "original": "Some ethicists hold that the moral goodness of an individual's actions depends solely on whether the actions themselves are good, irrespective of the context in which they are carried out. Philosopher L. Sebastian Purcell has shown that surviving works of Aztec (Nahua) philosophy express a very different view. Purcell reveals that these works posit an ethical system in which an individual's actions are judged in light of how well they accord with the individual's role in society and how well they contribute to the community. To the extent that these works are representative of Aztec thought, Purcell's analysis suggests that _______\n\nWhich choice most logically completes the text?\nA) the Aztecs would have disputed the idea that the morality of an individual's actions can be assessed by appealing to standards of behavior that are independent of the individual's social circumstances.\nB) the Aztecs would not have accepted the notion that the morality of an individual's actions can be fairly evaluated by people who do not live in the same society as that individual.\nC) actions by members of Aztec society who contributed a great deal to their community could be judged as morally good even if those actions were inconsistent with behaviors the Aztecs regarded as good in all contexts.\nD) similar actions performed by people in different social roles in Aztec society would have been regarded as morally equivalent unless those actions led to different outcomes for the community.",
+    "generated": [
+      {
+        "id": "19.1",
+        "text": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. A city policy requires landlords to disclose rent increases to tenants but allows those notices to remain unavailable to public agencies. Housing advocates warn that the policy may have the unintended effect of ______\n\nWhich choice most logically completes the text?\n\nA) reducing tenants' interest in renewing leases.\nB) preventing tenants from discussing rent changes with one another.\nC) making it harder for officials to identify neighborhoods where rent increases are unusually severe.\nD) encouraging landlords to repair apartments before raising rents.",
+        "answer": "C",
+        "explanation": "The concern is that confidentiality prevents outside evaluation."
+      },
+      {
+        "id": "19.2",
+        "text": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. A grant program encourages pharmaceutical firms to partner with public hospitals but permits the firms to keep the terms of each research agreement confidential. Patient advocates argue that the rule could ______\n\nWhich choice most logically completes the text?\n\nA) prevent companies from profiting from successful drugs.\nB) require hospitals to publish every patient's medical history.\nC) make it difficult to determine whether hospitals are receiving fair compensation for the use of patient data.\nD) reduce the number of diseases that hospitals are able to study.",
+        "answer": "C",
+        "explanation": "The issue is the inability of outside observers to evaluate fairness."
+      },
+      {
+        "id": "19.3",
+        "text": "A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. The new archive law requires museums to consult descendant communities before displaying cultural objects, but it allows museums to keep consultation agreements sealed. Some community leaders worry that this provision may ______\n\nWhich choice most logically completes the text?\n\nA) force museums to return every object in their collections.\nB) discourage museums from preserving fragile objects.\nC) prevent curators from learning about the objects' cultural meanings.\nD) obscure whether communities actually have meaningful influence over display decisions.",
+        "answer": "D",
+        "explanation": "Sealed agreements make accountability difficult."
+      },
+      {
+        "id": "19.4",
+        "text": "A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. A fishing treaty requires corporations to compensate coastal villages for using traditional ecological knowledge, yet the treaty allows payment contracts to remain private. Critics argue that this privacy rule could ______\n\nWhich choice most logically completes the text?\n\nA) make it impossible for independent observers to judge whether compensation is equitable.\nB) reduce villages' knowledge of marine species.\nC) stop companies from conducting ecological research.\nD) increase the number of fish caught by local crews.",
+        "answer": "A",
+        "explanation": "Private contracts prevent independent assessment of equity."
+      },
+      {
+        "id": "19.5",
+        "text": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. A university policy requires technology companies to compensate Indigenous language speakers when their recordings are used to train speech-recognition systems, but it permits the contracts to be confidential. Advocates warn that the policy may ______\n\nWhich choice most logically completes the text?\n\nA) discourage researchers from documenting endangered languages.\nB) prevent outsiders from verifying whether speakers are paid fairly.\nC) increase the cost of recording equipment.\nD) require speakers to learn programming skills.",
+        "answer": "B",
+        "explanation": "The concern is lack of transparent verification."
+      }
+    ]
+  },
+  {
+    "n": 20,
+    "concept": "Standard English: demonstrative pronoun.",
+    "original": "Le Luong Minh became the thirteenth secretary-general of the Association of Southeast Asian Nations (ASEAN) in January 2013, making _______ the first time the organization would appoint a Vietnamese leader.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\nA) these\nB) those\nC) this\nD) some",
+    "generated": [
+      {
+        "id": "20.1",
+        "text": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. Several memoirs credited to celebrity athletes are actually written by collaborators who shape other ______ into polished narratives while remaining unnamed.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) peoples stories\nB) people's story's\nC) peoples story's\nD) people's stories",
+        "answer": "D",
+        "explanation": "The plural possessive phrase is 'people's stories.'"
+      },
+      {
+        "id": "20.2",
+        "text": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. During cold months, the desert lizard reduces its activity and ______ beneath flat stones, where temperatures remain more stable than on the exposed sand.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) would shelter\nB) had sheltered\nC) sheltered\nD) shelters",
+        "answer": "D",
+        "explanation": "Simple present fits a general biological fact."
+      },
+      {
+        "id": "20.3",
+        "text": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. The violinist did not merely perform well, she ______ the final round of the competition, she received a standing ovation from all three judges.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) triumphed--decisively--during\nB) triumphed--decisively, during\nC) triumphed--decisively. During\nD) triumphed--decisively during",
+        "answer": "C",
+        "explanation": "A new sentence is needed before the time phrase."
+      },
+      {
+        "id": "20.4",
+        "text": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. Among the few objects recovered from the shipwreck ______ a brass compass, three ceramic bowls, and a leather-bound notebook.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) were\nB) have been\nC) are\nD) is",
+        "answer": "A",
+        "explanation": "The plural compound subject requires 'were' in past tense."
+      },
+      {
+        "id": "20.5",
+        "text": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. The engineer completed a small prototype in 2011 ______ in 2018, she unveiled a full-scale version that could operate for several hours.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) prototype later,\nB) prototype;\nC) prototype,\nD) prototype, later,",
+        "answer": "B",
+        "explanation": "A semicolon correctly joins two related independent clauses."
+      }
+    ]
+  },
+  {
+    "n": 21,
+    "concept": "Standard English: finite verb after time phrase.",
+    "original": "In 1929, Edwin Herbert Land invented a polarizing filter that was featured in a number of products, from sunglasses to 3D movies. A decade later, Land _______ his technology to invent the world's first instant camera, the Polaroid Land camera.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\nA) used\nB) to have used\nC) to use\nD) using",
+    "generated": [
+      {
+        "id": "21.1",
+        "text": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. Several memoirs credited to celebrity athletes are actually written by collaborators who shape other ______ into polished narratives while remaining unnamed.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) peoples stories\nB) people's stories\nC) peoples story's\nD) people's story's",
+        "answer": "B",
+        "explanation": "The plural possessive phrase is 'people's stories.'"
+      },
+      {
+        "id": "21.2",
+        "text": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. During cold months, the desert lizard reduces its activity and ______ beneath flat stones, where temperatures remain more stable than on the exposed sand.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) shelters\nB) sheltered\nC) had sheltered\nD) would shelter",
+        "answer": "A",
+        "explanation": "Simple present fits a general biological fact."
+      },
+      {
+        "id": "21.3",
+        "text": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. The violinist did not merely perform well, she ______ the final round of the competition, she received a standing ovation from all three judges.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) triumphed--decisively--during\nB) triumphed--decisively during\nC) triumphed--decisively. During\nD) triumphed--decisively, during",
+        "answer": "C",
+        "explanation": "A new sentence is needed before the time phrase."
+      },
+      {
+        "id": "21.4",
+        "text": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. Among the few objects recovered from the shipwreck ______ a brass compass, three ceramic bowls, and a leather-bound notebook.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) are\nB) have been\nC) is\nD) were",
+        "answer": "D",
+        "explanation": "The plural compound subject requires 'were' in past tense."
+      },
+      {
+        "id": "21.5",
+        "text": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. The engineer completed a small prototype in 2011 ______ in 2018, she unveiled a full-scale version that could operate for several hours.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) prototype;\nB) prototype, later,\nC) prototype,\nD) prototype later,",
+        "answer": "A",
+        "explanation": "A semicolon correctly joins two related independent clauses."
+      }
+    ]
+  },
+  {
+    "n": 22,
+    "concept": "Standard English: singular subject agreement.",
+    "original": "An online content creator who uses copyrighted songs without permission risks being demonetized (prohibited from including paid advertisements in content). The best way to avoid demonetization is to choose music from the public domain. Using one of these noncopyrighted songs _______ a creator won't lose advertising revenue.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\nA) are ensuring\nB) have ensured\nC) ensure\nD) ensures",
+    "generated": [
+      {
+        "id": "22.1",
+        "text": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. Several memoirs credited to celebrity athletes are actually written by collaborators who shape other ______ into polished narratives while remaining unnamed.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) peoples story's\nB) people's stories\nC) people's story's\nD) peoples stories",
+        "answer": "B",
+        "explanation": "The plural possessive phrase is 'people's stories.'"
+      },
+      {
+        "id": "22.2",
+        "text": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. During cold months, the desert lizard reduces its activity and ______ beneath flat stones, where temperatures remain more stable than on the exposed sand.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) had sheltered\nB) would shelter\nC) sheltered\nD) shelters",
+        "answer": "D",
+        "explanation": "Simple present fits a general biological fact."
+      },
+      {
+        "id": "22.3",
+        "text": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. The violinist did not merely perform well, she ______ the final round of the competition, she received a standing ovation from all three judges.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) triumphed--decisively--during\nB) triumphed--decisively, during\nC) triumphed--decisively. During\nD) triumphed--decisively during",
+        "answer": "C",
+        "explanation": "A new sentence is needed before the time phrase."
+      },
+      {
+        "id": "22.4",
+        "text": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. Among the few objects recovered from the shipwreck ______ a brass compass, three ceramic bowls, and a leather-bound notebook.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) is\nB) were\nC) have been\nD) are",
+        "answer": "B",
+        "explanation": "The plural compound subject requires 'were' in past tense."
+      },
+      {
+        "id": "22.5",
+        "text": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. The engineer completed a small prototype in 2011 ______ in 2018, she unveiled a full-scale version that could operate for several hours.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) prototype;\nB) prototype later,\nC) prototype, later,\nD) prototype,",
+        "answer": "A",
+        "explanation": "A semicolon correctly joins two related independent clauses."
+      }
+    ]
+  },
+  {
+    "n": 23,
+    "concept": "Standard English: plural nouns without possessives.",
+    "original": "What makes the theremin a unique musical instrument? You play it without touching it. When you place your _______ the pitch will shift as your hands move through the air.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\nA) hand's between the two antenna's,\nB) hands between the two antennas,\nC) hands' between the two antennas',\nD) hands' between the two antennas,",
+    "generated": [
+      {
+        "id": "23.1",
+        "text": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. Several memoirs credited to celebrity athletes are actually written by collaborators who shape other ______ into polished narratives while remaining unnamed.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) peoples story's\nB) peoples stories\nC) people's stories\nD) people's story's",
+        "answer": "C",
+        "explanation": "The plural possessive phrase is 'people's stories.'"
+      },
+      {
+        "id": "23.2",
+        "text": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. During cold months, the desert lizard reduces its activity and ______ beneath flat stones, where temperatures remain more stable than on the exposed sand.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) sheltered\nB) would shelter\nC) had sheltered\nD) shelters",
+        "answer": "D",
+        "explanation": "Simple present fits a general biological fact."
+      },
+      {
+        "id": "23.3",
+        "text": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. The violinist did not merely perform well, she ______ the final round of the competition, she received a standing ovation from all three judges.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) triumphed--decisively--during\nB) triumphed--decisively. During\nC) triumphed--decisively during\nD) triumphed--decisively, during",
+        "answer": "B",
+        "explanation": "A new sentence is needed before the time phrase."
+      },
+      {
+        "id": "23.4",
+        "text": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. Among the few objects recovered from the shipwreck ______ a brass compass, three ceramic bowls, and a leather-bound notebook.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) were\nB) is\nC) have been\nD) are",
+        "answer": "A",
+        "explanation": "The plural compound subject requires 'were' in past tense."
+      },
+      {
+        "id": "23.5",
+        "text": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. The engineer completed a small prototype in 2011 ______ in 2018, she unveiled a full-scale version that could operate for several hours.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) prototype later,\nB) prototype;\nC) prototype, later,\nD) prototype,",
+        "answer": "B",
+        "explanation": "A semicolon correctly joins two related independent clauses."
+      }
+    ]
+  },
+  {
+    "n": 24,
+    "concept": "Standard English: plural subject agreement.",
+    "original": "In the music video for the song \"We Didn't Start the Fire\" by Billy Joel, the singer lists 118 political and cultural references. Such iconic references, cited in rapid and frenetic procession by the musician, who is seated impassively at a dinner table, _______ key moments and personalities of the twentieth century.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\nA) represents\nB) has represented\nC) was representing\nD) represent",
+    "generated": [
+      {
+        "id": "24.1",
+        "text": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. Several memoirs credited to celebrity athletes are actually written by collaborators who shape other ______ into polished narratives while remaining unnamed.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) people's stories\nB) peoples stories\nC) peoples story's\nD) people's story's",
+        "answer": "A",
+        "explanation": "The plural possessive phrase is 'people's stories.'"
+      },
+      {
+        "id": "24.2",
+        "text": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. During cold months, the desert lizard reduces its activity and ______ beneath flat stones, where temperatures remain more stable than on the exposed sand.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) had sheltered\nB) would shelter\nC) sheltered\nD) shelters",
+        "answer": "D",
+        "explanation": "Simple present fits a general biological fact."
+      },
+      {
+        "id": "24.3",
+        "text": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. The violinist did not merely perform well, she ______ the final round of the competition, she received a standing ovation from all three judges.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) triumphed--decisively. During\nB) triumphed--decisively--during\nC) triumphed--decisively during\nD) triumphed--decisively, during",
+        "answer": "A",
+        "explanation": "A new sentence is needed before the time phrase."
+      },
+      {
+        "id": "24.4",
+        "text": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. Among the few objects recovered from the shipwreck ______ a brass compass, three ceramic bowls, and a leather-bound notebook.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) is\nB) were\nC) have been\nD) are",
+        "answer": "B",
+        "explanation": "The plural compound subject requires 'were' in past tense."
+      },
+      {
+        "id": "24.5",
+        "text": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. The engineer completed a small prototype in 2011 ______ in 2018, she unveiled a full-scale version that could operate for several hours.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) prototype, later,\nB) prototype,\nC) prototype;\nD) prototype later,",
+        "answer": "C",
+        "explanation": "A semicolon correctly joins two related independent clauses."
+      }
+    ]
+  },
+  {
+    "n": 25,
+    "concept": "Standard English: appositive punctuation before proper noun.",
+    "original": "Long attributed to Jacques-Louis David, the preeminent Neoclassical painter of his day, the 1801 painting Marie Josephine Charlotte du Val d'Ognes gained fresh attention in the 1990s when art historians discovered that the painting--which depicts a solitary young woman sketching--was actually the work of little-known French portrait _______ Marie-Denise Villers (1774-1821).\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\nA) artist--\nB) artist\nC) artist:\nD) artist,",
+    "generated": [
+      {
+        "id": "25.1",
+        "text": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. Several memoirs credited to celebrity athletes are actually written by collaborators who shape other ______ into polished narratives while remaining unnamed.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) people's stories\nB) peoples story's\nC) peoples stories\nD) people's story's",
+        "answer": "A",
+        "explanation": "The plural possessive phrase is 'people's stories.'"
+      },
+      {
+        "id": "25.2",
+        "text": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. During cold months, the desert lizard reduces its activity and ______ beneath flat stones, where temperatures remain more stable than on the exposed sand.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) would shelter\nB) had sheltered\nC) sheltered\nD) shelters",
+        "answer": "D",
+        "explanation": "Simple present fits a general biological fact."
+      },
+      {
+        "id": "25.3",
+        "text": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. The violinist did not merely perform well, she ______ the final round of the competition, she received a standing ovation from all three judges.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) triumphed--decisively--during\nB) triumphed--decisively during\nC) triumphed--decisively, during\nD) triumphed--decisively. During",
+        "answer": "D",
+        "explanation": "A new sentence is needed before the time phrase."
+      },
+      {
+        "id": "25.4",
+        "text": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. Among the few objects recovered from the shipwreck ______ a brass compass, three ceramic bowls, and a leather-bound notebook.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) are\nB) is\nC) were\nD) have been",
+        "answer": "C",
+        "explanation": "The plural compound subject requires 'were' in past tense."
+      },
+      {
+        "id": "25.5",
+        "text": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. The engineer completed a small prototype in 2011 ______ in 2018, she unveiled a full-scale version that could operate for several hours.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) prototype later,\nB) prototype;\nC) prototype,\nD) prototype, later,",
+        "answer": "B",
+        "explanation": "A semicolon correctly joins two related independent clauses."
+      }
+    ]
+  },
+  {
+    "n": 26,
+    "concept": "Standard English: dash introducing varied examples.",
+    "original": "In 1986, conceptual artist Sophie Calle asked twenty-three people, all of whom had been born without sight, to describe \"their image of beauty\" in rich detail. Calle paired excerpts of these conversations with photographs--both of interviewees and the items they _______ to powerful effect in her exhibition The Blind.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\nA) described, from hair to grass to sculptures\nB) described, from hair to grass to sculptures--\nC) described--from hair to grass to sculptures,\nD) described: from hair to grass to sculptures",
+    "generated": [
+      {
+        "id": "26.1",
+        "text": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. Several memoirs credited to celebrity athletes are actually written by collaborators who shape other ______ into polished narratives while remaining unnamed.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) peoples story's\nB) people's stories\nC) people's story's\nD) peoples stories",
+        "answer": "B",
+        "explanation": "The plural possessive phrase is 'people's stories.'"
+      },
+      {
+        "id": "26.2",
+        "text": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. During cold months, the desert lizard reduces its activity and ______ beneath flat stones, where temperatures remain more stable than on the exposed sand.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) sheltered\nB) shelters\nC) would shelter\nD) had sheltered",
+        "answer": "B",
+        "explanation": "Simple present fits a general biological fact."
+      },
+      {
+        "id": "26.3",
+        "text": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. The violinist did not merely perform well, she ______ the final round of the competition, she received a standing ovation from all three judges.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) triumphed--decisively--during\nB) triumphed--decisively, during\nC) triumphed--decisively. During\nD) triumphed--decisively during",
+        "answer": "C",
+        "explanation": "A new sentence is needed before the time phrase."
+      },
+      {
+        "id": "26.4",
+        "text": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. Among the few objects recovered from the shipwreck ______ a brass compass, three ceramic bowls, and a leather-bound notebook.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) are\nB) is\nC) have been\nD) were",
+        "answer": "D",
+        "explanation": "The plural compound subject requires 'were' in past tense."
+      },
+      {
+        "id": "26.5",
+        "text": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. The engineer completed a small prototype in 2011 ______ in 2018, she unveiled a full-scale version that could operate for several hours.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) prototype;\nB) prototype later,\nC) prototype,\nD) prototype, later,",
+        "answer": "A",
+        "explanation": "A semicolon correctly joins two related independent clauses."
+      }
+    ]
+  },
+  {
+    "n": 27,
+    "concept": "Transitions: result after reduction firing.",
+    "original": "Celebrated Tewa potter Maria Martinez (1887-1980) made her signature all-black ceramic vessels using a heating technique called reduction firing. This technique involves smothering the flame surrounding the clay vessel. _______ the vessel takes on a shiny, black hue.\n\nWhich choice completes the text with the most logical transition?\nA) On the contrary,\nB) For example,\nC) Previously,\nD) As a result,",
+    "generated": [
+      {
+        "id": "27.1",
+        "text": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. The proposal was rejected twice and then revised after years of public advocacy. ______ in 2024, the city council approved the measure unanimously.\n\nWhich choice completes the text with the most logical transition?\n\nA) Additionally,\nB) Finally,\nC) Likewise,\nD) Instead,",
+        "answer": "B",
+        "explanation": "Finally marks the eventual outcome after a long process."
+      },
+      {
+        "id": "27.2",
+        "text": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. The research team spent a decade testing unsuccessful materials. ______ they identified a compound that remained stable at high temperatures.\n\nWhich choice completes the text with the most logical transition?\n\nA) Eventually,\nB) Similarly,\nC) Instead,\nD) However,",
+        "answer": "A",
+        "explanation": "Eventually signals the final result after many attempts."
+      },
+      {
+        "id": "27.3",
+        "text": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. For months the orchestra could not find a permanent rehearsal space. ______ a community college offered the musicians use of its auditorium.\n\nWhich choice completes the text with the most logical transition?\n\nA) For example,\nB) Nevertheless,\nC) At last,\nD) Meanwhile,",
+        "answer": "C",
+        "explanation": "At last marks a long-awaited outcome."
+      },
+      {
+        "id": "27.4",
+        "text": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. The bill failed in committee several times, but supporters kept reintroducing it. ______ after years of debate, it became law.\n\nWhich choice completes the text with the most logical transition?\n\nA) Instead,\nB) Likewise,\nC) Additionally,\nD) Finally,",
+        "answer": "D",
+        "explanation": "Finally introduces the eventual success."
+      },
+      {
+        "id": "27.5",
+        "text": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. The restoration effort faced funding delays, storms, and shortages of skilled workers. ______ the lighthouse reopened to visitors after twelve years.\n\nWhich choice completes the text with the most logical transition?\n\nA) Consequently,\nB) In contrast,\nC) Ultimately,\nD) Similarly,",
+        "answer": "C",
+        "explanation": "Ultimately marks the final result."
+      }
+    ]
+  },
+  {
+    "n": 28,
+    "concept": "Transitions: concession before positive point.",
+    "original": "Historians agree that the jazz pianist Jelly Roll Morton was exaggerating when he claimed to have invented jazz music. No one can deny, _______ that Morton's innovative compositions and remarkable improvisational skills helped shape jazz as a genre during its early years.\n\nWhich choice completes the text with the most logical transition?\nA) therefore,\nB) in the second place,\nC) in other words,\nD) though,",
+    "generated": [
+      {
+        "id": "28.1",
+        "text": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. For many years, scholars attributed the anonymous poem to a minor court writer. ______ newly discovered letters suggest that it was written by the queen herself.\n\nWhich choice completes the text with the most logical transition?\n\nA) Secondly,\nB) However,\nC) Consequently,\nD) Moreover,",
+        "answer": "B",
+        "explanation": "However contrasts the new evidence with the earlier view."
+      },
+      {
+        "id": "28.2",
+        "text": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. The island was long described as geologically inactive. ______ recent measurements show that magma is still moving beneath its western ridge.\n\nWhich choice completes the text with the most logical transition?\n\nA) Nevertheless,\nB) Therefore,\nC) For instance,\nD) Additionally,",
+        "answer": "A",
+        "explanation": "Nevertheless introduces contrary evidence."
+      },
+      {
+        "id": "28.3",
+        "text": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. Doctors once considered the condition untreatable. ______ a new therapy has significantly improved symptoms in many patients.\n\nWhich choice completes the text with the most logical transition?\n\nA) By contrast,\nB) Furthermore,\nC) As a result,\nD) Similarly,",
+        "answer": "A",
+        "explanation": "By contrast signals a departure from the old belief."
+      },
+      {
+        "id": "28.4",
+        "text": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. The manuscript was assumed to be a copy produced centuries after the original. ______ chemical analysis of the ink dates it to the author's lifetime.\n\nWhich choice completes the text with the most logical transition?\n\nA) Secondly,\nB) Consequently,\nC) However,\nD) Likewise,",
+        "answer": "C",
+        "explanation": "However introduces contradictory evidence."
+      },
+      {
+        "id": "28.5",
+        "text": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. Astronomers had classified the object as an ordinary comet. ______ later observations revealed unusual emissions that required a different explanation.\n\nWhich choice completes the text with the most logical transition?\n\nA) Therefore,\nB) Moreover,\nC) Instead,\nD) However,",
+        "answer": "D",
+        "explanation": "However marks the contrast."
+      }
+    ]
+  },
+  {
+    "n": 29,
+    "concept": "Transitions: contrast between electoral systems.",
+    "original": "According to Duverger's law, countries with single-ballot majoritarian elections for single-member districts tend to polarize into two-party systems, wherein dueling political parties consistently dominate the political system. _______ countries with proportional-representation electoral systems tend to support multi-partyism, under which power gets distributed among many political parties.\n\nWhich choice completes the text with the most logical transition?\nA) Subsequently,\nB) Conversely,\nC) For instance,\nD) In other words,",
+    "generated": [
+      {
+        "id": "29.1",
+        "text": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. Single-member plurality elections often reward the largest party and discourage smaller groups from running separate candidates. ______ proportional systems can allow several parties to win seats in relation to their share of the vote.\n\nWhich choice completes the text with the most logical transition?\n\nA) Subsequently,\nB) In other words,\nC) For instance,\nD) Conversely,",
+        "answer": "D",
+        "explanation": "Conversely introduces an opposite pattern."
+      },
+      {
+        "id": "29.2",
+        "text": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. In winner-take-all systems, parties often merge into broad coalitions before an election. ______ in proportional systems, parties may remain separate and negotiate coalitions after votes are counted.\n\nWhich choice completes the text with the most logical transition?\n\nA) Therefore,\nB) By contrast,\nC) Similarly,\nD) For example,",
+        "answer": "B",
+        "explanation": "By contrast signals the opposing electoral outcome."
+      },
+      {
+        "id": "29.3",
+        "text": "A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. A city council elected by districts may leave a dispersed minority without representation. ______ a council elected proportionally may give that minority seats if it receives enough total votes citywide.\n\nWhich choice completes the text with the most logical transition?\n\nA) Specifically,\nB) Moreover,\nC) However,\nD) Consequently,",
+        "answer": "C",
+        "explanation": "However introduces a contrast."
+      },
+      {
+        "id": "29.4",
+        "text": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. Majoritarian rules tend to simplify the ballot by favoring two dominant parties. ______ proportional rules tend to preserve a wider range of parties in the legislature.\n\nWhich choice completes the text with the most logical transition?\n\nA) Conversely,\nB) As a result,\nC) Meanwhile,\nD) For instance,",
+        "answer": "A",
+        "explanation": "Conversely marks the opposite relationship."
+      },
+      {
+        "id": "29.5",
+        "text": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. Under one electoral design, voters choose a single candidate, and the candidate with the most votes wins the district. ______ under another design, seats are allocated to parties according to vote share.\n\nWhich choice completes the text with the most logical transition?\n\nA) Similarly,\nB) Therefore,\nC) In contrast,\nD) For example,",
+        "answer": "C",
+        "explanation": "In contrast introduces a different system."
+      }
+    ]
+  },
+  {
+    "n": 30,
+    "concept": "Transitions: consequence of external appearance.",
+    "original": "A turtle shell appears external to the animal, protecting its body like armor. _______ the shell is often incorrectly assumed to be an exoskeleton, a rigid outer casing like that of a crustacean or an insect, when in fact it is an endoskeleton, a part of the turtle's internal bone structure, more akin to a spine or a pair of ribs.\n\nWhich choice completes the text with the most logical transition?\nA) That being said,\nB) However,\nC) For instance,\nD) Hence,",
+    "generated": [
+      {
+        "id": "30.1",
+        "text": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. The tea was traditionally served before sleep, and modern chemical analysis found compounds associated with relaxation. ______ researchers proposed that its name, 'night rest,' referred to its intended calming effect.\n\nWhich choice completes the text with the most logical transition?\n\nA) Therefore,\nB) Alternately,\nC) Likewise,\nD) Nevertheless,",
+        "answer": "A",
+        "explanation": "Therefore introduces the inference."
+      },
+      {
+        "id": "30.2",
+        "text": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. The instrument produced a low, steady tone that listeners described as soothing. ______ the team suggested that ancient performers may have used it during healing ceremonies.\n\nWhich choice completes the text with the most logical transition?\n\nA) However,\nB) Instead,\nC) Consequently,\nD) Similarly,",
+        "answer": "C",
+        "explanation": "Consequently signals a conclusion from evidence."
+      },
+      {
+        "id": "30.3",
+        "text": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. The plant's leaves close when touched, and early farmers called it 'the shy herb.' ______ botanists suspect that the name refers to this visible movement.\n\nWhich choice completes the text with the most logical transition?\n\nA) Alternatively,\nB) Likewise,\nC) Nevertheless,\nD) For this reason,",
+        "answer": "D",
+        "explanation": "For this reason links evidence to inference."
+      },
+      {
+        "id": "30.4",
+        "text": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. The bread contained honey and aromatic seeds, ingredients associated with festival foods. ______ food historians argued that it was probably prepared for celebrations.\n\nWhich choice completes the text with the most logical transition?\n\nA) In contrast,\nB) Therefore,\nC) Similarly,\nD) Regardless,",
+        "answer": "B",
+        "explanation": "Therefore presents the conclusion."
+      },
+      {
+        "id": "30.5",
+        "text": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. The bowl's interior showed traces of blue pigment, and blue dyes were often used in mourning rituals. ______ archaeologists proposed that the bowl had a funerary purpose.\n\nWhich choice completes the text with the most logical transition?\n\nA) As a result,\nB) Nevertheless,\nC) Alternatively,\nD) Likewise,",
+        "answer": "A",
+        "explanation": "As a result connects evidence to a conclusion."
+      }
+    ]
+  },
+  {
+    "n": 31,
+    "concept": "Student Notes: identify real author.",
+    "original": "While researching a topic, a student has taken the following notes:\n- In 1859, the novel Adam Bede was published in England.\n- According to the novel's title page, the author's name was George Eliot.\n- George Eliot was widely assumed to be a pseudonym.\n- A pseudonym is a fake name used to conceal an author's identity.\n- A woman named Mary Ann Evans later revealed herself as the novel's real author.\n\nThe student wants to identify the real author of Adam Bede. Which choice most effectively uses relevant information from the notes to accomplish this goal?\nA) The real author of Adam Bede was Mary Ann Evans, who published the novel using the pseudonym George Eliot.\nB) George Eliot, which Adam Bede's title page indicated was the name of the novel's author, was widely assumed to be a pseudonym.\nC) The title page of the novel Adam Bede indicated that the author's name was George Eliot.\nD) A woman who had used a pseudonym to conceal her identity later revealed herself as the real author of Adam Bede.",
+    "generated": [
+      {
+        "id": "31.1",
+        "text": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. Notes: The 1872 novel River Mist appeared under the name Ellis Vale; Ellis Vale was a pseudonym; a pseudonym is a false name used by an author; Clara Benton later admitted that she had written River Mist; the goal is to identify the real author.\n\nWhich choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) River Mist was published in the nineteenth century.\nB) The real author of River Mist was Clara Benton, who first published the novel under the pseudonym Ellis Vale.\nC) A pseudonym is a false name that can conceal an author's identity.\nD) Ellis Vale appeared on the title page of River Mist in 1872.",
+        "answer": "B",
+        "explanation": "The answer identifies the real author and explains the pseudonym."
+      },
+      {
+        "id": "31.2",
+        "text": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. Notes: The essays in Mountain Letters were signed N. Gray; N. Gray was not the writer's legal name; the writer Naomi Greer later acknowledged writing the essays; the goal is to identify the real author.\n\nWhich choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) Naomi Greer later discussed the essays in interviews.\nB) Some authors publish essays under names other than their legal names.\nC) The real author of Mountain Letters was Naomi Greer, who had used the pseudonym N. Gray.\nD) N. Gray was the name printed with Mountain Letters.",
+        "answer": "C",
+        "explanation": "The answer names the real author."
+      },
+      {
+        "id": "31.3",
+        "text": "A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. Notes: The play The Harbor Gate was published under the name C. Lorne; critics suspected C. Lorne was a pseudonym; playwright Celia Lorne later revealed that she had written it; the goal is to identify the real author.\n\nWhich choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) Pseudonyms were sometimes used by playwrights.\nB) The Harbor Gate was a play published under the name C. Lorne.\nC) The real author of The Harbor Gate was Celia Lorne, who published it as C. Lorne.\nD) Critics suspected that C. Lorne was not the author's full legal name.",
+        "answer": "C",
+        "explanation": "The answer identifies the author behind the name."
+      },
+      {
+        "id": "31.4",
+        "text": "A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. Notes: The poetry collection North Window listed the author as Rowan Bell; Rowan Bell was a pen name; historian Adele Park found letters proving that Miriam Shaw wrote the poems; the goal is to identify the real author.\n\nWhich choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) Rowan Bell was later shown to be a pen name.\nB) North Window was published as a poetry collection.\nC) Adele Park discovered letters about North Window.\nD) The real author of North Window was Miriam Shaw, who had published the poems under the pen name Rowan Bell.",
+        "answer": "D",
+        "explanation": "The answer identifies the real author and pen name."
+      },
+      {
+        "id": "31.5",
+        "text": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. Notes: The travel book Coast Roads was credited to L.M. Field; L.M. Field was a pseudonym; Lucia Moreno later confirmed that she wrote the book; the goal is to identify the real author.\n\nWhich choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) Lucia Moreno was the real author of Coast Roads, which was published under the pseudonym L.M. Field.\nB) L.M. Field was printed on the title page of Coast Roads.\nC) A pseudonym can make it difficult to identify an author.\nD) Travel books often describe journeys through coastal regions.",
+        "answer": "A",
+        "explanation": "The answer directly identifies the real author."
+      }
+    ]
+  },
+  {
+    "n": 32,
+    "concept": "Student Notes: specify how molten salt stores energy.",
+    "original": "While researching a topic, a student has taken the following notes:\n- Scientists have developed a \"freeze-thaw\" battery that can retain 92% of its charge after twelve weeks.\n- The battery contains molten salt (a type of salt that liquifies when heated and solidifies at room temperature).\n- When the salt is in a liquid state, energy flows through the battery.\n- When the salt is in a solid state, energy stops flowing and is stored in the battery.\n- The stored (frozen) energy can be used by reheating (thawing) the battery.\n\nThe student wants to specify how the salt enables energy storage. Which choice most effectively uses relevant information from the notes to accomplish this goal?\nA) Scientists have developed a freeze-thaw battery that contains molten salt, which liquifies when heated and solidifies at room temperature.\nB) The stored energy in a freeze-thaw battery, which contains molten salt, can be used by reheating the battery.\nC) When the molten salt in a freeze-thaw battery solidifies at room temperature, energy stops flowing and can be stored in the battery.\nD) Molten salt allows a freeze-thaw battery to retain 92% of its charge after twelve weeks.",
+    "generated": [
+      {
+        "id": "32.1",
+        "text": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. Notes: Engineers designed a heat-storage brick; the brick contains a wax that melts when heated and solidifies as it cools; liquid wax absorbs heat; solidifying wax releases stored heat; the goal is to specify how the wax enables storage.\n\nWhich choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) Heat-storage materials can help buildings use energy more efficiently.\nB) The wax in the brick enables storage because it absorbs heat when it melts and releases the stored heat when it solidifies.\nC) Engineers designed a brick that can be installed in walls.\nD) The wax changes state when the temperature changes.",
+        "answer": "B",
+        "explanation": "The answer explains the mechanism."
+      },
+      {
+        "id": "32.2",
+        "text": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. Notes: A portable cooler contains gel packs; the gel freezes at low temperature; frozen gel absorbs heat slowly as it melts; this keeps food cold; the goal is to specify how the gel enables cooling.\n\nWhich choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) Food can spoil if it is not kept cold.\nB) Because the frozen gel absorbs heat slowly as it melts, it helps the cooler keep food cold.\nC) Gel packs are often placed around the sides of a cooler.\nD) The portable cooler contains gel packs that can be frozen.",
+        "answer": "B",
+        "explanation": "The answer explains how the material works."
+      },
+      {
+        "id": "32.3",
+        "text": "A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. Notes: A new battery uses ceramic plates; ions move through the plates when the plates are warm; ion movement stops when the plates cool; stopping ion movement preserves stored energy; the goal is to specify how the plates enable storage.\n\nWhich choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) The stored energy can later be released when the battery is warmed.\nB) The new battery depends on changes in temperature.\nC) Ceramic plates can be used in several kinds of batteries.\nD) When the ceramic plates cool, ion movement stops, allowing energy to remain stored in the battery.",
+        "answer": "D",
+        "explanation": "The answer specifies the storage mechanism."
+      },
+      {
+        "id": "32.4",
+        "text": "A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. Notes: A thermal tile contains salt hydrate; the salt hydrate liquefies when it absorbs heat; it crystallizes as it cools; crystallization releases stored heat later; the goal is to specify how the salt hydrate enables heat storage.\n\nWhich choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) The salt hydrate enables storage by liquefying as it absorbs heat and later releasing that stored heat when it crystallizes.\nB) The tile was designed for buildings that need steady indoor temperatures.\nC) Salt hydrates can change from solid to liquid.\nD) The thermal tile contains salt hydrate rather than ordinary ceramic.",
+        "answer": "A",
+        "explanation": "The answer connects state change to storage."
+      },
+      {
+        "id": "32.5",
+        "text": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. Notes: Researchers made a pressure-storage device; gas is compressed into a chamber; compressed gas stores energy; opening a valve lets the gas expand and release energy; the goal is to specify how the gas enables storage.\n\nWhich choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) Researchers built a device that uses a chamber and a valve.\nB) Pressure-storage devices may be useful when electricity demand changes.\nC) The gas enables storage because compressing it stores energy that can later be released when the gas expands through a valve.\nD) The device stores gas in a chamber.",
+        "answer": "C",
+        "explanation": "The answer explains how compression stores energy."
+      }
+    ]
+  },
+  {
+    "n": 33,
+    "concept": "Student Notes: indicate FWS classification category.",
+    "original": "While researching a topic, a student has taken the following notes:\n- The US Fish and Wildlife Service (FWS) keeps a list of all at-risk species.\n- Species on the list are classified as either endangered or threatened.\n- A species that is in danger of extinction throughout most or all of its range is classified as endangered.\n- A species that is likely to soon become endangered is classified as threatened.\n- The California red-legged frog (Rana draytonii) is likely to soon become endangered, according to the FWS.\n\nThe student wants to indicate the California red-legged frog's FWS classification category. Which choice most effectively uses relevant information from the notes to accomplish this goal?\nA) Species on the FWS list, which includes the California red-legged frog (Rana draytonii), are classified as either endangered or threatened.\nB) The California red-legged frog (Rana draytonii) appears on the FWS list of at-risk species.\nC) According to the FWS, the California red-legged frog is in the endangered category, in danger of extinction throughout most or all of its range.\nD) Likely to soon become endangered, the California red-legged frog is classified as threatened by the FWS.",
+    "generated": [
+      {
+        "id": "33.1",
+        "text": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. Notes: The Wildlife Agency classifies species as endangered or vulnerable; endangered species face immediate risk of extinction; vulnerable species are likely to become endangered soon; the river otter is likely to become endangered soon; the goal is to indicate the classification.\n\nWhich choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) The Wildlife Agency uses two main categories for at-risk species.\nB) Endangered species face immediate risk of extinction throughout much of their range.\nC) Likely to become endangered soon, the river otter is classified as vulnerable by the Wildlife Agency.\nD) The river otter appears on the Wildlife Agency's list of at-risk species.",
+        "answer": "C",
+        "explanation": "The answer applies the definition to the species."
+      },
+      {
+        "id": "33.2",
+        "text": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. Notes: A heritage board classifies buildings as protected or watchlisted; protected buildings cannot be demolished; watchlisted buildings may soon qualify for protection; the old railway depot may soon qualify for protection; the goal is to indicate the category.\n\nWhich choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) The old railway depot is classified as watchlisted because it may soon qualify for protection.\nB) Protected buildings cannot be demolished without approval.\nC) The heritage board maintains categories for historic buildings.\nD) The railway depot is old enough to be reviewed by the board.",
+        "answer": "A",
+        "explanation": "The answer identifies the category from the definition."
+      },
+      {
+        "id": "33.3",
+        "text": "A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. Notes: A conservation group labels forests as critical or at-risk; critical forests are already losing habitat rapidly; at-risk forests are likely to lose habitat rapidly soon; the Cedar Ridge forest is likely to lose habitat rapidly soon; the goal is to indicate the classification.\n\nWhich choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) The Cedar Ridge forest is monitored by a conservation group.\nB) Critical forests are already losing habitat rapidly.\nC) Forest classifications help conservation groups decide priorities.\nD) Because it is likely to lose habitat rapidly soon, the Cedar Ridge forest is classified as at-risk.",
+        "answer": "D",
+        "explanation": "The answer applies the at-risk definition."
+      },
+      {
+        "id": "33.4",
+        "text": "A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. Notes: A health agency classifies outbreaks as active or potential; active outbreaks already show confirmed community spread; potential outbreaks are likely to show community spread soon; the Norvale cluster is likely to show community spread soon; the goal is to indicate the category.\n\nWhich choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) The health agency tracks clusters of illness in several regions.\nB) Likely to show community spread soon, the Norvale cluster is classified as potential.\nC) Active outbreaks involve confirmed community spread.\nD) The Norvale cluster has not yet been described as active.",
+        "answer": "B",
+        "explanation": "The answer gives the correct category."
+      },
+      {
+        "id": "33.5",
+        "text": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. Notes: A library labels rare books as restricted or monitored; restricted books are too fragile for regular handling; monitored books are likely to become too fragile soon; the 1890 atlas is likely to become too fragile soon; the goal is to indicate the classification.\n\nWhich choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) The 1890 atlas is part of the library's rare collection.\nB) Restricted books cannot be handled without special permission.\nC) Likely to become too fragile for regular handling soon, the 1890 atlas is classified as monitored by the library.\nD) The library has several categories for rare books.",
+        "answer": "C",
+        "explanation": "The answer identifies the classification from the notes."
+      }
+    ]
+  }
+]
