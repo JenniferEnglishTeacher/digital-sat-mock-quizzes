@@ -5133,5 +5133,50 @@
   "pos": "n.",
   "en": "the series of jobs a person has in their working life",
   "zh": "職業生涯"
+ },
+ "scholar": {
+  "pos": "n.",
+  "en": "a person who studies a subject in great detail",
+  "zh": "學者"
+ },
+ "appealing": {
+  "pos": "adj.",
+  "en": "attractive or interesting",
+  "zh": "吸引人的；有魅力的"
+ },
+ "feature": {
+  "pos": "v.",
+  "en": "to include something as an important part",
+  "zh": "以…為特色；包含"
+ },
+ "viewer": {
+  "pos": "n.",
+  "en": "a person who looks at something, such as art or television",
+  "zh": "觀看者；觀眾"
+ },
+ "composer": {
+  "pos": "n.",
+  "en": "a person who writes music",
+  "zh": "作曲家"
+ },
+ "orchestra": {
+  "pos": "n.",
+  "en": "a large group of musicians who play different instruments together",
+  "zh": "管弦樂團"
+ },
+ "volume": {
+  "pos": "n.",
+  "en": "how loud a sound is; also an amount of space or a book in a series",
+  "zh": "音量；容量；（書的）冊"
+ },
+ "experiment": {
+  "pos": "v.",
+  "en": "to try new ideas or methods to see what happens",
+  "zh": "實驗；嘗試"
+ },
+ "musician": {
+  "pos": "n.",
+  "en": "a person who plays music, especially as a job",
+  "zh": "音樂家；樂手"
  }
 }

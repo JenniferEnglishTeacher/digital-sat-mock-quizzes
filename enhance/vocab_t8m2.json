@@ -1,0 +1,279 @@
+{
+ "controversial": {
+  "pos": "adj.",
+  "en": "causing much disagreement or argument",
+  "zh": "有爭議的"
+ },
+ "temporary": {
+  "pos": "adj.",
+  "en": "lasting for only a limited time",
+  "zh": "暫時的；臨時的"
+ },
+ "insufficient": {
+  "pos": "adj.",
+  "en": "not enough for a particular purpose",
+  "zh": "不足的；不夠的"
+ },
+ "elaborate": {
+  "pos": "adj.",
+  "en": "having many carefully arranged parts or details",
+  "zh": "精心製作的；複雜精細的"
+ },
+ "obscure": {
+  "pos": "adj.",
+  "en": "not well known; or difficult to understand",
+  "zh": "晦澀的；鮮為人知的"
+ },
+ "illegible": {
+  "pos": "adj.",
+  "en": "impossible or very hard to read",
+  "zh": "字跡難以辨認的"
+ },
+ "resilient": {
+  "pos": "adj.",
+  "en": "able to recover quickly from difficulty or damage",
+  "zh": "有韌性的；能迅速恢復的"
+ },
+ "dynamic": {
+  "pos": "adj.",
+  "en": "full of energy, activity, or change",
+  "zh": "充滿活力的；動態的"
+ },
+ "satisfactory": {
+  "pos": "adj.",
+  "en": "good enough for a particular need",
+  "zh": "令人滿意的；符合要求的"
+ },
+ "predetermined": {
+  "pos": "adj.",
+  "en": "decided or fixed in advance",
+  "zh": "預先決定的；預定的"
+ },
+ "dormant": {
+  "pos": "adj.",
+  "en": "not active now but able to become active later",
+  "zh": "休眠的；蟄伏的"
+ },
+ "similar to": {
+  "w": "similar",
+  "pos": "phr.",
+  "en": "almost the same as something",
+  "zh": "類似於"
+ },
+ "vestigial": {
+  "pos": "adj.",
+  "en": "remaining from an earlier stage but no longer having a useful function",
+  "zh": "退化的；殘留的；無功能的"
+ },
+ "hidden from": {
+  "pos": "adj. phr.",
+  "en": "kept out of sight of",
+  "zh": "對……隱藏"
+ },
+ "ordinary": {
+  "pos": "adj.",
+  "en": "normal; not special",
+  "zh": "普通的；平常的"
+ },
+ "complex": {
+  "pos": "adj.",
+  "en": "having many parts; complicated",
+  "zh": "複雜的"
+ },
+ "common": {
+  "pos": "adj.",
+  "en": "happening often or found in many places",
+  "zh": "常見的；普遍的"
+ },
+ "inadequate": {
+  "pos": "adj.",
+  "en": "not good enough or not enough for a purpose",
+  "zh": "不充分的；不夠好的"
+ },
+ "incomplete": {
+  "pos": "adj.",
+  "en": "missing some parts; not finished",
+  "zh": "不完整的；未完成的"
+ },
+ "ornamental": {
+  "pos": "adj.",
+  "en": "used for decoration rather than function",
+  "zh": "裝飾用的"
+ },
+ "inactive": {
+  "pos": "adj.",
+  "en": "not doing anything; not working or functioning",
+  "zh": "不活躍的；無作用的；靜止的"
+ },
+ "replicable": {
+  "pos": "adj.",
+  "en": "able to be repeated with the same results",
+  "zh": "可重複的；可複製的"
+ },
+ "indecipherable": {
+  "pos": "adj.",
+  "en": "impossible to read or understand",
+  "zh": "無法辨認的；難以解讀的"
+ },
+ "intricate": {
+  "pos": "adj.",
+  "en": "having many small parts connected in complex and detailed ways",
+  "zh": "錯綜複雜的；精細的"
+ },
+ "distant from": {
+  "pos": "adj. phr.",
+  "en": "far away from; not closely connected to",
+  "zh": "遠離……；與……疏遠"
+ },
+ "copied by": {
+  "pos": "v. phr.",
+  "en": "reproduced or imitated by someone",
+  "zh": "被……抄襲、模仿"
+ },
+ "symbolic": {
+  "pos": "adj.",
+  "en": "serving as a symbol; representing something else",
+  "zh": "象徵性的；象徵的"
+ },
+ "operative": {
+  "pos": "adj.",
+  "en": "working, functioning, or having an effect",
+  "zh": "運作中的；有效的；起作用的"
+ },
+ "latent": {
+  "pos": "adj.",
+  "en": "present but not yet visible, active, or developed",
+  "zh": "潛在的；潛伏的"
+ },
+ "deficient": {
+  "pos": "adj.",
+  "en": "not having enough of something; not good enough",
+  "zh": "不足的；有缺陷的"
+ },
+ "appealing to": {
+  "w": "appealing",
+  "pos": "phr.",
+  "en": "attractive or interesting to someone",
+  "zh": "吸引…的；對…有吸引力的"
+ },
+ "attractive to": {
+  "w": "attractive",
+  "pos": "phr.",
+  "en": "pleasing to someone and making them want to look or come closer",
+  "zh": "吸引…的；對…有吸引力的"
+ },
+ "avertable": {
+  "pos": "adj.",
+  "en": "able to be prevented or turned away",
+  "zh": "可避免的；可防止的"
+ },
+ "avoidable": {
+  "pos": "adj.",
+  "en": "able to be prevented from happening",
+  "zh": "可避免的"
+ },
+ "concerning": {
+  "pos": "adj.",
+  "en": "causing worry",
+  "zh": "令人擔憂的"
+ },
+ "confusing for": {
+  "w": "confusing",
+  "pos": "phr.",
+  "en": "difficult for someone to understand",
+  "zh": "使…困惑的"
+ },
+ "controllable": {
+  "pos": "adj.",
+  "en": "able to be managed or limited",
+  "zh": "可控制的"
+ },
+ "corrected by": {
+  "w": "corrected",
+  "pos": "phr.",
+  "en": "made right or fixed by someone or something",
+  "zh": "被…修正的"
+ },
+ "desirable": {
+  "pos": "adj.",
+  "en": "worth having or wanting",
+  "zh": "令人嚮往的；理想的"
+ },
+ "enticing to": {
+  "w": "enticing",
+  "pos": "phr.",
+  "en": "attractive in a way that tempts someone",
+  "zh": "吸引…的；誘人的"
+ },
+ "flawed": {
+  "pos": "adj.",
+  "en": "having a fault or weakness",
+  "zh": "有缺陷的；有瑕疵的"
+ },
+ "foreseeable and avoidable": {
+  "w": "foreseeable",
+  "pos": "phr.",
+  "en": "able to be expected in advance and therefore prevented",
+  "zh": "可預見且可避免的"
+ },
+ "functionless": {
+  "pos": "adj.",
+  "en": "having no use or purpose",
+  "zh": "無功能的；沒有作用的"
+ },
+ "inaccurate for": {
+  "w": "inaccurate",
+  "pos": "phr.",
+  "en": "not correct or exact for a purpose or person",
+  "zh": "對…不準確的"
+ },
+ "inevitable": {
+  "pos": "adj.",
+  "en": "certain to happen and impossible to prevent",
+  "zh": "不可避免的；必然的"
+ },
+ "interdependent": {
+  "pos": "adj.",
+  "en": "depending on each other",
+  "zh": "相互依存的"
+ },
+ "inviting to": {
+  "w": "inviting",
+  "pos": "phr.",
+  "en": "attractive and welcoming to someone",
+  "zh": "吸引…的；誘人的"
+ },
+ "irreversible": {
+  "pos": "adj.",
+  "en": "impossible to change back to a previous state",
+  "zh": "不可逆的；無法挽回的"
+ },
+ "obscure to": {
+  "w": "obscure",
+  "pos": "phr.",
+  "en": "unclear or hard for someone to understand",
+  "zh": "使…難以理解的；對…而言模糊的"
+ },
+ "pleasing to": {
+  "w": "pleasing",
+  "pos": "phr.",
+  "en": "giving someone pleasure or satisfaction",
+  "zh": "令…愉悅的"
+ },
+ "preventable": {
+  "pos": "adj.",
+  "en": "able to be stopped before it happens",
+  "zh": "可預防的"
+ },
+ "resistant to": {
+  "w": "resistant",
+  "pos": "phr.",
+  "en": "not affected or harmed by something; opposing something",
+  "zh": "抵抗…的；對…有抵抗力的"
+ },
+ "undeniable": {
+  "pos": "adj.",
+  "en": "impossible to doubt or question",
+  "zh": "不可否認的"
+ }
+}
