@@ -1,0 +1,511 @@
+{
+"Amount": {
+"w": "amount",
+"pos": "n.",
+"en": "how much there is of something",
+"zh": "數量；總量"
+},
+"Blemish": {
+"w": "blemish",
+"pos": "n.",
+"en": "a small mark or flaw that spoils how something looks",
+"zh": "瑕疵；污點"
+},
+"Evidence": {
+"w": "evidence",
+"pos": "n.",
+"en": "facts or signs that show something is true",
+"zh": "證據；跡象"
+},
+"Sketch": {
+"w": "sketch",
+"pos": "n.",
+"en": "a quick, simple drawing",
+"zh": "素描；草圖"
+},
+"address": {
+"pos": "v.",
+"en": "to deal with or try to solve a problem",
+"zh": "處理；解決（問題）"
+},
+"alleviate": {
+"pos": "v.",
+"en": "to make a problem or pain less severe",
+"zh": "減輕；緩和"
+},
+"ameliorate": {
+"pos": "v.",
+"en": "to make a bad situation better",
+"zh": "改善；改良"
+},
+"amount": {
+"pos": "n.",
+"en": "how much there is of something",
+"zh": "數量；總量"
+},
+"ancient": {
+"pos": "adj.",
+"en": "very old; from long ago",
+"zh": "古代的；古老的"
+},
+"antecedent": {
+"pos": "n.",
+"en": "something that existed or happened before and led to something else",
+"zh": "前身；先例"
+},
+"anticipated": {
+"pos": "v.",
+"en": "expected or predicted that something would happen",
+"zh": "預期；預料"
+},
+"approaching": {
+"pos": "adj.",
+"en": "coming nearer in time or space",
+"zh": "即將到來的；接近的"
+},
+"authorize": {
+"pos": "v.",
+"en": "to give official permission for something",
+"zh": "授權；批准"
+},
+"blemish": {
+"pos": "n.",
+"en": "a small mark or flaw that spoils how something looks",
+"zh": "瑕疵；污點"
+},
+"breakable": {
+"pos": "adj.",
+"en": "easily broken",
+"zh": "易碎的"
+},
+"brittle": {
+"pos": "adj.",
+"en": "hard but easily broken or cracked",
+"zh": "脆的；易碎的"
+},
+"common": {
+"pos": "adj.",
+"en": "happening often or found in many places",
+"zh": "常見的；普遍的"
+},
+"completed": {
+"pos": "v.",
+"en": "finished",
+"zh": "完成"
+},
+"complex": {
+"pos": "adj.",
+"en": "having many parts; complicated",
+"zh": "複雜的"
+},
+"complicate": {
+"pos": "v.",
+"en": "to make something more difficult to understand or deal with",
+"zh": "使複雜化"
+},
+"conceal": {
+"pos": "v.",
+"en": "to hide something",
+"zh": "隱藏；隱瞞"
+},
+"concealed": {
+"pos": "v.",
+"en": "hid something; kept it secret",
+"zh": "隱藏；隱瞞"
+},
+"constant": {
+"pos": "adj.",
+"en": "happening all the time or staying the same",
+"zh": "持續的；不變的"
+},
+"decorative": {
+"pos": "adj.",
+"en": "made to look attractive; used as decoration",
+"zh": "裝飾性的"
+},
+"defect": {
+"pos": "n.",
+"en": "a fault or flaw in something",
+"zh": "缺陷；瑕疵"
+},
+"defend": {
+"pos": "v.",
+"en": "to protect, or to argue in support of something",
+"zh": "保衛；為……辯護"
+},
+"delicate": {
+"pos": "adj.",
+"en": "easily damaged or broken; fine and fragile",
+"zh": "脆弱的；精緻的"
+},
+"describe": {
+"pos": "v.",
+"en": "to say what something is like",
+"zh": "描述"
+},
+"diagram": {
+"pos": "n.",
+"en": "a simple drawing that shows how something works or is arranged",
+"zh": "圖解；示意圖"
+},
+"discounted": {
+"pos": "v.",
+"en": "decided that something is not important or true",
+"zh": "不予考慮；低估"
+},
+"dismissed": {
+"pos": "v.",
+"en": "decided something was not important or worth considering",
+"zh": "不予理會；否定"
+},
+"distant": {
+"pos": "adj.",
+"en": "far away in space or time",
+"zh": "遙遠的"
+},
+"distorted": {
+"pos": "v.",
+"en": "changed something so it is no longer true or accurate",
+"zh": "扭曲；曲解"
+},
+"dormant": {
+"pos": "adj.",
+"en": "not active now but able to become active later",
+"zh": "休眠的；蟄伏的"
+},
+"drawings": {
+"pos": "n.",
+"en": "pictures made with a pencil or pen",
+"zh": "素描；圖畫"
+},
+"employed": {
+"pos": "v.",
+"en": "used something for a purpose",
+"zh": "使用；運用"
+},
+"endorse": {
+"pos": "v.",
+"en": "to publicly approve of or support something",
+"zh": "背書；支持；認可"
+},
+"estimate": {
+"pos": "v.",
+"en": "to guess an amount or value based on information",
+"zh": "估計"
+},
+"evidence": {
+"pos": "n.",
+"en": "facts or signs that show something is true",
+"zh": "證據；跡象"
+},
+"exploited": {
+"pos": "v.",
+"en": "used something fully to gain an advantage",
+"zh": "利用；開發"
+},
+"familiar": {
+"pos": "adj.",
+"en": "well known to you; seen or heard before",
+"zh": "熟悉的"
+},
+"forthcoming": {
+"pos": "adj.",
+"en": "about to happen or appear soon",
+"zh": "即將到來的"
+},
+"fragile": {
+"pos": "adj.",
+"en": "easily broken or damaged",
+"zh": "脆弱的；易碎的"
+},
+"harmless": {
+"pos": "adj.",
+"en": "not able to cause harm",
+"zh": "無害的"
+},
+"harnessed": {
+"pos": "v.",
+"en": "controlled and used something, such as a natural force, for a purpose",
+"zh": "利用；駕馭"
+},
+"historic": {
+"pos": "adj.",
+"en": "important in history",
+"zh": "歷史性的；有歷史意義的"
+},
+"hypothesized": {
+"pos": "v.",
+"en": "suggested an idea as a possible explanation to be tested",
+"zh": "假設；推測"
+},
+"identical": {
+"pos": "adj.",
+"en": "exactly the same",
+"zh": "完全相同的"
+},
+"ignore": {
+"pos": "v.",
+"en": "to pay no attention to something",
+"zh": "忽視"
+},
+"ignored": {
+"pos": "v.",
+"en": "paid no attention to something",
+"zh": "忽視"
+},
+"illustration": {
+"pos": "n.",
+"en": "a picture or example that explains something",
+"zh": "插圖；例證"
+},
+"imitated": {
+"pos": "v.",
+"en": "copied the way someone or something does things",
+"zh": "模仿"
+},
+"imminent": {
+"pos": "adj.",
+"en": "about to happen very soon",
+"zh": "即將發生的；迫在眉睫的"
+},
+"impending": {
+"pos": "adj.",
+"en": "about to happen, often something unpleasant",
+"zh": "即將發生的"
+},
+"indication": {
+"pos": "n.",
+"en": "a sign that shows something",
+"zh": "跡象；指示"
+},
+"innocent": {
+"pos": "adj.",
+"en": "not guilty; not meant to cause harm",
+"zh": "無辜的；無惡意的"
+},
+"innocuous": {
+"pos": "adj.",
+"en": "not harmful or offensive",
+"zh": "無害的；無傷大雅的"
+},
+"irrelevant": {
+"pos": "adj.",
+"en": "not connected to or important for the subject",
+"zh": "不相關的"
+},
+"justify": {
+"pos": "v.",
+"en": "to show that something is right or reasonable",
+"zh": "證明……有理；為……辯解"
+},
+"legible": {
+"pos": "adj.",
+"en": "clear enough to be read",
+"zh": "（字跡）清楚可讀的"
+},
+"leveraged": {
+"pos": "v.",
+"en": "used something to gain an advantage",
+"zh": "利用；善用"
+},
+"mark": {
+"pos": "n.",
+"en": "a spot, sign, or trace left on something",
+"zh": "痕跡；記號"
+},
+"minor": {
+"pos": "adj.",
+"en": "small and not very important",
+"zh": "次要的；輕微的"
+},
+"misstated": {
+"pos": "v.",
+"en": "stated something incorrectly",
+"zh": "錯誤陳述"
+},
+"mitigate": {
+"pos": "v.",
+"en": "to make something bad less severe",
+"zh": "減輕；緩和"
+},
+"modern": {
+"pos": "adj.",
+"en": "of the present time; recent",
+"zh": "現代的"
+},
+"obsolete": {
+"pos": "adj.",
+"en": "no longer used because something newer exists",
+"zh": "過時的；淘汰的"
+},
+"ordinary": {
+"pos": "adj.",
+"en": "normal; not special",
+"zh": "普通的；平常的"
+},
+"ornate": {
+"pos": "adj.",
+"en": "having a lot of complicated decoration",
+"zh": "華麗的；裝飾繁複的"
+},
+"outline": {
+"pos": "n.",
+"en": "a line showing the shape of something, or a short summary of main points",
+"zh": "輪廓；大綱"
+},
+"overlooked": {
+"pos": "v.",
+"en": "failed to notice or consider something",
+"zh": "忽略；未注意到"
+},
+"past": {
+"pos": "adj.",
+"en": "having happened before now",
+"zh": "過去的"
+},
+"permanent": {
+"pos": "adj.",
+"en": "lasting forever or for a very long time",
+"zh": "永久的"
+},
+"perpetual": {
+"pos": "adj.",
+"en": "continuing forever or without stopping",
+"zh": "永久的；不斷的"
+},
+"portable": {
+"pos": "adj.",
+"en": "easy to carry or move",
+"zh": "可攜帶的；輕便的"
+},
+"portion": {
+"pos": "n.",
+"en": "a part of something larger",
+"zh": "部分"
+},
+"postulate": {
+"pos": "v.",
+"en": "to suggest something as a basic fact or theory",
+"zh": "假定；提出（理論）"
+},
+"postulated": {
+"pos": "v.",
+"en": "suggested something as a basic fact or theory",
+"zh": "假定；提出（理論）"
+},
+"predict": {
+"pos": "v.",
+"en": "to say what will happen in the future",
+"zh": "預測"
+},
+"predicted": {
+"pos": "v.",
+"en": "said what would happen in the future",
+"zh": "預測"
+},
+"quantities": {
+"pos": "n.",
+"en": "amounts of something",
+"zh": "數量（複數）"
+},
+"quantity": {
+"pos": "n.",
+"en": "an amount or number of something",
+"zh": "數量"
+},
+"questioned": {
+"pos": "v.",
+"en": "expressed doubt about something",
+"zh": "質疑"
+},
+"rationalize": {
+"pos": "v.",
+"en": "to give reasons to explain or excuse something",
+"zh": "合理化；為……找理由"
+},
+"recognizable": {
+"pos": "adj.",
+"en": "easy to identify or know",
+"zh": "可辨認的；認得出的"
+},
+"redefined": {
+"pos": "v.",
+"en": "changed the meaning or nature of something",
+"zh": "重新定義"
+},
+"rejected": {
+"pos": "v.",
+"en": "refused to accept or believe something",
+"zh": "拒絕；駁回"
+},
+"remedy": {
+"pos": "v.",
+"en": "to correct or fix a problem",
+"zh": "補救；矯正"
+},
+"remnant": {
+"pos": "n.",
+"en": "a small part that remains of something",
+"zh": "殘餘；遺跡"
+},
+"sanction": {
+"pos": "v.",
+"en": "to give official approval or permission for something",
+"zh": "認可；批准"
+},
+"signs": {
+"pos": "n.",
+"en": "things that show something exists or is happening",
+"zh": "跡象；徵兆"
+},
+"simplified": {
+"pos": "v.",
+"en": "made something easier to understand or do",
+"zh": "簡化"
+},
+"sketch": {
+"pos": "n.",
+"en": "a quick, simple drawing",
+"zh": "素描；草圖"
+},
+"sophisticated": {
+"pos": "adj.",
+"en": "complex and advanced",
+"zh": "精密的；複雜的"
+},
+"summaries": {
+"pos": "n.",
+"en": "short statements of the main points",
+"zh": "摘要（複數）"
+},
+"summarize": {
+"pos": "v.",
+"en": "to give the main points briefly",
+"zh": "總結；概述"
+},
+"utilized": {
+"pos": "v.",
+"en": "used something for a practical purpose",
+"zh": "利用；使用"
+},
+"validate": {
+"pos": "v.",
+"en": "to prove that something is true or correct",
+"zh": "證實；驗證"
+},
+"valuable": {
+"pos": "adj.",
+"en": "worth a lot of money or very useful",
+"zh": "有價值的；寶貴的"
+},
+"vulnerable": {
+"pos": "adj.",
+"en": "easily hurt, damaged, or attacked",
+"zh": "易受傷害的；脆弱的"
+},
+"withheld": {
+"pos": "v.",
+"en": "kept something back; refused to give",
+"zh": "扣留；不給予"
+}
+}
