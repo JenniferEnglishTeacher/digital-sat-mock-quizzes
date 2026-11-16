@@ -4453,5 +4453,430 @@
   "pos": "v.",
   "en": "to apply force or influence",
   "zh": "施加（力量、影響）"
+ },
+ "abroad": {
+  "pos": "adv.",
+  "en": "in or to a foreign country",
+  "zh": "在國外；到國外"
+ },
+ "artistic": {
+  "pos": "adj.",
+  "en": "relating to art or artists; showing skill in art",
+  "zh": "藝術的；有藝術才能的"
+ },
+ "repudiation": {
+  "pos": "n.",
+  "en": "the act of rejecting or refusing to accept something",
+  "zh": "否定；拒絕接受"
+ },
+ "handmade": {
+  "pos": "adj.",
+  "en": "made by hand rather than by machine",
+  "zh": "手工製的"
+ },
+ "intricate": {
+  "pos": "adj.",
+  "en": "having many small parts or details arranged in a complicated way",
+  "zh": "錯綜複雜的；精細的"
+ },
+ "refrigeration": {
+  "pos": "n.",
+  "en": "the process of keeping food or other things cold",
+  "zh": "冷藏；冷凍"
+ },
+ "undoubtedly": {
+  "pos": "adv.",
+  "en": "certainly; without any doubt",
+  "zh": "無疑地；必定"
+ },
+ "substantial": {
+  "pos": "adj.",
+  "en": "large in amount, size, or importance",
+  "zh": "大量的；重大的"
+ },
+ "alphabetical": {
+  "pos": "adj.",
+  "en": "arranged in the order of the letters of the alphabet",
+  "zh": "按字母順序的"
+ },
+ "enthusiasm": {
+  "pos": "n.",
+  "en": "a strong feeling of excitement and interest",
+  "zh": "熱情；熱忱"
+ },
+ "hygiene": {
+  "pos": "n.",
+  "en": "practices that keep people and places clean to stay healthy",
+  "zh": "衛生"
+ },
+ "cleanliness": {
+  "pos": "n.",
+  "en": "the state or habit of being clean",
+  "zh": "清潔；乾淨"
+ },
+ "affordably": {
+  "pos": "adv.",
+  "en": "at a price people can pay",
+  "zh": "以負擔得起的價格"
+ },
+ "recreation": {
+  "pos": "n.",
+  "en": "activities done for enjoyment when not working",
+  "zh": "休閒；娛樂"
+ },
+ "contradictory": {
+  "pos": "adj.",
+  "en": "opposing or disagreeing with each other",
+  "zh": "矛盾的；對立的"
+ },
+ "widespread": {
+  "pos": "adj.",
+  "en": "existing or happening in many places or among many people",
+  "zh": "普遍的；廣泛的"
+ },
+ "adoption": {
+  "pos": "n.",
+  "en": "the act of starting to use something new",
+  "zh": "採用"
+ },
+ "transcribe": {
+  "pos": "v.",
+  "en": "to write or type a copy of something",
+  "zh": "謄寫；抄錄"
+ },
+ "speculate": {
+  "pos": "v.",
+  "en": "to guess about something without having all the facts",
+  "zh": "推測；臆測"
+ },
+ "explorer": {
+  "pos": "n.",
+  "en": "a person who travels to unknown places to learn about them",
+  "zh": "探險家"
+ },
+ "recycled": {
+  "pos": "adj.",
+  "en": "made from used materials that have been processed again",
+  "zh": "回收再利用的"
+ },
+ "weaving": {
+  "pos": "n.",
+  "en": "the craft of making cloth by crossing threads",
+  "zh": "編織"
+ },
+ "tactilely": {
+  "pos": "adv.",
+  "en": "in a way relating to the sense of touch",
+  "zh": "在觸感上"
+ },
+ "transparent": {
+  "pos": "adj.",
+  "en": "allowing light to pass through so that objects behind can be clearly seen",
+  "zh": "透明的"
+ },
+ "translucent": {
+  "pos": "adj.",
+  "en": "allowing some light to pass through but not clear enough to see through",
+  "zh": "半透明的"
+ },
+ "debris": {
+  "pos": "n.",
+  "en": "broken pieces or scattered waste material",
+  "zh": "碎片；殘骸"
+ },
+ "supplies": {
+  "pos": "n.",
+  "en": "materials or things needed for a particular activity",
+  "zh": "用品；物資"
+ },
+ "rethink": {
+  "pos": "v.",
+  "en": "to think again about something in order to change it",
+  "zh": "重新思考"
+ },
+ "ballroom": {
+  "pos": "n.",
+  "en": "a large room used for formal dancing; a style of partner dancing",
+  "zh": "舞廳；國標舞"
+ },
+ "international": {
+  "pos": "adj.",
+  "en": "involving more than one country",
+  "zh": "國際的"
+ },
+ "domesticated": {
+  "pos": "adj.",
+  "en": "(of animals) tamed and kept by humans",
+  "zh": "馴化的；家養的"
+ },
+ "notoriously": {
+  "pos": "adv.",
+  "en": "in a way that is well known, usually for something bad",
+  "zh": "出了名地；惡名昭彰地"
+ },
+ "devour": {
+  "pos": "v.",
+  "en": "to eat something quickly and completely",
+  "zh": "狼吞虎嚥；吞食"
+ },
+ "unwanted": {
+  "pos": "adj.",
+  "en": "not desired or needed",
+  "zh": "不想要的；多餘的"
+ },
+ "tinkering": {
+  "pos": "n.",
+  "en": "making small changes to something to try to improve it",
+  "zh": "小修小改；修補"
+ },
+ "edition": {
+  "pos": "n.",
+  "en": "a particular version of a book printed at one time",
+  "zh": "版本；版次"
+ },
+ "meteorite": {
+  "pos": "n.",
+  "en": "a piece of rock from space that has landed on Earth",
+  "zh": "隕石"
+ },
+ "category": {
+  "pos": "n.",
+  "en": "a group of things that share similar qualities",
+  "zh": "類別；範疇"
+ },
+ "residents": {
+  "pos": "n.",
+  "en": "people who live in a particular place",
+  "zh": "居民"
+ },
+ "chartered": {
+  "pos": "v.",
+  "en": "officially established (an organization) with legal permission",
+  "zh": "特許設立；正式成立"
+ },
+ "financial": {
+  "pos": "adj.",
+  "en": "relating to money",
+  "zh": "財務的；金融的"
+ },
+ "circle": {
+  "pos": "n.",
+  "en": "a round shape; a group of people close to one another",
+  "zh": "圓圈；圈子"
+ },
+ "shrivelled": {
+  "pos": "adj.",
+  "en": "dried up and wrinkled",
+  "zh": "枯萎的；乾癟的"
+ },
+ "scattered": {
+  "pos": "adj.",
+  "en": "spread over a wide area; (of thoughts) unfocused",
+  "zh": "分散的；凌亂的"
+ },
+ "whirl": {
+  "pos": "n.",
+  "en": "a rapid spinning movement; a confused state",
+  "zh": "旋轉；混亂"
+ },
+ "dread": {
+  "pos": "v.",
+  "en": "to be very afraid of something that may happen",
+  "zh": "懼怕；擔心"
+ },
+ "engaging": {
+  "pos": "adj.",
+  "en": "pleasant and attractive; holding interest",
+  "zh": "迷人的；引人入勝的"
+ },
+ "patina": {
+  "pos": "n.",
+  "en": "a thin surface layer that develops with age; an appearance of age",
+  "zh": "銅綠；歲月的痕跡"
+ },
+ "necessarily": {
+  "pos": "adv.",
+  "en": "in a way that cannot be avoided",
+  "zh": "必然地"
+ },
+ "tablet": {
+  "pos": "n.",
+  "en": "a flat piece of stone or clay with writing on it",
+  "zh": "碑；泥板"
+ },
+ "cardinal": {
+  "pos": "adj.",
+  "en": "main or most important (cardinal directions: north, south, east, west)",
+  "zh": "主要的；基本的（方位）"
+ },
+ "demonstrate": {
+  "pos": "v.",
+  "en": "to show clearly by giving proof or examples",
+  "zh": "證明；展現"
+ },
+ "publisher": {
+  "pos": "n.",
+  "en": "a person or company that prepares and sells books",
+  "zh": "出版商"
+ },
+ "drought": {
+  "pos": "n.",
+  "en": "a long period with little or no rain",
+  "zh": "乾旱"
+ },
+ "plagued": {
+  "pos": "v.",
+  "en": "caused continual trouble or suffering to",
+  "zh": "使苦惱；困擾"
+ },
+ "severe": {
+  "pos": "adj.",
+  "en": "very serious or harmful",
+  "zh": "嚴重的"
+ },
+ "calculator": {
+  "pos": "n.",
+  "en": "a machine used to do mathematical operations",
+  "zh": "計算機"
+ },
+ "notched": {
+  "pos": "adj.",
+  "en": "having small V-shaped cuts",
+  "zh": "有凹口的"
+ },
+ "cylinder": {
+  "pos": "n.",
+  "en": "a solid or hollow tube with circular ends",
+  "zh": "圓柱體；汽缸"
+ },
+ "mechanism": {
+  "pos": "n.",
+  "en": "a set of moving parts in a machine that perform a function",
+  "zh": "機械裝置；機制"
+ },
+ "ingenious": {
+  "pos": "adj.",
+  "en": "clever, original, and well designed",
+  "zh": "巧妙的；獨創的"
+ },
+ "airtight": {
+  "pos": "adj.",
+  "en": "not allowing air to get in or out",
+  "zh": "密閉的；不透氣的"
+ },
+ "vapor": {
+  "pos": "n.",
+  "en": "a gas formed from a liquid, such as steam",
+  "zh": "蒸氣"
+ },
+ "carbon": {
+  "pos": "n.",
+  "en": "a chemical element found in all living things",
+  "zh": "碳"
+ },
+ "dioxide": {
+  "pos": "n.",
+  "en": "a compound with two oxygen atoms (e.g., carbon dioxide)",
+  "zh": "二氧化物"
+ },
+ "sedimentary": {
+  "pos": "adj.",
+  "en": "(of rock) formed from layers of material settled over time",
+  "zh": "沉積的"
+ },
+ "sedimentologist": {
+  "pos": "n.",
+  "en": "a scientist who studies sedimentary rocks and sediments",
+  "zh": "沉積學家"
+ },
+ "sandstone": {
+  "pos": "n.",
+  "en": "rock formed from grains of sand pressed together",
+  "zh": "砂岩"
+ },
+ "tilework": {
+  "pos": "n.",
+  "en": "decorative work made of tiles",
+  "zh": "磁磚裝飾"
+ },
+ "palace": {
+  "pos": "n.",
+  "en": "the large official home of a king, queen, or ruler",
+  "zh": "宮殿"
+ },
+ "protest": {
+  "pos": "n.",
+  "en": "a strong statement or action showing disagreement",
+  "zh": "抗議"
+ },
+ "awareness": {
+  "pos": "n.",
+  "en": "knowledge or understanding of a situation",
+  "zh": "意識；認知"
+ },
+ "violation": {
+  "pos": "n.",
+  "en": "an action that breaks a law, rule, or right",
+  "zh": "違反；侵犯"
+ },
+ "seed-pods": {
+  "pos": "n.",
+  "en": "the cases on plants that hold seeds",
+  "zh": "種莢"
+ },
+ "peak-season": {
+  "pos": "adj.",
+  "en": "relating to the busiest time of year",
+  "zh": "旺季的"
+ },
+ "visit": {
+  "pos": "n.",
+  "en": "an act of going to see a place or person",
+  "zh": "造訪；參觀"
+ },
+ "national": {
+  "pos": "adj.",
+  "en": "relating to a whole country",
+  "zh": "國家的；全國的"
+ },
+ "speaker": {
+  "pos": "n.",
+  "en": "the voice that talks in a poem; a person who speaks",
+  "zh": "說話者；（詩中的）敘述者"
+ },
+ "experience": {
+  "pos": "v.",
+  "en": "to have something happen to you; to feel or live through",
+  "zh": "經歷；體驗"
+ },
+ "sight": {
+  "pos": "n.",
+  "en": "something that you see",
+  "zh": "景象"
+ },
+ "global": {
+  "pos": "adj.",
+  "en": "relating to the whole world",
+  "zh": "全球的；世界的"
+ },
+ "century": {
+  "pos": "n.",
+  "en": "a period of 100 years",
+  "zh": "世紀"
+ },
+ "popular": {
+  "pos": "adj.",
+  "en": "liked or enjoyed by many people",
+  "zh": "受歡迎的；流行的"
+ },
+ "valley": {
+  "pos": "n.",
+  "en": "a low area of land between hills or mountains",
+  "zh": "山谷；河谷"
+ },
+ "earliest": {
+  "pos": "adj.",
+  "en": "happening or existing first, before all others",
+  "zh": "最早的"
  }
 }

@@ -1,0 +1,442 @@
+{
+"invented": {
+"pos": "v.",
+"en": "created or designed something new",
+"zh": "發明；創造"
+},
+"adjusted": {
+"pos": "v.",
+"en": "changed slightly to fit or work better",
+"zh": "調整"
+},
+"featured": {
+"pos": "v.",
+"en": "shown or included as an important part",
+"zh": "展出；以……為特色"
+},
+"recommended": {
+"pos": "v.",
+"en": "suggested as good or suitable",
+"zh": "推薦"
+},
+"displayed": {
+"pos": "v.",
+"en": "put where people can see it",
+"zh": "展示；陳列"
+},
+"redesigned": {
+"pos": "v.",
+"en": "designed again in a new way",
+"zh": "重新設計"
+},
+"misplaced": {
+"pos": "v.",
+"en": "put in the wrong place and lost",
+"zh": "放錯地方；遺失"
+},
+"exhibited": {
+"pos": "v.",
+"en": "shown publicly, as in a museum or gallery",
+"zh": "展出；展覽"
+},
+"endorsed": {
+"pos": "v.",
+"en": "publicly approved or supported",
+"zh": "認可；背書"
+},
+"repaired": {
+"pos": "v.",
+"en": "fixed something broken",
+"zh": "修理；修復"
+},
+"translated": {
+"pos": "v.",
+"en": "changed from one language into another",
+"zh": "翻譯"
+},
+"predicted": {
+"pos": "v.",
+"en": "said what will happen in the future",
+"zh": "預測"
+},
+"showcased": {
+"pos": "v.",
+"en": "displayed in a way that draws attention",
+"zh": "展示；使大放異彩"
+},
+"assigned": {
+"pos": "v.",
+"en": "given as a task or placed in a role",
+"zh": "指派；分配"
+},
+"corrected": {
+"pos": "v.",
+"en": "made right after an error",
+"zh": "更正；修正"
+},
+"altered": {
+"pos": "v.",
+"en": "changed",
+"zh": "改變；修改"
+},
+"advised": {
+"pos": "v.",
+"en": "gave advice or suggestions to",
+"zh": "建議；勸告"
+},
+"imagined": {
+"pos": "v.",
+"en": "formed a picture of in the mind",
+"zh": "想像"
+},
+"presented": {
+"pos": "v.",
+"en": "shown or offered to an audience",
+"zh": "呈現；展出"
+},
+"complimented by": {
+"pos": "adj. phr.",
+"en": "praised by",
+"zh": "受到……稱讚"
+},
+"uncertain about": {
+"pos": "adj. phr.",
+"en": "not sure about",
+"zh": "對……不確定"
+},
+"unbothered by": {
+"pos": "adj. phr.",
+"en": "not upset or troubled by",
+"zh": "不受……困擾"
+},
+"inspired by": {
+"pos": "adj. phr.",
+"en": "given ideas or creative energy by",
+"zh": "受……啟發"
+},
+"protected from": {
+"pos": "adj. phr.",
+"en": "kept safe from",
+"zh": "受保護免於……"
+},
+"derived from": {
+"pos": "adj. phr.",
+"en": "coming or developed from a source",
+"zh": "源自……"
+},
+"unmoved by": {
+"pos": "adj. phr.",
+"en": "not emotionally affected by",
+"zh": "不為……所動"
+},
+"skeptical of": {
+"pos": "adj. phr.",
+"en": "doubting whether something is true or good",
+"zh": "對……持懷疑態度"
+},
+"concealed by": {
+"pos": "adj. phr.",
+"en": "hidden by",
+"zh": "被……掩蓋"
+},
+"indifferent to": {
+"pos": "adj. phr.",
+"en": "not caring about or interested in",
+"zh": "對……漠不關心"
+},
+"influenced by": {
+"pos": "adj. phr.",
+"en": "affected or shaped by",
+"zh": "受……影響"
+},
+"unrelated to": {
+"pos": "adj. phr.",
+"en": "not connected with",
+"zh": "與……無關"
+},
+"prompted by": {
+"pos": "adj. phr.",
+"en": "caused or started by",
+"zh": "由……引發"
+},
+"excluded from": {
+"pos": "adj. phr.",
+"en": "kept out of",
+"zh": "被排除在……之外"
+},
+"opposed to": {
+"pos": "adj. phr.",
+"en": "against; disagreeing with",
+"zh": "反對……"
+},
+"unaware of": {
+"pos": "adj. phr.",
+"en": "not knowing about",
+"zh": "未察覺……"
+},
+"separated from": {
+"pos": "adj. phr.",
+"en": "kept apart from",
+"zh": "與……分開"
+},
+"distant from": {
+"pos": "adj. phr.",
+"en": "far away from; not closely connected to",
+"zh": "遠離……；與……疏遠"
+},
+"suspicious of": {
+"pos": "adj. phr.",
+"en": "not trusting; believing something may be wrong",
+"zh": "對……起疑"
+},
+"rooted in": {
+"pos": "adj. phr.",
+"en": "having its origin or basis in",
+"zh": "根源於……"
+},
+"intriguing": {
+"pos": "adj.",
+"en": "arousing curiosity or interest",
+"zh": "引人好奇的"
+},
+"obvious": {
+"pos": "adj.",
+"en": "easy to see or understand",
+"zh": "明顯的"
+},
+"accidental": {
+"pos": "adj.",
+"en": "happening by chance, not on purpose",
+"zh": "意外的；偶然的"
+},
+"observable": {
+"pos": "adj.",
+"en": "able to be seen or noticed",
+"zh": "可觀察到的"
+},
+"incidental": {
+"pos": "adj.",
+"en": "happening by chance as a minor side effect, not by design",
+"zh": "偶然的；附帶的"
+},
+"deliberate": {
+"pos": "adj.",
+"en": "done on purpose",
+"zh": "刻意的；故意的"
+},
+"useful": {
+"pos": "adj.",
+"en": "helpful; able to be used well",
+"zh": "有用的"
+},
+"visible": {
+"pos": "adj.",
+"en": "able to be seen",
+"zh": "看得見的"
+},
+"noticeable": {
+"pos": "adj.",
+"en": "easy to notice",
+"zh": "明顯的；顯而易見的"
+},
+"careful": {
+"pos": "adj.",
+"en": "giving close attention to avoid mistakes",
+"zh": "小心的；謹慎的"
+},
+"ingenious": {
+"pos": "adj.",
+"en": "clever and inventive",
+"zh": "巧妙的；有獨創性的"
+},
+"random": {
+"pos": "adj.",
+"en": "happening without a plan or pattern",
+"zh": "隨機的；無規律的"
+},
+"documented": {
+"pos": "adj.",
+"en": "recorded in writing or other evidence",
+"zh": "有文件記載的"
+},
+"skillful": {
+"pos": "adj.",
+"en": "having or showing skill",
+"zh": "熟練的；技巧高超的"
+},
+"chance": {
+"pos": "n.",
+"en": "something happening by luck rather than by design",
+"zh": "偶然；巧合"
+},
+"unintentional": {
+"pos": "adj.",
+"en": "not done on purpose",
+"zh": "無意的；非故意的"
+},
+"fascinating": {
+"pos": "adj.",
+"en": "extremely interesting",
+"zh": "迷人的；引人入勝的"
+},
+"insensible to": {
+"pos": "adj. phr.",
+"en": "not aware of or not feeling",
+"zh": "對……無感覺；未察覺"
+},
+"manifest in": {
+"pos": "adj. phr.",
+"en": "clearly shown or expressed in",
+"zh": "體現於……；顯現在……"
+},
+"scrutinized by": {
+"pos": "adj. phr.",
+"en": "examined closely by",
+"zh": "受到……仔細審視"
+},
+"complicated by": {
+"pos": "adj. phr.",
+"en": "made more difficult or confusing by",
+"zh": "因……而變得複雜"
+},
+"evident in": {
+"pos": "adj. phr.",
+"en": "clearly seen in",
+"zh": "在……中顯而易見"
+},
+"concealed from": {
+"pos": "adj. phr.",
+"en": "kept hidden from",
+"zh": "對……隱瞞"
+},
+"irrelevant to": {
+"pos": "adj. phr.",
+"en": "not connected or important to",
+"zh": "與……無關"
+},
+"borrowed from": {
+"pos": "adj. phr.",
+"en": "taken or adopted from another source",
+"zh": "借自……"
+},
+"reflected in": {
+"pos": "adj. phr.",
+"en": "shown or expressed in",
+"zh": "反映在……中"
+},
+"hidden from": {
+"pos": "adj. phr.",
+"en": "kept out of sight of",
+"zh": "對……隱藏"
+},
+"denied by": {
+"pos": "adj. phr.",
+"en": "said to be untrue or refused by",
+"zh": "被……否認"
+},
+"apparent in": {
+"pos": "adj. phr.",
+"en": "clearly seen in",
+"zh": "在……中顯而易見"
+},
+"removed from": {
+"pos": "adj. phr.",
+"en": "taken away from; far from",
+"zh": "從……移除；與……脫離"
+},
+"questioned by": {
+"pos": "adj. phr.",
+"en": "doubted or challenged by",
+"zh": "受到……質疑"
+},
+"visible in": {
+"pos": "adj. phr.",
+"en": "able to be seen in",
+"zh": "在……中可見"
+},
+"incompatible with": {
+"pos": "adj. phr.",
+"en": "unable to exist or work together with",
+"zh": "與……不相容"
+},
+"permanent": {
+"pos": "adj.",
+"en": "lasting forever or for a very long time",
+"zh": "永久的"
+},
+"tentative": {
+"pos": "adj.",
+"en": "not certain or fixed; open to change",
+"zh": "暫定的；不確定的"
+},
+"warranted": {
+"pos": "adj.",
+"en": "justified; having good reason",
+"zh": "有正當理由的；合理的"
+},
+"prominent": {
+"pos": "adj.",
+"en": "important and well known; easily noticed",
+"zh": "顯著的；重要的"
+},
+"precarious": {
+"pos": "adj.",
+"en": "not securely held; likely to fall or change",
+"zh": "不穩固的；岌岌可危的"
+},
+"unquestioned": {
+"pos": "adj.",
+"en": "accepted without doubt",
+"zh": "不受質疑的"
+},
+"celebrated": {
+"pos": "adj.",
+"en": "famous and praised",
+"zh": "著名的；受讚揚的"
+},
+"dominant": {
+"pos": "adj.",
+"en": "most powerful or important",
+"zh": "占主導地位的"
+},
+"deserved": {
+"pos": "adj.",
+"en": "earned; rightly given",
+"zh": "應得的；當之無愧的"
+},
+"uncertain": {
+"pos": "adj.",
+"en": "not sure or settled",
+"zh": "不確定的"
+},
+"commanding": {
+"pos": "adj.",
+"en": "in a strong, controlling position",
+"zh": "居主導地位的"
+},
+"famous": {
+"pos": "adj.",
+"en": "known by many people",
+"zh": "著名的"
+},
+"enduring": {
+"pos": "adj.",
+"en": "lasting for a long time",
+"zh": "持久的；歷久不衰的"
+},
+"unstable": {
+"pos": "adj.",
+"en": "likely to change or fall; not firm",
+"zh": "不穩定的"
+},
+"conspicuous": {
+"pos": "adj.",
+"en": "very easy to see or notice",
+"zh": "顯眼的；引人注目的"
+},
+"provisional": {
+"pos": "adj.",
+"en": "arranged for now and possibly changed later",
+"zh": "暫定的；臨時的"
+}
+}
