@@ -1,0 +1,202 @@
+{
+ "approximate": {
+  "pos": "adj.",
+  "en": "close to the actual amount but not exact",
+  "zh": "大約的；近似的"
+ },
+ "automatically": {
+  "pos": "adv.",
+  "en": "without conscious thought or control; by itself",
+  "zh": "自動地；不假思索地"
+ },
+ "beneficially": {
+  "pos": "adv.",
+  "en": "in a way that is helpful or produces good results",
+  "zh": "有益地；有利地"
+ },
+ "broad": {
+  "pos": "adj.",
+  "en": "wide; including many different people or things",
+  "zh": "廣泛的；寬廣的"
+ },
+ "careful": {
+  "pos": "adj.",
+  "en": "giving close attention to avoid mistakes",
+  "zh": "小心的；謹慎的"
+ },
+ "common": {
+  "pos": "adj.",
+  "en": "happening often or found in many places",
+  "zh": "常見的；普遍的"
+ },
+ "compound": {
+  "pos": "v.",
+  "en": "to make a problem or difficulty worse",
+  "zh": "加劇；使惡化"
+ },
+ "concealed": {
+  "pos": "v.",
+  "en": "hid something; kept it secret",
+  "zh": "隱藏；隱瞞"
+ },
+ "disparage": {
+  "pos": "v.",
+  "en": "to speak about someone or something as if they are not important or good",
+  "zh": "貶低；輕視"
+ },
+ "distant": {
+  "pos": "adj.",
+  "en": "far away",
+  "zh": "遙遠的"
+ },
+ "earnest": {
+  "pos": "adj.",
+  "en": "serious and sincere",
+  "zh": "認真的；誠摯的"
+ },
+ "hamper": {
+  "pos": "v.",
+  "en": "to prevent something from happening or moving easily",
+  "zh": "妨礙；牽制"
+ },
+ "hinder": {
+  "pos": "v.",
+  "en": "to make it difficult for something to happen or develop",
+  "zh": "阻礙；妨礙"
+ },
+ "hopeful": {
+  "pos": "adj.",
+  "en": "feeling or showing that you expect something good to happen",
+  "zh": "抱有希望的；樂觀的"
+ },
+ "impede": {
+  "pos": "v.",
+  "en": "to slow down or block the progress of something",
+  "zh": "阻礙；妨礙"
+ },
+ "infrequent": {
+  "pos": "adj.",
+  "en": "not happening often",
+  "zh": "不常發生的；罕見的"
+ },
+ "involuntarily": {
+  "pos": "adv.",
+  "en": "without conscious control or choice",
+  "zh": "不由自主地；非自願地"
+ },
+ "marginal": {
+  "pos": "adj.",
+  "en": "small and not important; at the edge",
+  "zh": "微小的；次要的；邊緣的"
+ },
+ "misanthropic": {
+  "pos": "adj.",
+  "en": "disliking or distrusting people in general",
+  "zh": "厭惡人類的；憤世嫉俗的"
+ },
+ "obstruct": {
+  "pos": "v.",
+  "en": "to block or get in the way of something so it cannot progress",
+  "zh": "阻擋；妨礙"
+ },
+ "optimistic": {
+  "pos": "adj.",
+  "en": "expecting that good things will happen",
+  "zh": "樂觀的"
+ },
+ "outlying": {
+  "pos": "adj.",
+  "en": "far from the center of a place",
+  "zh": "偏遠的；外圍的"
+ },
+ "outstrip": {
+  "pos": "v.",
+  "en": "to be or become greater, faster, or more successful than something else",
+  "zh": "超過；勝過"
+ },
+ "peripheral": {
+  "pos": "adj.",
+  "en": "not central or most important; on the edge",
+  "zh": "位於邊緣的；周邊的；次要的"
+ },
+ "positive": {
+  "pos": "adj.",
+  "en": "hopeful and confident; expecting good results",
+  "zh": "正面的；樂觀的"
+ },
+ "prevalent": {
+  "pos": "adj.",
+  "en": "common or widespread",
+  "zh": "普遍的；盛行的"
+ },
+ "recalcitrant": {
+  "pos": "adj.",
+  "en": "stubbornly refusing to obey or cooperate",
+  "zh": "頑抗的；不服從的"
+ },
+ "reflexively": {
+  "pos": "adv.",
+  "en": "automatically, as a reflex, without conscious thought",
+  "zh": "反射性地；本能地"
+ },
+ "remote": {
+  "pos": "adj.",
+  "en": "far away from other places; isolated",
+  "zh": "遙遠的；偏僻的"
+ },
+ "sanguine": {
+  "pos": "adj.",
+  "en": "positive and confident about the future, especially in a difficult situation",
+  "zh": "樂觀的；充滿信心的"
+ },
+ "smoothly": {
+  "pos": "adv.",
+  "en": "without problems or difficulties",
+  "zh": "順利地；平穩地"
+ },
+ "spontaneously": {
+  "pos": "adv.",
+  "en": "without planning or outside cause; naturally",
+  "zh": "自發地；自然而然地"
+ },
+ "strenuously": {
+  "pos": "adv.",
+  "en": "with great energy or effort",
+  "zh": "費力地；奮力地；強烈地"
+ },
+ "stymie": {
+  "pos": "v.",
+  "en": "to block or prevent the progress of something",
+  "zh": "阻礙；使受挫"
+ },
+ "ubiquitous": {
+  "pos": "adj.",
+  "en": "seeming to be found everywhere",
+  "zh": "無所不在的；普遍存在的"
+ },
+ "uncontrollably": {
+  "pos": "adv.",
+  "en": "in a way that cannot be stopped or managed",
+  "zh": "無法控制地"
+ },
+ "unintended": {
+  "pos": "adj.",
+  "en": "not planned or meant",
+  "zh": "非預期的；無意的"
+ },
+ "unobtrusive": {
+  "pos": "adj.",
+  "en": "not attracting attention; not noticeable",
+  "zh": "不顯眼的；不引人注目的"
+ },
+ "upbeat": {
+  "pos": "adj.",
+  "en": "cheerful and expecting success",
+  "zh": "樂觀的；積極的"
+ },
+ "widespread": {
+  "pos": "adj.",
+  "en": "existing or happening in many places or among many people",
+  "zh": "普遍的；廣泛的"
+ }
+}

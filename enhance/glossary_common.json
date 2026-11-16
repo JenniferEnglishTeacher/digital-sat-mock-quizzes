@@ -5393,5 +5393,45 @@
   "pos": "n.",
   "en": "the study or record of past events",
   "zh": "歷史"
+ },
+ "retiree": {
+  "pos": "n.",
+  "en": "a person who has stopped working, usually because of age",
+  "zh": "退休人員"
+ },
+ "recipient": {
+  "pos": "n.",
+  "en": "a person who receives something",
+  "zh": "接受者；領取者"
+ },
+ "fortress": {
+  "pos": "n.",
+  "en": "a large, strong building or group of buildings that is difficult to attack",
+  "zh": "堡壘；要塞"
+ },
+ "haunted": {
+  "pos": "adj.",
+  "en": "believed to be visited by ghosts",
+  "zh": "鬧鬼的"
+ },
+ "gladsome": {
+  "pos": "adj.",
+  "en": "(literary) cheerful and joyful",
+  "zh": "歡欣的；令人愉快的"
+ },
+ "repulse": {
+  "pos": "v.",
+  "en": "to drive back or force away an attack or something moving forward",
+  "zh": "擊退；逐退"
+ },
+ "glorious": {
+  "pos": "adj.",
+  "en": "very beautiful or impressive; deserving great praise",
+  "zh": "燦爛的；輝煌的"
+ },
+ "delight": {
+  "pos": "n.",
+  "en": "great pleasure or happiness",
+  "zh": "欣喜；愉快"
  }
 }
