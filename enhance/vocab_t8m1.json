@@ -1,0 +1,353 @@
+{
+"a considerable": {
+"w": "considerable",
+"pos": "adj.",
+"en": "large in size, amount, or degree",
+"zh": "相當大的；可觀的"
+},
+"a decorative": {
+"w": "decorative",
+"pos": "adj.",
+"en": "intended to look attractive rather than to be useful",
+"zh": "裝飾性的"
+},
+"a disconcerting": {
+"w": "disconcerting",
+"pos": "adj.",
+"en": "causing worry, confusion, or unease",
+"zh": "令人不安的；使人困惑的"
+},
+"a hidden": {
+"w": "hidden",
+"pos": "adj.",
+"en": "not easy to see or notice",
+"zh": "隱藏的"
+},
+"a measurable": {
+"w": "measurable",
+"pos": "adj.",
+"en": "large enough to be measured or noticed",
+"zh": "可測量的；明顯的"
+},
+"a negligible": {
+"w": "negligible",
+"pos": "adj.",
+"en": "so small that it is not important",
+"zh": "微不足道的；可忽略的"
+},
+"a pronounced": {
+"w": "pronounced",
+"pos": "adj.",
+"en": "very noticeable; strongly marked",
+"zh": "顯著的；明顯的"
+},
+"a significant": {
+"w": "significant",
+"pos": "adj.",
+"en": "large or important enough to be noticed",
+"zh": "顯著的；重大的"
+},
+"a substantial": {
+"w": "substantial",
+"pos": "adj.",
+"en": "large in amount, size, or importance",
+"zh": "大量的；相當大的；重大的"
+},
+"a symbolic": {
+"w": "symbolic",
+"pos": "adj.",
+"en": "representing an idea rather than having practical effect",
+"zh": "象徵性的"
+},
+"a temporary": {
+"w": "temporary",
+"pos": "adj.",
+"en": "lasting only for a limited time",
+"zh": "暫時的"
+},
+"a trivial": {
+"w": "trivial",
+"pos": "adj.",
+"en": "of little value or importance",
+"zh": "瑣碎的；微不足道的"
+},
+"an acceptable": {
+"w": "acceptable",
+"pos": "adj.",
+"en": "good enough to be allowed or approved",
+"zh": "可接受的；尚可的"
+},
+"an imperceptible": {
+"w": "imperceptible",
+"pos": "adj.",
+"en": "too small or slight to be noticed",
+"zh": "察覺不到的；極細微的"
+},
+"an invisible": {
+"w": "invisible",
+"pos": "adj.",
+"en": "not able to be seen",
+"zh": "看不見的"
+},
+"an unrelated": {
+"w": "unrelated",
+"pos": "adj.",
+"en": "not connected to something else",
+"zh": "無關的"
+},
+"anonymous": {
+"pos": "adj.",
+"en": "made or done by someone whose name is not known",
+"zh": "匿名的；不具名的"
+},
+"calm": {
+"pos": "adj.",
+"en": "peaceful and quiet; not rough",
+"zh": "平靜的"
+},
+"characterization": {
+"pos": "n.",
+"en": "the way a writer creates and describes characters",
+"zh": "人物塑造；性格描寫"
+},
+"collaboration": {
+"pos": "n.",
+"en": "the act of working together with others to create or achieve something",
+"zh": "合作；協作"
+},
+"commercialization": {
+"pos": "n.",
+"en": "the process of managing something mainly to make money",
+"zh": "商業化"
+},
+"consequential": {
+"pos": "adj.",
+"en": "important and having significant results",
+"zh": "重大的；影響深遠的"
+},
+"contested": {
+"pos": "adj.",
+"en": "argued about; disputed",
+"zh": "有爭議的"
+},
+"controversial": {
+"pos": "adj.",
+"en": "causing much disagreement or argument",
+"zh": "有爭議的"
+},
+"cooperation": {
+"pos": "n.",
+"en": "the act of working together toward a shared goal",
+"zh": "合作；協力"
+},
+"dangerous": {
+"pos": "adj.",
+"en": "likely to cause harm or injury",
+"zh": "危險的"
+},
+"dramatic": {
+"pos": "adj.",
+"en": "sudden and very noticeable; exciting",
+"zh": "劇烈的；戲劇性的"
+},
+"erratic": {
+"pos": "adj.",
+"en": "not regular or predictable; changing often",
+"zh": "不規則的；反覆無常的"
+},
+"expansive": {
+"pos": "adj.",
+"en": "covering a large area or range",
+"zh": "廣闊的；廣泛的"
+},
+"extensive": {
+"pos": "adj.",
+"en": "covering a large area or amount",
+"zh": "廣泛的；大規模的"
+},
+"far-reaching": {
+"pos": "adj.",
+"en": "having a wide influence or many effects",
+"zh": "影響深遠的"
+},
+"hazardous": {
+"pos": "adj.",
+"en": "dangerous; likely to cause harm",
+"zh": "危險的"
+},
+"hidden": {
+"pos": "adj.",
+"en": "kept out of sight; not easily seen",
+"zh": "隱藏的；隱蔽的"
+},
+"imaginative": {
+"pos": "adj.",
+"en": "having or showing new and interesting ideas",
+"zh": "富有想像力的"
+},
+"important": {
+"pos": "adj.",
+"en": "having great value, meaning, or effect",
+"zh": "重要的；重大的"
+},
+"incidental": {
+"pos": "adj.",
+"en": "happening by chance as a minor side effect, not by design",
+"zh": "偶然的；附帶的"
+},
+"influential": {
+"pos": "adj.",
+"en": "having a great effect on people or events",
+"zh": "有影響力的"
+},
+"interpretation": {
+"pos": "n.",
+"en": "an explanation of the meaning of something",
+"zh": "詮釋；解讀"
+},
+"inventive": {
+"pos": "adj.",
+"en": "good at thinking of new and original ideas",
+"zh": "有創造力的；別出心裁的"
+},
+"irrelevant": {
+"pos": "adj.",
+"en": "not related to the matter being discussed",
+"zh": "無關的"
+},
+"isolation": {
+"pos": "n.",
+"en": "the state of being alone or separated from others",
+"zh": "孤立；隔離"
+},
+"minor": {
+"pos": "adj.",
+"en": "small and not very important",
+"zh": "次要的；輕微的"
+},
+"obscure": {
+"pos": "adj.",
+"en": "not well known; or difficult to understand",
+"zh": "晦澀的；鮮為人知的"
+},
+"ordinary": {
+"pos": "adj.",
+"en": "normal and not special",
+"zh": "普通的；平常的"
+},
+"ornate": {
+"pos": "adj.",
+"en": "having a lot of complicated decoration",
+"zh": "華麗的；裝飾繁複的"
+},
+"partnership": {
+"pos": "n.",
+"en": "a relationship in which people work together",
+"zh": "合夥；合作關係"
+},
+"pivotal": {
+"pos": "adj.",
+"en": "of central importance, especially in causing change",
+"zh": "關鍵的；舉足輕重的"
+},
+"placid": {
+"pos": "adj.",
+"en": "calm and peaceful, with little movement",
+"zh": "平靜的；寧靜的"
+},
+"pragmatic": {
+"pos": "adj.",
+"en": "dealing with things in a practical way",
+"zh": "務實的；實際的"
+},
+"private": {
+"pos": "adj.",
+"en": "belonging to or meant for one person or group; not public",
+"zh": "私人的；私下的"
+},
+"prominent": {
+"pos": "adj.",
+"en": "important and well known; easily noticed",
+"zh": "顯著的；重要的"
+},
+"secrecy": {
+"pos": "n.",
+"en": "the practice of keeping things secret",
+"zh": "保密；隱祕"
+},
+"secretive": {
+"pos": "adj.",
+"en": "tending to hide feelings, plans, or information",
+"zh": "隱密的；守口如瓶的"
+},
+"seminal": {
+"pos": "adj.",
+"en": "very important and influential on later developments",
+"zh": "開創性的；影響深遠的"
+},
+"serene": {
+"pos": "adj.",
+"en": "calm, peaceful, and untroubled",
+"zh": "寧靜的；安詳的"
+},
+"sheltered": {
+"pos": "adj.",
+"en": "protected from wind, weather, or danger",
+"zh": "受庇護的；有遮蔽的"
+},
+"strange": {
+"pos": "adj.",
+"en": "unusual or surprising",
+"zh": "奇怪的"
+},
+"substantial": {
+"pos": "adj.",
+"en": "large in amount, size, or importance",
+"zh": "大量的；重大的"
+},
+"surprising": {
+"pos": "adj.",
+"en": "unexpected and causing surprise",
+"zh": "令人驚訝的"
+},
+"teamwork": {
+"pos": "n.",
+"en": "the activity of working well together as a group",
+"zh": "團隊合作"
+},
+"temporary": {
+"pos": "adj.",
+"en": "lasting for only a limited time",
+"zh": "暫時的；臨時的"
+},
+"tranquil": {
+"pos": "adj.",
+"en": "calm, quiet, and peaceful",
+"zh": "平靜的；寧靜的"
+},
+"unexpected": {
+"pos": "adj.",
+"en": "not expected or predicted",
+"zh": "意外的；出乎意料的"
+},
+"universal": {
+"pos": "adj.",
+"en": "involving or true for everyone or everything",
+"zh": "普遍的；全體的"
+},
+"unpredictable": {
+"pos": "adj.",
+"en": "not able to be known or expected in advance",
+"zh": "無法預測的；難以預料的"
+},
+"unstable": {
+"pos": "adj.",
+"en": "likely to change or fall; not firm",
+"zh": "不穩定的"
+},
+"wide-ranging": {
+"pos": "adj.",
+"en": "covering many different subjects or types",
+"zh": "範圍廣泛的；多方面的"
+}
+}

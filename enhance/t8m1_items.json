@@ -1,0 +1,2189 @@
+{
+ "pref": {
+  "1": "",
+  "2": "",
+  "3": "",
+  "4": "",
+  "5": ""
+ },
+ "items": {
+  "o1": {
+   "body": "As Mexico’s first president from an Indigenous community, Benito Juarez became one of the most ______ figures in his country’s history: among the many significant accomplishments of his long tenure in office (1858–1872), Juarez consolidated the authority of the national government and advanced the rights of Indigenous peoples.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "unpredictable",
+    "B": "important",
+    "C": "secretive",
+    "D": "ordinary"
+   },
+   "filler": null
+  },
+  "1.1": {
+   "body": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. Because the jurist expanded voting rights and helped stabilize the republic after years of crisis, historians regard her as one of the most _______ figures in the country's constitutional history.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "consequential",
+    "B": "secretive",
+    "C": "ordinary",
+    "D": "unpredictable"
+   },
+   "filler": "1"
+  },
+  "1.2": {
+   "body": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. The engineer's bridge designs transformed transportation across the region, making him an _______ figure in the history of public infrastructure.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "irrelevant",
+    "B": "anonymous",
+    "C": "influential",
+    "D": "erratic"
+   },
+   "filler": "2"
+  },
+  "1.3": {
+   "body": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. The minister's education reforms were so widely adopted that she became a _______ figure in the development of modern public schools.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "minor",
+    "B": "incidental",
+    "C": "secretive",
+    "D": "prominent"
+   },
+   "filler": "3"
+  },
+  "1.4": {
+   "body": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. The poet's work reshaped the national literary tradition, so critics describe her as _______ rather than merely popular in her own time.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "ordinary",
+    "B": "seminal",
+    "C": "hidden",
+    "D": "unpredictable"
+   },
+   "filler": "4"
+  },
+  "1.5": {
+   "body": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. The judge's decisions altered civil rights law for decades, securing her place as a _______ figure in legal history.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "private",
+    "B": "obscure",
+    "C": "pivotal",
+    "D": "ordinary"
+   },
+   "filler": "5"
+  },
+  "o2": {
+   "body": "Mônica Lopes-Ferreira and others at Brazil’s Butantan Institute are studying the freshwater stingray species Potamotrygon rex to determine whether biological characteristics such as the rays' age and sex have _______ effect on the toxicity of their venom—that is, to see if differences in these traits are associated with considerable variations in venom potency.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "a disconcerting",
+    "B": "an acceptable",
+    "C": "an imperceptible",
+    "D": "a substantial"
+   },
+   "filler": null
+  },
+  "2.1": {
+   "body": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. The researchers tested whether soil acidity had _______ effect on seed germination, since even small chemical differences can alter how quickly roots emerge.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "a decorative",
+    "B": "a measurable",
+    "C": "an imperceptible",
+    "D": "an acceptable"
+   },
+   "filler": "1"
+  },
+  "2.2": {
+   "body": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. The study asks whether sleep duration has _______ effect on memory consolidation or whether the apparent relationship disappears after stress is controlled.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "an unrelated",
+    "B": "a symbolic",
+    "C": "a substantial",
+    "D": "a trivial"
+   },
+   "filler": "2"
+  },
+  "2.3": {
+   "body": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. Marine biologists examined whether water temperature has _______ influence on coral recovery after bleaching events.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "a significant",
+    "B": "a temporary",
+    "C": "an acceptable",
+    "D": "an invisible"
+   },
+   "filler": "3"
+  },
+  "2.4": {
+   "body": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. The team wanted to know whether the coating would have _______ effect on heat loss in older buildings.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "a considerable",
+    "B": "an imperceptible",
+    "C": "an unrelated",
+    "D": "a hidden"
+   },
+   "filler": "4"
+  },
+  "2.5": {
+   "body": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. Economists tested whether transit access had _______ effect on employment rates in neighborhoods far from city centers.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "a negligible",
+    "B": "an acceptable",
+    "C": "a decorative",
+    "D": "a pronounced"
+   },
+   "filler": "5"
+  },
+  "o3": {
+   "body": "Kelp forests grow underwater along the eastern Pacific Coast. These underwater forests are important to fish and other marine animals. Ocean currents can be powerful and rough, making it difficult for animals to find safe places to hide from predators. The underwater forests slow down the currents. This creates a more _______ environment with calmer waters where animals can take shelter.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "tranquil",
+    "B": "dangerous",
+    "C": "imaginative",
+    "D": "surprising"
+   },
+   "filler": null
+  },
+  "3.1": {
+   "body": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. The windbreaks slowed the gusts that usually swept across the field, creating a more _______ area where young plants could grow without being damaged.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "sheltered",
+    "B": "imaginative",
+    "C": "dangerous",
+    "D": "surprising"
+   },
+   "filler": "1"
+  },
+  "3.2": {
+   "body": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. The library's thick walls and shaded courtyard make the reading room unusually _______ even during the crowded afternoon hours.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "unexpected",
+    "B": "tranquil",
+    "C": "inventive",
+    "D": "hazardous"
+   },
+   "filler": "2"
+  },
+  "3.3": {
+   "body": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. Mangrove roots reduce wave energy along the shore, producing a _______ habitat where juvenile fish can avoid strong currents.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "unstable",
+    "B": "dangerous",
+    "C": "dramatic",
+    "D": "calm"
+   },
+   "filler": "3"
+  },
+  "3.4": {
+   "body": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. The curtains absorbed street noise and softened the light, making the studio feel _______ despite its location above a busy market.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "dangerous",
+    "B": "imaginative",
+    "C": "serene",
+    "D": "strange"
+   },
+   "filler": "4"
+  },
+  "3.5": {
+   "body": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. The reef breaks the force of the surf, forming a _______ lagoon in which smaller organisms can feed and shelter.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "placid",
+    "B": "surprising",
+    "C": "dangerous",
+    "D": "ornate"
+   },
+   "filler": "5"
+  },
+  "o4": {
+   "body": "The Mule Bone, a 1930 play written by Zora Neale Hurston and Langston Hughes, is perhaps the best-known of the few examples of ______ in literature. Most writers prefer working alone, and given that working together cost Hurston and Hughes their friendship, it is not hard to see why.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "characterization",
+    "B": "interpretation",
+    "C": "collaboration",
+    "D": "commercialization"
+   },
+   "filler": null
+  },
+  "4.1": {
+   "body": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. The film is a rare example of artistic _______: two directors wrote every scene together and shared responsibility for editing the final cut.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "interpretation",
+    "B": "commercialization",
+    "C": "collaboration",
+    "D": "characterization"
+   },
+   "filler": "1"
+  },
+  "4.2": {
+   "body": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. The mural resulted from a close _______ between neighborhood residents and professional artists, each group shaping the final design.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "partnership",
+    "B": "characterization",
+    "C": "isolation",
+    "D": "interpretation"
+   },
+   "filler": "2"
+  },
+  "4.3": {
+   "body": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. The opera's score reflects unusual _______: the composer invited three poets to revise the libretto throughout rehearsals.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "commercialization",
+    "B": "cooperation",
+    "C": "characterization",
+    "D": "interpretation"
+   },
+   "filler": "3"
+  },
+  "4.4": {
+   "body": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. Although most mathematicians publish individually, this proof emerged from a sustained _______ among researchers in four countries.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "interpretation",
+    "B": "characterization",
+    "C": "commercialization",
+    "D": "collaboration"
+   },
+   "filler": "4"
+  },
+  "4.5": {
+   "body": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. The anthology was produced through editorial _______; each translator commented on the others' drafts before publication.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "secrecy",
+    "B": "teamwork",
+    "C": "interpretation",
+    "D": "commercialization"
+   },
+   "filler": "5"
+  },
+  "o5": {
+   "body": "Ofelia Zepeda’s contributions to the field of linguistics are _______: her many accomplishments include working as a linguistics professor and bilingual poet, authoring the first Tohono O’odham grammar book, and co-founding the American Indian Language Development Institute.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "pragmatic",
+    "B": "controversial",
+    "C": "extensive",
+    "D": "universal"
+   },
+   "filler": null
+  },
+  "5.1": {
+   "body": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. The scholar's influence is _______: she edited three journals, trained dozens of researchers, and published major books in two fields.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "pragmatic",
+    "B": "far-reaching",
+    "C": "controversial",
+    "D": "universal"
+   },
+   "filler": "1"
+  },
+  "5.2": {
+   "body": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. The archivist's contributions were _______; beyond cataloging manuscripts, she founded a public lecture series and created a preservation lab.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "minor",
+    "B": "controversial",
+    "C": "universal",
+    "D": "extensive"
+   },
+   "filler": "2"
+  },
+  "5.3": {
+   "body": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. The dancer's accomplishments are _______: she choreographed ballets, directed a company, and developed a training method used internationally.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "wide-ranging",
+    "B": "ordinary",
+    "C": "contested",
+    "D": "pragmatic"
+   },
+   "filler": "3"
+  },
+  "5.4": {
+   "body": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. The scientist's service to the field was _______, including mentoring students, designing instruments, and leading long-term surveys.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "pragmatic",
+    "B": "universal",
+    "C": "substantial",
+    "D": "controversial"
+   },
+   "filler": "4"
+  },
+  "5.5": {
+   "body": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. The novelist's body of work is _______, spanning essays, plays, translations, and more than twenty works of fiction.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "expansive",
+    "B": "temporary",
+    "C": "controversial",
+    "D": "universal"
+   },
+   "filler": "5"
+  },
+  "o6": {
+   "body": "Archaeologists studying the ancient city of Pompeii in Italy recently discovered a well-preserved food shop known as a thermopolium. The site contains food remains, artworks, and decorations. These items give researchers a better understanding of what daily life in Pompeii may have been like. For example, the archaeologists found a ceramic jar that they believe likely contained a meat and seafood stew.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To compare ancient artworks with modern ones",
+    "B": "To discuss the political system of Italy",
+    "C": "To present a recent archaeological discovery",
+    "D": "To describe a region’s climate"
+   },
+   "filler": null
+  },
+  "6.1": {
+   "body": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. In a short story excerpt, an elderly musician waits beside an open window while a younger relative returns from the garden with flowers. The narration lingers on the evening light, the prepared room, and the small signs that a long-anticipated visitor is about to arrive.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To explain why music has lost its importance",
+    "B": "To argue that the characters should leave the house",
+    "C": "To portray a setting and mood as characters prepare for an arrival",
+    "D": "To summarize a conflict between two relatives"
+   },
+   "filler": "1"
+  },
+  "6.2": {
+   "body": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. A poem describes a speaker standing at the edge of a harbor as ships depart at dawn. Rather than narrating a completed journey, the poem emphasizes mist, movement, and the speaker's awareness that the travelers are entering uncertain but promising conditions.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To list the technical features of a harbor",
+    "B": "To present an atmosphere of departure and possibility",
+    "C": "To criticize sailors for taking unnecessary risks",
+    "D": "To compare several forms of transportation"
+   },
+   "filler": "2"
+  },
+  "6.3": {
+   "body": "A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. A novel excerpt shows a crowded kitchen before a festival meal. The narrator notes the polished bowls, the careful arrangement of chairs, and the way family members pause whenever footsteps sound outside, waiting for a guest who has not visited for many years.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To contrast rural and urban customs",
+    "B": "To describe a completed celebration from beginning to end",
+    "C": "To explain why the family dislikes visitors",
+    "D": "To depict preparations that reveal anticipation within a family"
+   },
+   "filler": "3"
+  },
+  "6.4": {
+   "body": "A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. A passage from a memoir describes a teacher unlocking a classroom before sunrise, straightening notebooks, and listening as students gather in the hallway. The text does not yet present the lesson itself; instead, it highlights the quiet rituals that precede it.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To describe the moments before a significant daily activity begins",
+    "B": "To recount a student's entire academic career",
+    "C": "To argue that early classes should be canceled",
+    "D": "To evaluate the quality of a school's curriculum"
+   },
+   "filler": "4"
+  },
+  "6.5": {
+   "body": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. A literary passage presents a garden after rain: wet paths, bright leaves, and a bench set beneath a tree. A character pauses there with a letter in hand, and the description makes the setting feel calm but expectant.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To establish a reflective mood before a character acts",
+    "B": "To give instructions for maintaining a garden",
+    "C": "To reveal the full contents of a letter",
+    "D": "To compare two different seasons"
+   },
+   "filler": "5"
+  },
+  "o7": {
+   "body": "The following text is from Sarah Orne Jewett’s 1899 short story “Martha’s Lady.” Martha is employed by Miss Pyne as a maid.\n\nMiss Pyne sat by the window watching, in her best dress, looking stately and calm; she seldom went out now, and it was almost time for the carriage. Martha was just coming in from the garden with the strawberries, and with more flowers in her apron. It was a bright cool evening in June, the golden robins sang in the elms, and the sun was going down behind the apple-trees at the foot of the garden. The beautiful old house stood wide open to the long-expected guest.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To convey the worries brought about by a new guest",
+    "B": "To describe how the characters have changed over time",
+    "C": "To contrast the activity indoors with the stillness outside",
+    "D": "To depict the setting as the characters await a visitor’s arrival"
+   },
+   "filler": null
+  },
+  "7.1": {
+   "body": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. In a short story excerpt, an elderly musician waits beside an open window while a younger relative returns from the garden with flowers. The narration lingers on the evening light, the prepared room, and the small signs that a long-anticipated visitor is about to arrive.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To argue that the characters should leave the house",
+    "B": "To explain why music has lost its importance",
+    "C": "To summarize a conflict between two relatives",
+    "D": "To portray a setting and mood as characters prepare for an arrival"
+   },
+   "filler": "1"
+  },
+  "7.2": {
+   "body": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. A poem describes a speaker standing at the edge of a harbor as ships depart at dawn. Rather than narrating a completed journey, the poem emphasizes mist, movement, and the speaker's awareness that the travelers are entering uncertain but promising conditions.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To compare several forms of transportation",
+    "B": "To present an atmosphere of departure and possibility",
+    "C": "To criticize sailors for taking unnecessary risks",
+    "D": "To list the technical features of a harbor"
+   },
+   "filler": "2"
+  },
+  "7.3": {
+   "body": "A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. A novel excerpt shows a crowded kitchen before a festival meal. The narrator notes the polished bowls, the careful arrangement of chairs, and the way family members pause whenever footsteps sound outside, waiting for a guest who has not visited for many years.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To explain why the family dislikes visitors",
+    "B": "To contrast rural and urban customs",
+    "C": "To depict preparations that reveal anticipation within a family",
+    "D": "To describe a completed celebration from beginning to end"
+   },
+   "filler": "3"
+  },
+  "7.4": {
+   "body": "A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. A passage from a memoir describes a teacher unlocking a classroom before sunrise, straightening notebooks, and listening as students gather in the hallway. The text does not yet present the lesson itself; instead, it highlights the quiet rituals that precede it.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To argue that early classes should be canceled",
+    "B": "To evaluate the quality of a school's curriculum",
+    "C": "To recount a student's entire academic career",
+    "D": "To describe the moments before a significant daily activity begins"
+   },
+   "filler": "4"
+  },
+  "7.5": {
+   "body": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. A literary passage presents a garden after rain: wet paths, bright leaves, and a bench set beneath a tree. A character pauses there with a letter in hand, and the description makes the setting feel calm but expectant.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To establish a reflective mood before a character acts",
+    "B": "To reveal the full contents of a letter",
+    "C": "To compare two different seasons",
+    "D": "To give instructions for maintaining a garden"
+   },
+   "filler": "5"
+  },
+  "o8": {
+   "body": "The following text is adapted from Aphra Behn’s 1689 novel The Lucky Mistake. Atlante and Rinaldo are neighbors who have been secretly exchanging letters through Charlot, Atlante’s sister.\n\n[Atlante] gave this letter to Charlot; who immediately ran into the balcony with it, where she still found Rinaldo in a melancholy posture, leaning his head on his hand: She showed him the letter, but was afraid to toss it to him, for fear it might fall to the ground; so he ran and fetched a long cane, which he cleft at one end, and held it while she put the letter into the cleft, and stayed not to hear what he said to it. But never was man so transported with joy, as he was at the reading of this letter; it gives him new wounds; for to the generous, nothing obliges love so much as love.",
+   "stem": "Which choice best describes the overall structure of the text?",
+   "opts": {
+    "A": "It describes the delivery of a letter and then portrays a character’s happiness at reading that letter.",
+    "B": "It establishes that a character is desperate to receive a letter, and then explains why another character has not yet written that letter.",
+    "C": "It presents a character’s concerns about delivering a letter, and then details the contents of that letter.",
+    "D": "It reveals the inspiration behind a character’s letter, and then emphasizes the excitement that another character feels upon receiving that letter."
+   },
+   "filler": null
+  },
+  "8.1": {
+   "body": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. A science text first explains that a comet's surface changes whenever it passes close to the Sun. The second sentence notes that researchers cannot predict those changes well because the comet's interior structure remains poorly understood. The final sentence describes a study that tested whether radar could solve the problem but found that the signal did not penetrate deeply enough.",
+   "stem": "Which choice best describes the overall structure of the text?",
+   "opts": {
+    "A": "It describes how other researchers criticized the work.",
+    "B": "It offers evidence that radar is always reliable.",
+    "C": "It states the study's final conclusion.",
+    "D": "It identifies the uncertainty that motivated the study."
+   },
+   "filler": "1"
+  },
+  "8.2": {
+   "body": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. An archaeology passage begins by saying that a settlement clearly traded with distant regions. The next sentence explains that the route used for this exchange is still unknown because nearby roads have left almost no physical trace. The passage then discusses a team that looked for chemical signatures in pottery but reached only tentative conclusions.",
+   "stem": "Which choice best describes the overall structure of the text?",
+   "opts": {
+    "A": "It defines the problem the later investigation attempts to address.",
+    "B": "It summarizes the team's strongest result.",
+    "C": "It contradicts the claim made in the first sentence.",
+    "D": "It shifts the discussion away from archaeology."
+   },
+   "filler": "2"
+  },
+  "8.3": {
+   "body": "A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. A biology text states that a plant species can survive long droughts. The following sentence explains that scientists remain uncertain about which cellular mechanism allows this survival. The rest of the text describes an experiment that eliminated one possible mechanism.",
+   "stem": "Which choice best describes the overall structure of the text?",
+   "opts": {
+    "A": "It lists the materials used in the experiment.",
+    "B": "It gives a historical overview of plant classification.",
+    "C": "It introduces a gap in knowledge that the experiment examines.",
+    "D": "It proves that drought has no effect on plants."
+   },
+   "filler": "3"
+  },
+  "8.4": {
+   "body": "A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. A literary analysis begins by noting that a novel's ending has often been described as optimistic. The second sentence observes that this interpretation is difficult to sustain because the final chapter contains several images of confinement. The rest of the paragraph explains how those images complicate earlier readings.",
+   "stem": "Which choice best describes the overall structure of the text?",
+   "opts": {
+    "A": "It summarizes the novel's publication history.",
+    "B": "It raises a difficulty with a common interpretation.",
+    "C": "It introduces an unrelated theme.",
+    "D": "It provides biographical information about the novelist."
+   },
+   "filler": "4"
+  },
+  "8.5": {
+   "body": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. A technology passage first says that autonomous underwater vehicles can map the ocean floor. The next sentence explains that they often fail in narrow caves, where GPS signals are absent and currents are unpredictable. The final sentence describes engineers testing a new guidance system for those conditions.",
+   "stem": "Which choice best describes the overall structure of the text?",
+   "opts": {
+    "A": "It explains the limitation that the new system is meant to address.",
+    "B": "It compares underwater vehicles with aircraft.",
+    "C": "It gives a personal anecdote about engineers.",
+    "D": "It announces that the technology is already flawless."
+   },
+   "filler": "5"
+  },
+  "o9": {
+   "body": "According to historian Vicki L. Ruiz, Mexican American women made crucial contributions to the labor movement during World War II. At the time, food processing companies entered into contracts to supply United States armed forces with canned goods. Increased production quotas conferred greater bargaining power on the companies’ employees, many of whom were Mexican American women: employees insisted on more favorable benefits, and employers, who were anxious to fulfill the contracts, complied. Thus, labor activism became a platform for Mexican American women to assert their agency.",
+   "stem": "Which choice best describes the function of the underlined portion in the text as a whole?",
+   "opts": {
+    "A": "It elaborates on a claim about labor relations in a particular industry made earlier in the text.",
+    "B": "It offers an example of a trend in the World War II–era economy discussed earlier in the text.",
+    "C": "It notes a possible exception to the historical narrative of labor activism sketched earlier in the text.",
+    "D": "It provides further details about the identities of the workers discussed earlier in the text."
+   },
+   "filler": null
+  },
+  "9.1": {
+   "body": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. A science text first explains that a comet's surface changes whenever it passes close to the Sun. The second sentence notes that researchers cannot predict those changes well because the comet's interior structure remains poorly understood. The final sentence describes a study that tested whether radar could solve the problem but found that the signal did not penetrate deeply enough.",
+   "stem": "Which choice best describes the function of the underlined portion in the text as a whole?",
+   "opts": {
+    "A": "It offers evidence that radar is always reliable.",
+    "B": "It identifies the uncertainty that motivated the study.",
+    "C": "It describes how other researchers criticized the work.",
+    "D": "It states the study's final conclusion."
+   },
+   "filler": "1"
+  },
+  "9.2": {
+   "body": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. An archaeology passage begins by saying that a settlement clearly traded with distant regions. The next sentence explains that the route used for this exchange is still unknown because nearby roads have left almost no physical trace. The passage then discusses a team that looked for chemical signatures in pottery but reached only tentative conclusions.",
+   "stem": "Which choice best describes the function of the underlined portion in the text as a whole?",
+   "opts": {
+    "A": "It defines the problem the later investigation attempts to address.",
+    "B": "It contradicts the claim made in the first sentence.",
+    "C": "It summarizes the team's strongest result.",
+    "D": "It shifts the discussion away from archaeology."
+   },
+   "filler": "2"
+  },
+  "9.3": {
+   "body": "A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. A biology text states that a plant species can survive long droughts. The following sentence explains that scientists remain uncertain about which cellular mechanism allows this survival. The rest of the text describes an experiment that eliminated one possible mechanism.",
+   "stem": "Which choice best describes the function of the underlined portion in the text as a whole?",
+   "opts": {
+    "A": "It proves that drought has no effect on plants.",
+    "B": "It gives a historical overview of plant classification.",
+    "C": "It lists the materials used in the experiment.",
+    "D": "It introduces a gap in knowledge that the experiment examines."
+   },
+   "filler": "3"
+  },
+  "9.4": {
+   "body": "A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. A literary analysis begins by noting that a novel's ending has often been described as optimistic. The second sentence observes that this interpretation is difficult to sustain because the final chapter contains several images of confinement. The rest of the paragraph explains how those images complicate earlier readings.",
+   "stem": "Which choice best describes the function of the underlined portion in the text as a whole?",
+   "opts": {
+    "A": "It introduces an unrelated theme.",
+    "B": "It summarizes the novel's publication history.",
+    "C": "It raises a difficulty with a common interpretation.",
+    "D": "It provides biographical information about the novelist."
+   },
+   "filler": "4"
+  },
+  "9.5": {
+   "body": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. A technology passage first says that autonomous underwater vehicles can map the ocean floor. The next sentence explains that they often fail in narrow caves, where GPS signals are absent and currents are unpredictable. The final sentence describes engineers testing a new guidance system for those conditions.",
+   "stem": "Which choice best describes the function of the underlined portion in the text as a whole?",
+   "opts": {
+    "A": "It gives a personal anecdote about engineers.",
+    "B": "It explains the limitation that the new system is meant to address.",
+    "C": "It compares underwater vehicles with aircraft.",
+    "D": "It announces that the technology is already flawless."
+   },
+   "filler": "5"
+  },
+  "o10": {
+   "body": "For many years, the only existing fossil evidence of mixopterid eurypterids—an extinct family of large aquatic arthropods known as sea scorpions and related to modern arachnids and horseshoe crabs—came from four species living on the paleocontinent of Laurussia. In a discovery that expands our understanding of the geographical distribution of mixopterids, paleontologist Bo Wang and others have identified fossilized remains of a new mixopterid species, Terropterus xiushanensis, that lived over 400 million years ago on the paleocontinent of Gondwana.",
+   "stem": "According to the text, why was Wang and his team’s discovery of the Terropterus xiushanensis fossil significant?",
+   "opts": {
+    "A": "The fossil constitutes the first evidence found by scientists that mixopterids lived more than 400 million years ago.",
+    "B": "The fossil helps establish that mixopterids are more closely related to modern arachnids and horseshoe crabs than previously thought.",
+    "C": "The fossil helps establish a more accurate timeline of the evolution of mixopterids on the paleocontinents of Laurussia and Gondwana.",
+    "D": "The fossil constitutes the first evidence found by scientists that mixopterids existed outside the paleocontinent of Laurussia."
+   },
+   "filler": null
+  },
+  "10.1": {
+   "body": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. A nineteenth-century novel describes a young woman who is only eighteen but regularly advises older relatives because she remains calm when others react impulsively. The narrator stresses that her affection is sincere, yet she can restrain her emotions when judgment is needed.",
+   "stem": "Which choice is best supported by the text?",
+   "opts": {
+    "A": "She is admired mainly for her wealth.",
+    "B": "She shows unusual maturity and self-command.",
+    "C": "She lacks affection for her family.",
+    "D": "She refuses to give advice to others."
+   },
+   "filler": "1"
+  },
+  "10.2": {
+   "body": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. In a memoir, a child observes that her grandmother rarely speaks during family disputes, but when she finally offers a suggestion, everyone in the room accepts it. The narrator explains that the grandmother's authority comes from patience rather than force.",
+   "stem": "Which choice is best supported by the text?",
+   "opts": {
+    "A": "The grandmother avoids family matters entirely.",
+    "B": "The narrator thinks patience is useless.",
+    "C": "The grandmother's influence is quiet but substantial.",
+    "D": "The family ignores the grandmother's opinions."
+   },
+   "filler": "2"
+  },
+  "10.3": {
+   "body": "A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. A story describes a clerk who notices tiny errors in ledgers that others have already approved. Although his coworkers sometimes find his caution irritating, the narrator says that the business survives because of his exactness.",
+   "stem": "Which choice is best supported by the text?",
+   "opts": {
+    "A": "The clerk's carefulness is valuable despite being inconvenient.",
+    "B": "The clerk intentionally creates errors.",
+    "C": "The coworkers are more accurate than the clerk.",
+    "D": "The business fails because of excessive caution."
+   },
+   "filler": "3"
+  },
+  "10.4": {
+   "body": "A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. A passage states that a village leader listens to every speaker before making decisions, even when the answer seems obvious. The narrator suggests that this habit slows meetings but prevents resentment among people who might otherwise feel dismissed.",
+   "stem": "Which choice is best supported by the text?",
+   "opts": {
+    "A": "The leader dislikes public meetings.",
+    "B": "The leader values inclusive deliberation.",
+    "C": "The leader makes decisions without hearing others.",
+    "D": "The leader is unable to reach conclusions."
+   },
+   "filler": "4"
+  },
+  "10.5": {
+   "body": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. In an excerpt, a scientist is described as generous with students but uncompromising about evidence. She encourages speculation in early discussions, yet she will not publish a claim until every measurement has been checked.",
+   "stem": "Which choice is best supported by the text?",
+   "opts": {
+    "A": "She rejects all imaginative thinking.",
+    "B": "She publishes claims before testing them.",
+    "C": "She avoids working with students.",
+    "D": "She combines intellectual openness with rigorous standards."
+   },
+   "filler": "5"
+  },
+  "o11": {
+   "body": "Video Game Availability by Initial Release Years (table) — percentage of games still available: 1975–1979: 0.89; 1980–1984: 3.65; 1985–1989: 15.38; 1990–1994: 19.33; 1995–1999: 14.22.\n\nIn a recent study, researchers found that relatively few video games released over the decades remain available today. For example, only 14.22 percent of games are still available that were initially released in _______",
+   "stem": "Which choice most effectively uses data from the table to complete the statement?",
+   "opts": {
+    "A": "2000–2004.",
+    "B": "1995–1999.",
+    "C": "1970–1974.",
+    "D": "1985–1989."
+   },
+   "filler": null
+  },
+  "11.1": {
+   "body": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. A student claims that a historian treats a revolutionary leader more as a national emblem than as a practical policymaker. Which quotation would best illustrate that claim?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "'The leader's speeches are preserved in several archives.'",
+    "B": "'The leader's symbolic role in the birth of the nation matters more than the brief and uneven record of his administration.'",
+    "C": "'The administration faced economic challenges from the beginning.'",
+    "D": "'The leader signed several decrees during his first month in office.'"
+   },
+   "filler": "1"
+  },
+  "11.2": {
+   "body": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. A graph shows that female farmers made up 64% of vegetable growers in the southern region but less than 35% of grain growers in the northern and central regions. Which statement best uses the graph to support a claim about regional crop patterns?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "Women formed a majority of southern vegetable growers but not of northern or central grain growers.",
+    "B": "Some farmers grew vegetables, while others grew grain.",
+    "C": "The southern region was included in the survey.",
+    "D": "The graph contains information about three regions."
+   },
+   "filler": "2"
+  },
+  "11.3": {
+   "body": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. Astronomers claim that rocky planets never contain more iron than their host stars. Which finding would most directly weaken the claim?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "One rocky planet has a thin atmosphere.",
+    "B": "The method used to study stars requires a telescope.",
+    "C": "Some stars contain hydrogen and helium.",
+    "D": "Several rocky planets are found to contain a substantially higher proportion of iron than the stars they orbit."
+   },
+   "filler": "3"
+  },
+  "11.4": {
+   "body": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. A folklorist argues that a tradition developed through recent cultural exchange rather than being merely imported unchanged from a distant country. Which finding would best support the argument?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "Several ballads include local historical events and blended musical forms that arose after different communities came into sustained contact.",
+    "B": "Some songs use a meter also found in older European poetry.",
+    "C": "The tradition is studied by scholars in several countries.",
+    "D": "Many performers learned songs from relatives."
+   },
+   "filler": "4"
+  },
+  "11.5": {
+   "body": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. A table shows that the number of trained volunteers rose from 18 to 46 after a community program began, while the number in a comparable town without the program stayed near 20. Which conclusion is best supported?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "Both towns had some volunteers.",
+    "B": "The table includes more than one year.",
+    "C": "The program was associated with a clear increase in trained volunteers compared with the town without the program.",
+    "D": "The program took place in a community."
+   },
+   "filler": "5"
+  },
+  "o12": {
+   "body": "Depths at Which Four Deep-Sea Fish Species Live (table) — depth below the ocean surface: Footballfish: 200–1,000 meters; Southern stoplight loosejaw: 500–2,000 meters; Black seadevil: 250–2,000 meters; Bollons’ rattail: 300–800 meters.\n\nSome oceanic fish species live very deep underwater. Researchers collected data about the depths at which various species live.",
+   "stem": "Based on the information in the table, at what depth does the southern stoplight loosejaw live?",
+   "opts": {
+    "A": "More than 2,000 meters below the surface",
+    "B": "150 to 400 meters below the surface",
+    "C": "500 to 2,000 meters below the surface",
+    "D": "250 to 500 meters below the surface"
+   },
+   "filler": null
+  },
+  "12.1": {
+   "body": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. A student claims that a historian treats a revolutionary leader more as a national emblem than as a practical policymaker. Which quotation would best illustrate that claim?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "'The administration faced economic challenges from the beginning.'",
+    "B": "'The leader's speeches are preserved in several archives.'",
+    "C": "'The leader's symbolic role in the birth of the nation matters more than the brief and uneven record of his administration.'",
+    "D": "'The leader signed several decrees during his first month in office.'"
+   },
+   "filler": "1"
+  },
+  "12.2": {
+   "body": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. A graph shows that female farmers made up 64% of vegetable growers in the southern region but less than 35% of grain growers in the northern and central regions. Which statement best uses the graph to support a claim about regional crop patterns?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "The graph contains information about three regions.",
+    "B": "Some farmers grew vegetables, while others grew grain.",
+    "C": "The southern region was included in the survey.",
+    "D": "Women formed a majority of southern vegetable growers but not of northern or central grain growers."
+   },
+   "filler": "2"
+  },
+  "12.3": {
+   "body": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. Astronomers claim that rocky planets never contain more iron than their host stars. Which finding would most directly weaken the claim?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "One rocky planet has a thin atmosphere.",
+    "B": "The method used to study stars requires a telescope.",
+    "C": "Some stars contain hydrogen and helium.",
+    "D": "Several rocky planets are found to contain a substantially higher proportion of iron than the stars they orbit."
+   },
+   "filler": "3"
+  },
+  "12.4": {
+   "body": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. A folklorist argues that a tradition developed through recent cultural exchange rather than being merely imported unchanged from a distant country. Which finding would best support the argument?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "The tradition is studied by scholars in several countries.",
+    "B": "Several ballads include local historical events and blended musical forms that arose after different communities came into sustained contact.",
+    "C": "Many performers learned songs from relatives.",
+    "D": "Some songs use a meter also found in older European poetry."
+   },
+   "filler": "4"
+  },
+  "12.5": {
+   "body": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. A table shows that the number of trained volunteers rose from 18 to 46 after a community program began, while the number in a comparable town without the program stayed near 20. Which conclusion is best supported?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "The program was associated with a clear increase in trained volunteers compared with the town without the program.",
+    "B": "Both towns had some volunteers.",
+    "C": "The table includes more than one year.",
+    "D": "The program took place in a community."
+   },
+   "filler": "5"
+  },
+  "o13": {
+   "body": "Housing Starts in the US, January–April 2022 (in thousands) (table): January: 1,669; February: 1,771; March: 1,713; April: 1,803.\n\nWhen construction of a single-family house begins, it is called a housing start. In the first four months of 2022, the highest number of housing starts in the United States was in _____",
+   "stem": "Which choice most effectively uses data from the table to complete the statement?",
+   "opts": {
+    "A": "April.",
+    "B": "March.",
+    "C": "January.",
+    "D": "February."
+   },
+   "filler": null
+  },
+  "13.1": {
+   "body": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. A student claims that a historian treats a revolutionary leader more as a national emblem than as a practical policymaker. Which quotation would best illustrate that claim?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "'The leader's symbolic role in the birth of the nation matters more than the brief and uneven record of his administration.'",
+    "B": "'The administration faced economic challenges from the beginning.'",
+    "C": "'The leader's speeches are preserved in several archives.'",
+    "D": "'The leader signed several decrees during his first month in office.'"
+   },
+   "filler": "1"
+  },
+  "13.2": {
+   "body": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. A graph shows that female farmers made up 64% of vegetable growers in the southern region but less than 35% of grain growers in the northern and central regions. Which statement best uses the graph to support a claim about regional crop patterns?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "Some farmers grew vegetables, while others grew grain.",
+    "B": "The southern region was included in the survey.",
+    "C": "The graph contains information about three regions.",
+    "D": "Women formed a majority of southern vegetable growers but not of northern or central grain growers."
+   },
+   "filler": "2"
+  },
+  "13.3": {
+   "body": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. Astronomers claim that rocky planets never contain more iron than their host stars. Which finding would most directly weaken the claim?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "The method used to study stars requires a telescope.",
+    "B": "Some stars contain hydrogen and helium.",
+    "C": "One rocky planet has a thin atmosphere.",
+    "D": "Several rocky planets are found to contain a substantially higher proportion of iron than the stars they orbit."
+   },
+   "filler": "3"
+  },
+  "13.4": {
+   "body": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. A folklorist argues that a tradition developed through recent cultural exchange rather than being merely imported unchanged from a distant country. Which finding would best support the argument?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "Many performers learned songs from relatives.",
+    "B": "Several ballads include local historical events and blended musical forms that arose after different communities came into sustained contact.",
+    "C": "The tradition is studied by scholars in several countries.",
+    "D": "Some songs use a meter also found in older European poetry."
+   },
+   "filler": "4"
+  },
+  "13.5": {
+   "body": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. A table shows that the number of trained volunteers rose from 18 to 46 after a community program began, while the number in a comparable town without the program stayed near 20. Which conclusion is best supported?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "The table includes more than one year.",
+    "B": "The program took place in a community.",
+    "C": "The program was associated with a clear increase in trained volunteers compared with the town without the program.",
+    "D": "Both towns had some volunteers."
+   },
+   "filler": "5"
+  },
+  "o14": {
+   "body": "Born in 1891 to a Quechua-speaking family in the Andes Mountains of Peru, Martín Chambi is today considered to be one of the most renowned figures of Latin American photography. In a paper for an art history class, a student claims that Chambi’s photographs have considerable ethnographic value—in his work, Chambi was able to capture diverse elements of Peruvian society, representing his subjects with both dignity and authenticity.",
+   "stem": "Which finding, if true, would most directly support the student’s claim?",
+   "opts": {
+    "A": "Chambi took many commissioned portraits of wealthy Peruvians, but he also produced hundreds of images carefully documenting the peoples, sites, and customs of Indigenous communities of the Andes.",
+    "B": "Chambi’s photographs demonstrate a high level of technical skill, as seen in his strategic use of illumination to create dramatic light and shadow contrasts.",
+    "C": "During his lifetime, Chambi was known and celebrated both within and outside his native Peru, as his work was published in places like Argentina, Spain, and Mexico.",
+    "D": "Some of the peoples and places Chambi photographed had long been popular subjects for Peruvian photographers."
+   },
+   "filler": null
+  },
+  "14.1": {
+   "body": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. A student claims that a historian treats a revolutionary leader more as a national emblem than as a practical policymaker. Which quotation would best illustrate that claim?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "'The leader's symbolic role in the birth of the nation matters more than the brief and uneven record of his administration.'",
+    "B": "'The administration faced economic challenges from the beginning.'",
+    "C": "'The leader's speeches are preserved in several archives.'",
+    "D": "'The leader signed several decrees during his first month in office.'"
+   },
+   "filler": "1"
+  },
+  "14.2": {
+   "body": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. A graph shows that female farmers made up 64% of vegetable growers in the southern region but less than 35% of grain growers in the northern and central regions. Which statement best uses the graph to support a claim about regional crop patterns?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "Some farmers grew vegetables, while others grew grain.",
+    "B": "The graph contains information about three regions.",
+    "C": "Women formed a majority of southern vegetable growers but not of northern or central grain growers.",
+    "D": "The southern region was included in the survey."
+   },
+   "filler": "2"
+  },
+  "14.3": {
+   "body": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. Astronomers claim that rocky planets never contain more iron than their host stars. Which finding would most directly weaken the claim?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "Some stars contain hydrogen and helium.",
+    "B": "Several rocky planets are found to contain a substantially higher proportion of iron than the stars they orbit.",
+    "C": "The method used to study stars requires a telescope.",
+    "D": "One rocky planet has a thin atmosphere."
+   },
+   "filler": "3"
+  },
+  "14.4": {
+   "body": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. A folklorist argues that a tradition developed through recent cultural exchange rather than being merely imported unchanged from a distant country. Which finding would best support the argument?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "Many performers learned songs from relatives.",
+    "B": "The tradition is studied by scholars in several countries.",
+    "C": "Some songs use a meter also found in older European poetry.",
+    "D": "Several ballads include local historical events and blended musical forms that arose after different communities came into sustained contact."
+   },
+   "filler": "4"
+  },
+  "14.5": {
+   "body": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. A table shows that the number of trained volunteers rose from 18 to 46 after a community program began, while the number in a comparable town without the program stayed near 20. Which conclusion is best supported?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "The program took place in a community.",
+    "B": "The table includes more than one year.",
+    "C": "The program was associated with a clear increase in trained volunteers compared with the town without the program.",
+    "D": "Both towns had some volunteers."
+   },
+   "filler": "5"
+  },
+  "o15": {
+   "body": "Researchers hypothesized that a decline in the population of dusky sharks near the mid-Atlantic coast of North America led to a decline in the population of eastern oysters in the region. Dusky sharks do not typically consume eastern oysters but do consume cownose rays, which are the main predators of the oysters.",
+   "stem": "Which finding, if true, would most directly support the researchers’ hypothesis?",
+   "opts": {
+    "A": "Declines in the regional abundance of dusky sharks’ prey other than cownose rays are associated with regional declines in dusky shark abundance.",
+    "B": "Eastern oyster abundance tends to be greater in areas with both dusky sharks and cownose rays than in areas with only dusky sharks.",
+    "C": "Consumption of eastern oysters by cownose rays in the region substantially increased before the regional decline in dusky shark abundance began.",
+    "D": "Cownose rays have increased in regional abundance as dusky sharks have decreased in regional abundance."
+   },
+   "filler": null
+  },
+  "15.1": {
+   "body": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. A student claims that a historian treats a revolutionary leader more as a national emblem than as a practical policymaker. Which quotation would best illustrate that claim?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "'The leader signed several decrees during his first month in office.'",
+    "B": "'The administration faced economic challenges from the beginning.'",
+    "C": "'The leader's speeches are preserved in several archives.'",
+    "D": "'The leader's symbolic role in the birth of the nation matters more than the brief and uneven record of his administration.'"
+   },
+   "filler": "1"
+  },
+  "15.2": {
+   "body": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. A graph shows that female farmers made up 64% of vegetable growers in the southern region but less than 35% of grain growers in the northern and central regions. Which statement best uses the graph to support a claim about regional crop patterns?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "Some farmers grew vegetables, while others grew grain.",
+    "B": "The southern region was included in the survey.",
+    "C": "Women formed a majority of southern vegetable growers but not of northern or central grain growers.",
+    "D": "The graph contains information about three regions."
+   },
+   "filler": "2"
+  },
+  "15.3": {
+   "body": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. Astronomers claim that rocky planets never contain more iron than their host stars. Which finding would most directly weaken the claim?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "The method used to study stars requires a telescope.",
+    "B": "Several rocky planets are found to contain a substantially higher proportion of iron than the stars they orbit.",
+    "C": "Some stars contain hydrogen and helium.",
+    "D": "One rocky planet has a thin atmosphere."
+   },
+   "filler": "3"
+  },
+  "15.4": {
+   "body": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. A folklorist argues that a tradition developed through recent cultural exchange rather than being merely imported unchanged from a distant country. Which finding would best support the argument?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "Many performers learned songs from relatives.",
+    "B": "Some songs use a meter also found in older European poetry.",
+    "C": "The tradition is studied by scholars in several countries.",
+    "D": "Several ballads include local historical events and blended musical forms that arose after different communities came into sustained contact."
+   },
+   "filler": "4"
+  },
+  "15.5": {
+   "body": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. A table shows that the number of trained volunteers rose from 18 to 46 after a community program began, while the number in a comparable town without the program stayed near 20. Which conclusion is best supported?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "The program was associated with a clear increase in trained volunteers compared with the town without the program.",
+    "B": "The program took place in a community.",
+    "C": "The table includes more than one year.",
+    "D": "Both towns had some volunteers."
+   },
+   "filler": "5"
+  },
+  "o16": {
+   "body": "In the mountains of Brazil, Barbacenia tomentosa and Barbacenia macrantha—two plants in the Velloziaceae family—establish themselves on soilless, nutrient-poor patches of quartzite rock. Plant ecologists Anna Abrahão and Patricia de Britto Costa used microscopic analysis to determine that the roots of B. tomentosa and B. macrantha, which grow directly into the quartzite, have clusters of fine hairs near the root tip; further analysis indicated that these hairs secrete both malic and citric acids. The researchers hypothesize that the plants depend on dissolving underlying rock with these acids, as the process not only creates channels for continued growth but also releases phosphates that provide the vital nutrient phosphorus.",
+   "stem": "Which finding, if true, would most directly support the researchers’ hypothesis?",
+   "opts": {
+    "A": "Other species in the Velloziaceae family are found in terrains with more soil but have root structures similar to those of B. tomentosa and B. macrantha.",
+    "B": "Though B. tomentosa and B. macrantha both secrete citric and malic acids, each species produces the acids in different proportions.",
+    "C": "The roots of B. tomentosa and B. macrantha carve new entry points into rocks even when cracks in the surface are readily available.",
+    "D": "B. tomentosa and B. macrantha thrive even when transferred to the surfaces of rocks that do not contain phosphates."
+   },
+   "filler": null
+  },
+  "16.1": {
+   "body": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. A student claims that a historian treats a revolutionary leader more as a national emblem than as a practical policymaker. Which quotation would best illustrate that claim?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "'The leader's symbolic role in the birth of the nation matters more than the brief and uneven record of his administration.'",
+    "B": "'The administration faced economic challenges from the beginning.'",
+    "C": "'The leader signed several decrees during his first month in office.'",
+    "D": "'The leader's speeches are preserved in several archives.'"
+   },
+   "filler": "1"
+  },
+  "16.2": {
+   "body": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. A graph shows that female farmers made up 64% of vegetable growers in the southern region but less than 35% of grain growers in the northern and central regions. Which statement best uses the graph to support a claim about regional crop patterns?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "The southern region was included in the survey.",
+    "B": "Women formed a majority of southern vegetable growers but not of northern or central grain growers.",
+    "C": "The graph contains information about three regions.",
+    "D": "Some farmers grew vegetables, while others grew grain."
+   },
+   "filler": "2"
+  },
+  "16.3": {
+   "body": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. Astronomers claim that rocky planets never contain more iron than their host stars. Which finding would most directly weaken the claim?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "Some stars contain hydrogen and helium.",
+    "B": "One rocky planet has a thin atmosphere.",
+    "C": "The method used to study stars requires a telescope.",
+    "D": "Several rocky planets are found to contain a substantially higher proportion of iron than the stars they orbit."
+   },
+   "filler": "3"
+  },
+  "16.4": {
+   "body": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. A folklorist argues that a tradition developed through recent cultural exchange rather than being merely imported unchanged from a distant country. Which finding would best support the argument?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "Some songs use a meter also found in older European poetry.",
+    "B": "Several ballads include local historical events and blended musical forms that arose after different communities came into sustained contact.",
+    "C": "Many performers learned songs from relatives.",
+    "D": "The tradition is studied by scholars in several countries."
+   },
+   "filler": "4"
+  },
+  "16.5": {
+   "body": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. A table shows that the number of trained volunteers rose from 18 to 46 after a community program began, while the number in a comparable town without the program stayed near 20. Which conclusion is best supported?",
+   "stem": "Which choice most effectively uses evidence from the text, table, graph, quotation, or study?",
+   "opts": {
+    "A": "The program took place in a community.",
+    "B": "The table includes more than one year.",
+    "C": "The program was associated with a clear increase in trained volunteers compared with the town without the program.",
+    "D": "Both towns had some volunteers."
+   },
+   "filler": "5"
+  },
+  "o17": {
+   "body": "Many mosquito repellents contain natural components that work by activating multiple odor receptors on mosquitoes’ antennae. As the insects develop resistance, new repellents are needed. Ke Dong and her team found that EBF, a molecular component of a chrysanthemum-flower extract, can repel mosquitoes by activating just one odor receptor—and this receptor, Or31, is present in all mosquito species known to carry diseases. Therefore, the researchers suggest that in developing new repellents, it would be most useful to _______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "identify molecular components similar to EBF that target the activation of Or31 receptors.",
+    "B": "investigate alternative methods for extracting EBF molecules from chrysanthemums.",
+    "C": "verify the precise locations of Or31 and other odor receptors on mosquitoes’ antennae.",
+    "D": "determine the maximum number of different odor receptors that can be activated by a single molecule."
+   },
+   "filler": null
+  },
+  "17.1": {
+   "body": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. Seeds of a coastal plant occur on two islands separated by hundreds of kilometers of ocean. Genetic analyses indicate that the island populations diverged from mainland populations thousands of years before humans reached either island; therefore, the researchers concluded that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the island populations were domesticated before mainland populations.",
+    "B": "all island plants descended from a single cultivated variety.",
+    "C": "human traders must have transported the seeds recently.",
+    "D": "the plant probably reached the islands without human assistance."
+   },
+   "filler": "1"
+  },
+  "17.2": {
+   "body": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. A species of beetle is found both on a continental coast and on a remote volcanic island. DNA evidence suggests that the island beetles split from the coastal population long before people first sailed to the island, so the team inferred that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the island beetles must be younger than the coastal beetles.",
+    "B": "humans carried the beetles to the island during early trade voyages.",
+    "C": "the beetles were domesticated by island communities.",
+    "D": "the beetles were likely introduced by natural dispersal rather than by humans."
+   },
+   "filler": "2"
+  },
+  "17.3": {
+   "body": "A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. Linguists once proposed that a ceremonial song reached an archipelago through recent migration, but a comparison of related oral traditions suggests that the song's core phrases developed before the migration occurred. The linguists therefore concluded that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the song was probably not introduced to the archipelago by that migration.",
+    "B": "all versions of the song are identical.",
+    "C": "the song could not have changed after the migration.",
+    "D": "the migration must have begun earlier than any other human movement."
+   },
+   "filler": "3"
+  },
+  "17.4": {
+   "body": "A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. Botanists studying a crop on a remote island found that the island variety diverged from its mainland relatives tens of thousands of years before humans settled the island. This evidence led them to argue that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the crop was first domesticated on the island.",
+    "B": "human settlement probably did not account for the plant's original arrival on the island.",
+    "C": "mainland farmers acquired the crop from island communities.",
+    "D": "the island variety must be genetically identical to wild mainland plants."
+   },
+   "filler": "4"
+  },
+  "17.5": {
+   "body": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. Researchers had assumed that a freshwater snail reached a chain of lakes when people began moving boats among them. However, genetic data showed that the lake populations separated from one another long before boating began. The researchers therefore concluded that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the lakes did not contain snails until boating began.",
+    "B": "boats probably explain every modern snail population.",
+    "C": "the snails likely spread through an earlier nonhuman mechanism.",
+    "D": "human activity made the populations genetically identical."
+   },
+   "filler": "5"
+  },
+  "o18": {
+   "body": "Birds of many species ingest foods containing carotenoids, pigmented molecules that are converted into feather coloration. Coloration tends to be especially saturated in male birds’ feathers, and because carotenoids also confer health benefits, the deeply saturated colors generally serve to communicate what is known as an honest signal of a bird’s overall fitness to potential mates. However, ornithologist Allison J. Shultz and others have found that males in several species of the tanager genus Ramphocelus use microstructures in their feathers to manipulate light, creating the appearance of deeper saturation without the birds necessarily having to maintain a carotenoid-rich diet. These findings suggest that _______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "individual male tanagers can engage in honest signaling without relying on carotenoid consumption.",
+    "B": "feather microstructures may be less effective than deeply saturated feathers for signaling overall fitness.",
+    "C": "scientists have yet to determine why tanagers have a preference for mates with colorful appearances.",
+    "D": "a male tanager’s appearance may function as a dishonest signal of the individual’s overall fitness."
+   },
+   "filler": null
+  },
+  "18.1": {
+   "body": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. Seeds of a coastal plant occur on two islands separated by hundreds of kilometers of ocean. Genetic analyses indicate that the island populations diverged from mainland populations thousands of years before humans reached either island; therefore, the researchers concluded that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "all island plants descended from a single cultivated variety.",
+    "B": "human traders must have transported the seeds recently.",
+    "C": "the island populations were domesticated before mainland populations.",
+    "D": "the plant probably reached the islands without human assistance."
+   },
+   "filler": "1"
+  },
+  "18.2": {
+   "body": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. A species of beetle is found both on a continental coast and on a remote volcanic island. DNA evidence suggests that the island beetles split from the coastal population long before people first sailed to the island, so the team inferred that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the island beetles must be younger than the coastal beetles.",
+    "B": "the beetles were domesticated by island communities.",
+    "C": "the beetles were likely introduced by natural dispersal rather than by humans.",
+    "D": "humans carried the beetles to the island during early trade voyages."
+   },
+   "filler": "2"
+  },
+  "18.3": {
+   "body": "A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. Linguists once proposed that a ceremonial song reached an archipelago through recent migration, but a comparison of related oral traditions suggests that the song's core phrases developed before the migration occurred. The linguists therefore concluded that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "all versions of the song are identical.",
+    "B": "the song was probably not introduced to the archipelago by that migration.",
+    "C": "the song could not have changed after the migration.",
+    "D": "the migration must have begun earlier than any other human movement."
+   },
+   "filler": "3"
+  },
+  "18.4": {
+   "body": "A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. Botanists studying a crop on a remote island found that the island variety diverged from its mainland relatives tens of thousands of years before humans settled the island. This evidence led them to argue that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the crop was first domesticated on the island.",
+    "B": "human settlement probably did not account for the plant's original arrival on the island.",
+    "C": "the island variety must be genetically identical to wild mainland plants.",
+    "D": "mainland farmers acquired the crop from island communities."
+   },
+   "filler": "4"
+  },
+  "18.5": {
+   "body": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. Researchers had assumed that a freshwater snail reached a chain of lakes when people began moving boats among them. However, genetic data showed that the lake populations separated from one another long before boating began. The researchers therefore concluded that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the snails likely spread through an earlier nonhuman mechanism.",
+    "B": "boats probably explain every modern snail population.",
+    "C": "human activity made the populations genetically identical.",
+    "D": "the lakes did not contain snails until boating began."
+   },
+   "filler": "5"
+  },
+  "o19": {
+   "body": "When writing The Other Black Girl (2021), novelist Zakiya Dalila Harris drew on her own experiences working at a publishing office. The award-winning book is Harris’s first novel, but her writing _______ honored before. At the age of twelve, she entered a contest to have a story published in American Girl magazine—and won.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "were",
+    "B": "have been",
+    "C": "has been",
+    "D": "are"
+   },
+   "filler": null
+  },
+  "19.1": {
+   "body": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. In 2022, the research team ______ a paper describing a newly identified enzyme that helps certain bacteria survive in highly acidic water.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "to publish",
+    "B": "publishing",
+    "C": "having published",
+    "D": "published"
+   },
+   "filler": "1"
+  },
+  "19.2": {
+   "body": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. The antique music box looks decorative, but when its handle is turned, the pins inside the ______ strike tiny metal teeth to produce a melody.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "device:",
+    "B": "device,",
+    "C": "device",
+    "D": "device--"
+   },
+   "filler": "2"
+  },
+  "19.3": {
+   "body": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. When pocket calculators first appeared in classrooms, some teachers rejected the devices because they considered ______ distractions from learning arithmetic.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "them",
+    "B": "it",
+    "C": "that",
+    "D": "this"
+   },
+   "filler": "3"
+  },
+  "19.4": {
+   "body": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. Isabel Allende's novel The House of the Spirits, a family saga centered on the Trueba _______ often introduces readers to magical realism in Latin American literature.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "family,",
+    "B": "family and",
+    "C": "family",
+    "D": "family, and"
+   },
+   "filler": "4"
+  },
+  "19.5": {
+   "body": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. The stranded research vessel took three days to _______ its hull had become wedged between two shelves of ice.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "free in part because",
+    "B": "free. In part because",
+    "C": "free, in part because:",
+    "D": "free, in part because,"
+   },
+   "filler": "5"
+  },
+  "o20": {
+   "body": "In order to prevent nonnative fish species from moving freely between the Mediterranean and Red Seas, marine biologist Bella Galil has proposed that a saline lock system be installed along the Suez Canal in Egypt’s Great Bitter Lakes. The lock would increase the salinity of the lakes and _______ a natural barrier of water most marine creatures would be unable to cross.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "creates",
+    "B": "create",
+    "C": "creating",
+    "D": "created"
+   },
+   "filler": null
+  },
+  "20.1": {
+   "body": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. In 2022, the research team ______ a paper describing a newly identified enzyme that helps certain bacteria survive in highly acidic water.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "to publish",
+    "B": "having published",
+    "C": "publishing",
+    "D": "published"
+   },
+   "filler": "1"
+  },
+  "20.2": {
+   "body": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. The antique music box looks decorative, but when its handle is turned, the pins inside the ______ strike tiny metal teeth to produce a melody.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "device,",
+    "B": "device:",
+    "C": "device",
+    "D": "device--"
+   },
+   "filler": "2"
+  },
+  "20.3": {
+   "body": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. When pocket calculators first appeared in classrooms, some teachers rejected the devices because they considered ______ distractions from learning arithmetic.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "them",
+    "B": "it",
+    "C": "this",
+    "D": "that"
+   },
+   "filler": "3"
+  },
+  "20.4": {
+   "body": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. Isabel Allende's novel The House of the Spirits, a family saga centered on the Trueba _______ often introduces readers to magical realism in Latin American literature.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "family, and",
+    "B": "family",
+    "C": "family,",
+    "D": "family and"
+   },
+   "filler": "4"
+  },
+  "20.5": {
+   "body": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. The stranded research vessel took three days to _______ its hull had become wedged between two shelves of ice.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "free, in part because:",
+    "B": "free in part because",
+    "C": "free. In part because",
+    "D": "free, in part because,"
+   },
+   "filler": "5"
+  },
+  "o21": {
+   "body": "Paintings by the renowned twentieth-century US _______ were featured in Artist to Artist, an exhibition at the Smithsonian Art Museum that paired the works of artists whose career trajectories intersected in meaningful ways.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "artists: Thomas Hart Benton and Jackson Pollock,",
+    "B": "artists Thomas Hart Benton and Jackson Pollock",
+    "C": "artists Thomas Hart Benton, and Jackson Pollock,",
+    "D": "artists, Thomas Hart Benton and Jackson Pollock"
+   },
+   "filler": null
+  },
+  "21.1": {
+   "body": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. In 2022, the research team ______ a paper describing a newly identified enzyme that helps certain bacteria survive in highly acidic water.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "having published",
+    "B": "publishing",
+    "C": "to publish",
+    "D": "published"
+   },
+   "filler": "1"
+  },
+  "21.2": {
+   "body": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. The antique music box looks decorative, but when its handle is turned, the pins inside the ______ strike tiny metal teeth to produce a melody.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "device",
+    "B": "device,",
+    "C": "device:",
+    "D": "device--"
+   },
+   "filler": "2"
+  },
+  "21.3": {
+   "body": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. When pocket calculators first appeared in classrooms, some teachers rejected the devices because they considered ______ distractions from learning arithmetic.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "it",
+    "B": "them",
+    "C": "that",
+    "D": "this"
+   },
+   "filler": "3"
+  },
+  "21.4": {
+   "body": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. Isabel Allende's novel The House of the Spirits, a family saga centered on the Trueba _______ often introduces readers to magical realism in Latin American literature.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "family, and",
+    "B": "family and",
+    "C": "family",
+    "D": "family,"
+   },
+   "filler": "4"
+  },
+  "21.5": {
+   "body": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. The stranded research vessel took three days to _______ its hull had become wedged between two shelves of ice.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "free. In part because",
+    "B": "free, in part because,",
+    "C": "free, in part because:",
+    "D": "free in part because"
+   },
+   "filler": "5"
+  },
+  "o22": {
+   "body": "In 1943, in the midst of World War II, mathematics professor Grace Hopper was recruited by the US military to help the war effort by solving complex equations. Hopper’s subsequent career would involve more than just _______ as a pioneering computer programmer, Hopper would help usher in the digital age.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "equations, though:",
+    "B": "equations, though,",
+    "C": "equations. Though,",
+    "D": "equations though"
+   },
+   "filler": null
+  },
+  "22.1": {
+   "body": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. In 2022, the research team ______ a paper describing a newly identified enzyme that helps certain bacteria survive in highly acidic water.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "to publish",
+    "B": "publishing",
+    "C": "published",
+    "D": "having published"
+   },
+   "filler": "1"
+  },
+  "22.2": {
+   "body": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. The antique music box looks decorative, but when its handle is turned, the pins inside the ______ strike tiny metal teeth to produce a melody.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "device:",
+    "B": "device,",
+    "C": "device--",
+    "D": "device"
+   },
+   "filler": "2"
+  },
+  "22.3": {
+   "body": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. When pocket calculators first appeared in classrooms, some teachers rejected the devices because they considered ______ distractions from learning arithmetic.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "that",
+    "B": "this",
+    "C": "them",
+    "D": "it"
+   },
+   "filler": "3"
+  },
+  "22.4": {
+   "body": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. Isabel Allende's novel The House of the Spirits, a family saga centered on the Trueba _______ often introduces readers to magical realism in Latin American literature.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "family and",
+    "B": "family",
+    "C": "family,",
+    "D": "family, and"
+   },
+   "filler": "4"
+  },
+  "22.5": {
+   "body": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. The stranded research vessel took three days to _______ its hull had become wedged between two shelves of ice.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "free. In part because",
+    "B": "free in part because",
+    "C": "free, in part because,",
+    "D": "free, in part because:"
+   },
+   "filler": "5"
+  },
+  "o23": {
+   "body": "Increased gender diversity is revitalizing the field of economics, according to Harvard’s Claudia Goldin. The trailblazing accomplishments of Goldin, winner of the 2023 Nobel Prize in Economics for her work on women in the labor force, _______ to the value of scholars of diverse backgrounds in spurring research into previously unexplored, but vitally important, topics.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "attests",
+    "B": "has attested",
+    "C": "is attesting",
+    "D": "attest"
+   },
+   "filler": null
+  },
+  "23.1": {
+   "body": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. In 2022, the research team ______ a paper describing a newly identified enzyme that helps certain bacteria survive in highly acidic water.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "published",
+    "B": "publishing",
+    "C": "having published",
+    "D": "to publish"
+   },
+   "filler": "1"
+  },
+  "23.2": {
+   "body": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. The antique music box looks decorative, but when its handle is turned, the pins inside the ______ strike tiny metal teeth to produce a melody.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "device",
+    "B": "device:",
+    "C": "device--",
+    "D": "device,"
+   },
+   "filler": "2"
+  },
+  "23.3": {
+   "body": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. When pocket calculators first appeared in classrooms, some teachers rejected the devices because they considered ______ distractions from learning arithmetic.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "it",
+    "B": "them",
+    "C": "this",
+    "D": "that"
+   },
+   "filler": "3"
+  },
+  "23.4": {
+   "body": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. Isabel Allende's novel The House of the Spirits, a family saga centered on the Trueba _______ often introduces readers to magical realism in Latin American literature.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "family and",
+    "B": "family,",
+    "C": "family, and",
+    "D": "family"
+   },
+   "filler": "4"
+  },
+  "23.5": {
+   "body": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. The stranded research vessel took three days to _______ its hull had become wedged between two shelves of ice.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "free in part because",
+    "B": "free, in part because:",
+    "C": "free. In part because",
+    "D": "free, in part because,"
+   },
+   "filler": "5"
+  },
+  "o24": {
+   "body": "During the English neoclassical period (1660–1789), many writers imitated the epic poetry and satires of ancient Greece and Rome. They were not the first in England to adopt the literary modes of classical _______ some of the most prominent figures of the earlier Renaissance period were also influenced by ancient Greek and Roman literature.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "antiquity, however",
+    "B": "antiquity, however,",
+    "C": "antiquity, however;",
+    "D": "antiquity; however,"
+   },
+   "filler": null
+  },
+  "24.1": {
+   "body": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. In 2022, the research team ______ a paper describing a newly identified enzyme that helps certain bacteria survive in highly acidic water.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "publishing",
+    "B": "to publish",
+    "C": "published",
+    "D": "having published"
+   },
+   "filler": "1"
+  },
+  "24.2": {
+   "body": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. The antique music box looks decorative, but when its handle is turned, the pins inside the ______ strike tiny metal teeth to produce a melody.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "device,",
+    "B": "device--",
+    "C": "device:",
+    "D": "device"
+   },
+   "filler": "2"
+  },
+  "24.3": {
+   "body": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. When pocket calculators first appeared in classrooms, some teachers rejected the devices because they considered ______ distractions from learning arithmetic.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "them",
+    "B": "it",
+    "C": "that",
+    "D": "this"
+   },
+   "filler": "3"
+  },
+  "24.4": {
+   "body": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. Isabel Allende's novel The House of the Spirits, a family saga centered on the Trueba _______ often introduces readers to magical realism in Latin American literature.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "family,",
+    "B": "family",
+    "C": "family and",
+    "D": "family, and"
+   },
+   "filler": "4"
+  },
+  "24.5": {
+   "body": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. The stranded research vessel took three days to _______ its hull had become wedged between two shelves of ice.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "free in part because",
+    "B": "free. In part because",
+    "C": "free, in part because:",
+    "D": "free, in part because,"
+   },
+   "filler": "5"
+  },
+  "o25": {
+   "body": "English poet and Shakespeare contemporary John Donne’s _______ much admired during his lifetime (1572–1631) and in the decades that followed, had, at the time of their enthusiastic rediscovery by the early twentieth-century modernists, been essentially gathering dust for the intervening 250 years.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "works were",
+    "B": "works, were",
+    "C": "works,",
+    "D": "works had been"
+   },
+   "filler": null
+  },
+  "25.1": {
+   "body": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. In 2022, the research team ______ a paper describing a newly identified enzyme that helps certain bacteria survive in highly acidic water.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "having published",
+    "B": "publishing",
+    "C": "published",
+    "D": "to publish"
+   },
+   "filler": "1"
+  },
+  "25.2": {
+   "body": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. The antique music box looks decorative, but when its handle is turned, the pins inside the ______ strike tiny metal teeth to produce a melody.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "device,",
+    "B": "device",
+    "C": "device--",
+    "D": "device:"
+   },
+   "filler": "2"
+  },
+  "25.3": {
+   "body": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. When pocket calculators first appeared in classrooms, some teachers rejected the devices because they considered ______ distractions from learning arithmetic.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "them",
+    "B": "this",
+    "C": "that",
+    "D": "it"
+   },
+   "filler": "3"
+  },
+  "25.4": {
+   "body": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. Isabel Allende's novel The House of the Spirits, a family saga centered on the Trueba _______ often introduces readers to magical realism in Latin American literature.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "family,",
+    "B": "family and",
+    "C": "family, and",
+    "D": "family"
+   },
+   "filler": "4"
+  },
+  "25.5": {
+   "body": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. The stranded research vessel took three days to _______ its hull had become wedged between two shelves of ice.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "free in part because",
+    "B": "free, in part because,",
+    "C": "free, in part because:",
+    "D": "free. In part because"
+   },
+   "filler": "5"
+  },
+  "o26": {
+   "body": "Compared to that of alumina glass, _______ silica glass atoms are so far apart that they are unable to re-form bonds after being separated.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "silica glass is at a significant disadvantage due to its more dispersed atomic arrangement:",
+    "B": "silica glass has a more dispersed atomic arrangement, resulting in a significant disadvantage:",
+    "C": "a significant disadvantage of silica glass is that its atomic arrangement is more dispersed:",
+    "D": "silica glass’s atomic arrangement is more dispersed, resulting in a significant disadvantage:"
+   },
+   "filler": null
+  },
+  "26.1": {
+   "body": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. In 2022, the research team ______ a paper describing a newly identified enzyme that helps certain bacteria survive in highly acidic water.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "to publish",
+    "B": "published",
+    "C": "publishing",
+    "D": "having published"
+   },
+   "filler": "1"
+  },
+  "26.2": {
+   "body": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. The antique music box looks decorative, but when its handle is turned, the pins inside the ______ strike tiny metal teeth to produce a melody.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "device,",
+    "B": "device--",
+    "C": "device",
+    "D": "device:"
+   },
+   "filler": "2"
+  },
+  "26.3": {
+   "body": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. When pocket calculators first appeared in classrooms, some teachers rejected the devices because they considered ______ distractions from learning arithmetic.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "this",
+    "B": "it",
+    "C": "them",
+    "D": "that"
+   },
+   "filler": "3"
+  },
+  "26.4": {
+   "body": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. Isabel Allende's novel The House of the Spirits, a family saga centered on the Trueba _______ often introduces readers to magical realism in Latin American literature.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "family",
+    "B": "family,",
+    "C": "family and",
+    "D": "family, and"
+   },
+   "filler": "4"
+  },
+  "26.5": {
+   "body": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. The stranded research vessel took three days to _______ its hull had become wedged between two shelves of ice.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "free in part because",
+    "B": "free, in part because:",
+    "C": "free, in part because,",
+    "D": "free. In part because"
+   },
+   "filler": "5"
+  },
+  "o27": {
+   "body": "In November 1934, Amrita Sher-Gil was living in what must have seemed like the ideal city for a young artist: Paris. She was studying firsthand the color-saturated style of France’s modernist masters and beginning to make a name for herself as a painter. _______ Sher-Gil longed to return to her childhood home of India; only there, she believed, could her art truly flourish.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Still,",
+    "B": "Therefore,",
+    "C": "Indeed,",
+    "D": "Furthermore,"
+   },
+   "filler": null
+  },
+  "27.1": {
+   "body": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. The city offered abundant commissions and access to famous teachers. _______ the young painter felt that her artistic development required a return to the landscape of her childhood.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Indeed,",
+    "B": "Still,",
+    "C": "Therefore,",
+    "D": "Furthermore,"
+   },
+   "filler": "1"
+  },
+  "27.2": {
+   "body": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. The archive was modern, well funded, and easy to use. _______ the historian preferred the smaller provincial library, whose uncataloged letters were essential to her project.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Still,",
+    "B": "Therefore,",
+    "C": "Indeed,",
+    "D": "Furthermore,"
+   },
+   "filler": "2"
+  },
+  "27.3": {
+   "body": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. The internship promised excellent training and professional contacts. _______ the student declined it because the work did not match her research goals.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Furthermore,",
+    "B": "Therefore,",
+    "C": "Still,",
+    "D": "Indeed,"
+   },
+   "filler": "3"
+  },
+  "27.4": {
+   "body": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. The festival was prestigious and attracted large audiences. _______ the composer chose a modest community venue for the premiere.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Furthermore,",
+    "B": "Still,",
+    "C": "Therefore,",
+    "D": "Indeed,"
+   },
+   "filler": "4"
+  },
+  "27.5": {
+   "body": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. The mountain town had few galleries or critics. _______ the artist believed it offered the solitude she needed.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Furthermore,",
+    "B": "Indeed,",
+    "C": "Therefore,",
+    "D": "Still,"
+   },
+   "filler": "5"
+  },
+  "o28": {
+   "body": "In 1974, Mexican chemist Mario Molina and US chemist F. Sherwood Rowland discovered that chemicals called CFCs were harmful to the ozone layer. Their research was extremely influential in the fight against CFCs. _______ it laid the foundation for a 1987 treaty that phased out the use of CFCs across the globe.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Regardless,",
+    "B": "Specifically,",
+    "C": "However,",
+    "D": "Earlier,"
+   },
+   "filler": null
+  },
+  "28.1": {
+   "body": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. The model did more than identify the ancient river's location. _______ it showed how seasonal floods deposited the layers of silt found across the valley.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Admittedly,",
+    "B": "However,",
+    "C": "Specifically,",
+    "D": "Hence,"
+   },
+   "filler": "1"
+  },
+  "28.2": {
+   "body": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. The experiment revealed that the coating reduced heat loss. _______ it demonstrated that microscopic air pockets slowed the transfer of energy.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "In contrast,",
+    "B": "Specifically,",
+    "C": "Hence,",
+    "D": "Nevertheless,"
+   },
+   "filler": "2"
+  },
+  "28.3": {
+   "body": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. The survey showed that the garden attracted more pollinators. _______ it recorded large increases in native bees during spring and early summer.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Specifically,",
+    "B": "However,",
+    "C": "Hence,",
+    "D": "Admittedly,"
+   },
+   "filler": "3"
+  },
+  "28.4": {
+   "body": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. The simulation explained why the coastline eroded so quickly. _______ it traced how waves redirected sand away from the beach after the pier was built.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "However,",
+    "B": "Admittedly,",
+    "C": "Specifically,",
+    "D": "Hence,"
+   },
+   "filler": "4"
+  },
+  "28.5": {
+   "body": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. The analysis clarified how the mural was restored. _______ it identified the pigments that conservators matched when replacing damaged sections.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Admittedly,",
+    "B": "Hence,",
+    "C": "Nevertheless,",
+    "D": "Specifically,"
+   },
+   "filler": "5"
+  },
+  "o29": {
+   "body": "With his room-sized installation Unicorn/My Private Sky, Norwegian artist Børre Sæthre succeeds in creating a whimsical yet perplexing experience. _______ when visitors set foot inside the fantastically blue room and encounter the life-sized stuffed unicorn preening at the far end of it, they are both dazzled and confused—as if stepping into a strange and enchanting new world.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Second,",
+    "B": "Instead,",
+    "C": "Indeed,",
+    "D": "Nevertheless,"
+   },
+   "filler": null
+  },
+  "29.1": {
+   "body": "The team also checked whether the pattern held across different sites, since a result that appears persuasive in one setting may look less certain when the sample is widened. A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. The installation initially seems playful and simple. _______ the longer visitors remain inside it, the more its odd scale and unexpected sounds make the room feel unsettling.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Second,",
+    "B": "Nevertheless,",
+    "C": "Instead,",
+    "D": "Indeed,"
+   },
+   "filler": "1"
+  },
+  "29.2": {
+   "body": "Later annotations in the archive showed that editors and collaborators had revised several claims before the project reached its final public form. In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. The new plaza has become a lively gathering place. _______ on warm evenings, musicians, vendors, and families fill nearly every corner.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Second,",
+    "B": "Nevertheless,",
+    "C": "Indeed,",
+    "D": "Instead,"
+   },
+   "filler": "2"
+  },
+  "29.3": {
+   "body": "Visitors to the exhibition encountered sketches, recordings, and explanatory labels that showed how the work developed through repeated experimentation. A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. The novel is unusually attentive to small gestures. _______ entire chapters turn on pauses, glances, and barely audible replies.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Second,",
+    "B": "Indeed,",
+    "C": "Nevertheless,",
+    "D": "Instead,"
+   },
+   "filler": "3"
+  },
+  "29.4": {
+   "body": "The study notes that the same policy may produce different results when transportation, housing, funding, and public trust vary from place to place. A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. The restoration revealed that the wall painting was more elaborate than expected. _______ conservators uncovered several layers of decorative borders beneath the whitewash.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Indeed,",
+    "B": "Second,",
+    "C": "Instead,",
+    "D": "Nevertheless,"
+   },
+   "filler": "4"
+  },
+  "29.5": {
+   "body": "Additional trials were conducted under slightly changed conditions so the researchers could determine whether the initial pattern was stable or accidental. In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. The performance is both comic and unnerving. _______ audiences often laugh at the opening scene and then fall silent as the same joke darkens.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Instead,",
+    "B": "Second,",
+    "C": "Nevertheless,",
+    "D": "Indeed,"
+   },
+   "filler": "5"
+  },
+  "o30": {
+   "body": "While researching a topic, a student has taken the following notes:\n- The Philadelphia and Lancaster Turnpike was a road built between 1792 and 1794.\n- It was the first private turnpike in the United States.\n- It connected the cities of Philadelphia and Lancaster in the state of Pennsylvania.\n- It was sixty-two miles long.",
+   "stem": "The student wants to emphasize the distance covered by the Philadelphia and Lancaster Turnpike. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The sixty-two-mile-long Philadelphia and Lancaster Turnpike connected the Pennsylvania cities of Philadelphia and Lancaster.",
+    "B": "The Philadelphia and Lancaster Turnpike was the first private turnpike in the United States.",
+    "C": "The Philadelphia and Lancaster Turnpike, which connected two Pennsylvania cities, was built between 1792 and 1794.",
+    "D": "A historic Pennsylvania road, the Philadelphia and Lancaster Turnpike was completed in 1794."
+   },
+   "filler": null
+  },
+  "30.1": {
+   "body": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. Notes: Botanist Aya Mori collected 600 plant samples; she collected Fern A from Mount Kuro in 1932; she collected Moss B from River Nami in 1933; the goal is to emphasize the Mount Kuro sample.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Aya Mori collected hundreds of plant samples.",
+    "B": "Fern A and Moss B were collected in different years.",
+    "C": "Among Mori's samples was Fern A, which she collected from Mount Kuro in 1932.",
+    "D": "Mori also collected Moss B from River Nami."
+   },
+   "filler": "1"
+  },
+  "30.2": {
+   "body": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. Notes: Geologist Luis Ortega collected many mineral samples; he collected basalt from Cerro Azul in 1910; he collected quartz from Valle Seco in 1911; the goal is to emphasize the Cerro Azul sample.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Ortega collected basalt from Cerro Azul in 1910 as part of his mineral sampling work.",
+    "B": "Ortega collected many mineral samples.",
+    "C": "Cerro Azul and Valle Seco are different sites.",
+    "D": "Quartz was collected from Valle Seco."
+   },
+   "filler": "2"
+  },
+  "30.3": {
+   "body": "A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. Notes: Marine biologist Hana Lee cataloged algae; she collected Ulva marina from Bright Bay in May 1980; she collected Fucus alba from Stone Harbor in June 1980; the goal is to emphasize the Bright Bay sample.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Fucus alba was collected from Stone Harbor.",
+    "B": "Both samples were collected in 1980.",
+    "C": "Lee cataloged more than one algae species.",
+    "D": "Among Lee's algae samples was Ulva marina, which she collected from Bright Bay in May 1980."
+   },
+   "filler": "3"
+  },
+  "30.4": {
+   "body": "A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. Notes: Entomologist Ravi Singh collected beetles; he collected Species L from Cedar Ridge in 1975; he collected Species M from Lake Plain in 1976; the goal is to emphasize the Cedar Ridge specimen.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Species M came from Lake Plain.",
+    "B": "One specimen Singh collected was Species L, a beetle from Cedar Ridge in 1975.",
+    "C": "The Cedar Ridge and Lake Plain specimens were collected in different years.",
+    "D": "Singh collected beetles in multiple locations."
+   },
+   "filler": "4"
+  },
+  "30.5": {
+   "body": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. Notes: Botanist Celia Ramos collected approximately 700 specimens; she collected Orchid X from Cloud Peak in 1948; she collected Fern Y from Green Valley in 1949; the goal is to emphasize the Cloud Peak specimen.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Ramos collected Fern Y the following year.",
+    "B": "Among Ramos's many specimens was Orchid X, which she collected from Cloud Peak in 1948.",
+    "C": "Cloud Peak and Green Valley were both collection sites.",
+    "D": "Ramos collected approximately 700 specimens."
+   },
+   "filler": "5"
+  },
+  "o31": {
+   "body": "While researching a topic, a student has taken the following notes:\n- Most, but not all, of the Moon’s oxygen comes from the Sun, via solar wind.\n- Cosmochemist Kentaro Terada from Osaka University wondered if some of the unaccounted-for oxygen could be coming from Earth.\n- In 2008, he analyzed data from the Japanese satellite Kaguya.\n- Kaguya gathered data about gases and particles it encountered while orbiting the Moon.\n- Based on the Kaguya data, Terada confirmed his suspicion that Earth is sending oxygen to the Moon.",
+   "stem": "The student wants to emphasize the aim of the research study. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "As it orbited the Moon, the Kaguya satellite collected data that was later analyzed by cosmochemist Kentaro Terada.",
+    "B": "Before 2008, Kentaro Terada wondered if the Moon was receiving some of its oxygen from Earth.",
+    "C": "Cosmochemist Kentaro Terada set out to determine whether some of the Moon’s oxygen was coming from Earth.",
+    "D": "Kentaro Terada’s study determined that Earth is sending a small amount of oxygen to the Moon."
+   },
+   "filler": null
+  },
+  "31.1": {
+   "body": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. Notes: Botanist Aya Mori collected 600 plant samples; she collected Fern A from Mount Kuro in 1932; she collected Moss B from River Nami in 1933; the goal is to emphasize the Mount Kuro sample.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Among Mori's samples was Fern A, which she collected from Mount Kuro in 1932.",
+    "B": "Aya Mori collected hundreds of plant samples.",
+    "C": "Mori also collected Moss B from River Nami.",
+    "D": "Fern A and Moss B were collected in different years."
+   },
+   "filler": "1"
+  },
+  "31.2": {
+   "body": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. Notes: Geologist Luis Ortega collected many mineral samples; he collected basalt from Cerro Azul in 1910; he collected quartz from Valle Seco in 1911; the goal is to emphasize the Cerro Azul sample.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Ortega collected basalt from Cerro Azul in 1910 as part of his mineral sampling work.",
+    "B": "Cerro Azul and Valle Seco are different sites.",
+    "C": "Ortega collected many mineral samples.",
+    "D": "Quartz was collected from Valle Seco."
+   },
+   "filler": "2"
+  },
+  "31.3": {
+   "body": "A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. Notes: Marine biologist Hana Lee cataloged algae; she collected Ulva marina from Bright Bay in May 1980; she collected Fucus alba from Stone Harbor in June 1980; the goal is to emphasize the Bright Bay sample.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Lee cataloged more than one algae species.",
+    "B": "Both samples were collected in 1980.",
+    "C": "Fucus alba was collected from Stone Harbor.",
+    "D": "Among Lee's algae samples was Ulva marina, which she collected from Bright Bay in May 1980."
+   },
+   "filler": "3"
+  },
+  "31.4": {
+   "body": "A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. Notes: Entomologist Ravi Singh collected beetles; he collected Species L from Cedar Ridge in 1975; he collected Species M from Lake Plain in 1976; the goal is to emphasize the Cedar Ridge specimen.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The Cedar Ridge and Lake Plain specimens were collected in different years.",
+    "B": "One specimen Singh collected was Species L, a beetle from Cedar Ridge in 1975.",
+    "C": "Singh collected beetles in multiple locations.",
+    "D": "Species M came from Lake Plain."
+   },
+   "filler": "4"
+  },
+  "31.5": {
+   "body": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. Notes: Botanist Celia Ramos collected approximately 700 specimens; she collected Orchid X from Cloud Peak in 1948; she collected Fern Y from Green Valley in 1949; the goal is to emphasize the Cloud Peak specimen.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Ramos collected approximately 700 specimens.",
+    "B": "Cloud Peak and Green Valley were both collection sites.",
+    "C": "Among Ramos's many specimens was Orchid X, which she collected from Cloud Peak in 1948.",
+    "D": "Ramos collected Fern Y the following year."
+   },
+   "filler": "5"
+  },
+  "o32": {
+   "body": "While researching a topic, a student has taken the following notes:\n- The factors that affect clutch size (the number of eggs laid at one time) have been well studied in birds but not in lizards.\n- A team led by Shai Meiri of Tel Aviv University investigated which factors influence lizard clutch size.\n- Meiri’s team obtained clutch-size and habitat data for over 3,900 lizard species and analyzed the data with statistical models.\n- Larger clutch size was associated with environments in higher latitudes that have more seasonal change.\n- Lizards in higher-latitude environments may lay larger clutches to take advantage of shorter windows of favorable conditions.",
+   "stem": "The student wants to emphasize the aim of the research study. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Researchers wanted to know which factors influence lizard egg clutch size because such factors have been well studied in birds but not in lizards.",
+    "B": "After they obtained data for over 3,900 lizard species, researchers determined that larger clutch size was associated with environments in higher latitudes that have more seasonal change.",
+    "C": "We now know that lizards in higher-latitude environments may lay larger clutches to take advantage of shorter windows of favorable conditions.",
+    "D": "Researchers obtained clutch-size and habitat data for over 3,900 lizard species and analyzed the data with statistical models."
+   },
+   "filler": null
+  },
+  "32.1": {
+   "body": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. Notes: Botanist Aya Mori collected 600 plant samples; she collected Fern A from Mount Kuro in 1932; she collected Moss B from River Nami in 1933; the goal is to emphasize the Mount Kuro sample.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Among Mori's samples was Fern A, which she collected from Mount Kuro in 1932.",
+    "B": "Mori also collected Moss B from River Nami.",
+    "C": "Aya Mori collected hundreds of plant samples.",
+    "D": "Fern A and Moss B were collected in different years."
+   },
+   "filler": "1"
+  },
+  "32.2": {
+   "body": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. Notes: Geologist Luis Ortega collected many mineral samples; he collected basalt from Cerro Azul in 1910; he collected quartz from Valle Seco in 1911; the goal is to emphasize the Cerro Azul sample.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Ortega collected many mineral samples.",
+    "B": "Quartz was collected from Valle Seco.",
+    "C": "Cerro Azul and Valle Seco are different sites.",
+    "D": "Ortega collected basalt from Cerro Azul in 1910 as part of his mineral sampling work."
+   },
+   "filler": "2"
+  },
+  "32.3": {
+   "body": "A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. Notes: Marine biologist Hana Lee cataloged algae; she collected Ulva marina from Bright Bay in May 1980; she collected Fucus alba from Stone Harbor in June 1980; the goal is to emphasize the Bright Bay sample.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Both samples were collected in 1980.",
+    "B": "Among Lee's algae samples was Ulva marina, which she collected from Bright Bay in May 1980.",
+    "C": "Fucus alba was collected from Stone Harbor.",
+    "D": "Lee cataloged more than one algae species."
+   },
+   "filler": "3"
+  },
+  "32.4": {
+   "body": "A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. Notes: Entomologist Ravi Singh collected beetles; he collected Species L from Cedar Ridge in 1975; he collected Species M from Lake Plain in 1976; the goal is to emphasize the Cedar Ridge specimen.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The Cedar Ridge and Lake Plain specimens were collected in different years.",
+    "B": "Singh collected beetles in multiple locations.",
+    "C": "One specimen Singh collected was Species L, a beetle from Cedar Ridge in 1975.",
+    "D": "Species M came from Lake Plain."
+   },
+   "filler": "4"
+  },
+  "32.5": {
+   "body": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. Notes: Botanist Celia Ramos collected approximately 700 specimens; she collected Orchid X from Cloud Peak in 1948; she collected Fern Y from Green Valley in 1949; the goal is to emphasize the Cloud Peak specimen.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Cloud Peak and Green Valley were both collection sites.",
+    "B": "Ramos collected approximately 700 specimens.",
+    "C": "Ramos collected Fern Y the following year.",
+    "D": "Among Ramos's many specimens was Orchid X, which she collected from Cloud Peak in 1948."
+   },
+   "filler": "5"
+  },
+  "o33": {
+   "body": "While researching a topic, a student has taken the following notes:\n- British musicians John Lennon and Paul McCartney shared writing credit for numerous Beatles songs.\n- Many Lennon-McCartney songs were actually written by either Lennon or McCartney, not by both.\n- The exact authorship of specific parts of many Beatles songs, such as the verse for “In My Life,” is disputed.\n- Mark Glickman, Jason Brown, and Ryan Song used statistical methods to analyze the musical content of Beatles songs.\n- They concluded that there is 18.9% probability that McCartney wrote the verse for “In My Life,” stating that the verse is “consistent with Lennon’s songwriting style.”",
+   "stem": "The student wants to make a generalization about the kind of study conducted by Glickman, Brown, and Song. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Based on statistical analysis, Glickman, Brown, and Song claim that John Lennon wrote the verse of “In My Life.”",
+    "B": "There is only an 18.9% probability that Paul McCartney wrote the verse for “In My Life”; John Lennon is the more likely author.",
+    "C": "It is likely that John Lennon, not Paul McCartney, wrote the verse for “In My Life.”",
+    "D": "Researchers have used statistical methods to address questions of authorship within the field of music."
+   },
+   "filler": null
+  },
+  "33.1": {
+   "body": "A research team revisited a familiar explanation after new evidence complicated the earlier account. Their report describes the relevant background, compares several possible interpretations, and narrows toward a claim whose wording depends on the precise relationship among the details rather than on a single isolated keyword. Notes: A records office classifies documents by risk; documents whose release could cause minor harm are Restricted; documents whose release could cause major harm are Sealed; routine budget drafts could cause minor but not major harm; the goal is to classify the drafts.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Sealed documents could cause major harm if released.",
+    "B": "Budget drafts are one kind of government document.",
+    "C": "Because their release could cause minor but not major harm, routine budget drafts are classified as Restricted.",
+    "D": "The records office classifies documents by release risk."
+   },
+   "filler": "1"
+  },
+  "33.2": {
+   "body": "In a university archive, scholars examined correspondence, field notes, and early drafts that revealed how a project changed over time. The materials did not overturn the basic history of the project, but they clarified the roles of several participants and made one previously simple interpretation seem less adequate. Notes: A lab labels materials by hazard; materials that can irritate skin are Caution; materials that can cause severe injury are Danger; diluted cleaner can irritate skin but cannot cause severe injury; the goal is to classify diluted cleaner.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Diluted cleaner is handled in a lab.",
+    "B": "The lab uses hazard categories for materials.",
+    "C": "Since it can irritate skin but cannot cause severe injury, diluted cleaner is labeled Caution.",
+    "D": "Danger materials can cause severe injury."
+   },
+   "filler": "2"
+  },
+  "33.3": {
+   "body": "A museum catalog presents an artist, object, or performance in relation to the social and technical conditions that shaped it. Instead of merely naming the work, the catalog connects materials, audience, historical moment, and purpose so readers can understand why a particular description or conclusion is warranted. Notes: A library classifies manuscripts by fragility; items that need careful handling are Monitored; items that cannot be handled by readers are Restricted; most nineteenth-century pamphlets need careful handling but can still be handled; the goal is to classify the pamphlets.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Nineteenth-century pamphlets are historical documents.",
+    "B": "Restricted manuscripts cannot be handled by readers.",
+    "C": "The library classifies manuscripts by fragility.",
+    "D": "Most nineteenth-century pamphlets are classified as Monitored because they need careful handling but can still be handled by readers."
+   },
+   "filler": "3"
+  },
+  "33.4": {
+   "body": "A public-policy study compares outcomes across several communities that adopted similar measures under different local conditions. Because the evidence includes exceptions as well as broad patterns, the researchers choose cautious wording and distinguish between what the data directly show and what they merely suggest. Notes: An agency classifies storms by expected impact; storms expected to cause local disruption are Advisory; storms expected to cause widespread damage are Emergency; a coastal storm is expected to cause local disruption but not widespread damage; the goal is to classify the storm.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Coastal storms can affect travel.",
+    "B": "Expected to cause local disruption but not widespread damage, the coastal storm is classified as Advisory.",
+    "C": "The agency classifies storms by expected impact.",
+    "D": "Emergency storms cause widespread damage."
+   },
+   "filler": "4"
+  },
+  "33.5": {
+   "body": "In a scientific investigation, the outcome depends on a sequence of observations rather than on one dramatic discovery. The researchers describe the method, the comparison group, and the limits of the evidence before drawing a conclusion that must be stated with both precision and restraint. Notes: A museum classifies loans by security risk; objects that could be damaged by ordinary handling are Supervised; objects that could be seriously damaged by brief exposure are Restricted; most ceramic replicas could be damaged by ordinary handling but not seriously damaged by brief exposure; the goal is to classify the replicas.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Most ceramic replicas are classified as Supervised because ordinary handling could damage them.",
+    "B": "Restricted objects could be seriously damaged by brief exposure.",
+    "C": "Museum loans are classified by security risk.",
+    "D": "Ceramic replicas may be used in educational displays."
+   },
+   "filler": "5"
+  }
+ }
+}
