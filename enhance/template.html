@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>__TITLE__</title>
+  <style>
+    :root { --ink:#1f2937; --muted:#5b6677; --line:#d6dee9; --accent:#366994; --good:#116149; --bad:#a32727; --bg:#f5f7fa; --zh:#5b3f8a; --zhbg:#f7f3fc; }
+    * { box-sizing:border-box; }
+    body { margin:0; font-family:Arial, "Noto Sans TC", "Microsoft JhengHei", "PingFang TC", sans-serif; color:var(--ink); background:var(--bg); line-height:1.5; }
+    header { background:white; border-bottom:1px solid var(--line); padding:24px clamp(20px, 5vw, 54px); }
+    h1 { margin:0; font-size:clamp(1.5rem, 3vw, 2.2rem); line-height:1.1; }
+    .subtitle { margin:.45rem 0 0; color:var(--muted); font-size:1.05rem; }
+    main { width:min(1120px, 100%); margin:0 auto; padding:20px clamp(14px, 3vw, 28px) 48px; }
+    .toolbar { display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin-bottom:12px; position:sticky; top:0; background:var(--bg); padding:10px 0; z-index:5; border-bottom:1px solid var(--line); }
+    .toolbar button, .mini { border:1px solid var(--line); background:white; color:var(--ink); padding:8px 11px; border-radius:7px; cursor:pointer; font-weight:700; font-size:.95rem; }
+    .toolbar button:hover, .mini:hover { border-color:var(--accent); }
+    .toolbar button.active { background:var(--accent); color:white; border-color:var(--accent); }
+    .toolbar .stat { margin-left:auto; color:var(--muted); font-weight:700; }
+    .card { background:white; border:1px solid var(--line); border-radius:8px; margin:18px 0; overflow:hidden; }
+    .card-head { padding:16px 22px; border-bottom:1px solid var(--line); background:#fbfcfe; }
+    .card-head h2 { margin:0 0 4px; font-size:1.2rem; }
+    .concept { color:var(--accent); font-weight:700; font-size:1rem; }
+    .mock { padding:18px 22px 22px; border-bottom:1px solid #e7edf4; }
+    .mock:last-child { border-bottom:0; }
+    .mock h3 { margin:0 0 10px; font-size:1.08rem; display:flex; gap:8px; align-items:center; flex-wrap:wrap; }
+    .badge { font-size:.75rem; padding:2px 8px; border-radius:999px; border:1px solid var(--line); color:var(--muted); font-weight:700; }
+    .badge.orig { background:#fff6e5; color:#8a5a00; border-color:#f0d9a8; }
+    .badge.wrong { background:#fff0f0; color:var(--bad); border-color:#f2c4c4; }
+    .badge.mastered { background:#edf8f3; color:var(--good); border-color:#b9e2cf; }
+    .question { margin-bottom:10px; font-size:1.02rem; }
+    .stem { font-weight:700; margin:8px 0 12px; }
+    a.dict { color:var(--accent); text-decoration:underline dotted; text-underline-offset:3px; font-weight:600; }
+    a.dict:hover { background:#e8f1f9; }
+    .choices { display:grid; gap:8px; }
+    .choice { width:100%; text-align:left; border:1px solid var(--line); background:#fff; border-radius:7px; padding:10px 12px; cursor:pointer; font-size:1rem; font-family:inherit; color:var(--ink); }
+    .choice:hover { border-color:var(--accent); }
+    .choice b { display:inline-block; min-width:1.6em; }
+    .choice.correct { border-color:var(--good); background:#edf8f3; }
+    .choice.incorrect { border-color:var(--bad); background:#fff0f0; }
+    .choice:disabled { cursor:default; }
+    .feedback { margin-top:10px; font-weight:700; min-height:1.4em; }
+    .feedback.good { color:var(--good); }
+    .feedback.bad { color:var(--bad); }
+    .feedback .zh { display:block; color:var(--zh); font-weight:500; margin-top:3px; }
+    .trans { display:none; margin-top:12px; border:1px solid #e3d9f3; background:var(--zhbg); border-radius:8px; padding:12px 14px; }
+    .trans.show { display:block; }
+    .trans h4 { margin:0 0 6px; font-size:.95rem; color:var(--zh); }
+    .trans .zhbody { white-space:pre-wrap; color:#3b2a5e; margin-bottom:8px; }
+    .trans ol { margin:0; padding-left:1.2em; }
+    .trans li { margin:4px 0; }
+    .trans li .en { font-weight:600; }
+    .trans li .cn { color:var(--zh); }
+    .trans li.ok { background:#e9f6ef; border-radius:5px; padding:2px 6px; }
+    .defs { display:grid; grid-template-columns:repeat(auto-fit, minmax(230px, 1fr)); gap:8px; margin-top:8px; }
+    .word { border:1px solid #d9cdf0; background:white; border-radius:8px; padding:10px 12px; cursor:pointer; text-align:left; font-family:inherit; }
+    .word:hover { border-color:var(--zh); background:#fbf8ff; }
+    .word .w { font-weight:800; font-size:1.05rem; color:var(--ink); }
+    .word .w small { color:var(--muted); font-weight:500; margin-left:4px; }
+    .word .en { display:block; margin-top:3px; color:#333; }
+    .word .cn { display:block; color:var(--zh); font-weight:600; }
+    .word.ok { border-color:var(--good); box-shadow:inset 0 0 0 1px var(--good); }
+    .rowbtns { display:flex; gap:8px; flex-wrap:wrap; margin:8px 0 2px; }
+    .mini { padding:5px 9px; font-size:.85rem; font-weight:600; }
+    .panel { display:none; background:white; border:1px solid var(--line); border-radius:8px; padding:14px 18px; margin-bottom:14px; }
+    .panel.show { display:block; }
+    .panel table { width:100%; border-collapse:collapse; font-size:.95rem; }
+    .panel th, .panel td { border-bottom:1px solid var(--line); padding:6px 8px; text-align:left; vertical-align:top; }
+    .empty { color:var(--muted); }
+    @media print { .toolbar, .rowbtns { display:none; } }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>__TITLE__</h1>
+    <p class="subtitle">__NCONCEPTS__ original questions (now interactive) + mock variations = __NITEMS__ items · 中英對照 · 錯題本 · Cambridge 字典連結</p>
+  </header>
+  <main>
+    <div class="toolbar">
+      <button type="button" id="btnWrong">錯題本 Wrong Qs (<span id="wrongCount">0</span>)</button>
+      <button type="button" id="btnRetest">Retest wrong only 重測錯題</button>
+      <button type="button" id="btnDlTxt">⬇ Download wrong (.txt)</button>
+      <button type="button" id="btnDlCsv">⬇ Download wrong (.csv)</button>
+      <button type="button" id="btnClear">Clear wrong list</button>
+      <button type="button" id="resetQuiz">Reset answers</button>
+      <span class="stat" id="stat"></span>
+    </div>
+    <div class="panel" id="wrongPanel"></div>
+    <div id="quiz"></div>
+  </main>
+  <script>
+    const DATA = __DATA__;
+    const SLUG = '__SLUG__';
+    const SOURCE = '__SOURCE__';
+    const KEY = 'dsat_wrong_' + SLUG;
+    const byId = Object.fromEntries(DATA.map(q => [q.id, q]));
+    const quiz = document.getElementById('quiz');
+    let retest = false;
+    let answered = {};  // id -> {picked, ok}
+
+    function esc(v) { return String(v ?? '').replace(/[&<>"']/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch])); }
+    function loadWrong() { try { return JSON.parse(localStorage.getItem(KEY) || '{}'); } catch (e) { return {}; } }
+    function saveWrong(w) { try { localStorage.setItem(KEY, JSON.stringify(w)); } catch (e) {} updateCount(); }
+    function updateCount() {
+      const n = Object.keys(loadWrong()).length;
+      document.getElementById('wrongCount').textContent = n;
+      const a = Object.values(answered); const ok = a.filter(x => x.ok).length;
+      document.getElementById('stat').textContent = a.length ? `${ok}/${a.length} correct` : '';
+    }
+    function speak(text) {
+      if (!('speechSynthesis' in window)) { alert('此瀏覽器不支援語音朗讀'); return; }
+      speechSynthesis.cancel();
+      const u = new SpeechSynthesisUtterance(text); u.lang = 'en-US'; u.rate = 0.9;
+      const v = speechSynthesis.getVoices().find(v => /en-US/i.test(v.lang)); if (v) u.voice = v;
+      speechSynthesis.speak(u);
+    }
+
+    function itemHtml(q, wrong) {
+      const prev = wrong[q.id];
+      const cls = q.id.startsWith('o') ? 'orig' : '';
+      return `
+        <article class="mock" id="item-${esc(q.id)}" data-id="${esc(q.id)}">
+          <h3>${esc(q.label)} <span class="badge ${cls}">${q.id.startsWith('o') ? 'Official original' : 'Mock'}</span>
+            ${q.vocab ? '<span class="badge">vocabulary</span>' : ''}
+            ${prev ? `<span class="badge wrong">✗ wrong before (${prev.count || 1}×)</span>` : ''}</h3>
+          <div class="question">${q.body}</div>
+          ${q.stem ? `<div class="stem">${esc(q.stem)}</div>` : ''}
+          <div class="rowbtns">
+            <button type="button" class="mini speakBody">🔊 Listen 朗讀</button>
+            <button type="button" class="mini toggleTrans">中文翻譯 Show translation</button>
+          </div>
+          <div class="choices">
+            ${['A','B','C','D'].map(L => `<button type="button" class="choice" data-choice="${L}"><b>${L})</b> ${esc(q.opts[L] || '')}</button>`).join('')}
+          </div>
+          <div class="feedback" aria-live="polite"></div>
+          <div class="trans">
+            <h4>中文翻譯 Chinese translation</h4>
+            <div class="zhbody">${esc(q.bodyZh)}</div>
+            ${q.stemZh ? `<div class="zhbody"><b>${esc(q.stemZh)}</b></div>` : ''}
+            <ol type="A">
+              ${['A','B','C','D'].map(L => `<li data-l="${L}"><span class="en">${esc(q.opts[L] || '')}</span><br><span class="cn">${esc(q.optsZh[L] || '')}</span></li>`).join('')}
+            </ol>
+            ${q.vocab ? `<h4 style="margin-top:10px">單字 Vocabulary（點擊發音 click to hear）</h4>
+            <div class="defs">
+              ${['A','B','C','D'].map(L => { const d = q.defs[L] || {}; const w = d.word || q.opts[L];
+                return `<button type="button" class="word" data-l="${L}" data-word="${esc(w)}"><span class="w">🔊 ${esc(w)}<small>${esc(d.pos || '')}</small></span><span class="en">${esc(d.en || '')}</span><span class="cn">${esc(d.zh || '')}</span></button>`; }).join('')}
+            </div>` : ''}
+          </div>
+        </article>`;
+    }
+
+    function render() {
+      const wrong = loadWrong();
+      answered = {};
+      const groups = new Map();
+      for (const q of DATA) {
+        if (retest && !wrong[q.id]) continue;
+        if (!groups.has(q.n)) groups.set(q.n, { concept: q.concept, items: [] });
+        groups.get(q.n).items.push(q);
+      }
+      if (!groups.size) {
+        quiz.innerHTML = `<div class="card"><div class="card-head"><h2>${retest ? '錯題本是空的 — No wrong questions saved yet.' : 'No items'}</h2></div></div>`;
+        updateCount(); return;
+      }
+      quiz.innerHTML = [...groups.entries()].map(([n, g]) => `
+        <section class="card">
+          <div class="card-head"><h2>Question ${n}</h2><div class="concept">${esc(g.concept)}</div></div>
+          ${g.items.map(q => itemHtml(q, wrong)).join('')}
+        </section>`).join('');
+      updateCount();
+    }
+
+    quiz.addEventListener('click', e => {
+      const art = e.target.closest('.mock'); if (!art) return;
+      const q = byId[art.dataset.id];
+      if (e.target.closest('.speakBody')) { speak(q.bodyPlain + ' ' + (q.stem || '')); return; }
+      if (e.target.closest('.toggleTrans')) { art.querySelector('.trans').classList.toggle('show'); return; }
+      const wb = e.target.closest('.word');
+      if (wb) { speak(wb.dataset.word); return; }
+      const btn = e.target.closest('.choice'); if (!btn || btn.disabled) return;
+      const picked = btn.dataset.choice, ans = q.answer, ok = picked === ans;
+      art.querySelectorAll('.choice').forEach(c => { c.disabled = true; if (c.dataset.choice === ans) c.classList.add('correct'); });
+      if (!ok) btn.classList.add('incorrect');
+      const fb = art.querySelector('.feedback');
+      fb.className = 'feedback ' + (ok ? 'good' : 'bad');
+      fb.innerHTML = (ok ? 'Correct. ' : `Not quite. Correct answer: ${ans}. `) + esc(q.expl) + (q.explZh ? `<span class="zh">${esc(q.explZh)}</span>` : '');
+      const tr = art.querySelector('.trans'); tr.classList.add('show');
+      tr.querySelectorAll('li').forEach(li => li.classList.toggle('ok', li.dataset.l === ans));
+      tr.querySelectorAll('.word').forEach(w => w.classList.toggle('ok', w.dataset.l === ans));
+      if (q.vocab) speak(q.opts[ans]);
+      answered[q.id] = { picked, ok };
+      const wrong = loadWrong();
+      if (!ok) {
+        const prev = wrong[q.id] || { count: 0 };
+        wrong[q.id] = { picked, ts: Date.now(), count: (prev.count || 0) + 1 };
+        saveWrong(wrong);
+        const h = art.querySelector('h3');
+        if (!h.querySelector('.badge.wrong')) h.insertAdjacentHTML('beforeend', `<span class="badge wrong">✗ saved to 錯題本</span>`);
+      } else if (wrong[q.id]) {
+        delete wrong[q.id]; saveWrong(wrong);
+        art.querySelector('h3').insertAdjacentHTML('beforeend', `<span class="badge mastered">✓ mastered – removed from 錯題本</span>`);
+      }
+      updateCount();
+    });
+
+    // ---- wrong list panel / downloads ----
+    function wrongList() {
+      const w = loadWrong();
+      return DATA.filter(q => w[q.id]).map(q => ({ q, meta: w[q.id] }));
+    }
+    function plain(q) {
+      const opts = ['A','B','C','D'].map(L => `${L}) ${q.opts[L] || ''}`).join('\n');
+      return `${q.bodyPlain}\n\n${q.stem || ''}\n${opts}`.trim();
+    }
+    function renderPanel() {
+      const list = wrongList();
+      const p = document.getElementById('wrongPanel');
+      if (!list.length) { p.innerHTML = '<p class="empty">錯題本是空的。答錯的題目會自動記錄在這裡（儲存在此裝置）。<br>No wrong questions yet — they are saved automatically on this device.</p>'; return; }
+      p.innerHTML = `<table><thead><tr><th>#</th><th>Item</th><th>Concept</th><th>Your answer</th><th>Correct</th><th>Times wrong</th><th>Last</th></tr></thead><tbody>
+        ${list.map(({q, meta}, i) => `<tr><td>${i+1}</td><td><a href="#item-${esc(q.id)}">${esc(q.label)}</a></td><td>${esc(q.concept)}</td><td>${esc(meta.picked)}</td><td>${esc(q.answer)}</td><td>${meta.count || 1}</td><td>${new Date(meta.ts).toLocaleDateString()}</td></tr>`).join('')}
+      </tbody></table>`;
+    }
+    function download(name, text, type) {
+      const blob = new Blob(['﻿' + text], { type }); const a = document.createElement('a');
+      a.href = URL.createObjectURL(blob); a.download = name; document.body.appendChild(a); a.click();
+      setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 500);
+    }
+    document.getElementById('btnWrong').onclick = () => { renderPanel(); document.getElementById('wrongPanel').classList.toggle('show'); };
+    document.getElementById('btnRetest').onclick = e => { retest = !retest; e.target.classList.toggle('active', retest); e.target.textContent = retest ? 'Show all questions 顯示全部' : 'Retest wrong only 重測錯題'; render(); };
+    document.getElementById('btnClear').onclick = () => { if (confirm('Clear the saved wrong-question list? 確定清除錯題本？')) { saveWrong({}); renderPanel(); render(); } };
+    document.getElementById('resetQuiz').onclick = render;
+    document.getElementById('btnDlTxt').onclick = () => {
+      const list = wrongList(); if (!list.length) { alert('錯題本是空的 No wrong questions saved.'); return; }
+      const d = new Date().toISOString().slice(0,10);
+      let out = `${SOURCE} — Wrong Questions 錯題本 (${list.length})  exported ${d}\n${'='.repeat(70)}\n\n`;
+      list.forEach(({q, meta}, i) => {
+        out += `${i+1}. ${q.label}  [${q.concept}]\nSource: ${SOURCE}\n\n${plain(q)}\n\nYour answer: ${meta.picked}   Correct answer: ${q.answer}\nExplanation: ${q.expl}${q.explZh ? '\n解析: ' + q.explZh : ''}\n\n--- 中文翻譯 ---\n${q.bodyZh}\n${q.stemZh}\n${['A','B','C','D'].map(L => `${L}) ${q.optsZh[L] || ''}`).join('\n')}\n\n${'-'.repeat(70)}\n\n`;
+      });
+      download(`${SLUG}_wrong_questions_${d}.txt`, out, 'text/plain;charset=utf-8');
+    };
+    document.getElementById('btnDlCsv').onclick = () => {
+      const list = wrongList(); if (!list.length) { alert('錯題本是空的 No wrong questions saved.'); return; }
+      const c = v => '"' + String(v ?? '').replace(/"/g, '""') + '"';
+      const rows = [['#','Item','Source','Concept','Question','A','B','C','D','Your answer','Correct answer','Explanation','中文翻譯','A 中','B 中','C 中','D 中','Times wrong']];
+      list.forEach(({q, meta}, i) => rows.push([i+1, q.label, SOURCE, q.concept, q.bodyPlain + '\n' + (q.stem||''), q.opts.A, q.opts.B, q.opts.C, q.opts.D, meta.picked, q.answer, q.expl + (q.explZh ? ' / ' + q.explZh : ''), q.bodyZh + '\n' + q.stemZh, q.optsZh.A, q.optsZh.B, q.optsZh.C, q.optsZh.D, meta.count || 1]));
+      download(`${SLUG}_wrong_questions_${new Date().toISOString().slice(0,10)}.csv`, rows.map(r => r.map(c).join(',')).join('\r\n'), 'text/csv;charset=utf-8');
+    };
+    if ('speechSynthesis' in window) speechSynthesis.getVoices();
+    render();
+  </script>
+</body>
+</html>

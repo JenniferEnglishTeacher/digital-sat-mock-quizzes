@@ -1,0 +1,2189 @@
+{
+ "pref": {
+  "1": "Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. ",
+  "2": "A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. ",
+  "3": "At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. ",
+  "4": "A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. ",
+  "5": "In a laboratory study, researchers tracked a process over multiple stages and found that the outcome depended on timing, environment, and the interaction of several variables. Their summary presents the evidence carefully because a small change in wording would alter the precision of the claim and might make the conclusion sound broader than the data support. "
+ },
+ "items": {
+  "o1": {
+   "body": "Former astronaut Ellen Ochoa says that although she doesn't have a definite idea of when it might happen, she _______ that humans will someday need to be able to live in other environments than those found on Earth. This conjecture informs her interest in future research missions to the moon.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "demands",
+    "B": "speculates",
+    "C": "doubts",
+    "D": "establishes"
+   },
+   "filler": null
+  },
+  "1.1": {
+   "body": "Marine ecologist Priya Nair cannot yet prove that the reef will recover, but she _______ that cooler currents may give the coral a brief reprieve.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "hypothesizes",
+    "B": "mandates",
+    "C": "refutes",
+    "D": "codifies"
+   },
+   "filler": "1"
+  },
+  "1.2": {
+   "body": "The historian admits that the missing letters leave gaps in the record, so she _______ that the alliance began earlier than scholars once believed.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "verifies",
+    "B": "conjectures",
+    "C": "nullifies",
+    "D": "commands"
+   },
+   "filler": "2"
+  },
+  "1.3": {
+   "body": "Because the telescope data are preliminary, the astronomer merely _______ that the distant object may be a young galaxy.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "denounces",
+    "B": "posits",
+    "C": "enforces",
+    "D": "solidifies"
+   },
+   "filler": "3"
+  },
+  "1.4": {
+   "body": "The sentence around the blank supplies several clues about duration, evidence, scope, or attitude, so the needed word must fit the logic of the whole passage. The engineer has no exact timeline, but she _______ that floating homes may become common in flood-prone cities.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "eradicates",
+    "B": "obligates",
+    "C": "dismisses",
+    "D": "surmises"
+   },
+   "filler": "4"
+  },
+  "1.5": {
+   "body": "Although the experiment has not been replicated, the team _______ that the protein may slow cellular aging.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "conceals",
+    "B": "forbids",
+    "C": "theorizes",
+    "D": "guarantees"
+   },
+   "filler": "5"
+  },
+  "o2": {
+   "body": "Beginning in the 1950s, Navajo Nation legislator Annie Dodge Wauneka continuously worked to promote public health; this _______ effort involved traveling throughout the vast Navajo homeland and writing a medical dictionary for speakers of Dine bizaad, the Navajo language.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "impartial",
+    "B": "offhand",
+    "C": "persistent",
+    "D": "mandatory"
+   },
+   "filler": null
+  },
+  "2.1": {
+   "body": "For twenty years, the archivist made weekly visits to rural libraries; this _______ effort preserved thousands of local newspapers.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "sustained",
+    "B": "erratic",
+    "C": "incidental",
+    "D": "impartial"
+   },
+   "filler": "1"
+  },
+  "2.2": {
+   "body": "The mayor's _______ campaign to improve bus access continued through three administrations.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "offhand",
+    "B": "ambiguous",
+    "C": "ongoing",
+    "D": "mandatory"
+   },
+   "filler": "2"
+  },
+  "2.3": {
+   "body": "Despite limited funding, the volunteers' _______ work kept the community clinic open.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "unflagging",
+    "B": "inadvertent",
+    "C": "peripheral",
+    "D": "skeptical"
+   },
+   "filler": "3"
+  },
+  "2.4": {
+   "body": "The sentence around the blank supplies several clues about duration, evidence, scope, or attitude, so the needed word must fit the logic of the whole passage. The botanist's _______ monitoring of the seedlings allowed her to notice subtle changes across seasons.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "negligible",
+    "B": "detached",
+    "C": "arbitrary",
+    "D": "assiduous"
+   },
+   "filler": "4"
+  },
+  "2.5": {
+   "body": "A _______ effort by local teachers eventually led to a bilingual reading program.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "haphazard",
+    "B": "concerted",
+    "C": "neutral",
+    "D": "temporary"
+   },
+   "filler": "5"
+  },
+  "o3": {
+   "body": "Following the principles of community-based participatory research, tribal nations and research institutions are equal partners in health studies conducted on reservations. A collaboration between the Crow Tribe and Montana State University _______ this model: tribal citizens worked alongside scientists to design the methodology and continue to assist in data collection.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "circumvents",
+    "B": "eclipses",
+    "C": "fabricates",
+    "D": "exemplifies"
+   },
+   "filler": null
+  },
+  "3.1": {
+   "body": "The museum's new policy _______ inclusive design: every label appears in large print, audio, and two languages.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "circumvents",
+    "B": "contradicts",
+    "C": "obscures",
+    "D": "embodies"
+   },
+   "filler": "1"
+  },
+  "3.2": {
+   "body": "The river cleanup _______ civic cooperation, with students, shop owners, and city workers joining the same project.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "diminishes",
+    "B": "fabricates",
+    "C": "illustrates",
+    "D": "eclipses"
+   },
+   "filler": "2"
+  },
+  "3.3": {
+   "body": "This classroom debate _______ respectful disagreement because students challenge ideas without attacking one another.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "distorts",
+    "B": "epitomizes",
+    "C": "evades",
+    "D": "precludes"
+   },
+   "filler": "3"
+  },
+  "3.4": {
+   "body": "The sentence around the blank supplies several clues about duration, evidence, scope, or attitude, so the needed word must fit the logic of the whole passage. The apprenticeship program _______ experiential learning: trainees master skills by working beside experts.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "demonstrates",
+    "B": "repudiates",
+    "C": "minimizes",
+    "D": "conceals"
+   },
+   "filler": "4"
+  },
+  "3.5": {
+   "body": "The orchestra's collaboration with local composers _______ cultural exchange.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "undermines",
+    "B": "typifies",
+    "C": "misrepresents",
+    "D": "postpones"
+   },
+   "filler": "5"
+  },
+  "o4": {
+   "body": "The parasitic dodder plant increases its reproductive success by flowering at the same time as the host plant it has latched onto. In 2020, Jianqiang Wu and his colleagues determined that the tiny dodder achieves this _______ with its host by absorbing and utilizing a protein the host produces when it is about to flower.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "synchronization",
+    "B": "hibernation",
+    "C": "prediction",
+    "D": "moderation"
+   },
+   "filler": null
+  },
+  "4.1": {
+   "body": "Fireflies in the grove flashed at the same moment, creating a striking _______ visible from the path.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "hibernation",
+    "B": "divergence",
+    "C": "simultaneity",
+    "D": "depletion"
+   },
+   "filler": "1"
+  },
+  "4.2": {
+   "body": "The dancers achieved perfect _______ when their steps landed on the beat together.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "alignment",
+    "B": "moderation",
+    "C": "prediction",
+    "D": "seclusion"
+   },
+   "filler": "2"
+  },
+  "4.3": {
+   "body": "The app improves _______ between audio and video so that speakers' lips match the sound.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "abbreviation",
+    "B": "coordination",
+    "C": "resistance",
+    "D": "erosion"
+   },
+   "filler": "3"
+  },
+  "4.4": {
+   "body": "The sentence around the blank supplies several clues about duration, evidence, scope, or attitude, so the needed word must fit the logic of the whole passage. The two clocks lost their _______ after one battery weakened.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "isolation",
+    "B": "substitution",
+    "C": "permanence",
+    "D": "concordance"
+   },
+   "filler": "4"
+  },
+  "4.5": {
+   "body": "Researchers noticed the whales' breaths rose and fell in _______ as they traveled together.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "opposition",
+    "B": "unison",
+    "C": "moderation",
+    "D": "conjecture"
+   },
+   "filler": "5"
+  },
+  "o5": {
+   "body": "Given that the conditions in binary star systems should make planetary formation nearly impossible, it's not surprising that the existence of planets in such systems has lacked _______ explanation. Roman Rafikov and Kedron Silsbee shed light on the subject when they used modeling to determine a complex set of factors that could support planets' development.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "a discernible",
+    "B": "a straightforward",
+    "C": "an inconclusive",
+    "D": "an unbiased"
+   },
+   "filler": null
+  },
+  "5.1": {
+   "body": "The fossil record is fragmentary, so the species' disappearance has resisted a _______ explanation.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "unambiguous",
+    "B": "visible",
+    "C": "redundant",
+    "D": "biased"
+   },
+   "filler": "1"
+  },
+  "5.2": {
+   "body": "Because the poem shifts speakers twice, its ending does not have a _______ interpretation.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "mandatory",
+    "B": "durable",
+    "C": "partial",
+    "D": "clear-cut"
+   },
+   "filler": "2"
+  },
+  "5.3": {
+   "body": "The disease involves genes, diet, and climate, so researchers warn against seeking a _______ cause.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "decorative",
+    "B": "singular",
+    "C": "temporary",
+    "D": "discernible"
+   },
+   "filler": "3"
+  },
+  "5.4": {
+   "body": "The sentence around the blank supplies several clues about duration, evidence, scope, or attitude, so the needed word must fit the logic of the whole passage. The legal dispute spans three countries, making a _______ resolution unlikely.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "seamless",
+    "B": "measurable",
+    "C": "synthetic",
+    "D": "impartial"
+   },
+   "filler": "4"
+  },
+  "5.5": {
+   "body": "The painting combines myth, biography, and political satire, so critics rarely offer a _______ account of its meaning.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "detached",
+    "B": "mandatory",
+    "C": "unequivocal",
+    "D": "numerical"
+   },
+   "filler": "5"
+  },
+  "o6": {
+   "body": "Seminole/Muscogee director Sterlin Harjo _______ television's tendency to situate Native characters in the distant past: this rejection is evident in his series Reservation Dogs, which revolves around teenagers who dress in contemporary styles and whose dialogue is laced with current slang.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "repudiates",
+    "B": "proclaims",
+    "C": "foretells",
+    "D": "recants"
+   },
+   "filler": null
+  },
+  "6.1": {
+   "body": "The novelist _______ the idea that young readers need simplified themes, filling her books with moral complexity.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "foretells",
+    "B": "proclaims",
+    "C": "challenges",
+    "D": "echoes"
+   },
+   "filler": "1"
+  },
+  "6.2": {
+   "body": "By refusing to use imported materials, the architect _______ the assumption that luxury requires foreign stone.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "recants",
+    "B": "rejects",
+    "C": "predicts",
+    "D": "duplicates"
+   },
+   "filler": "2"
+  },
+  "6.3": {
+   "body": "The director's new film _______ the genre's usual happy ending.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "imitates",
+    "B": "subverts",
+    "C": "confirms",
+    "D": "announces"
+   },
+   "filler": "3"
+  },
+  "6.4": {
+   "body": "The sentence around the blank supplies several clues about duration, evidence, scope, or attitude, so the needed word must fit the logic of the whole passage. The study _______ the old belief that all deep-sea organisms depend directly on sunlight.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "foretells",
+    "B": "preserves",
+    "C": "proclaims",
+    "D": "discredits"
+   },
+   "filler": "4"
+  },
+  "6.5": {
+   "body": "With stark photographs rather than glamorous portraits, the exhibition _______ romanticized views of mining towns.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "counters",
+    "B": "predicts",
+    "C": "celebrates",
+    "D": "recants"
+   },
+   "filler": "5"
+  },
+  "o7": {
+   "body": "In 2007, computer scientist Luis von Ahn was working on converting printed books into a digital format. He found that some words were distorted enough that digital scanners couldn't recognize them, but most humans could easily read them. Based on that finding, von Ahn invented a simple security test to keep automated \"bots\" out of websites. The first version of the reCAPTCHA test asked users to type one known word and one of the many words scanners couldn't recognize. Correct answers proved the users were humans and added data to the book-digitizing project.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To discuss von Ahn's invention of reCAPTCHA",
+    "B": "To explain how digital scanners work",
+    "C": "To call attention to von Ahn's book-digitizing project",
+    "D": "To indicate how popular reCAPTCHA is"
+   },
+   "filler": null
+  },
+  "7.1": {
+   "body": "The examples are not random facts; they work together to shape the reader's understanding of the person, artwork, place, or debate being described. In the 1990s, engineer Maya Chen noticed that bike couriers often knew city shortcuts missing from official maps. She built a mapping app that let couriers submit routes, and the city later used the data to improve bike lanes.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To explain how GPS satellites work",
+    "B": "To describe how Chen's observation led to a mapping tool",
+    "C": "To compare bike couriers with city planners",
+    "D": "To argue that official maps are never useful"
+   },
+   "filler": "1"
+  },
+  "7.2": {
+   "body": "Each sentence adds a layer of context, and the final impression depends on how those details combine. A short passage explains that painter Alma Thomas arranged bright blocks of color to suggest gardens, music, and space exploration, showing how abstract art can still refer to lived experience.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To explain one artist's use of color and reference",
+    "B": "To criticize abstract painting",
+    "C": "To prove that all art should depict gardens",
+    "D": "To list every painting Thomas made"
+   },
+   "filler": "2"
+  },
+  "7.3": {
+   "body": "The final sentence does not shift to an unrelated topic; instead, it clarifies the significance of what came before. The passage moves from description to emphasis, giving readers enough context to see which broader point the author is developing through the specific details. A text describes how a chemist studying mussels developed a strong adhesive for wet surfaces after observing how mussels cling to rocks underwater.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To compare oceans around the world",
+    "B": "To describe the diet of mussels",
+    "C": "To show how a natural process inspired a technology",
+    "D": "To argue that synthetic glue is harmful"
+   },
+   "filler": "3"
+  },
+  "7.4": {
+   "body": "A passage recounts how a librarian used community interviews to rebuild a town's lost archive after a flood.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To explain why floods occur",
+    "B": "To criticize oral interviews",
+    "C": "To compare libraries and museums",
+    "D": "To discuss a method of preserving local history"
+   },
+   "filler": "4"
+  },
+  "7.5": {
+   "body": "A text explains that choreographer Rennie Harris combined street dance with concert-stage traditions, helping audiences view hip-hop as a major theatrical form.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To describe Harris's role in expanding the status of hip-hop dance",
+    "B": "To prove that street dance is older than ballet",
+    "C": "To explain why theaters are expensive",
+    "D": "To list the rules of hip-hop choreography"
+   },
+   "filler": "5"
+  },
+  "o8": {
+   "body": "The following text is from Edith Wharton's 1905 novel The House of Mirth. Lily Bart and a companion are walking through a park.\n\nLily had no real intimacy with nature, but she had a passion for the appropriate and could be keenly sensitive to a scene which was the fitting background of her own sensations. The landscape outspread below her seemed an enlargement of her present mood, and she found something of herself in its calmness, its breadth, its long free reaches. On the nearer slopes the sugar-maples wavered like pyres of light; lower down was a massing of grey orchards, and here and there the lingering green of an oak-grove.",
+   "stem": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+   "opts": {
+    "A": "It creates a detailed image of the physical setting of the scene.",
+    "B": "It establishes that a character is experiencing an internal conflict.",
+    "C": "It makes an assertion that the next sentence then expands on.",
+    "D": "It illustrates an idea that is introduced in the previous sentence."
+   },
+   "filler": null
+  },
+  "8.1": {
+   "body": "The surrounding sentences make the underlined portion part of a deliberate structure, not merely an extra piece of information inserted for background. A passage first states that a character is unusually attentive to sound. The next sentence says she can identify a train before it appears by listening to the rails hum. What is the function of the second sentence?",
+   "stem": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+   "opts": {
+    "A": "It shifts the topic to train engineering.",
+    "B": "It contradicts the first sentence.",
+    "C": "It summarizes the whole plot.",
+    "D": "It gives an example of the trait introduced in the first sentence."
+   },
+   "filler": "1"
+  },
+  "8.2": {
+   "body": "The underlined sentence therefore has to be interpreted through its relationship to the sentences around it. A research summary states that a drug may reduce migraines. The next sentence explains that scientists compared weekly headache reports from 800 patients taking the drug with reports from a placebo group. What is the function of the second sentence?",
+   "stem": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+   "opts": {
+    "A": "It describes part of the study's method.",
+    "B": "It introduces an unrelated example.",
+    "C": "It presents an opposing theory.",
+    "D": "It states the final result."
+   },
+   "filler": "2"
+  },
+  "8.3": {
+   "body": "It may introduce an example, qualify an earlier statement, identify a contrast, or prepare readers for the explanation that follows. A poem excerpt opens by saying the city wakes slowly. The next line describes shutters lifting, carts rattling, and bakers lighting ovens. What is the function of the second line?",
+   "stem": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+   "opts": {
+    "A": "It defines a technical term.",
+    "B": "It provides images that develop the opening idea.",
+    "C": "It explains the speaker's childhood.",
+    "D": "It rejects the opening idea."
+   },
+   "filler": "3"
+  },
+  "8.4": {
+   "body": "The function of that sentence becomes clear only when the whole paragraph is considered as a sequence. A paragraph claims that a sculpture invites movement around it. The following sentence notes that different shapes appear as viewers circle the work. What is the function of the following sentence?",
+   "stem": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+   "opts": {
+    "A": "It supports the claim with a concrete observation.",
+    "B": "It offers a counterargument.",
+    "C": "It introduces the sculptor's biography.",
+    "D": "It changes the subject to painting."
+   },
+   "filler": "4"
+  },
+  "8.5": {
+   "body": "The underlined sentence occupies a turning point between the opening information and the conclusion, so its role depends on both what precedes it and what follows it. A science passage says the team's conclusion was unexpected. The next sentence says previous models had predicted the opposite result. What is the function of the next sentence?",
+   "stem": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+   "opts": {
+    "A": "It gives the study's sample size.",
+    "B": "It provides a quotation from a participant.",
+    "C": "It explains why the conclusion was surprising.",
+    "D": "It lists materials used in the experiment."
+   },
+   "filler": "5"
+  },
+  "o9": {
+   "body": "A study by a team including finance professor Madhu Veeraraghavan suggests that exposure to sunshine during the workday can lead to overly optimistic behavior. Using data spanning from 1994 to 2010 for a set of US companies, the team compared over 29,000 annual earnings forecasts to the actual earnings later reported by those companies. The team found that the greater the exposure to sunshine at work in the two weeks before a manager submitted an earnings forecast, the more the manager's forecast exceeded what the company actually earned that year.",
+   "stem": "Which choice best states the function of the underlined sentence in the overall structure of the text?",
+   "opts": {
+    "A": "To summarize the results of the team's analysis",
+    "B": "To present a specific example that illustrates the study's findings",
+    "C": "To explain part of the methodology used in the team's study",
+    "D": "To call out a challenge the team faced in conducting its analysis"
+   },
+   "filler": null
+  },
+  "9.1": {
+   "body": "The surrounding sentences make the underlined portion part of a deliberate structure, not merely an extra piece of information inserted for background. A passage first states that a character is unusually attentive to sound. The next sentence says she can identify a train before it appears by listening to the rails hum. What is the function of the second sentence?",
+   "stem": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+   "opts": {
+    "A": "It gives an example of the trait introduced in the first sentence.",
+    "B": "It summarizes the whole plot.",
+    "C": "It contradicts the first sentence.",
+    "D": "It shifts the topic to train engineering."
+   },
+   "filler": "1"
+  },
+  "9.2": {
+   "body": "The underlined sentence therefore has to be interpreted through its relationship to the sentences around it. A research summary states that a drug may reduce migraines. The next sentence explains that scientists compared weekly headache reports from 800 patients taking the drug with reports from a placebo group. What is the function of the second sentence?",
+   "stem": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+   "opts": {
+    "A": "It introduces an unrelated example.",
+    "B": "It describes part of the study's method.",
+    "C": "It presents an opposing theory.",
+    "D": "It states the final result."
+   },
+   "filler": "2"
+  },
+  "9.3": {
+   "body": "It may introduce an example, qualify an earlier statement, identify a contrast, or prepare readers for the explanation that follows. A poem excerpt opens by saying the city wakes slowly. The next line describes shutters lifting, carts rattling, and bakers lighting ovens. What is the function of the second line?",
+   "stem": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+   "opts": {
+    "A": "It rejects the opening idea.",
+    "B": "It explains the speaker's childhood.",
+    "C": "It defines a technical term.",
+    "D": "It provides images that develop the opening idea."
+   },
+   "filler": "3"
+  },
+  "9.4": {
+   "body": "The function of that sentence becomes clear only when the whole paragraph is considered as a sequence. A paragraph claims that a sculpture invites movement around it. The following sentence notes that different shapes appear as viewers circle the work. What is the function of the following sentence?",
+   "stem": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+   "opts": {
+    "A": "It offers a counterargument.",
+    "B": "It changes the subject to painting.",
+    "C": "It introduces the sculptor's biography.",
+    "D": "It supports the claim with a concrete observation."
+   },
+   "filler": "4"
+  },
+  "9.5": {
+   "body": "The underlined sentence occupies a turning point between the opening information and the conclusion, so its role depends on both what precedes it and what follows it. A science passage says the team's conclusion was unexpected. The next sentence says previous models had predicted the opposite result. What is the function of the next sentence?",
+   "stem": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+   "opts": {
+    "A": "It provides a quotation from a participant.",
+    "B": "It lists materials used in the experiment.",
+    "C": "It explains why the conclusion was surprising.",
+    "D": "It gives the study's sample size."
+   },
+   "filler": "5"
+  },
+  "o10": {
+   "body": "The following text is adapted from Edith Nesbit's 1906 novel The Railway Children.\n\nMother did not spend all her time in paying dull visits to dull ladies, and sitting dully at home waiting for dull ladies to pay visits to her. She was almost always there, ready to play with the children, and read to them, and help them to do their home-lessons. Besides this she used to write stories for them while they were at school, and read them aloud after tea, and she always made up funny pieces of poetry for their birthdays and for other great occasions.\n\nAccording to the text, what is true about Mother?",
+   "stem": null,
+   "opts": {
+    "A": "She wishes that more ladies would visit her.",
+    "B": "Birthdays are her favorite special occasion.",
+    "C": "She creates stories and poems for her children.",
+    "D": "Reading to her children is her favorite activity."
+   },
+   "filler": null
+  },
+  "10.1": {
+   "body": "The examples are not random facts; they work together to shape the reader's understanding of the person, artwork, place, or debate being described. A passage says that a poet describes the river as both a road and a mirror, suggesting that travel also leads to self-knowledge.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "The river represents movement and reflection.",
+    "B": "The river is unsafe for travelers.",
+    "C": "The poem is mainly about farming.",
+    "D": "The poet dislikes mirrors."
+   },
+   "filler": "1"
+  },
+  "10.2": {
+   "body": "Each sentence adds a layer of context, and the final impression depends on how those details combine. A student claims that a diary has historical value because it records ordinary workers' daily routines. Which finding best supports the claim?",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "The writer sometimes misspelled common words.",
+    "B": "The diary describes meals, wages, tools, and conversations in a textile mill.",
+    "C": "The diary's cover was made of expensive leather.",
+    "D": "The diary was sold at auction in 1998."
+   },
+   "filler": "2"
+  },
+  "10.3": {
+   "body": "The final sentence does not shift to an unrelated topic; instead, it clarifies the significance of what came before. The passage moves from description to emphasis, giving readers enough context to see which broader point the author is developing through the specific details. A scientist hypothesizes that a beetle's bright color warns predators that it tastes bitter. Which finding would most directly support the hypothesis?",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "The beetle's wings are shorter than its body.",
+    "B": "The beetle lives in several types of forest.",
+    "C": "Some beetles are active at night.",
+    "D": "Birds avoid models painted the beetle's color after tasting one real beetle."
+   },
+   "filler": "3"
+  },
+  "10.4": {
+   "body": "A text states that an ancient city's population grew rapidly even though rainfall declined. Archaeologists found new canals from the same period, suggesting that _______",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "rainfall records from the period are always inaccurate.",
+    "B": "the city had no need for agriculture.",
+    "C": "irrigation may have helped the city support more people despite drier weather.",
+    "D": "the population must have moved away immediately."
+   },
+   "filler": "4"
+  },
+  "10.5": {
+   "body": "A critic argues that strong reviews address possible objections instead of ignoring them. Therefore, a reviewer who discusses a film's weaknesses before defending it may _______",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "prove that all viewers liked the film.",
+    "B": "avoid forming any opinion about the film.",
+    "C": "make the positive evaluation more persuasive.",
+    "D": "remove the need to watch the film."
+   },
+   "filler": "5"
+  },
+  "o11": {
+   "body": "The following text is from Maggie Pogue Johnson's 1910 poem \"Poet of Our Race.\" In this poem, the speaker is addressing Paul Laurence Dunbar, a Black author.\n\nThou, with stroke of mighty pen,\nHast told of joy and mirth,\nAnd read the hearts and souls of men\nAs cradled from their birth.\nThe language of the flowers,\nThou hast read them all,\nAnd e'en the little brook\nResponded to thy call.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To praise a certain writer for being especially perceptive regarding people and nature",
+    "B": "To establish that a certain writer has read extensively about a variety of topics",
+    "C": "To call attention to a certain writer's careful and elaborately detailed writing process",
+    "D": "To recount fond memories of an afternoon spent in nature with a certain writer"
+   },
+   "filler": null
+  },
+  "11.1": {
+   "body": "The examples are not random facts; they work together to shape the reader's understanding of the person, artwork, place, or debate being described. A passage says that a poet describes the river as both a road and a mirror, suggesting that travel also leads to self-knowledge.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "The poet dislikes mirrors.",
+    "B": "The poem is mainly about farming.",
+    "C": "The river represents movement and reflection.",
+    "D": "The river is unsafe for travelers."
+   },
+   "filler": "1"
+  },
+  "11.2": {
+   "body": "Each sentence adds a layer of context, and the final impression depends on how those details combine. A student claims that a diary has historical value because it records ordinary workers' daily routines. Which finding best supports the claim?",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "The diary describes meals, wages, tools, and conversations in a textile mill.",
+    "B": "The writer sometimes misspelled common words.",
+    "C": "The diary was sold at auction in 1998.",
+    "D": "The diary's cover was made of expensive leather."
+   },
+   "filler": "2"
+  },
+  "11.3": {
+   "body": "The final sentence does not shift to an unrelated topic; instead, it clarifies the significance of what came before. The passage moves from description to emphasis, giving readers enough context to see which broader point the author is developing through the specific details. A scientist hypothesizes that a beetle's bright color warns predators that it tastes bitter. Which finding would most directly support the hypothesis?",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "Some beetles are active at night.",
+    "B": "The beetle's wings are shorter than its body.",
+    "C": "The beetle lives in several types of forest.",
+    "D": "Birds avoid models painted the beetle's color after tasting one real beetle."
+   },
+   "filler": "3"
+  },
+  "11.4": {
+   "body": "A text states that an ancient city's population grew rapidly even though rainfall declined. Archaeologists found new canals from the same period, suggesting that _______",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "the population must have moved away immediately.",
+    "B": "irrigation may have helped the city support more people despite drier weather.",
+    "C": "the city had no need for agriculture.",
+    "D": "rainfall records from the period are always inaccurate."
+   },
+   "filler": "4"
+  },
+  "11.5": {
+   "body": "A critic argues that strong reviews address possible objections instead of ignoring them. Therefore, a reviewer who discusses a film's weaknesses before defending it may _______",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "make the positive evaluation more persuasive.",
+    "B": "prove that all viewers liked the film.",
+    "C": "remove the need to watch the film.",
+    "D": "avoid forming any opinion about the film."
+   },
+   "filler": "5"
+  },
+  "o12": {
+   "body": "\"To You\" is an 1856 poem by Walt Whitman. In the poem, Whitman suggests that readers, whom he addresses directly, have not fully understood themselves, writing, _______\n\nWhich quotation from \"To You\" most effectively illustrates the claim?",
+   "stem": null,
+   "opts": {
+    "A": "\"You have not known what you are, you have slumber'd upon yourself / all your life, / Your eyelids have been the same as closed most of the time.\"",
+    "B": "\"These immense meadows, these interminable rivers, you are immense / and interminable as they.\"",
+    "C": "\"I should have made my way straight to you long ago, / I should have blabb'd nothing but you, I should have chanted nothing / but you.\"",
+    "D": "\"I will leave all and come and make the hymns of you, / None has understood you, but I understand you.\""
+   },
+   "filler": null
+  },
+  "12.1": {
+   "body": "Several facts are relevant to the general topic, but only one would directly strengthen the exact assertion being made, including any limits placed on time period, method, comparison, or cause. A passage says that a poet describes the river as both a road and a mirror, suggesting that travel also leads to self-knowledge.",
+   "stem": "Which choice most directly supports the claim or hypothesis?",
+   "opts": {
+    "A": "The poet dislikes mirrors.",
+    "B": "The river is unsafe for travelers.",
+    "C": "The poem is mainly about farming.",
+    "D": "The river represents movement and reflection."
+   },
+   "filler": "1"
+  },
+  "12.2": {
+   "body": "Evidence that merely sounds impressive would not be enough; the useful finding must connect clearly to the specific reasoning in the claim and make that reasoning more convincing. A student claims that a diary has historical value because it records ordinary workers' daily routines. Which finding best supports the claim?",
+   "stem": "Which choice most directly supports the claim or hypothesis?",
+   "opts": {
+    "A": "The diary was sold at auction in 1998.",
+    "B": "The diary describes meals, wages, tools, and conversations in a textile mill.",
+    "C": "The writer sometimes misspelled common words.",
+    "D": "The diary's cover was made of expensive leather."
+   },
+   "filler": "2"
+  },
+  "12.3": {
+   "body": "Some details describe the topic accurately but do not address the point at issue. The strongest evidence is the option that narrows the relationship between the claim and the data, showing why the author's interpretation is more plausible than an alternative explanation. A scientist hypothesizes that a beetle's bright color warns predators that it tastes bitter. Which finding would most directly support the hypothesis?",
+   "stem": "Which choice most directly supports the claim or hypothesis?",
+   "opts": {
+    "A": "The beetle lives in several types of forest.",
+    "B": "The beetle's wings are shorter than its body.",
+    "C": "Some beetles are active at night.",
+    "D": "Birds avoid models painted the beetle's color after tasting one real beetle."
+   },
+   "filler": "3"
+  },
+  "12.4": {
+   "body": "A fact can be true and still fail to support the claim if it concerns the wrong population, time frame, feature, or causal relationship; the best support aligns with the claim's exact logic. A text states that an ancient city's population grew rapidly even though rainfall declined. Archaeologists found new canals from the same period, suggesting that _______",
+   "stem": "Which choice most directly supports the claim or hypothesis?",
+   "opts": {
+    "A": "the city had no need for agriculture.",
+    "B": "the population must have moved away immediately.",
+    "C": "irrigation may have helped the city support more people despite drier weather.",
+    "D": "rainfall records from the period are always inaccurate."
+   },
+   "filler": "4"
+  },
+  "12.5": {
+   "body": "The claim depends on a chain of reasoning that links an observation to a conclusion. The supporting evidence must preserve that chain, supplying a detail that would make the conclusion more likely without overstating what the available information can prove. A critic argues that strong reviews address possible objections instead of ignoring them. Therefore, a reviewer who discusses a film's weaknesses before defending it may _______",
+   "stem": "Which choice most directly supports the claim or hypothesis?",
+   "opts": {
+    "A": "make the positive evaluation more persuasive.",
+    "B": "prove that all viewers liked the film.",
+    "C": "remove the need to watch the film.",
+    "D": "avoid forming any opinion about the film."
+   },
+   "filler": "5"
+  },
+  "o13": {
+   "body": "Born in 1891 to a Quechua-speaking family in the Andes Mountains of Peru, Martin Chambi is today considered to be one of the most renowned figures of Latin American photography. In a paper for an art history class, a student claims that Chambi's photographs have considerable ethnographic value - in his work, Chambi was able to capture diverse elements of Peruvian society, representing his subjects with both dignity and authenticity.\n\nWhich finding, if true, would most directly support the student's claim?",
+   "stem": null,
+   "opts": {
+    "A": "Chambi took many commissioned portraits of wealthy Peruvians, but he also produced hundreds of images carefully documenting the peoples, sites, and customs of Indigenous communities of the Andes.",
+    "B": "Chambi's photographs demonstrate a high level of technical skill, as seen in his strategic use of illumination to create dramatic light and shadow contrasts.",
+    "C": "During his lifetime, Chambi was known and celebrated both within and outside his native Peru, as his work was published in places like Argentina, Spain, and Mexico.",
+    "D": "Some of the peoples and places Chambi photographed had long been popular subjects for Peruvian photographers."
+   },
+   "filler": null
+  },
+  "13.1": {
+   "body": "Several facts are relevant to the general topic, but only one would directly strengthen the exact assertion being made, including any limits placed on time period, method, comparison, or cause. A passage says that a poet describes the river as both a road and a mirror, suggesting that travel also leads to self-knowledge.",
+   "stem": "Which choice most directly supports the claim or hypothesis?",
+   "opts": {
+    "A": "The river is unsafe for travelers.",
+    "B": "The poet dislikes mirrors.",
+    "C": "The river represents movement and reflection.",
+    "D": "The poem is mainly about farming."
+   },
+   "filler": "1"
+  },
+  "13.2": {
+   "body": "Evidence that merely sounds impressive would not be enough; the useful finding must connect clearly to the specific reasoning in the claim and make that reasoning more convincing. A student claims that a diary has historical value because it records ordinary workers' daily routines. Which finding best supports the claim?",
+   "stem": "Which choice most directly supports the claim or hypothesis?",
+   "opts": {
+    "A": "The diary's cover was made of expensive leather.",
+    "B": "The diary was sold at auction in 1998.",
+    "C": "The writer sometimes misspelled common words.",
+    "D": "The diary describes meals, wages, tools, and conversations in a textile mill."
+   },
+   "filler": "2"
+  },
+  "13.3": {
+   "body": "Some details describe the topic accurately but do not address the point at issue. The strongest evidence is the option that narrows the relationship between the claim and the data, showing why the author's interpretation is more plausible than an alternative explanation. A scientist hypothesizes that a beetle's bright color warns predators that it tastes bitter. Which finding would most directly support the hypothesis?",
+   "stem": "Which choice most directly supports the claim or hypothesis?",
+   "opts": {
+    "A": "Birds avoid models painted the beetle's color after tasting one real beetle.",
+    "B": "The beetle lives in several types of forest.",
+    "C": "The beetle's wings are shorter than its body.",
+    "D": "Some beetles are active at night."
+   },
+   "filler": "3"
+  },
+  "13.4": {
+   "body": "A fact can be true and still fail to support the claim if it concerns the wrong population, time frame, feature, or causal relationship; the best support aligns with the claim's exact logic. A text states that an ancient city's population grew rapidly even though rainfall declined. Archaeologists found new canals from the same period, suggesting that _______",
+   "stem": "Which choice most directly supports the claim or hypothesis?",
+   "opts": {
+    "A": "the population must have moved away immediately.",
+    "B": "the city had no need for agriculture.",
+    "C": "rainfall records from the period are always inaccurate.",
+    "D": "irrigation may have helped the city support more people despite drier weather."
+   },
+   "filler": "4"
+  },
+  "13.5": {
+   "body": "The claim depends on a chain of reasoning that links an observation to a conclusion. The supporting evidence must preserve that chain, supplying a detail that would make the conclusion more likely without overstating what the available information can prove. A critic argues that strong reviews address possible objections instead of ignoring them. Therefore, a reviewer who discusses a film's weaknesses before defending it may _______",
+   "stem": "Which choice most directly supports the claim or hypothesis?",
+   "opts": {
+    "A": "avoid forming any opinion about the film.",
+    "B": "make the positive evaluation more persuasive.",
+    "C": "prove that all viewers liked the film.",
+    "D": "remove the need to watch the film."
+   },
+   "filler": "5"
+  },
+  "o14": {
+   "body": "A table lists credited film output for James Young Deer, Dark Cloud, Edwin Carewe, and Lillian St. Cyr. It shows, among other credits, Lillian St. Cyr with 66 actor credits and Edwin Carewe with 58 director credits. The text says many records from the era have been lost, so the counts should be taken as bare minimums rather than totals; it's entirely possible, for example, that _______",
+   "stem": "Which choice most effectively uses data from the table to complete the example?",
+   "opts": {
+    "A": "Dark Cloud acted in significantly fewer films than did Lillian St. Cyr, who is credited with 66 performances.",
+    "B": "Edwin Carewe's 47 credited acting roles includes only films made after 1934.",
+    "C": "Lillian St. Cyr acted in far more than 66 films and Edwin Carewe directed more than 58.",
+    "D": "James Young Deer actually directed 33 films and acted in only 10."
+   },
+   "filler": null
+  },
+  "14.1": {
+   "body": "A table shows that 68% of seedlings near shrubs survived, compared with 22% in open ground.",
+   "stem": "Which choice most effectively uses or describes data from the table?",
+   "opts": {
+    "A": "Seedling survival was much higher near shrubs than in open ground.",
+    "B": "The table includes two habitats.",
+    "C": "Some seedlings grew in open ground.",
+    "D": "Shrubs were counted before seedlings."
+   },
+   "filler": "1"
+  },
+  "14.2": {
+   "body": "A useful interpretation of the data will do more than repeat one value from the table. It will identify the relevant relationship among values, such as which figure is highest, which category changes most, or which comparison fits the claim being made. A table lists known plays by three writers: Lee 12, Ortiz 9, and Khan 15. The text says many records are missing, so these numbers are minimums. Which completion uses the table effectively?",
+   "stem": "Which choice most effectively uses or describes data from the table?",
+   "opts": {
+    "A": "The table proves no records are missing.",
+    "B": "Khan may have written more than 15 plays, and Lee more than 12.",
+    "C": "Ortiz definitely wrote exactly 9 plays.",
+    "D": "Lee wrote fewer plays than no other writer."
+   },
+   "filler": "2"
+  },
+  "14.3": {
+   "body": "The evidence depends on careful attention to percentages, totals, rankings, and whether a number represents a minimum, maximum, average, or exact count. Some options may quote accurate figures while still drawing a conclusion that the table does not support. A table shows museum visits rose from 14,000 to 21,000 after free Friday evenings began.",
+   "stem": "Which choice most effectively uses or describes data from the table?",
+   "opts": {
+    "A": "The museum is open on Fridays.",
+    "B": "The table lists two years.",
+    "C": "Some visitors came on weekends.",
+    "D": "Visits increased by 7,000 after the program began."
+   },
+   "filler": "3"
+  },
+  "14.4": {
+   "body": "The direction of the evidence matters: higher versus lower, earlier versus later, more frequent versus less frequent, or total versus proportional. A table shows that four bird species nested more often in restored marshes than in unrestored marshes.",
+   "stem": "Which choice most effectively uses or describes data from the table?",
+   "opts": {
+    "A": "The marshes were near a river.",
+    "B": "Each species had more nests in restored marshes.",
+    "C": "One species had only 6 nests total.",
+    "D": "The study counted birds in spring."
+   },
+   "filler": "4"
+  },
+  "14.5": {
+   "body": "The table should be interpreted as part of the argument, not as an independent math exercise. The strongest completion uses the data to clarify the claim while avoiding comparisons that ignore a category, reverse a trend, or exaggerate the size of a difference. A table shows that students using spaced practice remembered 82% of words, while those cramming remembered 49%.",
+   "stem": "Which choice most effectively uses or describes data from the table?",
+   "opts": {
+    "A": "The cramming group took the same test.",
+    "B": "Some words were difficult.",
+    "C": "The spaced-practice group remembered a larger share of words.",
+    "D": "Both groups studied vocabulary."
+   },
+   "filler": "5"
+  },
+  "o15": {
+   "body": "A table shows juvenile plants of five species found on bare ground and in patches of vegetation. For each species, about 52% to 60% of juvenile plants were found in vegetation patches. Researchers calculated that if plants were randomly distributed, only about 15% would be in patches of vegetation. They claim that plants of these species that grow close to other plants gain an advantage at an early developmental stage.",
+   "stem": "Which choice best describes data from the table that support the researchers' claim?",
+   "opts": {
+    "A": "For all five species, less than 75% of juvenile plants were growing in patches of vegetation.",
+    "B": "The species with the greatest number of juvenile plants growing in patches of vegetation was H. stoechas.",
+    "C": "For T. libanitis and T. moroderi, the percentage of juvenile plants growing in patches of vegetation was less than what would be expected if plants were randomly distributed.",
+    "D": "For each species, the percentage of juvenile plants growing in patches of vegetation was substantially higher than what would be expected if plants were randomly distributed."
+   },
+   "filler": null
+  },
+  "15.1": {
+   "body": "A table shows that 68% of seedlings near shrubs survived, compared with 22% in open ground.",
+   "stem": "Which choice most effectively uses or describes data from the table?",
+   "opts": {
+    "A": "Seedling survival was much higher near shrubs than in open ground.",
+    "B": "Shrubs were counted before seedlings.",
+    "C": "Some seedlings grew in open ground.",
+    "D": "The table includes two habitats."
+   },
+   "filler": "1"
+  },
+  "15.2": {
+   "body": "A useful interpretation of the data will do more than repeat one value from the table. It will identify the relevant relationship among values, such as which figure is highest, which category changes most, or which comparison fits the claim being made. A table lists known plays by three writers: Lee 12, Ortiz 9, and Khan 15. The text says many records are missing, so these numbers are minimums. Which completion uses the table effectively?",
+   "stem": "Which choice most effectively uses or describes data from the table?",
+   "opts": {
+    "A": "Ortiz definitely wrote exactly 9 plays.",
+    "B": "Lee wrote fewer plays than no other writer.",
+    "C": "Khan may have written more than 15 plays, and Lee more than 12.",
+    "D": "The table proves no records are missing."
+   },
+   "filler": "2"
+  },
+  "15.3": {
+   "body": "The evidence depends on careful attention to percentages, totals, rankings, and whether a number represents a minimum, maximum, average, or exact count. Some options may quote accurate figures while still drawing a conclusion that the table does not support. A table shows museum visits rose from 14,000 to 21,000 after free Friday evenings began.",
+   "stem": "Which choice most effectively uses or describes data from the table?",
+   "opts": {
+    "A": "The museum is open on Fridays.",
+    "B": "Visits increased by 7,000 after the program began.",
+    "C": "Some visitors came on weekends.",
+    "D": "The table lists two years."
+   },
+   "filler": "3"
+  },
+  "15.4": {
+   "body": "The direction of the evidence matters: higher versus lower, earlier versus later, more frequent versus less frequent, or total versus proportional. A table shows that four bird species nested more often in restored marshes than in unrestored marshes.",
+   "stem": "Which choice most effectively uses or describes data from the table?",
+   "opts": {
+    "A": "Each species had more nests in restored marshes.",
+    "B": "The marshes were near a river.",
+    "C": "One species had only 6 nests total.",
+    "D": "The study counted birds in spring."
+   },
+   "filler": "4"
+  },
+  "15.5": {
+   "body": "The table should be interpreted as part of the argument, not as an independent math exercise. The strongest completion uses the data to clarify the claim while avoiding comparisons that ignore a category, reverse a trend, or exaggerate the size of a difference. A table shows that students using spaced practice remembered 82% of words, while those cramming remembered 49%.",
+   "stem": "Which choice most effectively uses or describes data from the table?",
+   "opts": {
+    "A": "Some words were difficult.",
+    "B": "Both groups studied vocabulary.",
+    "C": "The cramming group took the same test.",
+    "D": "The spaced-practice group remembered a larger share of words."
+   },
+   "filler": "5"
+  },
+  "o16": {
+   "body": "In the mountains of Brazil, Barbacenia tomentosa and Barbacenia macrantha establish themselves on soilless, nutrient-poor patches of quartzite rock. Researchers found that the plants' roots grow directly into quartzite and have fine hairs that secrete malic and citric acids. The researchers hypothesize that the plants depend on dissolving underlying rock with these acids because doing so creates channels for continued growth and releases phosphates that provide phosphorus.\n\nWhich finding, if true, would most directly support the researchers' hypothesis?",
+   "stem": null,
+   "opts": {
+    "A": "Other species in the Velloziaceae family are found in terrains with more soil but have root structures similar to those of B. tomentosa and B. macrantha.",
+    "B": "Though B. tomentosa and B. macrantha both secrete citric and malic acids, each species produces the acids in different proportions.",
+    "C": "The roots of B. tomentosa and B. macrantha carve new entry points into rocks even when cracks in the surface are readily available.",
+    "D": "B. tomentosa and B. macrantha thrive even when transferred to the surfaces of rocks that do not contain phosphates."
+   },
+   "filler": null
+  },
+  "16.1": {
+   "body": "Several facts are relevant to the general topic, but only one would directly strengthen the exact assertion being made, including any limits placed on time period, method, comparison, or cause. A passage says that a poet describes the river as both a road and a mirror, suggesting that travel also leads to self-knowledge.",
+   "stem": "Which choice most directly supports the claim or hypothesis?",
+   "opts": {
+    "A": "The poet dislikes mirrors.",
+    "B": "The poem is mainly about farming.",
+    "C": "The river represents movement and reflection.",
+    "D": "The river is unsafe for travelers."
+   },
+   "filler": "1"
+  },
+  "16.2": {
+   "body": "Evidence that merely sounds impressive would not be enough; the useful finding must connect clearly to the specific reasoning in the claim and make that reasoning more convincing. A student claims that a diary has historical value because it records ordinary workers' daily routines. Which finding best supports the claim?",
+   "stem": "Which choice most directly supports the claim or hypothesis?",
+   "opts": {
+    "A": "The diary was sold at auction in 1998.",
+    "B": "The diary's cover was made of expensive leather.",
+    "C": "The diary describes meals, wages, tools, and conversations in a textile mill.",
+    "D": "The writer sometimes misspelled common words."
+   },
+   "filler": "2"
+  },
+  "16.3": {
+   "body": "Some details describe the topic accurately but do not address the point at issue. The strongest evidence is the option that narrows the relationship between the claim and the data, showing why the author's interpretation is more plausible than an alternative explanation. A scientist hypothesizes that a beetle's bright color warns predators that it tastes bitter. Which finding would most directly support the hypothesis?",
+   "stem": "Which choice most directly supports the claim or hypothesis?",
+   "opts": {
+    "A": "Some beetles are active at night.",
+    "B": "The beetle lives in several types of forest.",
+    "C": "The beetle's wings are shorter than its body.",
+    "D": "Birds avoid models painted the beetle's color after tasting one real beetle."
+   },
+   "filler": "3"
+  },
+  "16.4": {
+   "body": "A fact can be true and still fail to support the claim if it concerns the wrong population, time frame, feature, or causal relationship; the best support aligns with the claim's exact logic. A text states that an ancient city's population grew rapidly even though rainfall declined. Archaeologists found new canals from the same period, suggesting that _______",
+   "stem": "Which choice most directly supports the claim or hypothesis?",
+   "opts": {
+    "A": "rainfall records from the period are always inaccurate.",
+    "B": "irrigation may have helped the city support more people despite drier weather.",
+    "C": "the population must have moved away immediately.",
+    "D": "the city had no need for agriculture."
+   },
+   "filler": "4"
+  },
+  "16.5": {
+   "body": "The claim depends on a chain of reasoning that links an observation to a conclusion. The supporting evidence must preserve that chain, supplying a detail that would make the conclusion more likely without overstating what the available information can prove. A critic argues that strong reviews address possible objections instead of ignoring them. Therefore, a reviewer who discusses a film's weaknesses before defending it may _______",
+   "stem": "Which choice most directly supports the claim or hypothesis?",
+   "opts": {
+    "A": "make the positive evaluation more persuasive.",
+    "B": "remove the need to watch the film.",
+    "C": "avoid forming any opinion about the film.",
+    "D": "prove that all viewers liked the film."
+   },
+   "filler": "5"
+  },
+  "o17": {
+   "body": "Herbivorous sauropod dinosaurs could grow more than 100 feet long and weigh up to 80 tons, and some researchers have attributed the evolution of sauropods to such massive sizes to increased plant production resulting from high levels of atmospheric carbon dioxide during the Mesozoic era. However, there is no evidence of significant spikes in carbon dioxide levels coinciding with relevant periods in sauropod evolution, suggesting that _______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "fluctuations in atmospheric carbon dioxide affected different sauropod lineages differently.",
+    "B": "the evolution of larger body sizes in sauropods did not depend on increased atmospheric carbon dioxide.",
+    "C": "atmospheric carbon dioxide was higher when the largest known sauropods lived than it was when the first sauropods appeared.",
+    "D": "sauropods probably would not have evolved to such immense sizes if atmospheric carbon dioxide had been even slightly higher."
+   },
+   "filler": null
+  },
+  "17.1": {
+   "body": "The final sentence must connect the evidence to the claim while avoiding a conclusion that goes beyond the information provided. A passage says that a poet describes the river as both a road and a mirror, suggesting that travel also leads to self-knowledge.",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "The river is unsafe for travelers.",
+    "B": "The poem is mainly about farming.",
+    "C": "The river represents movement and reflection.",
+    "D": "The poet dislikes mirrors."
+   },
+   "filler": "1"
+  },
+  "17.2": {
+   "body": "The details establish a narrow evidentiary path, and the final statement should stay within that path instead of making a broader or more dramatic claim. A student claims that a diary has historical value because it records ordinary workers' daily routines. Which finding best supports the claim?",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "The diary describes meals, wages, tools, and conversations in a textile mill.",
+    "B": "The diary was sold at auction in 1998.",
+    "C": "The writer sometimes misspelled common words.",
+    "D": "The diary's cover was made of expensive leather."
+   },
+   "filler": "2"
+  },
+  "17.3": {
+   "body": "A completion that ignores that shift would distort the argument, while a completion that follows it will show how the new evidence affects the earlier idea. A scientist hypothesizes that a beetle's bright color warns predators that it tastes bitter. Which finding would most directly support the hypothesis?",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "The beetle lives in several types of forest.",
+    "B": "Birds avoid models painted the beetle's color after tasting one real beetle.",
+    "C": "The beetle's wings are shorter than its body.",
+    "D": "Some beetles are active at night."
+   },
+   "filler": "3"
+  },
+  "17.4": {
+   "body": "The final inference must account for each important detail, including any uncertainty, comparison, exception, or limitation introduced earlier. A text states that an ancient city's population grew rapidly even though rainfall declined. Archaeologists found new canals from the same period, suggesting that _______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the city had no need for agriculture.",
+    "B": "the population must have moved away immediately.",
+    "C": "rainfall records from the period are always inaccurate.",
+    "D": "irrigation may have helped the city support more people despite drier weather."
+   },
+   "filler": "4"
+  },
+  "17.5": {
+   "body": "A critic argues that strong reviews address possible objections instead of ignoring them. Therefore, a reviewer who discusses a film's weaknesses before defending it may _______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "prove that all viewers liked the film.",
+    "B": "avoid forming any opinion about the film.",
+    "C": "make the positive evaluation more persuasive.",
+    "D": "remove the need to watch the film."
+   },
+   "filler": "5"
+  },
+  "o18": {
+   "body": "In documents called judicial opinions, judges explain the reasoning behind their legal rulings, and in those explanations they sometimes cite and discuss historical and contemporary philosophers. Legal scholar and philosopher Anita L. Allen argues that while judges are naturally inclined to mention philosophers whose views align with their own positions, the strongest judicial opinions consider and rebut potential objections; discussing philosophers whose views conflict with judges' views could therefore _______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "allow judges to craft judicial opinions without needing to consult philosophical works.",
+    "B": "help judges improve the arguments they put forward in their judicial opinions.",
+    "C": "make judicial opinions more comprehensible to readers without legal or philosophical training.",
+    "D": "bring judicial opinions in line with views that are broadly held among philosophers."
+   },
+   "filler": null
+  },
+  "18.1": {
+   "body": "The final sentence must connect the evidence to the claim while avoiding a conclusion that goes beyond the information provided. A passage says that a poet describes the river as both a road and a mirror, suggesting that travel also leads to self-knowledge.",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "The poet dislikes mirrors.",
+    "B": "The river represents movement and reflection.",
+    "C": "The poem is mainly about farming.",
+    "D": "The river is unsafe for travelers."
+   },
+   "filler": "1"
+  },
+  "18.2": {
+   "body": "The details establish a narrow evidentiary path, and the final statement should stay within that path instead of making a broader or more dramatic claim. A student claims that a diary has historical value because it records ordinary workers' daily routines. Which finding best supports the claim?",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "The diary was sold at auction in 1998.",
+    "B": "The diary's cover was made of expensive leather.",
+    "C": "The writer sometimes misspelled common words.",
+    "D": "The diary describes meals, wages, tools, and conversations in a textile mill."
+   },
+   "filler": "2"
+  },
+  "18.3": {
+   "body": "A completion that ignores that shift would distort the argument, while a completion that follows it will show how the new evidence affects the earlier idea. A scientist hypothesizes that a beetle's bright color warns predators that it tastes bitter. Which finding would most directly support the hypothesis?",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "The beetle lives in several types of forest.",
+    "B": "Birds avoid models painted the beetle's color after tasting one real beetle.",
+    "C": "The beetle's wings are shorter than its body.",
+    "D": "Some beetles are active at night."
+   },
+   "filler": "3"
+  },
+  "18.4": {
+   "body": "The final inference must account for each important detail, including any uncertainty, comparison, exception, or limitation introduced earlier. A text states that an ancient city's population grew rapidly even though rainfall declined. Archaeologists found new canals from the same period, suggesting that _______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "irrigation may have helped the city support more people despite drier weather.",
+    "B": "rainfall records from the period are always inaccurate.",
+    "C": "the population must have moved away immediately.",
+    "D": "the city had no need for agriculture."
+   },
+   "filler": "4"
+  },
+  "18.5": {
+   "body": "A critic argues that strong reviews address possible objections instead of ignoring them. Therefore, a reviewer who discusses a film's weaknesses before defending it may _______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "avoid forming any opinion about the film.",
+    "B": "remove the need to watch the film.",
+    "C": "make the positive evaluation more persuasive.",
+    "D": "prove that all viewers liked the film."
+   },
+   "filler": "5"
+  },
+  "o19": {
+   "body": "Public-awareness campaigns about the need to reduce single-use plastics can be successful, says researcher Kim Borg of Monash University in Australia, when these campaigns give consumers a choice: for example, Japan achieved a 40 percent reduction in plastic-bag use after cashiers were instructed to ask customers whether _______ wanted a bag.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "they",
+    "B": "one",
+    "C": "you",
+    "D": "it"
+   },
+   "filler": null
+  },
+  "19.1": {
+   "body": "Its grammar depends on the relationship between nearby nouns, verbs, modifiers, and punctuation, so the sentence must remain smooth while preserving the intended meaning. The researchers interviewed local artists after _______ completed the mural project.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "they",
+    "B": "one",
+    "C": "itself",
+    "D": "it"
+   },
+   "filler": "1"
+  },
+  "19.2": {
+   "body": "The idea is already clear, but the sentence needs a grammatically conventional completion that fits the formal style of the surrounding passage. The museum guides asked visitors whether _______ wanted audio headsets.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "itself",
+    "B": "it",
+    "C": "one",
+    "D": "they"
+   },
+   "filler": "2"
+  },
+  "19.3": {
+   "body": "The sentence should be completed in a way that maintains that structure without creating a fragment, comma splice, agreement error, or misplaced modifier. The editors contacted the authors to see whether _______ approved the final proofs.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "you",
+    "B": "one",
+    "C": "they",
+    "D": "it"
+   },
+   "filler": "3"
+  },
+  "19.4": {
+   "body": "The completion must respect the role of each phrase in the sentence, including whether a word is functioning as a subject, verb, modifier, appositive, or part of a coordinate structure. The coaches reminded players that _______ needed to submit permission forms by Friday.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "they",
+    "B": "itself",
+    "C": "it",
+    "D": "one"
+   },
+   "filler": "4"
+  },
+  "19.5": {
+   "body": "The sentence is part of a formal academic paragraph, so the completion must be both grammatically correct and rhetorically natural. The surrounding context determines whether punctuation, verb form, pronoun reference, or sentence boundary is the controlling issue. The volunteers were asked whether _______ could return for the second cleanup day.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "itself",
+    "B": "they",
+    "C": "one",
+    "D": "it"
+   },
+   "filler": "5"
+  },
+  "o20": {
+   "body": "In ancient Greece, an Epicurean was a follower of Epicurus, a philosopher whose beliefs revolved around the pursuit of pleasure. Epicurus defined pleasure as \"the absence of pain in the body and of trouble in the _______ that all life's virtues derived from this absence.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "soul,\" positing",
+    "B": "soul\": positing",
+    "C": "soul\"; positing",
+    "D": "soul.\" Positing"
+   },
+   "filler": null
+  },
+  "20.1": {
+   "body": "Its grammar depends on the relationship between nearby nouns, verbs, modifiers, and punctuation, so the sentence must remain smooth while preserving the intended meaning. The critic described the installation as \"a conversation between metal and light,\" _______ that its shadows changed throughout the day.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "; noting",
+    "B": ". Noting",
+    "C": "noting",
+    "D": ": noting"
+   },
+   "filler": "1"
+  },
+  "20.2": {
+   "body": "The idea is already clear, but the sentence needs a grammatically conventional completion that fits the formal style of the surrounding passage. The biologist called the wetland \"a natural water filter,\" _______ that reeds and soil remove pollutants.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "explaining",
+    "B": ". Explaining",
+    "C": ": explaining",
+    "D": "; explaining"
+   },
+   "filler": "2"
+  },
+  "20.3": {
+   "body": "The sentence should be completed in a way that maintains that structure without creating a fragment, comma splice, agreement error, or misplaced modifier. The historian defined the archive as \"a record of ordinary lives,\" _______ that receipts and letters can reveal social change.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "; arguing",
+    "B": ". Arguing",
+    "C": "arguing",
+    "D": ": arguing"
+   },
+   "filler": "3"
+  },
+  "20.4": {
+   "body": "The completion must respect the role of each phrase in the sentence, including whether a word is functioning as a subject, verb, modifier, appositive, or part of a coordinate structure. The engineer described the bridge as \"light but resilient,\" _______ that its triangular supports distribute weight efficiently.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": ". Emphasizing",
+    "B": ": emphasizing",
+    "C": "; emphasizing",
+    "D": "emphasizing"
+   },
+   "filler": "4"
+  },
+  "20.5": {
+   "body": "The sentence is part of a formal academic paragraph, so the completion must be both grammatically correct and rhetorically natural. The surrounding context determines whether punctuation, verb form, pronoun reference, or sentence boundary is the controlling issue. The novelist called memory \"a room with many doors,\" _______ that a single object can open several stories.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": ". Suggesting",
+    "B": "suggesting",
+    "C": ": suggesting",
+    "D": "; suggesting"
+   },
+   "filler": "5"
+  },
+  "o21": {
+   "body": "British scientists James Watson and Francis Crick won the Nobel Prize in part for their 1953 paper announcing the double helix structure of DNA, but it is misleading to say that Watson and Crick discovered the double helix. _______ findings were based on a famous X-ray image of DNA fibers, \"Photo 51,\" developed by X-ray crystallographer Rosalind Franklin and her graduate student Raymond Gosling.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "They're",
+    "B": "It's",
+    "C": "Their",
+    "D": "Its"
+   },
+   "filler": null
+  },
+  "21.1": {
+   "body": "Its grammar depends on the relationship between nearby nouns, verbs, modifiers, and punctuation, so the sentence must remain smooth while preserving the intended meaning. Architects Lina Bo Bardi and Gio Ponti are known for buildings that reflect _______ interest in modern forms and local materials.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "they're",
+    "B": "their",
+    "C": "it's",
+    "D": "its"
+   },
+   "filler": "1"
+  },
+  "21.2": {
+   "body": "The idea is already clear, but the sentence needs a grammatically conventional completion that fits the formal style of the surrounding passage. Researchers Maya Gupta and Daniel Lee published _______ findings in a climate journal.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "their",
+    "B": "they're",
+    "C": "it's",
+    "D": "its"
+   },
+   "filler": "2"
+  },
+  "21.3": {
+   "body": "The sentence should be completed in a way that maintains that structure without creating a fragment, comma splice, agreement error, or misplaced modifier. The poets Gabriela Mistral and Pablo Neruda both drew on _______ experiences of Chilean landscapes.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "they're",
+    "B": "its",
+    "C": "their",
+    "D": "it's"
+   },
+   "filler": "3"
+  },
+  "21.4": {
+   "body": "The completion must respect the role of each phrase in the sentence, including whether a word is functioning as a subject, verb, modifier, appositive, or part of a coordinate structure. The directors Ava DuVernay and Chloe Zhao are often praised for _______ visually distinctive storytelling.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "its",
+    "B": "they're",
+    "C": "it's",
+    "D": "their"
+   },
+   "filler": "4"
+  },
+  "21.5": {
+   "body": "The sentence is part of a formal academic paragraph, so the completion must be both grammatically correct and rhetorically natural. The surrounding context determines whether punctuation, verb form, pronoun reference, or sentence boundary is the controlling issue. Biologists Watson and Crick built on others' evidence when developing _______ model of DNA.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "its",
+    "B": "it's",
+    "C": "they're",
+    "D": "their"
+   },
+   "filler": "5"
+  },
+  "o22": {
+   "body": "In 1937, Chinese American screen actor Anna May Wong, who had portrayed numerous villains and secondary characters but never a heroine, finally got a starring role in Paramount Pictures' Daughter of Shanghai, a film that _______ \"expanded the range of possibilities for Asian images on screen.\"",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "critic, Stina Chyn, claims",
+    "B": "critic, Stina Chyn, claims,",
+    "C": "critic Stina Chyn claims",
+    "D": "critic Stina Chyn, claims,"
+   },
+   "filler": null
+  },
+  "22.1": {
+   "body": "Its grammar depends on the relationship between nearby nouns, verbs, modifiers, and punctuation, so the sentence must remain smooth while preserving the intended meaning. The documentary, a film that _______ \"reframes the history of jazz,\" premiered at the festival.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "critic Elena Moss calls",
+    "B": "critic Elena Moss, calls,",
+    "C": "critic, Elena Moss, calls",
+    "D": "critic, Elena Moss calls,"
+   },
+   "filler": "1"
+  },
+  "22.2": {
+   "body": "The idea is already clear, but the sentence needs a grammatically conventional completion that fits the formal style of the surrounding passage. The poem is one that _______ \"turns silence into music.\"",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "scholar, Rana Patel, says,",
+    "B": "scholar Rana Patel says",
+    "C": "scholar, Rana Patel, says",
+    "D": "scholar Rana Patel, says,"
+   },
+   "filler": "2"
+  },
+  "22.3": {
+   "body": "The sentence should be completed in a way that maintains that structure without creating a fragment, comma splice, agreement error, or misplaced modifier. The sculpture was an artwork that _______ \"invites viewers to move.\"",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "curator, Miles Chen, argues",
+    "B": "curator Miles Chen, argues,",
+    "C": "curator, Miles Chen argues,",
+    "D": "curator Miles Chen argues"
+   },
+   "filler": "3"
+  },
+  "22.4": {
+   "body": "The completion must respect the role of each phrase in the sentence, including whether a word is functioning as a subject, verb, modifier, appositive, or part of a coordinate structure. The novel is a book that _______ \"blends realism with myth.\"",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "critic Talia Moore, claims,",
+    "B": "critic, Talia Moore claims,",
+    "C": "critic Talia Moore claims",
+    "D": "critic, Talia Moore, claims"
+   },
+   "filler": "4"
+  },
+  "22.5": {
+   "body": "The sentence is part of a formal academic paragraph, so the completion must be both grammatically correct and rhetorically natural. The surrounding context determines whether punctuation, verb form, pronoun reference, or sentence boundary is the controlling issue. The exhibition includes a painting that _______ \"captures the tempo of city life.\"",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "historian Omar Ruiz writes",
+    "B": "historian, Omar Ruiz writes,",
+    "C": "historian, Omar Ruiz, writes",
+    "D": "historian Omar Ruiz, writes,"
+   },
+   "filler": "5"
+  },
+  "o23": {
+   "body": "In 1637, the price of tulips skyrocketed in Amsterdam, with single bulbs of rare varieties selling for up to the equivalent of $200,000 in today's US dollars. Some historians _______ that this \"tulip mania\" was the first historical instance of an asset bubble, which occurs when investors drive prices to highs not supported by actual demand.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "claiming",
+    "B": "claim",
+    "C": "having claimed",
+    "D": "to claim"
+   },
+   "filler": null
+  },
+  "23.1": {
+   "body": "Its grammar depends on the relationship between nearby nouns, verbs, modifiers, and punctuation, so the sentence must remain smooth while preserving the intended meaning. Several archaeologists _______ that the marks on the stone were made by tools, not by erosion.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "arguing",
+    "B": "having argued",
+    "C": "argue",
+    "D": "to argue"
+   },
+   "filler": "1"
+  },
+  "23.2": {
+   "body": "The idea is already clear, but the sentence needs a grammatically conventional completion that fits the formal style of the surrounding passage. Some linguists _______ that the two dialects developed from a shared regional variety.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "having claimed",
+    "B": "claiming",
+    "C": "claim",
+    "D": "to claim"
+   },
+   "filler": "2"
+  },
+  "23.3": {
+   "body": "The sentence should be completed in a way that maintains that structure without creating a fragment, comma splice, agreement error, or misplaced modifier. Many historians _______ that the treaty changed trade routes across the region.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "to suggest",
+    "B": "having suggested",
+    "C": "suggesting",
+    "D": "suggest"
+   },
+   "filler": "3"
+  },
+  "23.4": {
+   "body": "The completion must respect the role of each phrase in the sentence, including whether a word is functioning as a subject, verb, modifier, appositive, or part of a coordinate structure. Several ecologists _______ that urban gardens can support native pollinators.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "having argued",
+    "B": "argue",
+    "C": "to argue",
+    "D": "arguing"
+   },
+   "filler": "4"
+  },
+  "23.5": {
+   "body": "The sentence is part of a formal academic paragraph, so the completion must be both grammatically correct and rhetorically natural. The surrounding context determines whether punctuation, verb form, pronoun reference, or sentence boundary is the controlling issue. Some economists _______ that public transit access affects employment opportunities.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "claim",
+    "B": "having claimed",
+    "C": "to claim",
+    "D": "claiming"
+   },
+   "filler": "5"
+  },
+  "o24": {
+   "body": "Researchers studying magnetosensation have determined why some soil-dwelling roundworms in the Southern Hemisphere move in the opposite direction of Earth's magnetic field when searching for _______ in the Northern Hemisphere, the magnetic field points down, into the ground, but in the Southern Hemisphere, it points up, toward the surface and away from worms' food sources.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "food:",
+    "B": "food,",
+    "C": "food while",
+    "D": "food"
+   },
+   "filler": null
+  },
+  "24.1": {
+   "body": "Its grammar depends on the relationship between nearby nouns, verbs, modifiers, and punctuation, so the sentence must remain smooth while preserving the intended meaning. The team identified why the sensor failed during the storm: _______ had entered the casing and damaged the wires.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "water; while",
+    "B": "water,",
+    "C": "water",
+    "D": "water while"
+   },
+   "filler": "1"
+  },
+  "24.2": {
+   "body": "The idea is already clear, but the sentence needs a grammatically conventional completion that fits the formal style of the surrounding passage. The composer gave one reason for revising the ending: _______ felt too abrupt after the slow third movement.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "the finale; while",
+    "B": "the finale while",
+    "C": "the finale,",
+    "D": "the finale"
+   },
+   "filler": "2"
+  },
+  "24.3": {
+   "body": "The sentence should be completed in a way that maintains that structure without creating a fragment, comma splice, agreement error, or misplaced modifier. Researchers now understand why the seedlings grew near the stones: _______ trapped moisture during dry afternoons.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "the rocks,",
+    "B": "the rocks",
+    "C": "the rocks while",
+    "D": "the rocks; while"
+   },
+   "filler": "3"
+  },
+  "24.4": {
+   "body": "The completion must respect the role of each phrase in the sentence, including whether a word is functioning as a subject, verb, modifier, appositive, or part of a coordinate structure. The archive closed for a practical reason: _______ needed repairs after a roof leak.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "the reading room while",
+    "B": "the reading room; while",
+    "C": "the reading room,",
+    "D": "the reading room"
+   },
+   "filler": "4"
+  },
+  "24.5": {
+   "body": "The sentence is part of a formal academic paragraph, so the completion must be both grammatically correct and rhetorically natural. The surrounding context determines whether punctuation, verb form, pronoun reference, or sentence boundary is the controlling issue. The birds avoided the field for one clear reason: _______ offered no cover from predators.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "the short grass",
+    "B": "the short grass,",
+    "C": "the short grass; while",
+    "D": "the short grass while"
+   },
+   "filler": "5"
+  },
+  "o25": {
+   "body": "Scientists believe that, unlike most other species of barnacle, turtle barnacles (Chelonibia testudinari) can dissolve the cement-like secretions they use to attach _______ to a sea turtle shell, enabling the barnacles to move short distances across the shell's surface.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "it",
+    "B": "themselves",
+    "C": "them",
+    "D": "itself"
+   },
+   "filler": null
+  },
+  "25.1": {
+   "body": "Its grammar depends on the relationship between nearby nouns, verbs, modifiers, and punctuation, so the sentence must remain smooth while preserving the intended meaning. Some sea stars can pull _______ across rocks using hundreds of tiny tube feet.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "itself",
+    "B": "them",
+    "C": "themselves",
+    "D": "it"
+   },
+   "filler": "1"
+  },
+  "25.2": {
+   "body": "The idea is already clear, but the sentence needs a grammatically conventional completion that fits the formal style of the surrounding passage. The young turtles buried _______ in the sand after hatching.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "itself",
+    "B": "themselves",
+    "C": "them",
+    "D": "it"
+   },
+   "filler": "2"
+  },
+  "25.3": {
+   "body": "The sentence should be completed in a way that maintains that structure without creating a fragment, comma splice, agreement error, or misplaced modifier. The barnacles attach _______ to the hull with a cement-like secretion.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "themselves",
+    "B": "it",
+    "C": "them",
+    "D": "itself"
+   },
+   "filler": "3"
+  },
+  "25.4": {
+   "body": "The completion must respect the role of each phrase in the sentence, including whether a word is functioning as a subject, verb, modifier, appositive, or part of a coordinate structure. The seedlings orient _______ toward the strongest source of light.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "it",
+    "B": "themselves",
+    "C": "them",
+    "D": "itself"
+   },
+   "filler": "4"
+  },
+  "25.5": {
+   "body": "The sentence is part of a formal academic paragraph, so the completion must be both grammatically correct and rhetorically natural. The surrounding context determines whether punctuation, verb form, pronoun reference, or sentence boundary is the controlling issue. The ants clean _______ after returning to the nest.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "them",
+    "B": "it",
+    "C": "itself",
+    "D": "themselves"
+   },
+   "filler": "5"
+  },
+  "o26": {
+   "body": "The classic children's board game Chutes and Ladders is a version of an ancient Nepalese game, Paramapada Sopanapata. In both games, players encounter \"good\" or \"bad\" spaces while traveling along a path; landing on one of the good spaces _______ a player to skip ahead and arrive closer to the end goal.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "allows",
+    "B": "are allowing",
+    "C": "have allowed",
+    "D": "allow"
+   },
+   "filler": null
+  },
+  "26.1": {
+   "body": "Its grammar depends on the relationship between nearby nouns, verbs, modifiers, and punctuation, so the sentence must remain smooth while preserving the intended meaning. Studying soil samples _______ researchers to reconstruct past climates.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "are allowing",
+    "B": "have allowed",
+    "C": "allows",
+    "D": "allow"
+   },
+   "filler": "1"
+  },
+  "26.2": {
+   "body": "The idea is already clear, but the sentence needs a grammatically conventional completion that fits the formal style of the surrounding passage. Listening to oral histories _______ students a fuller view of local events.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "have given",
+    "B": "are giving",
+    "C": "give",
+    "D": "gives"
+   },
+   "filler": "2"
+  },
+  "26.3": {
+   "body": "The sentence should be completed in a way that maintains that structure without creating a fragment, comma splice, agreement error, or misplaced modifier. Mapping old trade routes _______ historians identify links between cities.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "have helped",
+    "B": "helps",
+    "C": "help",
+    "D": "are helping"
+   },
+   "filler": "3"
+  },
+  "26.4": {
+   "body": "The completion must respect the role of each phrase in the sentence, including whether a word is functioning as a subject, verb, modifier, appositive, or part of a coordinate structure. Comparing the two poems _______ readers notice differences in tone.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "allows",
+    "B": "have allowed",
+    "C": "allow",
+    "D": "are allowing"
+   },
+   "filler": "4"
+  },
+  "26.5": {
+   "body": "The sentence is part of a formal academic paragraph, so the completion must be both grammatically correct and rhetorically natural. The surrounding context determines whether punctuation, verb form, pronoun reference, or sentence boundary is the controlling issue. Planting native flowers _______ pollinators during the dry season.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "have supported",
+    "B": "support",
+    "C": "supports",
+    "D": "are supporting"
+   },
+   "filler": "5"
+  },
+  "o27": {
+   "body": "In 1943, in the midst of World War II, mathematics professor Grace Hopper was recruited by the US military to help the war effort by solving complex equations. Hopper's subsequent career would involve more than just _______ as a pioneering computer programmer, Hopper would help usher in the digital age.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "equations, though:",
+    "B": "equations, though,",
+    "C": "equations. Though,",
+    "D": "equations though"
+   },
+   "filler": null
+  },
+  "27.1": {
+   "body": "Its grammar depends on the relationship between nearby nouns, verbs, modifiers, and punctuation, so the sentence must remain smooth while preserving the intended meaning. The archive contains more than letters, _______ it also includes maps and sketches.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "however;",
+    "B": "however:",
+    "C": "however,",
+    "D": "however"
+   },
+   "filler": "1"
+  },
+  "27.2": {
+   "body": "The idea is already clear, but the sentence needs a grammatically conventional completion that fits the formal style of the surrounding passage. The study measured more than rainfall, _______ it also tracked soil temperature.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "though,",
+    "B": "though;",
+    "C": "though:",
+    "D": "though"
+   },
+   "filler": "2"
+  },
+  "27.3": {
+   "body": "The sentence should be completed in a way that maintains that structure without creating a fragment, comma splice, agreement error, or misplaced modifier. The festival features more than concerts, _______ it includes workshops and public lectures.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "however,",
+    "B": "however;",
+    "C": "however",
+    "D": "however:"
+   },
+   "filler": "3"
+  },
+  "27.4": {
+   "body": "The completion must respect the role of each phrase in the sentence, including whether a word is functioning as a subject, verb, modifier, appositive, or part of a coordinate structure. The scientist's work involved more than observation, _______ she also designed new instruments.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "though:",
+    "B": "though",
+    "C": "though,",
+    "D": "though;"
+   },
+   "filler": "4"
+  },
+  "27.5": {
+   "body": "The sentence is part of a formal academic paragraph, so the completion must be both grammatically correct and rhetorically natural. The surrounding context determines whether punctuation, verb form, pronoun reference, or sentence boundary is the controlling issue. The program teaches more than grammar, _______ it also builds students' confidence in speaking.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "however;",
+    "B": "however,",
+    "C": "however:",
+    "D": "however"
+   },
+   "filler": "5"
+  },
+  "o28": {
+   "body": "In 1453, English King Henry VI became unfit to rule after falling gravely ill. As a result, Parliament appointed Richard, Third Duke of York, who had a strong claim to the English throne, to rule as Lord Protector. Upon recovering two years later, _______ forcing an angered Richard from the royal court and precipitating a series of battles later known as the Wars of the Roses.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "Henry resumed his reign,",
+    "B": "the reign of Henry resumed,",
+    "C": "Henry's reign resumed,",
+    "D": "it was Henry who resumed his reign,"
+   },
+   "filler": null
+  },
+  "28.1": {
+   "body": "Its grammar depends on the relationship between nearby nouns, verbs, modifiers, and punctuation, so the sentence must remain smooth while preserving the intended meaning. After finishing the field survey, _______ compiled the observations into a report.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "the students",
+    "B": "the students' report",
+    "C": "the observations",
+    "D": "it was the students who"
+   },
+   "filler": "1"
+  },
+  "28.2": {
+   "body": "The idea is already clear, but the sentence needs a grammatically conventional completion that fits the formal style of the surrounding passage. While walking through the archive, _______ noticed a mislabeled box of letters.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "it was the historian who",
+    "B": "the letters",
+    "C": "the box",
+    "D": "the historian"
+   },
+   "filler": "2"
+  },
+  "28.3": {
+   "body": "The sentence should be completed in a way that maintains that structure without creating a fragment, comma splice, agreement error, or misplaced modifier. After winning the regional contest, _______ advanced to the national competition.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "it was the trophy that",
+    "B": "the debate team's trophy",
+    "C": "the competition",
+    "D": "the debate team"
+   },
+   "filler": "3"
+  },
+  "28.4": {
+   "body": "The completion must respect the role of each phrase in the sentence, including whether a word is functioning as a subject, verb, modifier, appositive, or part of a coordinate structure. Upon opening the greenhouse door, _______ saw that the seedlings had doubled in height.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "the seedlings",
+    "B": "the botanist",
+    "C": "it was the botanist who",
+    "D": "the greenhouse door"
+   },
+   "filler": "4"
+  },
+  "28.5": {
+   "body": "The sentence is part of a formal academic paragraph, so the completion must be both grammatically correct and rhetorically natural. The surrounding context determines whether punctuation, verb form, pronoun reference, or sentence boundary is the controlling issue. After revising the manuscript, _______ sent it to the journal.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "the journal",
+    "B": "it was the manuscript that",
+    "C": "the researchers",
+    "D": "the manuscript"
+   },
+   "filler": "5"
+  },
+  "o29": {
+   "body": "Although novels and poems are considered distinct literary forms, many authors have created hybrid works that incorporate elements of both. Bernardine Evaristo's The Emperor's Babe, _______ is a verse novel, a book-length narrative complete with characters and a plot but conveyed in short, crisp lines of poetry rather than prose.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "by contrast,",
+    "B": "consequently,",
+    "C": "secondly,",
+    "D": "for example,"
+   },
+   "filler": null
+  },
+  "29.1": {
+   "body": "The relationship between the sentences may involve an example, contrast, consequence, continuation, or shift in emphasis, and the transition must make that relationship explicit. Many languages borrow words from neighboring cultures. English, _______, includes words from French, Hindi, and Arabic.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "nevertheless,",
+    "B": "consequently,",
+    "C": "by contrast,",
+    "D": "for example,"
+   },
+   "filler": "1"
+  },
+  "29.2": {
+   "body": "The sentence after the blank must be read in relation to the sentence before it, especially when the second sentence narrows, qualifies, or extends the first. Some mammals use tools. Sea otters, _______, crack shells with stones.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "however,",
+    "B": "instead,",
+    "C": "for example,",
+    "D": "therefore,"
+   },
+   "filler": "2"
+  },
+  "29.3": {
+   "body": "Several artists combine painting and performance. Tania Bruguera, _______, often creates works that involve audience participation.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "for example,",
+    "B": "by contrast,",
+    "C": "consequently,",
+    "D": "nevertheless,"
+   },
+   "filler": "3"
+  },
+  "29.4": {
+   "body": "The second sentence may illustrate a point, challenge an expectation, identify a result, or introduce a related development that follows from the previous claim. Many cities have converted old rail lines into parks. New York's High Line, _______, follows a former elevated railway.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "instead,",
+    "B": "for example,",
+    "C": "similarly,",
+    "D": "consequently,"
+   },
+   "filler": "4"
+  },
+  "29.5": {
+   "body": "The transition should guide the reader through that movement without exaggerating the contrast or implying a causal link that is not present. Hybrid literary works mix genres. A verse novel, _______, tells a story through poetry.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "however,",
+    "B": "for example,",
+    "C": "by contrast,",
+    "D": "consequently,"
+   },
+   "filler": "5"
+  },
+  "o30": {
+   "body": "At two weeks old, the time their critical socialization period begins, wolves can smell but cannot yet see or hear. Domesticated dogs, _______ can see, hear, and smell by the end of two weeks. This relative lack of sensory input may help explain why wolves behave so differently around humans than dogs do: from a very young age, wolves are more wary and less exploratory.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "in other words,",
+    "B": "for instance,",
+    "C": "by contrast,",
+    "D": "accordingly,"
+   },
+   "filler": null
+  },
+  "30.1": {
+   "body": "The relationship between the sentences may involve an example, contrast, consequence, continuation, or shift in emphasis, and the transition must make that relationship explicit. Desert nights can be cold. _______, desert afternoons may be intensely hot.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "By contrast,",
+    "B": "In other words,",
+    "C": "Accordingly,",
+    "D": "For example,"
+   },
+   "filler": "1"
+  },
+  "30.2": {
+   "body": "The sentence after the blank must be read in relation to the sentence before it, especially when the second sentence narrows, qualifies, or extends the first. The first fabric absorbed water quickly. _______, the second repelled water almost completely.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Similarly,",
+    "B": "For instance,",
+    "C": "Therefore,",
+    "D": "By contrast,"
+   },
+   "filler": "2"
+  },
+  "30.3": {
+   "body": "Young wolves are cautious around unfamiliar animals. _______, many young dogs approach them readily.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Accordingly,",
+    "B": "For example,",
+    "C": "By contrast,",
+    "D": "In other words,"
+   },
+   "filler": "3"
+  },
+  "30.4": {
+   "body": "The second sentence may illustrate a point, challenge an expectation, identify a result, or introduce a related development that follows from the previous claim. The old bridge was narrow and steep. _______, the new bridge is wide and nearly level.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "In other words,",
+    "B": "By contrast,",
+    "C": "Consequently,",
+    "D": "For instance,"
+   },
+   "filler": "4"
+  },
+  "30.5": {
+   "body": "The transition should guide the reader through that movement without exaggerating the contrast or implying a causal link that is not present. The northern coast receives heavy rain. _______, the inland plateau is usually dry.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "For this reason,",
+    "B": "Similarly,",
+    "C": "In other words,",
+    "D": "By contrast,"
+   },
+   "filler": "5"
+  },
+  "o31": {
+   "body": "Researchers Helena Mihaljevic-Brandt, Lucia Santamaria, and Marco Tullney report that while mathematicians may have traditionally worked alone, evidence points to a shift in the opposite direction. _______ mathematicians are choosing to collaborate with their peers - a trend illustrated by a rise in the number of mathematics publications credited to multiple authors.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Similarly,",
+    "B": "For this reason,",
+    "C": "Furthermore,",
+    "D": "Increasingly,"
+   },
+   "filler": null
+  },
+  "31.1": {
+   "body": "The relationship between the sentences may involve an example, contrast, consequence, continuation, or shift in emphasis, and the transition must make that relationship explicit. For decades, few journals accepted collaborative submissions in this field. _______, multi-author papers are becoming common.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Similarly,",
+    "B": "For this reason,",
+    "C": "Increasingly,",
+    "D": "Nevertheless,"
+   },
+   "filler": "1"
+  },
+  "31.2": {
+   "body": "The sentence after the blank must be read in relation to the sentence before it, especially when the second sentence narrows, qualifies, or extends the first. Historians once relied mainly on printed archives. _______, they are using digital databases to compare thousands of records.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "By contrast,",
+    "B": "For example,",
+    "C": "In other words,",
+    "D": "Increasingly,"
+   },
+   "filler": "2"
+  },
+  "31.3": {
+   "body": "Early climate models were run by small teams. _______, large international groups are sharing data and code.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Consequently,",
+    "B": "Similarly,",
+    "C": "Increasingly,",
+    "D": "For instance,"
+   },
+   "filler": "3"
+  },
+  "31.4": {
+   "body": "The second sentence may illustrate a point, challenge an expectation, identify a result, or introduce a related development that follows from the previous claim. Museums traditionally displayed finished objects. _______, they are showing sketches and prototypes to reveal artists' processes.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Increasingly,",
+    "B": "However,",
+    "C": "In other words,",
+    "D": "Accordingly,"
+   },
+   "filler": "4"
+  },
+  "31.5": {
+   "body": "The transition should guide the reader through that movement without exaggerating the contrast or implying a causal link that is not present. Publishers once issued most textbooks only in print. _______, they offer interactive digital versions.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Similarly,",
+    "B": "Increasingly,",
+    "C": "For this reason,",
+    "D": "Secondly,"
+   },
+   "filler": "5"
+  },
+  "o32": {
+   "body": "While researching a topic, a student has taken notes about pterosaurs and a 2021 study by Anusuya Chinsamy-Turan. The notes say she analyzed pterosaur jawbone fragments from the Sahara Desert, used advanced microscope techniques, found few growth lines relative to fully grown pterosaurs, and concluded the bones belonged to juveniles.\n\nThe student wants to present the study and its findings. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "stem": null,
+   "opts": {
+    "A": "In 2021, Chinsamy-Turan studied pterosaur jawbones and was initially unsure if the bones belonged to juveniles or adults.",
+    "B": "Pterosaur jawbones located in the Sahara Desert were the focus of a 2021 study.",
+    "C": "In a 2021 study, Chinsamy-Turan used advanced microscope techniques to analyze the jawbones of pterosaurs, flying reptiles that existed millions of years ago.",
+    "D": "In a 2021 study, Chinsamy-Turan determined that pterosaur jawbones located in the Sahara Desert had few growth lines relative to the bones of fully grown pterosaurs and thus belonged to juveniles."
+   },
+   "filler": null
+  },
+  "32.1": {
+   "body": "A student has gathered notes on a topic and now needs to use them for a specific writing purpose. The notes include extra details, so the response must select only the information that advances the stated goal and combine it accurately in one clear sentence. Notes: A 2022 study tracked bees in city gardens; researchers counted visits to native and nonnative flowers; bees visited native flowers twice as often; researchers recommended planting native species. Goal: present the study and its finding. Which sentence best accomplishes the goal?",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Some gardens include native plants.",
+    "B": "Researchers counted flowers in city gardens.",
+    "C": "A 2022 study found that city-garden bees visited native flowers twice as often as nonnative flowers.",
+    "D": "Bees are important pollinators."
+   },
+   "filler": "1"
+  },
+  "32.2": {
+   "body": "A strong response synthesizes the relevant details rather than copying unrelated facts, and it keeps the emphasis aligned with the purpose named in the prompt. Notes: Dr. Elena Park studied lake sediment; she measured pollen layers; older layers had little pine pollen; newer layers had abundant pine pollen; she concluded the region became cooler and wetter. Goal: present the study and finding. Which sentence best accomplishes the goal?",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Lake sediment can contain pollen.",
+    "B": "Dr. Park studied lake sediment and concluded from pollen layers that the region became cooler and wetter.",
+    "C": "Dr. Park is a scientist.",
+    "D": "Pine pollen appeared in some layers."
+   },
+   "filler": "2"
+  },
+  "32.3": {
+   "body": "Some information may be accurate but irrelevant, while the useful details must be arranged so that the final sentence directly accomplishes the requested rhetorical goal. Notes: A historian analyzed shipping logs; the logs listed cargo, dates, and crew names; she found that small ports traded more widely than previously thought. Goal: present the research and finding. Which sentence best accomplishes the goal?",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "By analyzing shipping logs, the historian found that small ports traded more widely than scholars had believed.",
+    "B": "Shipping logs often list cargo.",
+    "C": "Small ports existed near large ports.",
+    "D": "The historian studied documents."
+   },
+   "filler": "3"
+  },
+  "32.4": {
+   "body": "Several possible responses could be factually consistent with the notes, but only one uses the notes strategically. The sentence should emphasize the relationship, contrast, similarity, chronology, or achievement that the student has been asked to highlight. Notes: A 2021 study examined ceramic fragments; chemical tests showed traces of cacao; researchers concluded the cups were used for chocolate drinks. Goal: present the study and finding. Which sentence best accomplishes the goal?",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Ceramic fragments can be tested by scientists.",
+    "B": "The study happened in 2021.",
+    "C": "Cacao was used in some drinks.",
+    "D": "Chemical tests in a 2021 study showed cacao traces on ceramic fragments, leading researchers to conclude that the cups held chocolate drinks."
+   },
+   "filler": "4"
+  },
+  "32.5": {
+   "body": "The response must remain concise and accurate while selecting the details that best serve the student's stated writing objective. Notes: Marine biologists tagged young sharks; tags recorded long-distance travel; the sharks returned to the same nursery each spring; researchers concluded the species has strong site fidelity. Goal: present the study and finding. Which sentence best accomplishes the goal?",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Marine biologists use tags to track sharks.",
+    "B": "The nursery was visited in spring.",
+    "C": "Young sharks swim long distances.",
+    "D": "After tagging young sharks, marine biologists found that the sharks returned to the same nursery each spring, showing strong site fidelity."
+   },
+   "filler": "5"
+  },
+  "o33": {
+   "body": "While researching a topic, a student has taken notes about African American women in the Civil Rights Movement and the 1963 March on Washington. The notes say Anna Hedgeman helped organize the march and worked behind the scenes to make sure a woman was included in the lineup of speakers. Daisy Bates, a journalist and school desegregation advocate, was the sole woman to speak, delivering a brief but memorable address.\n\nThe student wants to compare the two women's contributions to the March on Washington. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "stem": null,
+   "opts": {
+    "A": "Hedgeman and Bates contributed to the march in different ways; Bates, for example, delivered a brief but memorable address.",
+    "B": "Hedgeman worked in politics and helped organize the march, while Bates was a journalist and school desegregation advocate.",
+    "C": "Although Hedgeman worked behind the scenes to make sure a woman speaker was included, Bates was the sole woman to speak at the march.",
+    "D": "Many African American women, including Bates and Hedgeman, fought for civil rights, but only one spoke at the march."
+   },
+   "filler": null
+  },
+  "33.1": {
+   "body": "A student has gathered notes on a topic and now needs to use them for a specific writing purpose. The notes include extra details, so the response must select only the information that advances the stated goal and combine it accurately in one clear sentence. Notes: Amara Singh recruited volunteers for a food drive; Mateo Ruiz designed posters and managed social media; both helped increase donations. Goal: compare their contributions. Which sentence best accomplishes the goal?",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The food drive collected donations.",
+    "B": "Singh contributed by recruiting volunteers, while Ruiz promoted the drive through posters and social media.",
+    "C": "Both Singh and Ruiz helped with a food drive.",
+    "D": "Ruiz designed posters."
+   },
+   "filler": "1"
+  },
+  "33.2": {
+   "body": "A strong response synthesizes the relevant details rather than copying unrelated facts, and it keeps the emphasis aligned with the purpose named in the prompt. Notes: Composer Tania Leon wrote orchestral works; conductor Marin Alsop premiered works by living composers; both expanded access to contemporary classical music. Goal: compare their contributions. Which sentence best accomplishes the goal?",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Leon contributed by composing new works, whereas Alsop contributed by bringing new works to audiences.",
+    "B": "Alsop is a conductor.",
+    "C": "Classical music includes orchestral works.",
+    "D": "Leon and Alsop both work in music."
+   },
+   "filler": "2"
+  },
+  "33.3": {
+   "body": "Some information may be accurate but irrelevant, while the useful details must be arranged so that the final sentence directly accomplishes the requested rhetorical goal. Notes: Dr. Mei Lin designed the vaccine trial; nurse Ana Cruz coordinated patient follow-up; both were essential to the project. Goal: compare their contributions. Which sentence best accomplishes the goal?",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Patient follow-up was important.",
+    "B": "The vaccine trial involved many people.",
+    "C": "Lin shaped the study design, while Cruz managed follow-up with patients.",
+    "D": "Lin and Cruz both worked on a vaccine project."
+   },
+   "filler": "3"
+  },
+  "33.4": {
+   "body": "Several possible responses could be factually consistent with the notes, but only one uses the notes strategically. The sentence should emphasize the relationship, contrast, similarity, chronology, or achievement that the student has been asked to highlight. Notes: Photographer Roy DeCarava took portraits of jazz musicians; writer Langston Hughes supplied poems for their joint book; the book combined image and text. Goal: compare their contributions. Which sentence best accomplishes the goal?",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Hughes was a writer.",
+    "B": "Jazz musicians appear in portraits.",
+    "C": "DeCarava and Hughes made a book together.",
+    "D": "DeCarava contributed photographs, whereas Hughes contributed poems to the collaborative book."
+   },
+   "filler": "4"
+  },
+  "33.5": {
+   "body": "The response must remain concise and accurate while selecting the details that best serve the student's stated writing objective. Notes: Anna Hedgeman helped secure a woman speaker for the march; Daisy Bates delivered the speech; both influenced women's visibility at the event. Goal: compare their contributions. Which sentence best accomplishes the goal?",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Hedgeman worked behind the scenes to secure a woman speaker, while Bates contributed by speaking at the march.",
+    "B": "A woman speaker appeared at the event.",
+    "C": "Bates delivered a speech at the march.",
+    "D": "Hedgeman and Bates both supported civil rights."
+   },
+   "filler": "5"
+  }
+ }
+}
