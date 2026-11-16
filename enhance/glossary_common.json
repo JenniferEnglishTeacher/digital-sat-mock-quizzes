@@ -4878,5 +4878,260 @@
   "pos": "adj.",
   "en": "happening or existing first, before all others",
   "zh": "最早的"
+ },
+ "fascinate": {
+  "pos": "v.",
+  "en": "to attract and hold someone's strong interest",
+  "zh": "使著迷"
+ },
+ "brushstroke": {
+  "pos": "n.",
+  "en": "a mark made by a paintbrush on a surface",
+  "zh": "筆觸"
+ },
+ "merger": {
+  "pos": "n.",
+  "en": "the joining of two things into one",
+  "zh": "合併"
+ },
+ "neutron": {
+  "pos": "n.",
+  "en": "a particle with no electric charge found in the nucleus of an atom",
+  "zh": "中子"
+ },
+ "independence": {
+  "pos": "n.",
+  "en": "freedom from control by another country or person",
+  "zh": "獨立"
+ },
+ "convince": {
+  "pos": "v.",
+  "en": "to make someone believe or agree to do something",
+  "zh": "說服；使相信"
+ },
+ "geologist": {
+  "pos": "n.",
+  "en": "a scientist who studies rocks and the structure of the earth",
+  "zh": "地質學家"
+ },
+ "sonar": {
+  "pos": "n.",
+  "en": "a system that uses sound waves to find objects underwater",
+  "zh": "聲納"
+ },
+ "canyon": {
+  "pos": "n.",
+  "en": "a deep valley with very steep sides",
+  "zh": "峽谷"
+ },
+ "committee": {
+  "pos": "n.",
+  "en": "a group of people chosen to make decisions about something",
+  "zh": "委員會"
+ },
+ "compete": {
+  "pos": "v.",
+  "en": "to take part in a contest or try to win against others",
+  "zh": "競爭；參賽"
+ },
+ "official": {
+  "pos": "adj.",
+  "en": "approved by or coming from people in authority",
+  "zh": "正式的；官方的"
+ },
+ "reconstruction": {
+  "pos": "n.",
+  "en": "something built again to look like the original",
+  "zh": "重建；重建物"
+ },
+ "ignite": {
+  "pos": "v.",
+  "en": "to start burning; to set on fire",
+  "zh": "點燃；著火"
+ },
+ "venue": {
+  "pos": "n.",
+  "en": "the place where an event happens",
+  "zh": "場地；地點"
+ },
+ "thatched": {
+  "pos": "adj.",
+  "en": "(of a roof) made of dried straw or reeds",
+  "zh": "以茅草覆蓋的"
+ },
+ "novelist": {
+  "pos": "n.",
+  "en": "a person who writes novels",
+  "zh": "小說家"
+ },
+ "display": {
+  "pos": "v.",
+  "en": "to show something publicly so people can see it",
+  "zh": "展示；陳列"
+ },
+ "concede": {
+  "pos": "v.",
+  "en": "to admit that something is true, often unwillingly",
+  "zh": "承認；讓步"
+ },
+ "divisive": {
+  "pos": "adj.",
+  "en": "causing disagreement between people",
+  "zh": "引起分歧的"
+ },
+ "coordinate": {
+  "pos": "n.",
+  "en": "one of a set of numbers that gives an exact position",
+  "zh": "座標"
+ },
+ "geographic": {
+  "pos": "adj.",
+  "en": "relating to the physical features or location of places",
+  "zh": "地理的"
+ },
+ "musical": {
+  "pos": "n.",
+  "en": "a play or film in which singing and dancing tell the story",
+  "zh": "音樂劇"
+ },
+ "summit": {
+  "pos": "n.",
+  "en": "the highest point of a mountain",
+  "zh": "山頂；頂峰"
+ },
+ "showcase": {
+  "pos": "v.",
+  "en": "to show something in a way that draws attention to its good qualities",
+  "zh": "展示；突顯"
+ },
+ "utility": {
+  "pos": "n.",
+  "en": "the quality of being useful; practical usefulness",
+  "zh": "實用性；效用"
+ },
+ "scenery": {
+  "pos": "n.",
+  "en": "the natural features of an area, such as mountains and forests",
+  "zh": "風景；景色"
+ },
+ "notable": {
+  "pos": "adj.",
+  "en": "important or interesting enough to deserve attention",
+  "zh": "著名的；值得注意的"
+ },
+ "painting": {
+  "pos": "n.",
+  "en": "a picture made with paint",
+  "zh": "畫作"
+ },
+ "construction": {
+  "pos": "n.",
+  "en": "the process of building something",
+  "zh": "建造；營建"
+ },
+ "housing": {
+  "pos": "n.",
+  "en": "houses and apartments for people to live in",
+  "zh": "住宅；房屋"
+ },
+ "atom": {
+  "pos": "n.",
+  "en": "the smallest unit of a chemical element",
+  "zh": "原子"
+ },
+ "bond": {
+  "pos": "n.",
+  "en": "a force that holds atoms together in a molecule or solid",
+  "zh": "化學鍵；鍵結"
+ },
+ "separate": {
+  "pos": "v.",
+  "en": "to divide or move things apart",
+  "zh": "分開；分離"
+ },
+ "chemical": {
+  "pos": "n.",
+  "en": "a substance produced by or used in chemistry",
+  "zh": "化學物質"
+ },
+ "ozone": {
+  "pos": "n.",
+  "en": "a form of oxygen; the ozone layer protects Earth from the sun's harmful rays",
+  "zh": "臭氧"
+ },
+ "foundation": {
+  "pos": "n.",
+  "en": "the basis or starting point on which something is built",
+  "zh": "基礎"
+ },
+ "turnpike": {
+  "pos": "n.",
+  "en": "a road that people pay a toll to use",
+  "zh": "收費公路"
+ },
+ "connect": {
+  "pos": "v.",
+  "en": "to join or link two things together",
+  "zh": "連接"
+ },
+ "fiction": {
+  "pos": "n.",
+  "en": "stories about imaginary people and events",
+  "zh": "小說；虛構作品"
+ },
+ "publish": {
+  "pos": "v.",
+  "en": "to prepare and print a book, article, etc. for the public",
+  "zh": "出版；發表"
+ },
+ "country": {
+  "pos": "n.",
+  "en": "an area of land with its own government; a nation",
+  "zh": "國家"
+ },
+ "square": {
+  "pos": "adj.",
+  "en": "used before units to measure area, e.g. square mile",
+  "zh": "平方的"
+ },
+ "female": {
+  "pos": "adj.",
+  "en": "belonging to the sex that can give birth; women or girls",
+  "zh": "女性的"
+ },
+ "queen": {
+  "pos": "n.",
+  "en": "a woman who rules a country, or the wife of a king",
+  "zh": "女王；王后"
+ },
+ "develop": {
+  "pos": "v.",
+  "en": "to create or produce something new over time",
+  "zh": "開發；發展"
+ },
+ "thousand": {
+  "pos": "n.",
+  "en": "the number 1,000",
+  "zh": "千"
+ },
+ "month": {
+  "pos": "n.",
+  "en": "one of the twelve periods of time into which a year is divided",
+  "zh": "月"
+ },
+ "renowned": {
+  "pos": "adj.",
+  "en": "famous and respected",
+  "zh": "著名的；享有聲譽的"
+ },
+ "intersect": {
+  "pos": "v.",
+  "en": "to meet or cross each other",
+  "zh": "交會；交叉"
+ },
+ "career": {
+  "pos": "n.",
+  "en": "the series of jobs a person has in their working life",
+  "zh": "職業生涯"
  }
 }

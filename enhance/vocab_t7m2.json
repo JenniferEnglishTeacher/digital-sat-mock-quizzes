@@ -1,0 +1,497 @@
+{
+"a benefit": {
+"w": "benefit",
+"pos": "n.",
+"en": "something helpful or good that you get from something",
+"zh": "好處；益處"
+},
+"a coincidence": {
+"w": "coincidence",
+"pos": "n.",
+"en": "a surprising situation in which two things happen together by chance",
+"zh": "巧合"
+},
+"a convention": {
+"w": "convention",
+"pos": "n.",
+"en": "a usual or accepted way of doing something",
+"zh": "慣例；常規"
+},
+"a delay": {
+"w": "delay",
+"pos": "n.",
+"en": "a period of time when something is late or waits",
+"zh": "延遲；耽擱"
+},
+"a forecast": {
+"w": "forecast",
+"pos": "n.",
+"en": "a statement about what is expected to happen in the future",
+"zh": "預測；預報"
+},
+"a habit": {
+"w": "habit",
+"pos": "n.",
+"en": "something a person does regularly, often without thinking",
+"zh": "習慣"
+},
+"a method": {
+"w": "method",
+"pos": "n.",
+"en": "a particular way of doing something",
+"zh": "方法"
+},
+"a pattern": {
+"w": "pattern",
+"pos": "n.",
+"en": "a regular way in which something happens or is arranged",
+"zh": "模式；規律"
+},
+"a procedure": {
+"w": "procedure",
+"pos": "n.",
+"en": "a set of steps for doing something in an accepted way",
+"zh": "程序；步驟"
+},
+"a rarity": {
+"w": "rarity",
+"pos": "n.",
+"en": "something that is unusual and not often found or seen",
+"zh": "罕見的事物"
+},
+"a remedy": {
+"w": "remedy",
+"pos": "n.",
+"en": "something that cures a problem or illness",
+"zh": "補救方法；療法"
+},
+"a reprieve": {
+"w": "reprieve",
+"pos": "n.",
+"en": "a temporary relief or delay from something unpleasant",
+"zh": "暫時緩解；緩刑"
+},
+"a routine": {
+"w": "routine",
+"pos": "n.",
+"en": "a usual, regular way of doing things",
+"zh": "例行公事；慣常程序"
+},
+"a solution": {
+"w": "solution",
+"pos": "n.",
+"en": "a way of solving a problem",
+"zh": "解決辦法"
+},
+"a summary": {
+"w": "summary",
+"pos": "n.",
+"en": "a short statement of the main points",
+"zh": "摘要；總結"
+},
+"ambiguity": {
+"pos": "n.",
+"en": "the quality of having more than one possible meaning",
+"zh": "模稜兩可；含糊不清"
+},
+"ambiguous": {
+"pos": "adj.",
+"en": "having more than one possible meaning; unclear",
+"zh": "模糊的；含糊不清的"
+},
+"amusing": {
+"pos": "adj.",
+"en": "funny or entertaining",
+"zh": "有趣的；好笑的"
+},
+"an aberration": {
+"w": "aberration",
+"pos": "n.",
+"en": "something that is different from what is normal or expected",
+"zh": "反常現象；偏差"
+},
+"an anomaly": {
+"w": "anomaly",
+"pos": "n.",
+"en": "something unusual that does not fit the normal pattern",
+"zh": "異常；反常現象"
+},
+"an exception": {
+"w": "exception",
+"pos": "n.",
+"en": "something that does not follow the general rule",
+"zh": "例外"
+},
+"an incident": {
+"w": "incident",
+"pos": "n.",
+"en": "an event, especially an unusual or unpleasant one",
+"zh": "事件；事故"
+},
+"an oddity": {
+"w": "oddity",
+"pos": "n.",
+"en": "something strange or unusual",
+"zh": "怪事；反常的事物"
+},
+"announced": {
+"pos": "v.",
+"en": "told people something officially",
+"zh": "宣布"
+},
+"argument": {
+"pos": "n.",
+"en": "a disagreement; or a set of reasons supporting an idea",
+"zh": "爭論；論點"
+},
+"beneficial": {
+"pos": "adj.",
+"en": "having a good or helpful effect",
+"zh": "有益的；有利的"
+},
+"carelessness": {
+"pos": "n.",
+"en": "lack of attention or care",
+"zh": "粗心；疏忽"
+},
+"classified": {
+"pos": "v.",
+"en": "arranged things into groups (past tense of classify)",
+"zh": "分類（classify 的過去式／過去分詞）"
+},
+"complicate": {
+"pos": "v.",
+"en": "to make something more difficult to understand or deal with",
+"zh": "使複雜化"
+},
+"conceal": {
+"pos": "v.",
+"en": "to hide something or keep it secret",
+"zh": "隱藏；隱瞞"
+},
+"confusion": {
+"pos": "n.",
+"en": "a state of not understanding clearly",
+"zh": "困惑；混亂"
+},
+"contradicted": {
+"pos": "v.",
+"en": "said or showed that something is not true",
+"zh": "反駁；與……矛盾"
+},
+"controversial": {
+"pos": "adj.",
+"en": "causing much disagreement or argument",
+"zh": "有爭議的"
+},
+"controversy": {
+"pos": "n.",
+"en": "a lot of public disagreement about something",
+"zh": "爭議；爭論"
+},
+"costly": {
+"pos": "adj.",
+"en": "costing a lot of money or causing loss",
+"zh": "昂貴的；代價高的"
+},
+"criticize": {
+"pos": "v.",
+"en": "to say what is bad or wrong about someone or something",
+"zh": "批評"
+},
+"damage": {
+"pos": "v.",
+"en": "to harm or break something",
+"zh": "損害；破壞"
+},
+"decorative": {
+"pos": "adj.",
+"en": "meant to look attractive rather than to be useful",
+"zh": "裝飾性的"
+},
+"delayed": {
+"pos": "v.",
+"en": "made something happen later than planned",
+"zh": "延遲；推遲"
+},
+"democratize": {
+"pos": "v.",
+"en": "to make something available to all people",
+"zh": "使大眾化；使民主化"
+},
+"diminish": {
+"pos": "v.",
+"en": "to make or become smaller or less important",
+"zh": "減少；減弱；降低"
+},
+"disastrous": {
+"pos": "adj.",
+"en": "very bad; causing great harm or failure",
+"zh": "災難性的；極糟的"
+},
+"distracted": {
+"pos": "v.",
+"en": "took someone's attention away from what they were doing",
+"zh": "使分心"
+},
+"distraction": {
+"pos": "n.",
+"en": "something that takes attention away from what you should focus on",
+"zh": "使人分心的事物"
+},
+"effective": {
+"pos": "adj.",
+"en": "producing the result that is wanted",
+"zh": "有效的"
+},
+"erased": {
+"pos": "v.",
+"en": "removed completely",
+"zh": "抹去；消除"
+},
+"esteem": {
+"pos": "n.",
+"en": "respect and admiration for someone",
+"zh": "尊敬；敬重"
+},
+"expensive": {
+"pos": "adj.",
+"en": "costing a lot of money",
+"zh": "昂貴的"
+},
+"formalize": {
+"pos": "v.",
+"en": "to make something official or give it a fixed structure",
+"zh": "使正式化"
+},
+"fruitful": {
+"pos": "adj.",
+"en": "producing good or useful results",
+"zh": "富有成果的"
+},
+"guided": {
+"pos": "v.",
+"en": "directed or influenced the way something developed",
+"zh": "引導；指引"
+},
+"hesitation": {
+"pos": "n.",
+"en": "a pause or delay because you are unsure",
+"zh": "猶豫"
+},
+"hostility": {
+"pos": "n.",
+"en": "unfriendly or aggressive feelings or behavior",
+"zh": "敵意"
+},
+"ignored": {
+"pos": "v.",
+"en": "paid no attention to something",
+"zh": "忽視"
+},
+"improbable": {
+"pos": "adj.",
+"en": "not likely to happen or be true",
+"zh": "不太可能的"
+},
+"incidental": {
+"pos": "adj.",
+"en": "happening by chance as a minor side effect, not by design",
+"zh": "偶然的；附帶的"
+},
+"influenced": {
+"pos": "v.",
+"en": "had an effect on how someone or something developed",
+"zh": "影響"
+},
+"informed": {
+"pos": "v.",
+"en": "gave information to; shaped or guided (work or ideas)",
+"zh": "告知；為……提供依據、影響"
+},
+"inspired": {
+"pos": "v.",
+"en": "gave someone the idea or the desire to create something",
+"zh": "啟發；激發"
+},
+"interrupted": {
+"pos": "v.",
+"en": "stopped something for a short time; broke in",
+"zh": "打斷；中斷"
+},
+"irrelevant": {
+"pos": "adj.",
+"en": "not related to the matter being discussed",
+"zh": "無關的"
+},
+"isolate": {
+"pos": "v.",
+"en": "to separate something from others",
+"zh": "孤立；隔離"
+},
+"isolation": {
+"pos": "n.",
+"en": "the state of being alone or separated from others",
+"zh": "孤立；隔離"
+},
+"limited": {
+"pos": "v.",
+"en": "kept something within a certain size or range",
+"zh": "限制"
+},
+"misquote": {
+"pos": "v.",
+"en": "to repeat someone's words incorrectly",
+"zh": "錯誤引用"
+},
+"misread": {
+"pos": "v.",
+"en": "read or interpreted something incorrectly",
+"zh": "誤讀；誤解"
+},
+"novelty": {
+"pos": "n.",
+"en": "the quality of being new and unusual; something new",
+"zh": "新奇；新奇的事物"
+},
+"obscure": {
+"pos": "adj.",
+"en": "not well known; or difficult to understand",
+"zh": "晦澀的；鮮為人知的"
+},
+"obscured": {
+"pos": "v.",
+"en": "made something hard to see or understand",
+"zh": "遮蔽；使模糊"
+},
+"ordinary": {
+"pos": "adj.",
+"en": "normal and not special",
+"zh": "普通的；平常的"
+},
+"popularize": {
+"pos": "v.",
+"en": "to make something liked or used by many ordinary people",
+"zh": "使普及；推廣"
+},
+"praise": {
+"pos": "v.",
+"en": "to express approval or admiration of",
+"zh": "讚美；稱讚"
+},
+"prestige": {
+"pos": "n.",
+"en": "respect and admiration that comes from success or high status",
+"zh": "聲望；威望"
+},
+"productive": {
+"pos": "adj.",
+"en": "producing a lot or achieving good results",
+"zh": "有成效的；多產的"
+},
+"publicize": {
+"pos": "v.",
+"en": "to make something widely known to the public",
+"zh": "宣傳；公開"
+},
+"rejected": {
+"pos": "v.",
+"en": "refused to accept or believe something",
+"zh": "拒絕；駁回"
+},
+"renown": {
+"pos": "n.",
+"en": "the state of being famous and admired",
+"zh": "名聲；聲望"
+},
+"repaired": {
+"pos": "v.",
+"en": "fixed something that was broken",
+"zh": "修理；修復"
+},
+"replace": {
+"pos": "v.",
+"en": "to put something new in place of something else",
+"zh": "取代；替換"
+},
+"reputation": {
+"pos": "n.",
+"en": "the general opinion people have about someone or something",
+"zh": "名聲；聲譽"
+},
+"respect": {
+"pos": "n.",
+"en": "admiration for someone because of their qualities or achievements",
+"zh": "尊重；敬重"
+},
+"restrict": {
+"pos": "v.",
+"en": "to limit or control something",
+"zh": "限制"
+},
+"restricted": {
+"pos": "v.",
+"en": "limited; kept within certain bounds",
+"zh": "限制；約束"
+},
+"shaped": {
+"pos": "v.",
+"en": "influenced the form or development of something",
+"zh": "塑造；影響"
+},
+"sincerity": {
+"pos": "n.",
+"en": "the quality of being honest and meaning what you say",
+"zh": "真誠"
+},
+"spread": {
+"pos": "v.",
+"en": "to cause to reach a wider area or more people",
+"zh": "散布；傳播"
+},
+"standardize": {
+"pos": "v.",
+"en": "to make things the same according to a fixed standard",
+"zh": "使標準化"
+},
+"standing": {
+"pos": "n.",
+"en": "a person's position or reputation in relation to others",
+"zh": "地位；聲望"
+},
+"successful": {
+"pos": "adj.",
+"en": "achieving the desired result",
+"zh": "成功的"
+},
+"suspicion": {
+"pos": "n.",
+"en": "a feeling that someone is guilty or that something is wrong",
+"zh": "懷疑；猜疑"
+},
+"symbolic": {
+"pos": "adj.",
+"en": "serving as a symbol; representing something else",
+"zh": "象徵性的；象徵的"
+},
+"temporary": {
+"pos": "adj.",
+"en": "lasting for only a limited time",
+"zh": "暫時的；臨時的"
+},
+"thoughtfulness": {
+"pos": "n.",
+"en": "the quality of being considerate of others or thinking carefully",
+"zh": "體貼；深思熟慮"
+},
+"uncertainty": {
+"pos": "n.",
+"en": "the state of not being sure",
+"zh": "不確定性"
+},
+"weaken": {
+"pos": "v.",
+"en": "to make or become less strong",
+"zh": "削弱；減弱"
+}
+}

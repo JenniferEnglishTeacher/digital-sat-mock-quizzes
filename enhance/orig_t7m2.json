@@ -1,0 +1,173 @@
+{
+ "1": {
+  "answer": "C",
+  "explanation": "Carte de visite photos made it easy and enjoyable for everyday people to have their pictures taken, so they helped 'popularize' (make widely used and liked) photography.",
+  "zh": "名片照讓一般人能輕鬆愉快地拍照，因此它們幫助「popularize」（普及）了攝影。"
+ },
+ "2": {
+  "answer": "D",
+  "explanation": "The example shows Thomas's brushstrokes were inspired by light through leaves, so the garden 'influenced' her work.",
+  "zh": "例子說明 Thomas 的筆觸靈感來自穿過樹葉的光線，所以花園「influenced」（影響了）她的作品。"
+ },
+ "3": {
+  "answer": "C",
+  "explanation": "The bullfinch population grew from about 100 to about 1,300 birds, so the tree-planting approach was 'successful.'",
+  "zh": "紅腹灰雀的數量從約 100 隻增加到約 1,300 隻，所以這種種樹方法是「successful」（成功的）。"
+ },
+ "4": {
+  "answer": "D",
+  "explanation": "Neutron-merger bursts usually last under 2 seconds, so a 200-second burst is 'an oddity' — something unusual.",
+  "zh": "中子星合併產生的爆發通常不到 2 秒，所以持續 200 秒的爆發是「an oddity」（反常的怪事）。"
+ },
+ "5": {
+  "answer": "B",
+  "explanation": "'This' refers back to Franklin being very popular in France, i.e., the 'esteem' (high regard) in which he was held.",
+  "zh": "「This」指的是 Franklin 在法國非常受歡迎，也就是他所受到的「esteem」（敬重）。"
+ },
+ "6": {
+  "answer": "A",
+  "explanation": "The underlined sentence states the belief that the ocean floor was mostly flat — the idea Tharp and Heezen then proved wrong.",
+  "zh": "畫線句說明當時認為海床大致平坦的看法——正是 Tharp 和 Heezen 後來證明錯誤的觀點。",
+  "underline": "Many scientists at the time believed"
+ },
+ "7": {
+  "answer": "B",
+  "explanation": "The underlined phrase explains that TV-set manufacturing was stalled by World War II, a specific reason advertisers hesitated to support television.",
+  "zh": "畫線部分說明電視機的生產因二戰而停滯，這是廣告商猶豫是否支持電視的一個具體原因。",
+  "underline": "particularly at a time when the manufacturing of new television sets was stalled due to the US’s involvement in World War II",
+  "underline_exact": true
+ },
+ "8": {
+  "answer": "B",
+  "explanation": "The underlined example (a misaligned first join, nearly invisible later joins) supports the claim that the workers refined their joining process during production.",
+  "zh": "畫線的例子（第一處接縫錯位，後來的接縫幾乎看不見）支持「工匠在製作過程中改進了接合技術」的論點。",
+  "underline": "For example, the first join"
+ },
+ "9": {
+  "answer": "D",
+  "explanation": "Text 2 insists claims must rest on empirical geological evidence and cites zircon data pointing to 4.2 billion years ago — a more definitive kind of evidence than computer models, suggesting a different timeline.",
+  "zh": "文本 2 主張結論必須建立在地質紀錄的實證上，並引用鋯石資料指出板塊運動可能始於 42 億年前——這是比電腦模型更可靠的證據，也指向不同的時間線。"
+ },
+ "10": {
+  "answer": "B",
+  "explanation": "The text states directly that the bark 'has a unique structure that makes it easy to collect latex.'",
+  "zh": "文中直接指出樹皮「具有獨特的結構，使乳膠容易採集」。"
+ },
+ "11": {
+  "answer": "B",
+  "explanation": "The text's main claim is that initiatives relying on natural features can help conservation; the logjam project is just an example.",
+  "zh": "本文主旨是：運用自然特徵或過程的做法能幫助保育；漂流木堆計畫只是例子。"
+ },
+ "12": {
+  "answer": "D",
+  "explanation": "The highest percentage of bus stops with shaded shelter for any area in the table is 29%.",
+  "zh": "表格中任何地區有遮蔭候車亭的公車站最高比例是 29%。"
+ },
+ "13": {
+  "answer": "C",
+  "explanation": "The table lists Bahrain's total area as 304 square miles (1,472,233 is its population).",
+  "zh": "表格顯示巴林的總面積為 304 平方英里（1,472,233 是人口）。"
+ },
+ "14": {
+  "answer": "C",
+  "explanation": "The underlined claim is that the sculptures look delicate but are durable; materials that are 'both flexible and strong' illustrate exactly that.",
+  "zh": "畫線的主張是雕塑看似纖細卻很耐用；「既有彈性又堅固」的材料正好說明這一點。",
+  "underline": "while her sculptures appear as delicate as a breeze, they are actually very durable",
+  "underline_exact": true
+ },
+ "15": {
+  "answer": "D",
+  "explanation": "If, after 3.2 billion years ago, mantle-derived rocks contain material otherwise found only in lithospheric rocks, then lithosphere and mantle began mixing then — supporting a transition to plate tectonics at that time.",
+  "zh": "若 32 億年前之後的地函岩石含有原本只見於岩石圈岩石的物質，表示岩石圈與地函那時才開始混合——支持板塊構造在當時開始的結論。"
+ },
+ "16": {
+  "answer": "D",
+  "explanation": "Maize words aren't shared between branches even though all the tribes grew maize, so the family probably split into branches before the tribes acquired maize.",
+  "zh": "雖然各部族都種植玉米，但南北兩支並不共用玉米相關詞彙，表示語族可能在取得玉米之前就已分裂成南北兩支。"
+ },
+ "17": {
+  "answer": "B",
+  "explanation": "Most sediment is mudstone from low-flow water (a lake) with cracks from occasional drying, while some coarse sandstone indicates flowing water (streams) at times.",
+  "zh": "大多數沉積物是低流速水域（湖泊）沉積的泥岩，並有偶爾乾涸造成的裂痕；部分粗粒砂岩則顯示某些時期有流水（溪流）。"
+ },
+ "18": {
+  "answer": "C",
+  "explanation": "Sidon still had heavy financial burdens, so it likely kept the low silver proportion but made heavier coins, increasing the actual silver per coin and restoring confidence.",
+  "zh": "Sidon 仍背負沉重的財務負擔，因此很可能維持低銀比例但鑄造較重的硬幣，使每枚硬幣的實際含銀量增加，以恢復信心。"
+ },
+ "19": {
+  "answer": "D",
+  "explanation": "'Decided' is followed by an infinitive: 'decided to include.'",
+  "zh": "decide 後面接不定詞：decided to include。"
+ },
+ "20": {
+  "answer": "D",
+  "explanation": "The event happened in 1613 and the sentence continues with past-tense 'ignited,' so the simple past 'malfunctioned' is needed.",
+  "zh": "事件發生在 1613 年，且句子後面接過去式 ignited，所以需要簡單過去式 malfunctioned。"
+ },
+ "21": {
+  "answer": "C",
+  "explanation": "'Zadie Smith' is the name in the subject phrase, and no punctuation should separate the subject from its verb 'is displayed.'",
+  "zh": "Zadie Smith 是主詞片語中的人名，主詞與動詞 is displayed 之間不應加任何標點。"
+ },
+ "22": {
+  "answer": "C",
+  "explanation": "The pronoun refers to the singular noun 'a given industry,' so the singular 'it often consists' is required.",
+  "zh": "代名詞指的是單數名詞 a given industry，所以要用單數的 it often consists。"
+ },
+ "23": {
+  "answer": "C",
+  "explanation": "The list items contain internal commas, so they are separated by semicolons: '…162 million items; managing the US Copyright Office…; and appointing…'",
+  "zh": "列舉的各項內部已有逗號，所以要用分號分隔：…162 million items; managing…; and appointing…。"
+ },
+ "24": {
+  "answer": "A",
+  "explanation": "'Though' is a supplementary word here (meaning 'however') and must be set off with a pair of commas: 'her work, though, she…'",
+  "zh": "though 在此是插入語（意為「不過」），必須前後都用逗號隔開：her work, though, she…。"
+ },
+ "25": {
+  "answer": "B",
+  "explanation": "'They are hardly pristine, though' is an independent clause, and 'many chondrites experience…' is another; a semicolon after 'though' joins them correctly.",
+  "zh": "They are hardly pristine, though 是獨立子句，many chondrites experience… 是另一個獨立子句；在 though 後加分號才能正確連接。"
+ },
+ "26": {
+  "answer": "D",
+  "explanation": "Two independent clauses ('That … was conceded by all involved' / 'establishing its precise coordinates proved more divisive') must be joined by a semicolon.",
+  "zh": "兩個獨立子句（That… was conceded by all involved／establishing its precise coordinates proved more divisive）需以分號連接。"
+ },
+ "27": {
+  "answer": "B",
+  "explanation": "Officials closed the area because of the concerning measurements, so the action is a result: 'As a result.'",
+  "zh": "官員因為令人擔憂的測量結果而封鎖該區，屬於因果關係，所以用 As a result。"
+ },
+ "28": {
+  "answer": "D",
+  "explanation": "The second sentence gives a more detailed account of how the supernovas led to star formation, so 'Specifically' fits.",
+  "zh": "第二句更詳細地說明超新星如何導致恆星形成，所以用 Specifically（具體來說）。"
+ },
+ "29": {
+  "answer": "A",
+  "explanation": "Maize and wheat are the particular grains among the 'certain grains' mentioned, so 'in particular' fits.",
+  "zh": "maize 和 wheat 正是前文所說「某些穀物」中的具體例子，所以用 in particular（特別是）。"
+ },
+ "30": {
+  "answer": "D",
+  "explanation": "Creating Six, in which every queen has a starring role, was an action taken to achieve their goal of good parts for female friends: 'To that end.'",
+  "zh": "創作每位王后都有主角戲份的 Six，正是為了實現讓女演員朋友有好角色的目標，所以用 To that end（為此）。"
+ },
+ "31": {
+  "answer": "C",
+  "explanation": "Modern via ferratas are rarely designed just to reach a summit; 'more often,' they favor recreation — the transition introduces the more common case.",
+  "zh": "現代鐵索攀岩路線很少只為登頂而設計；「更常見的是」以休閒為主——此轉折詞引出較常見的情況。"
+ },
+ "32": {
+  "answer": "A",
+  "explanation": "Only choice A names the novel, Babel-17, and states that it won a Nebula Award.",
+  "zh": "只有選項 A 說出小說名稱 Babel-17 並指出它獲得星雲獎。"
+ },
+ "33": {
+  "answer": "C",
+  "explanation": "Choice C directly states the year the painting Yosemite Falls was completed: 1930.",
+  "zh": "選項 C 直接說出畫作 Yosemite Falls 完成的年份：1930 年。"
+ }
+}
