@@ -8,6 +8,8 @@ for q in d:
 pref={}
 for k,texts in groups.items():
   p=os.path.commonprefix(texts); p=p[:p.rfind('. ')+2]; pref[k]=p
+# modules translated before the stem fallback existed keep their original string indexing
+FALLBACK=not os.path.exists(f'enhance/zh_opts_t{test}m{mod}_a.json')
 def split(text, filler=''):
   while filler and text.startswith(filler): text=text[len(filler):]  # some data files repeat the filler twice
   lines=text.split('\n'); opts={}; stem=None; body=[]
@@ -16,6 +18,11 @@ def split(text, filler=''):
     if mo: opts[mo.group(1)]=mo.group(2)
     elif l.strip() in STEMS or (not stem and l.endswith('?') and l.startswith('Which choice')) : stem=l.strip()
     else: body.append(l)
+  if stem is None and FALLBACK:  # fallback: the question line just before the options (e.g. 'According to the text, ...?')
+    for i in range(len(body)-1,-1,-1):
+      if body[i].strip():
+        if body[i].strip().endswith('?'): stem=body.pop(i).strip()
+        break
   body='\n'.join(body).strip()
   body=re.sub(r'\n{3,}','\n\n',body)
   return body,stem,opts

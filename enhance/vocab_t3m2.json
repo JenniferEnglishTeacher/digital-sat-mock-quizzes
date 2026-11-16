@@ -1,0 +1,362 @@
+{
+ "adhere to": {
+  "pos": "phr. v.",
+  "en": "to follow a rule, belief, or standard closely",
+  "zh": "遵守；堅持"
+ },
+ "ambivalence about": {
+  "pos": "n. phr.",
+  "en": "mixed or conflicting feelings about something",
+  "zh": "對……的矛盾情感"
+ },
+ "ambivalence toward": {
+  "pos": "n. phr.",
+  "en": "mixed or conflicting feelings toward something",
+  "zh": "對……的矛盾心態"
+ },
+ "anxiety about": {
+  "pos": "n. phr.",
+  "en": "a feeling of worry or nervousness about something",
+  "zh": "對……的焦慮"
+ },
+ "artificial": {
+  "pos": "adj.",
+  "en": "made by people rather than occurring naturally",
+  "zh": "人造的；人工的"
+ },
+ "avoidance of": {
+  "pos": "n. phr.",
+  "en": "the act of staying away from something on purpose",
+  "zh": "對……的迴避"
+ },
+ "beneficial": {
+  "pos": "adj.",
+  "en": "having a good or helpful effect",
+  "zh": "有益的；有利的"
+ },
+ "casual indifference to": {
+  "pos": "n. phr.",
+  "en": "a relaxed lack of interest in or concern about something",
+  "zh": "對……漫不經心、毫不在意"
+ },
+ "celebration of": {
+  "pos": "n. phr.",
+  "en": "the act of praising or honoring something joyfully",
+  "zh": "對……的讚頌；頌揚"
+ },
+ "challenge": {
+  "pos": "v.",
+  "en": "to question whether something is true or right",
+  "zh": "質疑；挑戰"
+ },
+ "complete rejection of": {
+  "pos": "n. phr.",
+  "en": "total refusal to accept something",
+  "zh": "對……的全盤否定"
+ },
+ "comply with": {
+  "pos": "phr. v.",
+  "en": "to act according to a rule, request, or law",
+  "zh": "遵從；依照"
+ },
+ "concern about": {
+  "pos": "n. phr.",
+  "en": "worry about something",
+  "zh": "對……的擔憂"
+ },
+ "confidence in": {
+  "pos": "n. phr.",
+  "en": "a feeling of trust or certainty about something",
+  "zh": "對……的信心"
+ },
+ "conflicted feelings about": {
+  "pos": "n. phr.",
+  "en": "opposing emotions about the same thing",
+  "zh": "對……的矛盾感受"
+ },
+ "conform to": {
+  "pos": "phr. v.",
+  "en": "to behave according to accepted rules or expectations",
+  "zh": "遵從；符合（規範、慣例）"
+ },
+ "confusing": {
+  "pos": "adj.",
+  "en": "difficult to understand; unclear",
+  "zh": "令人困惑的"
+ },
+ "criticism of": {
+  "pos": "n. phr.",
+  "en": "the act of pointing out faults in something",
+  "zh": "對……的批評"
+ },
+ "damaged": {
+  "pos": "adj.",
+  "en": "harmed or broken in some way",
+  "zh": "受損的"
+ },
+ "decorative": {
+  "pos": "adj.",
+  "en": "meant to look attractive rather than to be useful",
+  "zh": "裝飾性的"
+ },
+ "departure from": {
+  "pos": "n. phr.",
+  "en": "a change away from a usual way or tradition",
+  "zh": "背離；偏離"
+ },
+ "describe": {
+  "pos": "v.",
+  "en": "to tell what something is like",
+  "zh": "描述"
+ },
+ "devotion to": {
+  "pos": "n. phr.",
+  "en": "great love, loyalty, or commitment to something",
+  "zh": "對……的熱愛；奉獻"
+ },
+ "dismiss": {
+  "pos": "v.",
+  "en": "to decide something is not worth considering",
+  "zh": "不予理會；駁回"
+ },
+ "distance from": {
+  "pos": "n. phr.",
+  "en": "emotional separation or lack of closeness to something",
+  "zh": "與……的疏離"
+ },
+ "doubt about": {
+  "pos": "n. phr.",
+  "en": "a feeling of uncertainty about something",
+  "zh": "對……的懷疑"
+ },
+ "enthusiasm for": {
+  "pos": "n. phr.",
+  "en": "strong interest in and excitement about something",
+  "zh": "對……的熱忱"
+ },
+ "evaluate": {
+  "pos": "v.",
+  "en": "to judge the quality or value of something",
+  "zh": "評估"
+ },
+ "explain": {
+  "pos": "v.",
+  "en": "to make something clear by giving reasons or details",
+  "zh": "解釋；說明"
+ },
+ "fascination with": {
+  "pos": "n. phr.",
+  "en": "a very strong interest in something",
+  "zh": "對……的著迷"
+ },
+ "follow": {
+  "pos": "v.",
+  "en": "to act according to rules or instructions",
+  "zh": "遵循"
+ },
+ "fragile": {
+  "pos": "adj.",
+  "en": "easily broken or damaged",
+  "zh": "脆弱的；易碎的"
+ },
+ "healthy": {
+  "pos": "adj.",
+  "en": "in good condition; not sick or damaged",
+  "zh": "健康的；狀況良好的"
+ },
+ "hostility toward": {
+  "pos": "n. phr.",
+  "en": "unfriendly or angry feelings toward something",
+  "zh": "對……的敵意"
+ },
+ "ignorance of": {
+  "pos": "n. phr.",
+  "en": "lack of knowledge about something",
+  "zh": "對……的無知"
+ },
+ "ignore": {
+  "pos": "v.",
+  "en": "to pay no attention to something",
+  "zh": "忽視；不理會"
+ },
+ "imitate": {
+  "pos": "v.",
+  "en": "to copy the way something is done",
+  "zh": "模仿"
+ },
+ "indifference to": {
+  "pos": "n. phr.",
+  "en": "a lack of interest in or concern about something",
+  "zh": "對……漠不關心"
+ },
+ "injured": {
+  "pos": "adj.",
+  "en": "hurt or harmed",
+  "zh": "受傷的"
+ },
+ "intact": {
+  "pos": "adj.",
+  "en": "complete and not damaged",
+  "zh": "完整的；未受損的"
+ },
+ "interest in": {
+  "pos": "n. phr.",
+  "en": "a feeling of wanting to know or learn about something",
+  "zh": "對……的興趣"
+ },
+ "mastery over": {
+  "pos": "n. phr.",
+  "en": "complete control over or great skill with something",
+  "zh": "對……的掌控、精通"
+ },
+ "minor": {
+  "pos": "adj.",
+  "en": "small and not very important",
+  "zh": "次要的；輕微的"
+ },
+ "misread": {
+  "pos": "v.",
+  "en": "to understand something incorrectly",
+  "zh": "誤讀；誤解"
+ },
+ "mixed attitude toward": {
+  "pos": "n. phr.",
+  "en": "partly positive and partly negative feelings toward something",
+  "zh": "對……的複雜態度"
+ },
+ "nuanced response to": {
+  "pos": "n. phr.",
+  "en": "a reaction that shows subtle differences or complexity",
+  "zh": "對……細膩、有層次的回應"
+ },
+ "observe": {
+  "pos": "v.",
+  "en": "to watch carefully; also, to follow a rule or custom",
+  "zh": "觀察；遵守（規定、習俗）"
+ },
+ "ordinary": {
+  "pos": "adj.",
+  "en": "normal and not special",
+  "zh": "普通的；平常的"
+ },
+ "perceive": {
+  "pos": "v.",
+  "en": "to notice or become aware of something",
+  "zh": "察覺；感知"
+ },
+ "preoccupation with": {
+  "pos": "n. phr.",
+  "en": "a state of thinking about something so much that other things are ignored",
+  "zh": "對……的專注、執著"
+ },
+ "pristine": {
+  "pos": "adj.",
+  "en": "in perfect condition, as if new or untouched",
+  "zh": "原始的；完好如新的"
+ },
+ "question": {
+  "pos": "v.",
+  "en": "to express doubt about something",
+  "zh": "質疑"
+ },
+ "react against": {
+  "pos": "phr. v.",
+  "en": "to respond to something by opposing it",
+  "zh": "反抗；反對"
+ },
+ "react to": {
+  "pos": "phr. v.",
+  "en": "to respond to something",
+  "zh": "對……做出反應"
+ },
+ "renunciation of": {
+  "pos": "n. phr.",
+  "en": "the act of formally giving up or rejecting something",
+  "zh": "對……的放棄、摒棄"
+ },
+ "resistance to": {
+  "pos": "n. phr.",
+  "en": "refusal to accept or be affected by something",
+  "zh": "對……的抗拒"
+ },
+ "responsiveness to": {
+  "pos": "n. phr.",
+  "en": "the quality of reacting quickly and positively to something",
+  "zh": "對……的回應能力；敏感度"
+ },
+ "revise": {
+  "pos": "v.",
+  "en": "to change something in order to improve or correct it",
+  "zh": "修訂；修改"
+ },
+ "robust": {
+  "pos": "adj.",
+  "en": "strong and healthy",
+  "zh": "強健的；穩固的"
+ },
+ "separation from": {
+  "pos": "n. phr.",
+  "en": "the state of being apart from something",
+  "zh": "與……的分離"
+ },
+ "simple": {
+  "pos": "adj.",
+  "en": "plain or not complicated",
+  "zh": "簡單的；樸素的"
+ },
+ "simple account of": {
+  "pos": "n. phr.",
+  "en": "a plain, uncomplicated description of something",
+  "zh": "對……的簡單敘述"
+ },
+ "struggling": {
+  "pos": "adj.",
+  "en": "having difficulty surviving or doing well",
+  "zh": "艱難掙扎的"
+ },
+ "summarize": {
+  "pos": "v.",
+  "en": "to give a short statement of the main points",
+  "zh": "概述；總結"
+ },
+ "surprise at": {
+  "pos": "n. phr.",
+  "en": "a feeling caused by something unexpected",
+  "zh": "對……感到驚訝"
+ },
+ "suspicion of": {
+  "pos": "n. phr.",
+  "en": "a feeling of not trusting something",
+  "zh": "對……的猜疑"
+ },
+ "technical command of": {
+  "pos": "n. phr.",
+  "en": "skillful control of the methods of an art or field",
+  "zh": "對……的技術掌握"
+ },
+ "uncertainty about": {
+  "pos": "n. phr.",
+  "en": "a state of not being sure about something",
+  "zh": "對……的不確定"
+ },
+ "unchanged": {
+  "pos": "adj.",
+  "en": "staying the same",
+  "zh": "未改變的"
+ },
+ "unusual": {
+  "pos": "adj.",
+  "en": "not common or ordinary",
+  "zh": "不尋常的"
+ },
+ "valuable": {
+  "pos": "adj.",
+  "en": "very useful or important; worth a lot",
+  "zh": "有價值的；寶貴的"
+ },
+ "viable": {
+  "pos": "adj.",
+  "en": "able to live, grow, or work successfully",
+  "zh": "能存活的；可行的"
+ }
+}

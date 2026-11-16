@@ -1,0 +1,2189 @@
+{
+ "pref": {
+  "1": "",
+  "2": "",
+  "3": "",
+  "4": "",
+  "5": "In a laboratory study, researchers tracked a process over multiple stages and found that the outcome depended on timing, environment, and the interaction of several variables. Their summary presents the evidence carefully because a small change in wording would alter the precision of the claim and might make the conclusion sound broader than the data support. "
+ },
+ "items": {
+  "o1": {
+   "body": "According to botanists, a viburnum plant experiencing insect damage may develop erineum-a discolored, felty growth-on its leaf blades. A ______ viburnum plant, on the other hand, will have leaves with smooth surfaces and uniformly green coloration.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "struggling",
+    "B": "beneficial",
+    "C": "simple",
+    "D": "healthy"
+   },
+   "filler": null
+  },
+  "1.1": {
+   "body": "Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. After several weeks of drought stress, many seedlings displayed curled leaves and patchy discoloration, whereas a ______ specimen maintained firm stems and an even green surface, indicating that it had not suffered the same physiological damage.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "healthy",
+    "B": "ordinary",
+    "C": "decorative",
+    "D": "struggling"
+   },
+   "filler": "1"
+  },
+  "1.2": {
+   "body": "A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. The conservator rejected the cracked ceramic fragment as unsuitable for display beside the newly restored vessel; only the ______ example, with its glaze intact and no visible fractures, could illustrate the artist's original technique.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "fragile",
+    "B": "beneficial",
+    "C": "simple",
+    "D": "intact"
+   },
+   "filler": "2"
+  },
+  "1.3": {
+   "body": "At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. The marine biologists noted that bleached coral colonies were increasingly common in the lagoon, but one reef remained relatively ______, showing vivid coloration and active growth despite the elevated water temperatures.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "minor",
+    "B": "viable",
+    "C": "unchanged",
+    "D": "injured"
+   },
+   "filler": "3"
+  },
+  "1.4": {
+   "body": "A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. The old manuscript had water stains along several edges, but the library's second copy was unusually ______: its pages were clean, its binding secure, and its ink still sharply legible.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "pristine",
+    "B": "damaged",
+    "C": "confusing",
+    "D": "valuable"
+   },
+   "filler": "4"
+  },
+  "1.5": {
+   "body": "Researchers expected the transplanted grasses to wilt in the salty soil, yet several plots remained ______ throughout the summer, producing new shoots even during the hottest weeks.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "unusual",
+    "B": "artificial",
+    "C": "robust",
+    "D": "simple"
+   },
+   "filler": "5"
+  },
+  "o2": {
+   "body": "Nigerian American author Teju Cole's ______ his two passions-photography and the written word-culminates in his 2017 book, Blind Spot, which evocatively combines his original photographs from his travels with his poetic prose.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "indifference to",
+    "B": "enthusiasm for",
+    "C": "concern about",
+    "D": "surprise at"
+   },
+   "filler": null
+  },
+  "2.1": {
+   "body": "Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. The critic argues that the architect's ______ vernacular building traditions is evident in her careful study of local materials, roof forms, and courtyard arrangements, all of which reappear in her contemporary designs.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "indifference to",
+    "B": "departure from",
+    "C": "anxiety about",
+    "D": "enthusiasm for"
+   },
+   "filler": "1"
+  },
+  "2.2": {
+   "body": "A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. Although the historian was trained primarily as an economist, his ______ archival research led him to spend years examining diaries, shipping records, and court documents that earlier scholars had ignored.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "separation from",
+    "B": "doubt about",
+    "C": "interest in",
+    "D": "resistance to"
+   },
+   "filler": "2"
+  },
+  "2.3": {
+   "body": "At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. The documentary reveals the filmmaker's ______ urban wildlife: she follows coyotes, hawks, and foxes through alleyways and parks with the attentiveness usually reserved for rarer species.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "fascination with",
+    "B": "avoidance of",
+    "C": "mastery over",
+    "D": "suspicion of"
+   },
+   "filler": "3"
+  },
+  "2.4": {
+   "body": "A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. The poet's ______ medieval astronomy shapes the collection's imagery, which repeatedly invokes planetary motion, eclipses, and the mathematical diagrams found in early star charts.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "surprise at",
+    "B": "preoccupation with",
+    "C": "indifference to",
+    "D": "concern about"
+   },
+   "filler": "4"
+  },
+  "2.5": {
+   "body": "In interviews, the chef describes her ______ regional grains as the force behind her menu, which revives nearly forgotten varieties of millet, barley, and sorghum.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "devotion to",
+    "B": "criticism of",
+    "C": "uncertainty about",
+    "D": "distance from"
+   },
+   "filler": "5"
+  },
+  "o3": {
+   "body": "Novelist N. K. Jemisin declines to ______ the conventions of the science fiction genre in which she writes, and she has suggested that her readers appreciate her work precisely because of this willingness to thwart expectations and avoid formulaic plots and themes.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "question",
+    "B": "react to",
+    "C": "perceive",
+    "D": "conform to"
+   },
+   "filler": null
+  },
+  "3.1": {
+   "body": "Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. Rather than ______ the expectations of museum portraiture, the painter deliberately disrupts them: her subjects look away from the viewer, and the backgrounds contain fragments of maps, invoices, and family recipes.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "question",
+    "B": "conform to",
+    "C": "misread",
+    "D": "react to"
+   },
+   "filler": "1"
+  },
+  "3.2": {
+   "body": "A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. The choreographer refused to ______ the rigid conventions of classical staging; dancers entered from the aisles, spoke directly to the audience, and rearranged the lighting equipment during the performance.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "adhere to",
+    "B": "revise",
+    "C": "summarize",
+    "D": "perceive"
+   },
+   "filler": "2"
+  },
+  "3.3": {
+   "body": "At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. Although the committee expected a conventional proposal, the engineer declined to ______ that format, submitting instead a set of annotated sketches that made the design logic clearer than a report would have.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "evaluate",
+    "B": "imitate",
+    "C": "follow",
+    "D": "dismiss"
+   },
+   "filler": "3"
+  },
+  "3.4": {
+   "body": "A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. The novelist's refusal to ______ genre formulas is central to her appeal; she blends courtroom testimony, folklore, and speculative science in a way that resists easy classification.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "ignore",
+    "B": "observe",
+    "C": "challenge",
+    "D": "explain"
+   },
+   "filler": "4"
+  },
+  "3.5": {
+   "body": "The journal usually publishes studies in a strict order of abstract, method, results, and discussion, but this essay does not ______ the pattern, beginning instead with a personal narrative.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "perceive",
+    "B": "describe",
+    "C": "react against",
+    "D": "comply with"
+   },
+   "filler": "5"
+  },
+  "o4": {
+   "body": "In Nature Poem (2017), Kumeyaay poet Tommy Pico portrays his ______ the natural world by honoring the centrality of nature within his tribe's traditional beliefs while simultaneously expressing his distaste for being in wilderness settings himself.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "responsiveness to",
+    "B": "ambivalence toward",
+    "C": "renunciation of",
+    "D": "mastery over"
+   },
+   "filler": null
+  },
+  "4.1": {
+   "body": "Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. The memoir captures the author's ______ fame: she values the opportunities it brings but is uneasy about the loss of privacy and the pressure to perform a simplified version of herself in public.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "renunciation of",
+    "B": "ambivalence toward",
+    "C": "mastery over",
+    "D": "responsiveness to"
+   },
+   "filler": "1"
+  },
+  "4.2": {
+   "body": "A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. The scientist's comments reveal a ______ artificial intelligence; she praises its usefulness for modeling climate systems while warning that opaque algorithms can reinforce flawed assumptions.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "mixed attitude toward",
+    "B": "technical command of",
+    "C": "casual indifference to",
+    "D": "complete rejection of"
+   },
+   "filler": "2"
+  },
+  "4.3": {
+   "body": "At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. In the essay, the narrator expresses ______ city life, admiring its density and cultural richness yet longing for the quiet routines of the rural town she left behind.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "hostility toward",
+    "B": "mastery over",
+    "C": "confidence in",
+    "D": "conflicted feelings about"
+   },
+   "filler": "3"
+  },
+  "4.4": {
+   "body": "The report also notes that residents responded differently depending on commuting patterns, local services, and access to reliable public information. A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. The curator's exhibition presents a ______ industrial progress: the machines are shown as sources of both economic possibility and environmental harm.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "renunciation of",
+    "B": "celebration of",
+    "C": "nuanced response to",
+    "D": "simple account of"
+   },
+   "filler": "4"
+  },
+  "4.5": {
+   "body": "The speaker's ______ tradition becomes clear when she preserves older rituals in her work but also questions the social limits those rituals once imposed.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "enthusiasm for",
+    "B": "ignorance of",
+    "C": "mastery over",
+    "D": "ambivalence about"
+   },
+   "filler": "5"
+  },
+  "o5": {
+   "body": "The following text is from the 1924 poem \"Cycle\" by D'Arcy McNickle, who was a citizen of the Confederated Salish and Kootenai Tribes.\n\nThere shall be new roads wending,\nA new beating of the drum-\nMen's eyes shall have fresh seeing,\nGrey lives reprise their span-\nBut under the new sun's being,\nCompleting what night began,\nThere'll be the same backs bending,\nThe same sad feet shall drum-\nWhen this night finds its ending\nAnd day shall have come.....",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To consider how the repetitiveness inherent in human life can be both rewarding and challenging",
+    "B": "To question whether activities completed at one time of day are more memorable than those completed at another time of day",
+    "C": "To refute the idea that joy is a more commonly experienced emotion than sadness is",
+    "D": "To demonstrate how the experiences of individuals relate to the experiences of their communities"
+   },
+   "filler": null
+  },
+  "5.1": {
+   "body": "Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. In a short story excerpt, an elderly musician waits beside an open window while a younger relative returns from the garden with flowers. The narration lingers on the evening light, the prepared room, and the small signs that a long-anticipated visitor is about to arrive.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To summarize a conflict between two relatives",
+    "B": "To argue that the characters should leave the house",
+    "C": "To portray a setting and mood as characters prepare for an arrival",
+    "D": "To explain why music has lost its importance"
+   },
+   "filler": "1"
+  },
+  "5.2": {
+   "body": "A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. A poem describes a speaker standing at the edge of a harbor as ships depart at dawn. Rather than narrating a completed journey, the poem emphasizes mist, movement, and the speaker's awareness that the travelers are entering uncertain but promising conditions.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To list the technical features of a harbor",
+    "B": "To present an atmosphere of departure and possibility",
+    "C": "To criticize sailors for taking unnecessary risks",
+    "D": "To compare several forms of transportation"
+   },
+   "filler": "2"
+  },
+  "5.3": {
+   "body": "At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. A novel excerpt shows a crowded kitchen before a festival meal. The narrator notes the polished bowls, the careful arrangement of chairs, and the way family members pause whenever footsteps sound outside, waiting for a guest who has not visited for many years.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To describe a completed celebration from beginning to end",
+    "B": "To contrast rural and urban customs",
+    "C": "To explain why the family dislikes visitors",
+    "D": "To depict preparations that reveal anticipation within a family"
+   },
+   "filler": "3"
+  },
+  "5.4": {
+   "body": "A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. A passage from a memoir describes a teacher unlocking a classroom before sunrise, straightening notebooks, and listening as students gather in the hallway. The text does not yet present the lesson itself; instead, it highlights the quiet rituals that precede it.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To argue that early classes should be canceled",
+    "B": "To evaluate the quality of a school's curriculum",
+    "C": "To recount a student's entire academic career",
+    "D": "To describe the moments before a significant daily activity begins"
+   },
+   "filler": "4"
+  },
+  "5.5": {
+   "body": "A literary passage presents a garden after rain: wet paths, bright leaves, and a bench set beneath a tree. A character pauses there with a letter in hand, and the description makes the setting feel calm but expectant.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To establish a reflective mood before a character acts",
+    "B": "To compare two different seasons",
+    "C": "To reveal the full contents of a letter",
+    "D": "To give instructions for maintaining a garden"
+   },
+   "filler": "5"
+  },
+  "o6": {
+   "body": "The following text is adapted from Jane Austen's 1814 novel Mansfield Park. The speaker, Tom, is considering staging a play at home with a group of his friends and family.\n\nWe mean nothing but a little amusement among ourselves, just to vary the scene, and exercise our powers in something new. We want no audience, no publicity. We may be trusted, I think, in choosing some play most perfectly unexceptionable; and I can conceive no greater harm or danger to any of us in conversing in the elegant written language of some respectable author than in chattering in words of our own.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To offer Tom's assurance that the play will be inoffensive and involve only a small number of people",
+    "B": "To clarify that the play will not be performed in the manner Tom had originally intended",
+    "C": "To elaborate on the idea that the people around Tom lack the skills to successfully stage a play",
+    "D": "To assert that Tom believes the group performing the play will be able to successfully promote it"
+   },
+   "filler": null
+  },
+  "6.1": {
+   "body": "Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. In a short story excerpt, an elderly musician waits beside an open window while a younger relative returns from the garden with flowers. The narration lingers on the evening light, the prepared room, and the small signs that a long-anticipated visitor is about to arrive.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To explain why music has lost its importance",
+    "B": "To portray a setting and mood as characters prepare for an arrival",
+    "C": "To summarize a conflict between two relatives",
+    "D": "To argue that the characters should leave the house"
+   },
+   "filler": "1"
+  },
+  "6.2": {
+   "body": "A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. A poem describes a speaker standing at the edge of a harbor as ships depart at dawn. Rather than narrating a completed journey, the poem emphasizes mist, movement, and the speaker's awareness that the travelers are entering uncertain but promising conditions.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To criticize sailors for taking unnecessary risks",
+    "B": "To list the technical features of a harbor",
+    "C": "To present an atmosphere of departure and possibility",
+    "D": "To compare several forms of transportation"
+   },
+   "filler": "2"
+  },
+  "6.3": {
+   "body": "At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. A novel excerpt shows a crowded kitchen before a festival meal. The narrator notes the polished bowls, the careful arrangement of chairs, and the way family members pause whenever footsteps sound outside, waiting for a guest who has not visited for many years.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To describe a completed celebration from beginning to end",
+    "B": "To contrast rural and urban customs",
+    "C": "To explain why the family dislikes visitors",
+    "D": "To depict preparations that reveal anticipation within a family"
+   },
+   "filler": "3"
+  },
+  "6.4": {
+   "body": "A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. A passage from a memoir describes a teacher unlocking a classroom before sunrise, straightening notebooks, and listening as students gather in the hallway. The text does not yet present the lesson itself; instead, it highlights the quiet rituals that precede it.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To recount a student's entire academic career",
+    "B": "To describe the moments before a significant daily activity begins",
+    "C": "To argue that early classes should be canceled",
+    "D": "To evaluate the quality of a school's curriculum"
+   },
+   "filler": "4"
+  },
+  "6.5": {
+   "body": "A literary passage presents a garden after rain: wet paths, bright leaves, and a bench set beneath a tree. A character pauses there with a letter in hand, and the description makes the setting feel calm but expectant.",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To establish a reflective mood before a character acts",
+    "B": "To reveal the full contents of a letter",
+    "C": "To compare two different seasons",
+    "D": "To give instructions for maintaining a garden"
+   },
+   "filler": "5"
+  },
+  "o7": {
+   "body": "Musician Joni Mitchell, who is also a painter, uses images she creates for her album covers to emphasize ideas expressed in her music. For the cover of her album Turbulent Indigo (1994), Mitchell painted a striking self-portrait that closely resembles Vincent van Gogh's Self-Portrait with Bandaged Ear (1889). The image calls attention to the album's title song, in which Mitchell sings about the legacy of the postimpressionist painter. In that song, Mitchell also hints that she feels a strong artistic connection to Van Gogh-an idea that is reinforced by her imagery on the cover.",
+   "stem": "Which choice best describes the overall structure of the text?",
+   "opts": {
+    "A": "It presents a claim about Mitchell, then gives an example supporting that claim.",
+    "B": "It discusses Van Gogh's influence on Mitchell, then considers Mitchell's influence on other artists.",
+    "C": "It describes a similarity between two artists, then notes a difference between them.",
+    "D": "It describes the songs on Turbulent Indigo, then explains how they relate to the album's cover."
+   },
+   "filler": null
+  },
+  "7.1": {
+   "body": "Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. A science text first explains that a comet's surface changes whenever it passes close to the Sun. The second sentence notes that researchers cannot predict those changes well because the comet's interior structure remains poorly understood. The final sentence describes a study that tested whether radar could solve the problem but found that the signal did not penetrate deeply enough.",
+   "stem": "Which choice best describes the overall structure of the text?",
+   "opts": {
+    "A": "It identifies the uncertainty that motivated the study.",
+    "B": "It offers evidence that radar is always reliable.",
+    "C": "It states the study's final conclusion.",
+    "D": "It describes how other researchers criticized the work."
+   },
+   "filler": "1"
+  },
+  "7.2": {
+   "body": "A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. An archaeology passage begins by saying that a settlement clearly traded with distant regions. The next sentence explains that the route used for this exchange is still unknown because nearby roads have left almost no physical trace. The passage then discusses a team that looked for chemical signatures in pottery but reached only tentative conclusions.",
+   "stem": "Which choice best describes the overall structure of the text?",
+   "opts": {
+    "A": "It shifts the discussion away from archaeology.",
+    "B": "It defines the problem the later investigation attempts to address.",
+    "C": "It summarizes the team's strongest result.",
+    "D": "It contradicts the claim made in the first sentence."
+   },
+   "filler": "2"
+  },
+  "7.3": {
+   "body": "At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. A biology text states that a plant species can survive long droughts. The following sentence explains that scientists remain uncertain about which cellular mechanism allows this survival. The rest of the text describes an experiment that eliminated one possible mechanism.",
+   "stem": "Which choice best describes the overall structure of the text?",
+   "opts": {
+    "A": "It lists the materials used in the experiment.",
+    "B": "It gives a historical overview of plant classification.",
+    "C": "It introduces a gap in knowledge that the experiment examines.",
+    "D": "It proves that drought has no effect on plants."
+   },
+   "filler": "3"
+  },
+  "7.4": {
+   "body": "A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. A literary analysis begins by noting that a novel's ending has often been described as optimistic. The second sentence observes that this interpretation is difficult to sustain because the final chapter contains several images of confinement. The rest of the paragraph explains how those images complicate earlier readings.",
+   "stem": "Which choice best describes the overall structure of the text?",
+   "opts": {
+    "A": "It introduces an unrelated theme.",
+    "B": "It provides biographical information about the novelist.",
+    "C": "It raises a difficulty with a common interpretation.",
+    "D": "It summarizes the novel's publication history."
+   },
+   "filler": "4"
+  },
+  "7.5": {
+   "body": "A technology passage first says that autonomous underwater vehicles can map the ocean floor. The next sentence explains that they often fail in narrow caves, where GPS signals are absent and currents are unpredictable. The final sentence describes engineers testing a new guidance system for those conditions.",
+   "stem": "Which choice best describes the overall structure of the text?",
+   "opts": {
+    "A": "It compares underwater vehicles with aircraft.",
+    "B": "It announces that the technology is already flawless.",
+    "C": "It gives a personal anecdote about engineers.",
+    "D": "It explains the limitation that the new system is meant to address."
+   },
+   "filler": "5"
+  },
+  "o8": {
+   "body": "Text 1\nAstronomer Mark Holland and colleagues examined four white dwarfs-small, dense remnants of past stars-in order to determine the composition of exoplanets that used to orbit those stars. Studying wavelengths of light in the white dwarf atmospheres, the team reported that traces of elements such as lithium and sodium support the presence of exoplanets with continental crusts similar to Earth's.\n\nText 2\nPast studies of white dwarf atmospheres have concluded that certain exoplanets had continental crusts. Geologist Keith Putirka and astronomer Siyi Xu argue that those studies unduly emphasize atmospheric traces of lithium and other individual elements as signifiers of the types of rock found on Earth. The studies don't adequately account for different minerals made up of various ratios of those elements, and the possibility of rock types not found on Earth that contain those minerals.",
+   "stem": "Based on the texts, how would Putirka and Xu (Text 2) most likely characterize the conclusion presented in Text 1?",
+   "opts": {
+    "A": "As unexpected, because it was widely believed at the time that white dwarf exoplanets lack continental crusts",
+    "B": "As premature, because researchers have only just begun trying to determine what kinds of crusts white dwarf exoplanets had",
+    "C": "As questionable, because it rests on an incomplete consideration of potential sources of the elements detected in white dwarf atmospheres",
+    "D": "As puzzling, because it's unusual to successfully detect lithium and sodium when analyzing wavelengths of light in white dwarf atmospheres"
+   },
+   "filler": null
+  },
+  "8.1": {
+   "body": "Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. A student claims that a historian treats a revolutionary leader more as a national emblem than as a practical policymaker. Which quotation would best illustrate that claim?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "'The administration faced economic challenges from the beginning.'",
+    "B": "'The leader's speeches are preserved in several archives.'",
+    "C": "'The leader's symbolic role in the birth of the nation matters more than the brief and uneven record of his administration.'",
+    "D": "'The leader signed several decrees during his first month in office.'"
+   },
+   "filler": "1"
+  },
+  "8.2": {
+   "body": "A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. A graph shows that female farmers made up 64% of vegetable growers in the southern region but less than 35% of grain growers in the northern and central regions. Which statement best uses the graph to support a claim about regional crop patterns?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "The graph contains information about three regions.",
+    "B": "Some farmers grew vegetables, while others grew grain.",
+    "C": "Women formed a majority of southern vegetable growers but not of northern or central grain growers.",
+    "D": "The southern region was included in the survey."
+   },
+   "filler": "2"
+  },
+  "8.3": {
+   "body": "Visitors encountered sketches, recordings, and reconstructed workspaces that showed how the creators revised their ideas before presenting the finished pieces. At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. Astronomers claim that rocky planets never contain more iron than their host stars. Which finding would most directly weaken the claim?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "Some stars contain hydrogen and helium.",
+    "B": "The method used to study stars requires a telescope.",
+    "C": "One rocky planet has a thin atmosphere.",
+    "D": "Several rocky planets are found to contain a substantially higher proportion of iron than the stars they orbit."
+   },
+   "filler": "3"
+  },
+  "8.4": {
+   "body": "A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. A folklorist argues that a tradition developed through recent cultural exchange rather than being merely imported unchanged from a distant country. Which finding would best support the argument?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "Several ballads include local historical events and blended musical forms that arose after different communities came into sustained contact.",
+    "B": "Many performers learned songs from relatives.",
+    "C": "The tradition is studied by scholars in several countries.",
+    "D": "Some songs use a meter also found in older European poetry."
+   },
+   "filler": "4"
+  },
+  "8.5": {
+   "body": "A table shows that the number of trained volunteers rose from 18 to 46 after a community program began, while the number in a comparable town without the program stayed near 20. Which conclusion is best supported?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "Both towns had some volunteers.",
+    "B": "The program was associated with a clear increase in trained volunteers compared with the town without the program.",
+    "C": "The table includes more than one year.",
+    "D": "The program took place in a community."
+   },
+   "filler": "5"
+  },
+  "o9": {
+   "body": "Utah is home to Pando, a colony of about 47,000 quaking aspen trees that all share a single root system. Pando is one of the largest single organisms by mass on Earth, but ecologists are worried that its growth is declining in part because of grazing by animals. The ecologists say that strong fences could prevent deer from eating young trees and help Pando start thriving again.",
+   "stem": "According to the text, why are ecologists worried about Pando?",
+   "opts": {
+    "A": "It isn't growing at the same rate it used to.",
+    "B": "It isn't producing young trees anymore.",
+    "C": "It can't grow into new areas because it is blocked by fences.",
+    "D": "Its root system can't support many more new trees."
+   },
+   "filler": null
+  },
+  "9.1": {
+   "body": "Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. A nineteenth-century novel describes a young woman who is only eighteen but regularly advises older relatives because she remains calm when others react impulsively. The narrator stresses that her affection is sincere, yet she can restrain her emotions when judgment is needed.",
+   "stem": "According to the text, which choice is best supported?",
+   "opts": {
+    "A": "She refuses to give advice to others.",
+    "B": "She is admired mainly for her wealth.",
+    "C": "She lacks affection for her family.",
+    "D": "She shows unusual maturity and self-command."
+   },
+   "filler": "1"
+  },
+  "9.2": {
+   "body": "A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. In a memoir, a child observes that her grandmother rarely speaks during family disputes, but when she finally offers a suggestion, everyone in the room accepts it. The narrator explains that the grandmother's authority comes from patience rather than force.",
+   "stem": "According to the text, which choice is best supported?",
+   "opts": {
+    "A": "The grandmother's influence is quiet but substantial.",
+    "B": "The narrator thinks patience is useless.",
+    "C": "The grandmother avoids family matters entirely.",
+    "D": "The family ignores the grandmother's opinions."
+   },
+   "filler": "2"
+  },
+  "9.3": {
+   "body": "At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. A story describes a clerk who notices tiny errors in ledgers that others have already approved. Although his coworkers sometimes find his caution irritating, the narrator says that the business survives because of his exactness.",
+   "stem": "According to the text, which choice is best supported?",
+   "opts": {
+    "A": "The coworkers are more accurate than the clerk.",
+    "B": "The business fails because of excessive caution.",
+    "C": "The clerk's carefulness is valuable despite being inconvenient.",
+    "D": "The clerk intentionally creates errors."
+   },
+   "filler": "3"
+  },
+  "9.4": {
+   "body": "A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. A passage states that a village leader listens to every speaker before making decisions, even when the answer seems obvious. The narrator suggests that this habit slows meetings but prevents resentment among people who might otherwise feel dismissed.",
+   "stem": "According to the text, which choice is best supported?",
+   "opts": {
+    "A": "The leader dislikes public meetings.",
+    "B": "The leader makes decisions without hearing others.",
+    "C": "The leader values inclusive deliberation.",
+    "D": "The leader is unable to reach conclusions."
+   },
+   "filler": "4"
+  },
+  "9.5": {
+   "body": "In an excerpt, a scientist is described as generous with students but uncompromising about evidence. She encourages speculation in early discussions, yet she will not publish a claim until every measurement has been checked.",
+   "stem": "According to the text, which choice is best supported?",
+   "opts": {
+    "A": "She publishes claims before testing them.",
+    "B": "She combines intellectual openness with rigorous standards.",
+    "C": "She rejects all imaginative thinking.",
+    "D": "She avoids working with students."
+   },
+   "filler": "5"
+  },
+  "o10": {
+   "body": "For many years, the only existing fossil evidence of mixopterid eurypterids-an extinct family of large aquatic arthropods known as sea scorpions and related to modern arachnids and horseshoe crabs-came from four species living on the paleocontinent of Laurussia. In a discovery that expands our understanding of the geographical distribution of mixopterids, paleontologist Bo Wang and others have identified fossilized remains of a new mixopterid species, Terropterus xiushanensis, that lived over 400 million years ago on the paleocontinent of Gondwana.",
+   "stem": "According to the text, why was Wang and his team's discovery of the Terropterus xiushanensis fossil significant?",
+   "opts": {
+    "A": "The fossil constitutes the first evidence found by scientists that mixopterids lived more than 400 million years ago.",
+    "B": "The fossil helps establish that mixopterids are more closely related to modern arachnids and horseshoe crabs than previously thought.",
+    "C": "The fossil helps establish a more accurate timeline of the evolution of mixopterids on the paleocontinents of Laurussia and Gondwana.",
+    "D": "The fossil constitutes the first evidence found by scientists that mixopterids existed outside the paleocontinent of Laurussia."
+   },
+   "filler": null
+  },
+  "10.1": {
+   "body": "Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. A nineteenth-century novel describes a young woman who is only eighteen but regularly advises older relatives because she remains calm when others react impulsively. The narrator stresses that her affection is sincere, yet she can restrain her emotions when judgment is needed.",
+   "stem": "According to the text, which choice is best supported?",
+   "opts": {
+    "A": "She lacks affection for her family.",
+    "B": "She is admired mainly for her wealth.",
+    "C": "She shows unusual maturity and self-command.",
+    "D": "She refuses to give advice to others."
+   },
+   "filler": "1"
+  },
+  "10.2": {
+   "body": "A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. In a memoir, a child observes that her grandmother rarely speaks during family disputes, but when she finally offers a suggestion, everyone in the room accepts it. The narrator explains that the grandmother's authority comes from patience rather than force.",
+   "stem": "According to the text, which choice is best supported?",
+   "opts": {
+    "A": "The narrator thinks patience is useless.",
+    "B": "The grandmother's influence is quiet but substantial.",
+    "C": "The family ignores the grandmother's opinions.",
+    "D": "The grandmother avoids family matters entirely."
+   },
+   "filler": "2"
+  },
+  "10.3": {
+   "body": "At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. A story describes a clerk who notices tiny errors in ledgers that others have already approved. Although his coworkers sometimes find his caution irritating, the narrator says that the business survives because of his exactness.",
+   "stem": "According to the text, which choice is best supported?",
+   "opts": {
+    "A": "The coworkers are more accurate than the clerk.",
+    "B": "The business fails because of excessive caution.",
+    "C": "The clerk intentionally creates errors.",
+    "D": "The clerk's carefulness is valuable despite being inconvenient."
+   },
+   "filler": "3"
+  },
+  "10.4": {
+   "body": "A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. A passage states that a village leader listens to every speaker before making decisions, even when the answer seems obvious. The narrator suggests that this habit slows meetings but prevents resentment among people who might otherwise feel dismissed.",
+   "stem": "According to the text, which choice is best supported?",
+   "opts": {
+    "A": "The leader values inclusive deliberation.",
+    "B": "The leader makes decisions without hearing others.",
+    "C": "The leader dislikes public meetings.",
+    "D": "The leader is unable to reach conclusions."
+   },
+   "filler": "4"
+  },
+  "10.5": {
+   "body": "In an excerpt, a scientist is described as generous with students but uncompromising about evidence. She encourages speculation in early discussions, yet she will not publish a claim until every measurement has been checked.",
+   "stem": "According to the text, which choice is best supported?",
+   "opts": {
+    "A": "She combines intellectual openness with rigorous standards.",
+    "B": "She avoids working with students.",
+    "C": "She publishes claims before testing them.",
+    "D": "She rejects all imaginative thinking."
+   },
+   "filler": "5"
+  },
+  "o11": {
+   "body": "The novelist Toni Morrison was the first Black woman to work as an editor at the publishing company Random House, from 1967 to 1983. A scholar asserts that one of Morrison's likely aims during her time as an editor was to strengthen the presence of Black writers on the list of Random House's published authors.",
+   "stem": "Which finding, if true, would most strongly support the scholar's claim?",
+   "opts": {
+    "A": "The percentage of authors published by Random House who were Black rose in the early 1970s and stabilized throughout the decade.",
+    "B": "Black authors who were interviewed in the 1980s and 1990s were highly likely to cite Toni Morrison's novels as a principal influence on their work.",
+    "C": "The novels written by Toni Morrison that were published after 1983 sold significantly more copies and received wider critical acclaim than the novels she wrote that were published before 1983.",
+    "D": "Works that were edited by Toni Morrison during her time at Random House displayed stylistic characteristics that distinguished them from works that were not edited by Morrison."
+   },
+   "filler": null
+  },
+  "11.1": {
+   "body": "Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. A student claims that a historian treats a revolutionary leader more as a national emblem than as a practical policymaker. Which quotation would best illustrate that claim?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "'The leader signed several decrees during his first month in office.'",
+    "B": "'The administration faced economic challenges from the beginning.'",
+    "C": "'The leader's symbolic role in the birth of the nation matters more than the brief and uneven record of his administration.'",
+    "D": "'The leader's speeches are preserved in several archives.'"
+   },
+   "filler": "1"
+  },
+  "11.2": {
+   "body": "A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. A graph shows that female farmers made up 64% of vegetable growers in the southern region but less than 35% of grain growers in the northern and central regions. Which statement best uses the graph to support a claim about regional crop patterns?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "The graph contains information about three regions.",
+    "B": "Some farmers grew vegetables, while others grew grain.",
+    "C": "The southern region was included in the survey.",
+    "D": "Women formed a majority of southern vegetable growers but not of northern or central grain growers."
+   },
+   "filler": "2"
+  },
+  "11.3": {
+   "body": "Visitors encountered sketches, recordings, and reconstructed workspaces that showed how the creators revised their ideas before presenting the finished pieces. At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. Astronomers claim that rocky planets never contain more iron than their host stars. Which finding would most directly weaken the claim?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "Several rocky planets are found to contain a substantially higher proportion of iron than the stars they orbit.",
+    "B": "Some stars contain hydrogen and helium.",
+    "C": "One rocky planet has a thin atmosphere.",
+    "D": "The method used to study stars requires a telescope."
+   },
+   "filler": "3"
+  },
+  "11.4": {
+   "body": "A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. A folklorist argues that a tradition developed through recent cultural exchange rather than being merely imported unchanged from a distant country. Which finding would best support the argument?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "Several ballads include local historical events and blended musical forms that arose after different communities came into sustained contact.",
+    "B": "The tradition is studied by scholars in several countries.",
+    "C": "Some songs use a meter also found in older European poetry.",
+    "D": "Many performers learned songs from relatives."
+   },
+   "filler": "4"
+  },
+  "11.5": {
+   "body": "A table shows that the number of trained volunteers rose from 18 to 46 after a community program began, while the number in a comparable town without the program stayed near 20. Which conclusion is best supported?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "Both towns had some volunteers.",
+    "B": "The program was associated with a clear increase in trained volunteers compared with the town without the program.",
+    "C": "The table includes more than one year.",
+    "D": "The program took place in a community."
+   },
+   "filler": "5"
+  },
+  "o12": {
+   "body": "\"The Poet Walt Whitman\" is an 1887 essay by Jose Marti, a Cuban author and political activist, originally written in Spanish. In the essay, Marti explores the value of literature, arguing that a society's spiritual well-being depends on the character of its literary culture.",
+   "stem": "Which quotation from a translation of \"The Poet Walt Whitman\" most effectively illustrates the claim?",
+   "opts": {
+    "A": "\"Poetry, which brings together or separates, which fortifies or brings anguish, which shores up or demolishes souls, which gives or robs men of faith and vigor, is more necessary to a people than industry itself, for industry provides them with a means of subsistence, while literature gives them the desire and strength for life.\"",
+    "B": "\"Every society brings to literature its own form of expression, and the history of the nations can be told with greater truth by the stages of literature than by chronicles and decades.\"",
+    "C": "\"Where will a race of men go when they have lost the habit of thinking with faith about the scope and meaning of their actions? The best among them, those who consecrate Nature with their sacred desire for the future, will lose, in a sordid and painful annihilation, all stimulus to alleviate the ugliness of humanity.\"",
+    "D": "\"Listen to the song of this hardworking and satisfied nation; listen to Walt Whitman. The exercise of himself exalts him to majesty, tolerance exalts him to justice, and order to joy.\""
+   },
+   "filler": null
+  },
+  "12.1": {
+   "body": "Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. A student claims that a historian treats a revolutionary leader more as a national emblem than as a practical policymaker. Which quotation would best illustrate that claim?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "'The leader signed several decrees during his first month in office.'",
+    "B": "'The administration faced economic challenges from the beginning.'",
+    "C": "'The leader's speeches are preserved in several archives.'",
+    "D": "'The leader's symbolic role in the birth of the nation matters more than the brief and uneven record of his administration.'"
+   },
+   "filler": "1"
+  },
+  "12.2": {
+   "body": "A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. A graph shows that female farmers made up 64% of vegetable growers in the southern region but less than 35% of grain growers in the northern and central regions. Which statement best uses the graph to support a claim about regional crop patterns?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "The graph contains information about three regions.",
+    "B": "Some farmers grew vegetables, while others grew grain.",
+    "C": "The southern region was included in the survey.",
+    "D": "Women formed a majority of southern vegetable growers but not of northern or central grain growers."
+   },
+   "filler": "2"
+  },
+  "12.3": {
+   "body": "Visitors encountered sketches, recordings, and reconstructed workspaces that showed how the creators revised their ideas before presenting the finished pieces. At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. Astronomers claim that rocky planets never contain more iron than their host stars. Which finding would most directly weaken the claim?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "Some stars contain hydrogen and helium.",
+    "B": "Several rocky planets are found to contain a substantially higher proportion of iron than the stars they orbit.",
+    "C": "One rocky planet has a thin atmosphere.",
+    "D": "The method used to study stars requires a telescope."
+   },
+   "filler": "3"
+  },
+  "12.4": {
+   "body": "A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. A folklorist argues that a tradition developed through recent cultural exchange rather than being merely imported unchanged from a distant country. Which finding would best support the argument?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "Several ballads include local historical events and blended musical forms that arose after different communities came into sustained contact.",
+    "B": "The tradition is studied by scholars in several countries.",
+    "C": "Many performers learned songs from relatives.",
+    "D": "Some songs use a meter also found in older European poetry."
+   },
+   "filler": "4"
+  },
+  "12.5": {
+   "body": "A table shows that the number of trained volunteers rose from 18 to 46 after a community program began, while the number in a comparable town without the program stayed near 20. Which conclusion is best supported?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "Both towns had some volunteers.",
+    "B": "The table includes more than one year.",
+    "C": "The program was associated with a clear increase in trained volunteers compared with the town without the program.",
+    "D": "The program took place in a community."
+   },
+   "filler": "5"
+  },
+  "o13": {
+   "body": "Estimates of Tyrannosaurid Bite Force\nCost et al. (2019), muscular and skeletal modeling: 35,000-63,000 newtons\nGignac and Erickson (2017), tooth-bone interaction analysis: 8,000-34,000 newtons\nMeers (2002), body-mass scaling: 183,000-235,000 newtons\nBates and Falkingham (2012), muscular and skeletal modeling: 35,000-57,000 newtons\n\nThe largest tyrannosaurids-the family of carnivorous dinosaurs that includes Tarbosaurus, Albertosaurus, and Tyrannosaurus rex-are thought to have had the strongest bites of any land animals in Earth's history. Determining the bite force of extinct animals can be difficult, however, and paleontologists Paul Barrett and Emily Rayfield have suggested that an estimate of dinosaur bite force may be significantly influenced by the methodology used in generating that estimate.",
+   "stem": "Which choice best describes data from the table that support Barrett and Rayfield's suggestion?",
+   "opts": {
+    "A": "The study by Meers used body-mass scaling and produced the lowest estimated maximum bite force, while the study by Cost et al. used muscular and skeletal modeling and produced the highest estimated maximum.",
+    "B": "In their study, Gignac and Erickson used tooth-bone interaction analysis to produce an estimated bite force range with a minimum of 8,000 newtons and a maximum of 34,000 newtons.",
+    "C": "The bite force estimates produced by Bates and Falkingham and by Cost et al. were similar to each other, while the estimates produced by Meers and by Gignac and Erickson each differed substantially from any other estimate.",
+    "D": "The estimated maximum bite force produced by Cost et al. exceeded the estimated maximum produced by Bates and Falkingham, even though both groups of researchers used the same method to generate their estimates."
+   },
+   "filler": null
+  },
+  "13.1": {
+   "body": "Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. A student claims that a historian treats a revolutionary leader more as a national emblem than as a practical policymaker. Which quotation would best illustrate that claim?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "'The administration faced economic challenges from the beginning.'",
+    "B": "'The leader's symbolic role in the birth of the nation matters more than the brief and uneven record of his administration.'",
+    "C": "'The leader's speeches are preserved in several archives.'",
+    "D": "'The leader signed several decrees during his first month in office.'"
+   },
+   "filler": "1"
+  },
+  "13.2": {
+   "body": "A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. A graph shows that female farmers made up 64% of vegetable growers in the southern region but less than 35% of grain growers in the northern and central regions. Which statement best uses the graph to support a claim about regional crop patterns?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "The southern region was included in the survey.",
+    "B": "Women formed a majority of southern vegetable growers but not of northern or central grain growers.",
+    "C": "The graph contains information about three regions.",
+    "D": "Some farmers grew vegetables, while others grew grain."
+   },
+   "filler": "2"
+  },
+  "13.3": {
+   "body": "Visitors encountered sketches, recordings, and reconstructed workspaces that showed how the creators revised their ideas before presenting the finished pieces. At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. Astronomers claim that rocky planets never contain more iron than their host stars. Which finding would most directly weaken the claim?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "The method used to study stars requires a telescope.",
+    "B": "Some stars contain hydrogen and helium.",
+    "C": "Several rocky planets are found to contain a substantially higher proportion of iron than the stars they orbit.",
+    "D": "One rocky planet has a thin atmosphere."
+   },
+   "filler": "3"
+  },
+  "13.4": {
+   "body": "A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. A folklorist argues that a tradition developed through recent cultural exchange rather than being merely imported unchanged from a distant country. Which finding would best support the argument?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "Several ballads include local historical events and blended musical forms that arose after different communities came into sustained contact.",
+    "B": "Many performers learned songs from relatives.",
+    "C": "Some songs use a meter also found in older European poetry.",
+    "D": "The tradition is studied by scholars in several countries."
+   },
+   "filler": "4"
+  },
+  "13.5": {
+   "body": "A table shows that the number of trained volunteers rose from 18 to 46 after a community program began, while the number in a comparable town without the program stayed near 20. Which conclusion is best supported?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "Both towns had some volunteers.",
+    "B": "The program took place in a community.",
+    "C": "The table includes more than one year.",
+    "D": "The program was associated with a clear increase in trained volunteers compared with the town without the program."
+   },
+   "filler": "5"
+  },
+  "o14": {
+   "body": "Number and Origin of Clamshell Tools Found at Different Levels Below the Surface in Neanderthal Cave\nDepth 3-4 meters: 99 beach shells, 33 seafloor shells\nDepth 6-7 meters: 1 beach shell, 0 seafloor shells\nDepth 4-5 meters: 2 beach shells, 0 seafloor shells\nDepth 2-3 meters: 7 beach shells, 0 seafloor shells\nDepth 5-6 meters: 18 beach shells, 7 seafloor shells\n\nStudying tools unearthed at a cave site on the western coast of Italy, archaeologist Paola Villa and colleagues have determined that prehistoric Neanderthal groups fashioned them from shells of clams that they harvested from the seafloor while wading or diving or that washed up on the beach. Clamshells become thin and eroded as they wash up on the beach, while those on the seafloor are smooth and sturdy, so the research team suspects that Neanderthals prized the tools made with seafloor shells. However, the team also concluded that those tools were likely more challenging to obtain.",
+   "stem": "Which choice most effectively uses data from the table to support the research team's conclusion?",
+   "opts": {
+    "A": "At each depth below the surface in the cave, the difference in the numbers of tools of each type suggests that shells were easier to collect from the beach than to harvest from the seafloor.",
+    "B": "The highest number of tools were at a depth of 3-4 meters below the surface, which suggests that the Neanderthal population at the site was highest during the related period of time.",
+    "C": "At each depth below the surface in the cave, the difference in the numbers of tools of each type suggests that Neanderthals preferred to use clamshells from the beach because of their durability.",
+    "D": "The higher number of tools at depths of 5-6 meters below the surface in the cave than at depths of 4-5 meters below the surface suggests that the size of clam populations changed over time."
+   },
+   "filler": null
+  },
+  "14.1": {
+   "body": "Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. A student claims that a historian treats a revolutionary leader more as a national emblem than as a practical policymaker. Which quotation would best illustrate that claim?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "'The administration faced economic challenges from the beginning.'",
+    "B": "'The leader signed several decrees during his first month in office.'",
+    "C": "'The leader's speeches are preserved in several archives.'",
+    "D": "'The leader's symbolic role in the birth of the nation matters more than the brief and uneven record of his administration.'"
+   },
+   "filler": "1"
+  },
+  "14.2": {
+   "body": "A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. A graph shows that female farmers made up 64% of vegetable growers in the southern region but less than 35% of grain growers in the northern and central regions. Which statement best uses the graph to support a claim about regional crop patterns?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "The southern region was included in the survey.",
+    "B": "Women formed a majority of southern vegetable growers but not of northern or central grain growers.",
+    "C": "Some farmers grew vegetables, while others grew grain.",
+    "D": "The graph contains information about three regions."
+   },
+   "filler": "2"
+  },
+  "14.3": {
+   "body": "Visitors encountered sketches, recordings, and reconstructed workspaces that showed how the creators revised their ideas before presenting the finished pieces. At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. Astronomers claim that rocky planets never contain more iron than their host stars. Which finding would most directly weaken the claim?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "One rocky planet has a thin atmosphere.",
+    "B": "The method used to study stars requires a telescope.",
+    "C": "Several rocky planets are found to contain a substantially higher proportion of iron than the stars they orbit.",
+    "D": "Some stars contain hydrogen and helium."
+   },
+   "filler": "3"
+  },
+  "14.4": {
+   "body": "A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. A folklorist argues that a tradition developed through recent cultural exchange rather than being merely imported unchanged from a distant country. Which finding would best support the argument?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "Several ballads include local historical events and blended musical forms that arose after different communities came into sustained contact.",
+    "B": "The tradition is studied by scholars in several countries.",
+    "C": "Many performers learned songs from relatives.",
+    "D": "Some songs use a meter also found in older European poetry."
+   },
+   "filler": "4"
+  },
+  "14.5": {
+   "body": "A table shows that the number of trained volunteers rose from 18 to 46 after a community program began, while the number in a comparable town without the program stayed near 20. Which conclusion is best supported?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "The program was associated with a clear increase in trained volunteers compared with the town without the program.",
+    "B": "Both towns had some volunteers.",
+    "C": "The table includes more than one year.",
+    "D": "The program took place in a community."
+   },
+   "filler": "5"
+  },
+  "o15": {
+   "body": "Average Number and Duration of Torpor Bouts and Arousal Episodes for Alaska Marmots and Arctic Ground Squirrels, 2008-2011\nAlaska marmots: 12 torpor bouts; 13.81 days per bout; 11 arousal episodes; 21.2 hours per episode.\nArctic ground squirrels: 10.5 torpor bouts; 16.77 days per bout; 9.5 arousal episodes; 14.2 hours per episode.\n\nWhen hibernating, Alaska marmots and Arctic ground squirrels enter a state called torpor, which minimizes the energy their bodies need to function. Often a hibernating animal will temporarily come out of torpor (called an arousal episode) and its metabolic rate will rise, burning more of the precious energy the animal needs to survive the winter. Alaska marmots hibernate in groups and therefore burn less energy keeping warm during these episodes than they would if they were alone. A researcher hypothesized that because Arctic ground squirrels hibernate alone, they would likely exhibit longer bouts of torpor and shorter arousal episodes than Alaska marmots.",
+   "stem": "Which choice best describes data from the table that support the researcher's hypothesis?",
+   "opts": {
+    "A": "The Alaska marmots' arousal episodes lasted for days, while the Arctic ground squirrels' arousal episodes lasted less than a day.",
+    "B": "The Alaska marmots and the Arctic ground squirrels both maintained torpor for several consecutive days per bout, on average.",
+    "C": "The Alaska marmots had shorter torpor bouts and longer arousal episodes than the Arctic ground squirrels did.",
+    "D": "The Alaska marmots had more torpor bouts than arousal episodes, but their arousal episodes were much shorter than their torpor bouts."
+   },
+   "filler": null
+  },
+  "15.1": {
+   "body": "Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. A student claims that a historian treats a revolutionary leader more as a national emblem than as a practical policymaker. Which quotation would best illustrate that claim?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "'The leader's speeches are preserved in several archives.'",
+    "B": "'The leader signed several decrees during his first month in office.'",
+    "C": "'The leader's symbolic role in the birth of the nation matters more than the brief and uneven record of his administration.'",
+    "D": "'The administration faced economic challenges from the beginning.'"
+   },
+   "filler": "1"
+  },
+  "15.2": {
+   "body": "A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. A graph shows that female farmers made up 64% of vegetable growers in the southern region but less than 35% of grain growers in the northern and central regions. Which statement best uses the graph to support a claim about regional crop patterns?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "The graph contains information about three regions.",
+    "B": "Women formed a majority of southern vegetable growers but not of northern or central grain growers.",
+    "C": "Some farmers grew vegetables, while others grew grain.",
+    "D": "The southern region was included in the survey."
+   },
+   "filler": "2"
+  },
+  "15.3": {
+   "body": "Visitors encountered sketches, recordings, and reconstructed workspaces that showed how the creators revised their ideas before presenting the finished pieces. At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. Astronomers claim that rocky planets never contain more iron than their host stars. Which finding would most directly weaken the claim?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "Several rocky planets are found to contain a substantially higher proportion of iron than the stars they orbit.",
+    "B": "The method used to study stars requires a telescope.",
+    "C": "One rocky planet has a thin atmosphere.",
+    "D": "Some stars contain hydrogen and helium."
+   },
+   "filler": "3"
+  },
+  "15.4": {
+   "body": "A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. A folklorist argues that a tradition developed through recent cultural exchange rather than being merely imported unchanged from a distant country. Which finding would best support the argument?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "The tradition is studied by scholars in several countries.",
+    "B": "Many performers learned songs from relatives.",
+    "C": "Some songs use a meter also found in older European poetry.",
+    "D": "Several ballads include local historical events and blended musical forms that arose after different communities came into sustained contact."
+   },
+   "filler": "4"
+  },
+  "15.5": {
+   "body": "A table shows that the number of trained volunteers rose from 18 to 46 after a community program began, while the number in a comparable town without the program stayed near 20. Which conclusion is best supported?",
+   "stem": "Which choice most effectively uses evidence from the text, table, or paired texts?",
+   "opts": {
+    "A": "The program took place in a community.",
+    "B": "Both towns had some volunteers.",
+    "C": "The table includes more than one year.",
+    "D": "The program was associated with a clear increase in trained volunteers compared with the town without the program."
+   },
+   "filler": "5"
+  },
+  "o16": {
+   "body": "Ratified by more than 90 countries, the Nagoya Protocol is an international agreement ensuring that Indigenous communities are compensated when their agricultural resources and knowledge of wild plants and animals are utilized by agricultural corporations. However, the protocol has shortcomings. For example, it allows corporations to insist that their agreements with communities to conduct research on the commercial uses of the communities' resources and knowledge remain confidential. Therefore, some Indigenous advocates express concern that the protocol may have the unintended effect of ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "diminishing the monetary reward that corporations might derive from their agreements with Indigenous communities.",
+    "B": "limiting the research that corporations conduct on the resources of the Indigenous communities with which they have signed agreements.",
+    "C": "preventing independent observers from determining whether the agreements guarantee equitable compensation for Indigenous communities.",
+    "D": "discouraging Indigenous communities from learning new methods for harvesting plants and animals from their corporate partners."
+   },
+   "filler": null
+  },
+  "16.1": {
+   "body": "Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. A city policy requires landlords to disclose rent increases to tenants but allows those notices to remain unavailable to public agencies. Housing advocates warn that the policy may have the unintended effect of ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "preventing tenants from discussing rent changes with one another.",
+    "B": "encouraging landlords to repair apartments before raising rents.",
+    "C": "making it harder for officials to identify neighborhoods where rent increases are unusually severe.",
+    "D": "reducing tenants' interest in renewing leases."
+   },
+   "filler": "1"
+  },
+  "16.2": {
+   "body": "A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. A grant program encourages pharmaceutical firms to partner with public hospitals but permits the firms to keep the terms of each research agreement confidential. Patient advocates argue that the rule could ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "prevent companies from profiting from successful drugs.",
+    "B": "reduce the number of diseases that hospitals are able to study.",
+    "C": "require hospitals to publish every patient's medical history.",
+    "D": "make it difficult to determine whether hospitals are receiving fair compensation for the use of patient data."
+   },
+   "filler": "2"
+  },
+  "16.3": {
+   "body": "At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. The new archive law requires museums to consult descendant communities before displaying cultural objects, but it allows museums to keep consultation agreements sealed. Some community leaders worry that this provision may ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "discourage museums from preserving fragile objects.",
+    "B": "prevent curators from learning about the objects' cultural meanings.",
+    "C": "obscure whether communities actually have meaningful influence over display decisions.",
+    "D": "force museums to return every object in their collections."
+   },
+   "filler": "3"
+  },
+  "16.4": {
+   "body": "A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. A fishing treaty requires corporations to compensate coastal villages for using traditional ecological knowledge, yet the treaty allows payment contracts to remain private. Critics argue that this privacy rule could ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "stop companies from conducting ecological research.",
+    "B": "make it impossible for independent observers to judge whether compensation is equitable.",
+    "C": "increase the number of fish caught by local crews.",
+    "D": "reduce villages' knowledge of marine species."
+   },
+   "filler": "4"
+  },
+  "16.5": {
+   "body": "A university policy requires technology companies to compensate Indigenous language speakers when their recordings are used to train speech-recognition systems, but it permits the contracts to be confidential. Advocates warn that the policy may ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "prevent outsiders from verifying whether speakers are paid fairly.",
+    "B": "increase the cost of recording equipment.",
+    "C": "require speakers to learn programming skills.",
+    "D": "discourage researchers from documenting endangered languages."
+   },
+   "filler": "5"
+  },
+  "o17": {
+   "body": "The domestic sweet potato (Ipomoea batatas) descends from a wild plant native to South America. It also populates the Polynesian Islands, where evidence confirms that Native Hawaiians and other Indigenous peoples were cultivating the plant centuries before seafaring first occurred over the thousands of miles of ocean separating them from South America. To explain how the sweet potato was first introduced in Polynesia, botanist Pablo Munoz-Rodriguez and colleagues analyzed the DNA of numerous varieties of the plant, concluding that Polynesian varieties diverged from South American ones over 100,000 years ago. Given that Polynesia was peopled only in the last three thousand years, the team concluded that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the cultivation of the sweet potato in Polynesia likely predates its cultivation in South America.",
+    "B": "Polynesian peoples likely acquired the sweet potato from South American peoples only within the last three thousand years.",
+    "C": "human activity likely played no role in the introduction of the sweet potato in Polynesia.",
+    "D": "Polynesian sweet potato varieties likely descend from a single South American variety that was domesticated, not wild."
+   },
+   "filler": null
+  },
+  "17.1": {
+   "body": "Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. Seeds of a coastal plant occur on two islands separated by hundreds of kilometers of ocean. Genetic analyses indicate that the island populations diverged from mainland populations thousands of years before humans reached either island; therefore, the researchers concluded that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "human traders must have transported the seeds recently.",
+    "B": "all island plants descended from a single cultivated variety.",
+    "C": "the plant probably reached the islands without human assistance.",
+    "D": "the island populations were domesticated before mainland populations."
+   },
+   "filler": "1"
+  },
+  "17.2": {
+   "body": "A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. A species of beetle is found both on a continental coast and on a remote volcanic island. DNA evidence suggests that the island beetles split from the coastal population long before people first sailed to the island, so the team inferred that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the beetles were likely introduced by natural dispersal rather than by humans.",
+    "B": "the beetles were domesticated by island communities.",
+    "C": "humans carried the beetles to the island during early trade voyages.",
+    "D": "the island beetles must be younger than the coastal beetles."
+   },
+   "filler": "2"
+  },
+  "17.3": {
+   "body": "At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. Linguists once proposed that a ceremonial song reached an archipelago through recent migration, but a comparison of related oral traditions suggests that the song's core phrases developed before the migration occurred. The linguists therefore concluded that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the song was probably not introduced to the archipelago by that migration.",
+    "B": "the migration must have begun earlier than any other human movement.",
+    "C": "the song could not have changed after the migration.",
+    "D": "all versions of the song are identical."
+   },
+   "filler": "3"
+  },
+  "17.4": {
+   "body": "A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. Botanists studying a crop on a remote island found that the island variety diverged from its mainland relatives tens of thousands of years before humans settled the island. This evidence led them to argue that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the island variety must be genetically identical to wild mainland plants.",
+    "B": "human settlement probably did not account for the plant's original arrival on the island.",
+    "C": "the crop was first domesticated on the island.",
+    "D": "mainland farmers acquired the crop from island communities."
+   },
+   "filler": "4"
+  },
+  "17.5": {
+   "body": "Researchers had assumed that a freshwater snail reached a chain of lakes when people began moving boats among them. However, genetic data showed that the lake populations separated from one another long before boating began. The researchers therefore concluded that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the lakes did not contain snails until boating began.",
+    "B": "boats probably explain every modern snail population.",
+    "C": "human activity made the populations genetically identical.",
+    "D": "the snails likely spread through an earlier nonhuman mechanism."
+   },
+   "filler": "5"
+  },
+  "o18": {
+   "body": "Atoms in a synchrotron, a type of circular particle accelerator, travel faster and faster until they ______ a desired energy level, at which point they are diverted to collide with a target, smashing the atoms.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "will reach",
+    "B": "reach",
+    "C": "had reached",
+    "D": "are reaching"
+   },
+   "filler": null
+  },
+  "18.1": {
+   "body": "The researchers collected samples at weekly intervals and compared the records with archived descriptions from earlier surveys. Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. For centuries, coastal communities ______ tidal pools as natural storage areas for shellfish gathered during low tide.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "using",
+    "B": "to use",
+    "C": "having used",
+    "D": "have used"
+   },
+   "filler": "1"
+  },
+  "18.2": {
+   "body": "The newly cataloged materials also showed how later editors, translators, and teachers adapted the project for audiences outside its original community. A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. Many designers seek ever more realistic digital effects, ______ some deliberately preserve the flat colors and blocky shapes of early computer games.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "effects, but",
+    "B": "effects,",
+    "C": "effects",
+    "D": "effects but"
+   },
+   "filler": "2"
+  },
+  "18.3": {
+   "body": "Visitors encountered sketches, recordings, and reconstructed workspaces that showed how the creators revised their ideas before presenting the finished pieces. At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. In 1984, the engineer recommended a cheaper material for the casing. She also ______ a simpler locking mechanism.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "was proposing",
+    "B": "had proposed",
+    "C": "proposed",
+    "D": "proposes"
+   },
+   "filler": "3"
+  },
+  "18.4": {
+   "body": "The report also notes that residents responded differently depending on commuting patterns, local services, and access to reliable public information. A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. The artist studied entomology, the science of ______ hundreds of drawings of beetles and butterflies while traveling through South America.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "insects, producing",
+    "B": "insects. Producing",
+    "C": "insects; producing",
+    "D": "insects producing"
+   },
+   "filler": "4"
+  },
+  "18.5": {
+   "body": "In interpreting the poems of Sor Juana, ______ have sometimes overlooked her engagement with scientific debates of her era.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "the focus of many critics has been her religious imagery; they",
+    "B": "many critics have focused on her religious imagery but",
+    "C": "there are many critics who focused on her religious imagery, but they",
+    "D": "her religious imagery has been the focus of many critics, who"
+   },
+   "filler": "5"
+  },
+  "o19": {
+   "body": "Even though bats prefer very sweet nectar, the plants that attract them have evolved to produce nectar that is only moderately sweet. A recent study ______ why: making sugar is energy-intensive, and it is more advantageous for plants to make a large amount of low-sugar nectar than a small amount of high-sugar nectar.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "explains",
+    "B": "explaining",
+    "C": "having explained",
+    "D": "to explain"
+   },
+   "filler": null
+  },
+  "19.1": {
+   "body": "The researchers collected samples at weekly intervals and compared the records with archived descriptions from earlier surveys. Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. For centuries, coastal communities ______ tidal pools as natural storage areas for shellfish gathered during low tide.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "having used",
+    "B": "using",
+    "C": "have used",
+    "D": "to use"
+   },
+   "filler": "1"
+  },
+  "19.2": {
+   "body": "The newly cataloged materials also showed how later editors, translators, and teachers adapted the project for audiences outside its original community. A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. Many designers seek ever more realistic digital effects, ______ some deliberately preserve the flat colors and blocky shapes of early computer games.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "effects",
+    "B": "effects but",
+    "C": "effects,",
+    "D": "effects, but"
+   },
+   "filler": "2"
+  },
+  "19.3": {
+   "body": "Visitors encountered sketches, recordings, and reconstructed workspaces that showed how the creators revised their ideas before presenting the finished pieces. At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. In 1984, the engineer recommended a cheaper material for the casing. She also ______ a simpler locking mechanism.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "had proposed",
+    "B": "proposed",
+    "C": "proposes",
+    "D": "was proposing"
+   },
+   "filler": "3"
+  },
+  "19.4": {
+   "body": "The report also notes that residents responded differently depending on commuting patterns, local services, and access to reliable public information. A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. The artist studied entomology, the science of ______ hundreds of drawings of beetles and butterflies while traveling through South America.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "insects. Producing",
+    "B": "insects producing",
+    "C": "insects, producing",
+    "D": "insects; producing"
+   },
+   "filler": "4"
+  },
+  "19.5": {
+   "body": "In interpreting the poems of Sor Juana, ______ have sometimes overlooked her engagement with scientific debates of her era.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "many critics have focused on her religious imagery but",
+    "B": "her religious imagery has been the focus of many critics, who",
+    "C": "the focus of many critics has been her religious imagery; they",
+    "D": "there are many critics who focused on her religious imagery, but they"
+   },
+   "filler": "5"
+  },
+  "o20": {
+   "body": "Former First Lady of the United States Eleanor Roosevelt and Indian activist and educator Hansa Mehta were instrumental in drafting the United Nations' Universal Declaration of Human Rights, a document that ______ the basic freedoms to which all people are entitled.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "have outlined",
+    "B": "were outlining",
+    "C": "outlines",
+    "D": "outline"
+   },
+   "filler": null
+  },
+  "20.1": {
+   "body": "The researchers collected samples at weekly intervals and compared the records with archived descriptions from earlier surveys. Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. For centuries, coastal communities ______ tidal pools as natural storage areas for shellfish gathered during low tide.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "having used",
+    "B": "have used",
+    "C": "to use",
+    "D": "using"
+   },
+   "filler": "1"
+  },
+  "20.2": {
+   "body": "The newly cataloged materials also showed how later editors, translators, and teachers adapted the project for audiences outside its original community. A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. Many designers seek ever more realistic digital effects, ______ some deliberately preserve the flat colors and blocky shapes of early computer games.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "effects, but",
+    "B": "effects",
+    "C": "effects,",
+    "D": "effects but"
+   },
+   "filler": "2"
+  },
+  "20.3": {
+   "body": "Visitors encountered sketches, recordings, and reconstructed workspaces that showed how the creators revised their ideas before presenting the finished pieces. At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. In 1984, the engineer recommended a cheaper material for the casing. She also ______ a simpler locking mechanism.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "had proposed",
+    "B": "proposed",
+    "C": "proposes",
+    "D": "was proposing"
+   },
+   "filler": "3"
+  },
+  "20.4": {
+   "body": "The report also notes that residents responded differently depending on commuting patterns, local services, and access to reliable public information. A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. The artist studied entomology, the science of ______ hundreds of drawings of beetles and butterflies while traveling through South America.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "insects; producing",
+    "B": "insects. Producing",
+    "C": "insects, producing",
+    "D": "insects producing"
+   },
+   "filler": "4"
+  },
+  "20.5": {
+   "body": "In interpreting the poems of Sor Juana, ______ have sometimes overlooked her engagement with scientific debates of her era.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "there are many critics who focused on her religious imagery, but they",
+    "B": "the focus of many critics has been her religious imagery; they",
+    "C": "her religious imagery has been the focus of many critics, who",
+    "D": "many critics have focused on her religious imagery but"
+   },
+   "filler": "5"
+  },
+  "o21": {
+   "body": "The life spans of rockfish vary greatly by species. For instance, the colorful calico rockfish (Sebastes dalli) can survive for a little over a ______ the rougheye rockfish (Sebastes aleutianus) boasts a maximum life span of about two centuries.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "decade: while",
+    "B": "decade. While",
+    "C": "decade; while",
+    "D": "decade, while"
+   },
+   "filler": null
+  },
+  "21.1": {
+   "body": "The researchers collected samples at weekly intervals and compared the records with archived descriptions from earlier surveys. Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. For centuries, coastal communities ______ tidal pools as natural storage areas for shellfish gathered during low tide.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "to use",
+    "B": "using",
+    "C": "have used",
+    "D": "having used"
+   },
+   "filler": "1"
+  },
+  "21.2": {
+   "body": "The newly cataloged materials also showed how later editors, translators, and teachers adapted the project for audiences outside its original community. A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. Many designers seek ever more realistic digital effects, ______ some deliberately preserve the flat colors and blocky shapes of early computer games.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "effects, but",
+    "B": "effects but",
+    "C": "effects,",
+    "D": "effects"
+   },
+   "filler": "2"
+  },
+  "21.3": {
+   "body": "Visitors encountered sketches, recordings, and reconstructed workspaces that showed how the creators revised their ideas before presenting the finished pieces. At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. In 1984, the engineer recommended a cheaper material for the casing. She also ______ a simpler locking mechanism.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "had proposed",
+    "B": "proposed",
+    "C": "was proposing",
+    "D": "proposes"
+   },
+   "filler": "3"
+  },
+  "21.4": {
+   "body": "The report also notes that residents responded differently depending on commuting patterns, local services, and access to reliable public information. A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. The artist studied entomology, the science of ______ hundreds of drawings of beetles and butterflies while traveling through South America.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "insects; producing",
+    "B": "insects. Producing",
+    "C": "insects producing",
+    "D": "insects, producing"
+   },
+   "filler": "4"
+  },
+  "21.5": {
+   "body": "In interpreting the poems of Sor Juana, ______ have sometimes overlooked her engagement with scientific debates of her era.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "there are many critics who focused on her religious imagery, but they",
+    "B": "many critics have focused on her religious imagery but",
+    "C": "the focus of many critics has been her religious imagery; they",
+    "D": "her religious imagery has been the focus of many critics, who"
+   },
+   "filler": "5"
+  },
+  "o22": {
+   "body": "The Lion Light system, developed by Kenyan inventor Richard Turere, consists of LED lights installed around the perimeter of livestock pastures. Powered with ______ the blinking LEDs keep lions away at night, thus protecting the livestock without risking harm to the endangered lions.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "energy collected, by solar panels, during the day",
+    "B": "energy collected by solar panels during the day",
+    "C": "energy collected by solar panels during the day,",
+    "D": "energy, collected by solar panels during the day,"
+   },
+   "filler": null
+  },
+  "22.1": {
+   "body": "The researchers collected samples at weekly intervals and compared the records with archived descriptions from earlier surveys. Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. For centuries, coastal communities ______ tidal pools as natural storage areas for shellfish gathered during low tide.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "to use",
+    "B": "using",
+    "C": "having used",
+    "D": "have used"
+   },
+   "filler": "1"
+  },
+  "22.2": {
+   "body": "The newly cataloged materials also showed how later editors, translators, and teachers adapted the project for audiences outside its original community. A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. Many designers seek ever more realistic digital effects, ______ some deliberately preserve the flat colors and blocky shapes of early computer games.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "effects but",
+    "B": "effects, but",
+    "C": "effects,",
+    "D": "effects"
+   },
+   "filler": "2"
+  },
+  "22.3": {
+   "body": "Visitors encountered sketches, recordings, and reconstructed workspaces that showed how the creators revised their ideas before presenting the finished pieces. At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. In 1984, the engineer recommended a cheaper material for the casing. She also ______ a simpler locking mechanism.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "had proposed",
+    "B": "proposes",
+    "C": "was proposing",
+    "D": "proposed"
+   },
+   "filler": "3"
+  },
+  "22.4": {
+   "body": "The report also notes that residents responded differently depending on commuting patterns, local services, and access to reliable public information. A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. The artist studied entomology, the science of ______ hundreds of drawings of beetles and butterflies while traveling through South America.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "insects, producing",
+    "B": "insects; producing",
+    "C": "insects. Producing",
+    "D": "insects producing"
+   },
+   "filler": "4"
+  },
+  "22.5": {
+   "body": "In interpreting the poems of Sor Juana, ______ have sometimes overlooked her engagement with scientific debates of her era.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "the focus of many critics has been her religious imagery; they",
+    "B": "there are many critics who focused on her religious imagery, but they",
+    "C": "many critics have focused on her religious imagery but",
+    "D": "her religious imagery has been the focus of many critics, who"
+   },
+   "filler": "5"
+  },
+  "o23": {
+   "body": "Materials scientist Marie-Agathe Charpagne and her colleagues believed they could improve on the multicomponent alloy NiCoCr, an equal-proportions mixture of nickel (Ni), cobalt (Co), and chromium (Cr), by replacing chromium with ruthenium ______ the alloy that resulted, NiCoRu, turned out to be an unsuitable replacement for NiCoCr.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "(Ru)",
+    "B": "(Ru) but",
+    "C": "(Ru),",
+    "D": "(Ru), but"
+   },
+   "filler": null
+  },
+  "23.1": {
+   "body": "The researchers collected samples at weekly intervals and compared the records with archived descriptions from earlier surveys. Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. For centuries, coastal communities ______ tidal pools as natural storage areas for shellfish gathered during low tide.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "using",
+    "B": "to use",
+    "C": "having used",
+    "D": "have used"
+   },
+   "filler": "1"
+  },
+  "23.2": {
+   "body": "The newly cataloged materials also showed how later editors, translators, and teachers adapted the project for audiences outside its original community. A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. Many designers seek ever more realistic digital effects, ______ some deliberately preserve the flat colors and blocky shapes of early computer games.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "effects",
+    "B": "effects,",
+    "C": "effects but",
+    "D": "effects, but"
+   },
+   "filler": "2"
+  },
+  "23.3": {
+   "body": "Visitors encountered sketches, recordings, and reconstructed workspaces that showed how the creators revised their ideas before presenting the finished pieces. At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. In 1984, the engineer recommended a cheaper material for the casing. She also ______ a simpler locking mechanism.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "was proposing",
+    "B": "had proposed",
+    "C": "proposed",
+    "D": "proposes"
+   },
+   "filler": "3"
+  },
+  "23.4": {
+   "body": "The report also notes that residents responded differently depending on commuting patterns, local services, and access to reliable public information. A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. The artist studied entomology, the science of ______ hundreds of drawings of beetles and butterflies while traveling through South America.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "insects producing",
+    "B": "insects, producing",
+    "C": "insects; producing",
+    "D": "insects. Producing"
+   },
+   "filler": "4"
+  },
+  "23.5": {
+   "body": "In interpreting the poems of Sor Juana, ______ have sometimes overlooked her engagement with scientific debates of her era.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "many critics have focused on her religious imagery but",
+    "B": "her religious imagery has been the focus of many critics, who",
+    "C": "there are many critics who focused on her religious imagery, but they",
+    "D": "the focus of many critics has been her religious imagery; they"
+   },
+   "filler": "5"
+  },
+  "o24": {
+   "body": "The Progressive Era in the United States witnessed the rise of numerous Black women's clubs, local organizations that advocated for racial and gender equality. Among the clubs' leaders ______ Josephine St. Pierre Ruffin, founder of the Women's Era Club of Boston.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "was",
+    "B": "were",
+    "C": "are",
+    "D": "have been"
+   },
+   "filler": null
+  },
+  "24.1": {
+   "body": "The researchers collected samples at weekly intervals and compared the records with archived descriptions from earlier surveys. Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. For centuries, coastal communities ______ tidal pools as natural storage areas for shellfish gathered during low tide.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "having used",
+    "B": "to use",
+    "C": "using",
+    "D": "have used"
+   },
+   "filler": "1"
+  },
+  "24.2": {
+   "body": "The newly cataloged materials also showed how later editors, translators, and teachers adapted the project for audiences outside its original community. A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. Many designers seek ever more realistic digital effects, ______ some deliberately preserve the flat colors and blocky shapes of early computer games.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "effects, but",
+    "B": "effects but",
+    "C": "effects",
+    "D": "effects,"
+   },
+   "filler": "2"
+  },
+  "24.3": {
+   "body": "Visitors encountered sketches, recordings, and reconstructed workspaces that showed how the creators revised their ideas before presenting the finished pieces. At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. In 1984, the engineer recommended a cheaper material for the casing. She also ______ a simpler locking mechanism.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "had proposed",
+    "B": "proposed",
+    "C": "was proposing",
+    "D": "proposes"
+   },
+   "filler": "3"
+  },
+  "24.4": {
+   "body": "The report also notes that residents responded differently depending on commuting patterns, local services, and access to reliable public information. A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. The artist studied entomology, the science of ______ hundreds of drawings of beetles and butterflies while traveling through South America.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "insects producing",
+    "B": "insects, producing",
+    "C": "insects; producing",
+    "D": "insects. Producing"
+   },
+   "filler": "4"
+  },
+  "24.5": {
+   "body": "In interpreting the poems of Sor Juana, ______ have sometimes overlooked her engagement with scientific debates of her era.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "her religious imagery has been the focus of many critics, who",
+    "B": "the focus of many critics has been her religious imagery; they",
+    "C": "many critics have focused on her religious imagery but",
+    "D": "there are many critics who focused on her religious imagery, but they"
+   },
+   "filler": "5"
+  },
+  "o25": {
+   "body": "Based on genetic evidence, archaeologists have generally agreed that reindeer domestication began in the eleventh century CE. However, since uncovering fragments of a 2,000-year-old reindeer training harness in northern Siberia, ______ may have begun much earlier.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "researcher Robert Losey has argued that domestication",
+    "B": "researcher Robert Losey's argument is that domestication",
+    "C": "domestication, researcher Robert Losey has argued,",
+    "D": "the argument researcher Robert Losey has made is that domestication"
+   },
+   "filler": null
+  },
+  "25.1": {
+   "body": "The researchers collected samples at weekly intervals and compared the records with archived descriptions from earlier surveys. Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. For centuries, coastal communities ______ tidal pools as natural storage areas for shellfish gathered during low tide.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "having used",
+    "B": "have used",
+    "C": "to use",
+    "D": "using"
+   },
+   "filler": "1"
+  },
+  "25.2": {
+   "body": "The newly cataloged materials also showed how later editors, translators, and teachers adapted the project for audiences outside its original community. A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. Many designers seek ever more realistic digital effects, ______ some deliberately preserve the flat colors and blocky shapes of early computer games.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "effects,",
+    "B": "effects but",
+    "C": "effects, but",
+    "D": "effects"
+   },
+   "filler": "2"
+  },
+  "25.3": {
+   "body": "Visitors encountered sketches, recordings, and reconstructed workspaces that showed how the creators revised their ideas before presenting the finished pieces. At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. In 1984, the engineer recommended a cheaper material for the casing. She also ______ a simpler locking mechanism.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "proposes",
+    "B": "was proposing",
+    "C": "had proposed",
+    "D": "proposed"
+   },
+   "filler": "3"
+  },
+  "25.4": {
+   "body": "The report also notes that residents responded differently depending on commuting patterns, local services, and access to reliable public information. A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. The artist studied entomology, the science of ______ hundreds of drawings of beetles and butterflies while traveling through South America.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "insects producing",
+    "B": "insects; producing",
+    "C": "insects, producing",
+    "D": "insects. Producing"
+   },
+   "filler": "4"
+  },
+  "25.5": {
+   "body": "In interpreting the poems of Sor Juana, ______ have sometimes overlooked her engagement with scientific debates of her era.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "many critics have focused on her religious imagery but",
+    "B": "her religious imagery has been the focus of many critics, who",
+    "C": "the focus of many critics has been her religious imagery; they",
+    "D": "there are many critics who focused on her religious imagery, but they"
+   },
+   "filler": "5"
+  },
+  "o26": {
+   "body": "Hegra is an archaeological site in present-day Saudi Arabia and was the second largest city of the Nabataean Kingdom (fourth century BCE to first century CE). Archaeologist Laila Nehme recently traveled to Hegra to study its ancient ______ into the rocky outcrops of a vast desert, these burial chambers seem to blend seamlessly with nature.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "tombs. Built",
+    "B": "tombs, built",
+    "C": "tombs and built",
+    "D": "tombs built"
+   },
+   "filler": null
+  },
+  "26.1": {
+   "body": "The researchers collected samples at weekly intervals and compared the records with archived descriptions from earlier surveys. Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. For centuries, coastal communities ______ tidal pools as natural storage areas for shellfish gathered during low tide.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "have used",
+    "B": "having used",
+    "C": "using",
+    "D": "to use"
+   },
+   "filler": "1"
+  },
+  "26.2": {
+   "body": "The newly cataloged materials also showed how later editors, translators, and teachers adapted the project for audiences outside its original community. A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. Many designers seek ever more realistic digital effects, ______ some deliberately preserve the flat colors and blocky shapes of early computer games.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "effects",
+    "B": "effects,",
+    "C": "effects but",
+    "D": "effects, but"
+   },
+   "filler": "2"
+  },
+  "26.3": {
+   "body": "Visitors encountered sketches, recordings, and reconstructed workspaces that showed how the creators revised their ideas before presenting the finished pieces. At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. In 1984, the engineer recommended a cheaper material for the casing. She also ______ a simpler locking mechanism.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "had proposed",
+    "B": "proposes",
+    "C": "was proposing",
+    "D": "proposed"
+   },
+   "filler": "3"
+  },
+  "26.4": {
+   "body": "The report also notes that residents responded differently depending on commuting patterns, local services, and access to reliable public information. A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. The artist studied entomology, the science of ______ hundreds of drawings of beetles and butterflies while traveling through South America.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "insects producing",
+    "B": "insects, producing",
+    "C": "insects. Producing",
+    "D": "insects; producing"
+   },
+   "filler": "4"
+  },
+  "26.5": {
+   "body": "In interpreting the poems of Sor Juana, ______ have sometimes overlooked her engagement with scientific debates of her era.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "her religious imagery has been the focus of many critics, who",
+    "B": "there are many critics who focused on her religious imagery, but they",
+    "C": "many critics have focused on her religious imagery but",
+    "D": "the focus of many critics has been her religious imagery; they"
+   },
+   "filler": "5"
+  },
+  "o27": {
+   "body": "When external forces are applied to common glass made from silicates, energy builds up around minuscule defects in the material, resulting in fractures. Recently, engineer Erkka Frankberg of Tampere University in Finland used the chemical ______ to make a glassy solid that can withstand higher strain than silicate glass can before fracturing.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "compound, aluminum oxide",
+    "B": "compound aluminum oxide,",
+    "C": "compound, aluminum oxide,",
+    "D": "compound aluminum oxide"
+   },
+   "filler": null
+  },
+  "27.1": {
+   "body": "The researchers collected samples at weekly intervals and compared the records with archived descriptions from earlier surveys. Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. For centuries, coastal communities ______ tidal pools as natural storage areas for shellfish gathered during low tide.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "using",
+    "B": "to use",
+    "C": "having used",
+    "D": "have used"
+   },
+   "filler": "1"
+  },
+  "27.2": {
+   "body": "The newly cataloged materials also showed how later editors, translators, and teachers adapted the project for audiences outside its original community. A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. Many designers seek ever more realistic digital effects, ______ some deliberately preserve the flat colors and blocky shapes of early computer games.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "effects but",
+    "B": "effects, but",
+    "C": "effects",
+    "D": "effects,"
+   },
+   "filler": "2"
+  },
+  "27.3": {
+   "body": "Visitors encountered sketches, recordings, and reconstructed workspaces that showed how the creators revised their ideas before presenting the finished pieces. At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. In 1984, the engineer recommended a cheaper material for the casing. She also ______ a simpler locking mechanism.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "had proposed",
+    "B": "proposes",
+    "C": "proposed",
+    "D": "was proposing"
+   },
+   "filler": "3"
+  },
+  "27.4": {
+   "body": "The report also notes that residents responded differently depending on commuting patterns, local services, and access to reliable public information. A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. The artist studied entomology, the science of ______ hundreds of drawings of beetles and butterflies while traveling through South America.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "insects; producing",
+    "B": "insects producing",
+    "C": "insects, producing",
+    "D": "insects. Producing"
+   },
+   "filler": "4"
+  },
+  "27.5": {
+   "body": "In interpreting the poems of Sor Juana, ______ have sometimes overlooked her engagement with scientific debates of her era.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "many critics have focused on her religious imagery but",
+    "B": "the focus of many critics has been her religious imagery; they",
+    "C": "there are many critics who focused on her religious imagery, but they",
+    "D": "her religious imagery has been the focus of many critics, who"
+   },
+   "filler": "5"
+  },
+  "o28": {
+   "body": "Etched into Peru's Nazca Desert are line drawings so large that they can only be fully seen from high above. Archaeologists have known of the lines since the 1920s, when a researcher spotted some from a nearby foothill, and they have been studying the markings ever since. ______ archaeologists' efforts are aided by drones that capture high-resolution aerial photographs of the lines.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Currently,",
+    "B": "In comparison,",
+    "C": "Still,",
+    "D": "However,"
+   },
+   "filler": null
+  },
+  "28.1": {
+   "body": "Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. For decades, conservators examined the faded mural using handheld magnifiers and ordinary photographs. ______ they can now rely on multispectral imaging, which reveals pigments and preliminary sketches that are invisible to the unaided eye.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "By contrast,",
+    "B": "Currently,",
+    "C": "However,",
+    "D": "Still,"
+   },
+   "filler": "1"
+  },
+  "28.2": {
+   "body": "A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. Researchers first mapped the cave system in the 1960s, when surveyors used compasses and measuring tapes. ______ teams use laser scanners to create detailed three-dimensional models of the same passages.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Today,",
+    "B": "Nevertheless,",
+    "C": "For example,",
+    "D": "Meanwhile,"
+   },
+   "filler": "2"
+  },
+  "28.3": {
+   "body": "At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. Linguists have studied the inscription since its discovery in 1912, relying for many years on hand copies and photographs. ______ digital imaging allows scholars to examine shallow marks that were previously difficult to see.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "In comparison,",
+    "B": "Instead,",
+    "C": "Even so,",
+    "D": "Now,"
+   },
+   "filler": "3"
+  },
+  "28.4": {
+   "body": "A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. Archaeologists have cataloged the temple's carvings for nearly a century. ______ drone photography helps them document carvings high on the walls without constructing scaffolding.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "On the contrary,",
+    "B": "Although,",
+    "C": "At present,",
+    "D": "Likewise,"
+   },
+   "filler": "4"
+  },
+  "28.5": {
+   "body": "Meteorologists began recording snowfall in the region in the 1890s, using simple gauges placed near railway stations. ______ satellites and automated sensors provide more continuous measurements across remote mountain areas.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Still,",
+    "B": "Similarly,",
+    "C": "Despite this,",
+    "D": "Currently,"
+   },
+   "filler": "5"
+  },
+  "o29": {
+   "body": "Archaeologist Sue Brunning explains why the seventh-century ship burial site at Sutton Hoo in England was likely the tomb of a king. First, the gold artifacts inside the ship suggest that the person buried with them was a wealthy and respected leader. ______ the massive effort required to bury the ship would likely only have been undertaken for a king.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Instead,",
+    "B": "Still,",
+    "C": "Specifically,",
+    "D": "Second,"
+   },
+   "filler": null
+  },
+  "29.1": {
+   "body": "Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. The committee gave two reasons for preserving the old theater. First, the building is one of the few remaining examples of Art Deco design in the city. ______ it has hosted community performances for nearly a century.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Second,",
+    "B": "Still,",
+    "C": "Instead,",
+    "D": "Specifically,"
+   },
+   "filler": "1"
+  },
+  "29.2": {
+   "body": "A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. The historian argues that the fort was strategically important. First, it overlooked the only safe river crossing for miles. ______ it contained storage rooms large enough to hold supplies for a sizable garrison.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "For instance,",
+    "B": "Previously,",
+    "C": "Moreover,",
+    "D": "However,"
+   },
+   "filler": "2"
+  },
+  "29.3": {
+   "body": "At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. There are two indications that the manuscript belonged to a royal library. First, its cover bears the court's official emblem. ______ its margins contain notes written by a known palace scribe.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Next,",
+    "B": "In contrast,",
+    "C": "For this reason,",
+    "D": "Nevertheless,"
+   },
+   "filler": "3"
+  },
+  "29.4": {
+   "body": "A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. The researcher identifies two factors that explain the species' success. First, the plant tolerates salty soil. ______ it produces seeds that can float for weeks without losing viability.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Rather,",
+    "B": "Second,",
+    "C": "Still,",
+    "D": "Consequently,"
+   },
+   "filler": "4"
+  },
+  "29.5": {
+   "body": "The exhibit highlights two reasons the photographer became influential. First, her portraits appeared in widely read magazines. ______ she trained several younger artists who later transformed documentary photography.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Despite this,",
+    "B": "Instead,",
+    "C": "In comparison,",
+    "D": "Additionally,"
+   },
+   "filler": "5"
+  },
+  "o30": {
+   "body": "The more diverse and wide ranging an animal's behaviors, the larger and more energy demanding the animal's brain tends to be. ______ from an evolutionary perspective, animals that perform only basic actions should allocate fewer resources to growing and maintaining brain tissue. The specialized subtypes of ants within colonies provide an opportunity to explore this hypothesis.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Subsequently,",
+    "B": "Besides,",
+    "C": "Nevertheless,",
+    "D": "Thus,"
+   },
+   "filler": null
+  },
+  "30.1": {
+   "body": "Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. Animals that rely on many different foraging strategies generally require flexible problem-solving abilities. ______ species with very limited feeding routines may have less need for large, energy-intensive brains.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Subsequently,",
+    "B": "Thus,",
+    "C": "Nevertheless,",
+    "D": "Besides,"
+   },
+   "filler": "1"
+  },
+  "30.2": {
+   "body": "A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. Maintaining specialized sensory organs consumes substantial energy. ______ organisms that live in environments where those senses provide little advantage may gradually lose them.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "For example,",
+    "B": "Therefore,",
+    "C": "Instead,",
+    "D": "Meanwhile,"
+   },
+   "filler": "2"
+  },
+  "30.3": {
+   "body": "At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. A muscle that is rarely used still requires nutrients to grow and repair. ______ natural selection may favor smaller versions of that muscle in animals whose behavior no longer depends on it.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Consequently,",
+    "B": "However,",
+    "C": "Similarly,",
+    "D": "Previously,"
+   },
+   "filler": "3"
+  },
+  "30.4": {
+   "body": "A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. Complex social behavior often requires animals to recognize individuals and remember past interactions. ______ solitary species with brief encounters may benefit less from investing in such cognitive machinery.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "In contrast,",
+    "B": "Meanwhile,",
+    "C": "Thus,",
+    "D": "Nevertheless,"
+   },
+   "filler": "4"
+  },
+  "30.5": {
+   "body": "Large brains can support flexible behavior, but they are metabolically expensive. ______ a species that performs only a narrow set of tasks may gain an advantage by allocating energy elsewhere.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Still,",
+    "B": "By comparison,",
+    "C": "Alternatively,",
+    "D": "As a result,"
+   },
+   "filler": "5"
+  },
+  "o31": {
+   "body": "When designing costumes for film, American artist Suttirat Larlarb typically custom fits the garments to each actor. ______ for the film Sunshine, in which astronauts must reignite a dying Sun, she designed a golden spacesuit and had a factory reproduce it in a few standard sizes; lacking a tailor-made quality, the final creations reflected the ungainliness of actual spacesuits.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Nevertheless,",
+    "B": "Thus,",
+    "C": "Likewise,",
+    "D": "Moreover,"
+   },
+   "filler": null
+  },
+  "31.1": {
+   "body": "Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. The costume designer usually creates garments tailored precisely to each actor's body. ______ for a film about workers in bulky protective suits, she ordered standardized pieces so the clothing would look awkward and impersonal.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Moreover,",
+    "B": "Thus,",
+    "C": "Nevertheless,",
+    "D": "Likewise,"
+   },
+   "filler": "1"
+  },
+  "31.2": {
+   "body": "A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. The chef typically adjusts every recipe to highlight the ingredients available that morning. ______ for a historical banquet, she followed a nineteenth-century menu exactly, even when substitutions would have been easier.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Instead,",
+    "B": "Similarly,",
+    "C": "For example,",
+    "D": "Additionally,"
+   },
+   "filler": "2"
+  },
+  "31.3": {
+   "body": "At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. The architect generally designs houses around the habits of individual clients. ______ in a project for emergency shelters, he used a single repeatable plan that could be assembled quickly by volunteers.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Likewise,",
+    "B": "However,",
+    "C": "Consequently,",
+    "D": "Furthermore,"
+   },
+   "filler": "3"
+  },
+  "31.4": {
+   "body": "A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. The director normally encourages actors to improvise during rehearsal. ______ while filming a courtroom drama, she required them to speak the legal testimony exactly as written.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "For instance,",
+    "B": "By contrast,",
+    "C": "Therefore,",
+    "D": "Moreover,"
+   },
+   "filler": "4"
+  },
+  "31.5": {
+   "body": "The illustrator is known for drawing each book cover by hand. ______ for a novel about mass production, she used mechanical stamps to create deliberately uniform images.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "In addition,",
+    "B": "Thus,",
+    "C": "Similarly,",
+    "D": "Nevertheless,"
+   },
+   "filler": "5"
+  },
+  "o32": {
+   "body": "While researching a topic, a student has taken the following notes:\n- Shaun Tan is an Australian author.\n- In 2008, he published Tales from Outer Suburbia, a book of fifteen short stories.\n- The stories describe surreal events occurring in otherwise ordinary suburban neighborhoods.\n- In 2018, he published Tales from the Inner City, a book of twenty-five short stories.\n- The stories describe surreal events occurring in otherwise ordinary urban settings.",
+   "stem": "The student wants to emphasize a similarity between the two books by Shaun Tan. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Shaun Tan's book Tales from Outer Suburbia, which describes surreal events occurring in otherwise ordinary places, contains fewer short stories than Tales from the Inner City does.",
+    "B": "Tales from Outer Suburbia was published in 2008, and Tales from the Inner City was published in 2018.",
+    "C": "Unlike Tales from the Inner City, Shaun Tan's book Tales from Outer Suburbia is set in suburban neighborhoods.",
+    "D": "Shaun Tan's books Tales from Outer Suburbia and Tales from the Inner City both describe surreal events occurring in otherwise ordinary places."
+   },
+   "filler": null
+  },
+  "32.1": {
+   "body": "Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. Notes: Amina Lu wrote River Markets in 2015; the book follows merchants in floating villages; she wrote Stone Alleys in 2021; that book follows shopkeepers in mountain towns; both books explore how commerce shapes community life; the goal is to emphasize a similarity.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "River Markets was published six years before Stone Alleys.",
+    "B": "Amina Lu's River Markets and Stone Alleys both explore how commerce shapes community life.",
+    "C": "Amina Lu writes about merchants and shopkeepers.",
+    "D": "River Markets is set in floating villages, whereas Stone Alleys is set in mountain towns."
+   },
+   "filler": "1"
+  },
+  "32.2": {
+   "body": "A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. Notes: Javier Ortiz directed Northbound in 2010; the film follows a family traveling by train; he directed Harbor Lights in 2018; the film follows sailors returning home; both films focus on journeys that change family relationships; the goal is to emphasize a similarity.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Javier Ortiz has directed films about families.",
+    "B": "Northbound was released before Harbor Lights.",
+    "C": "One film concerns train travel, and the other concerns sea travel.",
+    "D": "Both Northbound and Harbor Lights focus on journeys that change family relationships."
+   },
+   "filler": "2"
+  },
+  "32.3": {
+   "body": "At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. Notes: The museum owns a bronze mask from the Edo Kingdom; it also owns a carved wooden mask from the Yoruba region; both masks were used in ceremonial contexts; the materials and regions differ; the goal is to emphasize a similarity.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Although they differ in material and origin, both masks were used in ceremonial contexts.",
+    "B": "The bronze mask and the wooden mask were made from different materials.",
+    "C": "The Edo Kingdom and the Yoruba region produced distinctive artworks.",
+    "D": "The museum owns masks from more than one West African tradition."
+   },
+   "filler": "3"
+  },
+  "32.4": {
+   "body": "A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. Notes: The novel Blue Orchard takes place in a farming village; the novel Glass Station takes place in a future city; both novels feature young narrators questioning inherited rules; the goal is to emphasize a similarity.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The novels differ sharply in setting.",
+    "B": "Glass Station takes place in a future city.",
+    "C": "Blue Orchard and Glass Station both feature young narrators who question inherited rules.",
+    "D": "Blue Orchard takes place in a farming village."
+   },
+   "filler": "4"
+  },
+  "32.5": {
+   "body": "Notes: Biologist Leila Park studied desert beetles; she later studied alpine butterflies; both projects examined how small animals conserve water; the goal is to emphasize a similarity.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Leila Park's studies of desert beetles and alpine butterflies both examined how small animals conserve water.",
+    "B": "Desert beetles live in hotter habitats than alpine butterflies do.",
+    "C": "Water conservation can be important for many species.",
+    "D": "Park studied beetles before she studied butterflies."
+   },
+   "filler": "5"
+  },
+  "o33": {
+   "body": "While researching a topic, a student has taken the following notes:\n- The factors that affect clutch size (the number of eggs laid at one time) have been well studied in birds but not in lizards.\n- A team led by Shai Meiri of Tel Aviv University investigated which factors influence lizard clutch size.\n- Meiri's team obtained clutch-size and habitat data for over 3,900 lizard species and analyzed the data with statistical models.\n- Larger clutch size was associated with environments in higher latitudes that have more seasonal change.\n- Lizards in higher-latitude environments may lay larger clutches to take advantage of shorter windows of favorable conditions.",
+   "stem": "The student wants to emphasize the aim of the research study. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Researchers wanted to know which factors influence lizard egg clutch size because such factors have been well studied in birds but not in lizards.",
+    "B": "After they obtained data for over 3,900 lizard species, researchers determined that larger clutch size was associated with environments in higher latitudes that have more seasonal change.",
+    "C": "We now know that lizards in higher-latitude environments may lay larger clutches to take advantage of shorter windows of favorable conditions.",
+    "D": "Researchers obtained clutch-size and habitat data for over 3,900 lizard species and analyzed the data with statistical models."
+   },
+   "filler": null
+  },
+  "33.1": {
+   "body": "Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. Notes: Researchers wanted to know why young fish save energy when swimming behind adults; they used water-tank simulations; the goal is to present the study and methodology.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "A study found that young fish can save energy near adults.",
+    "B": "Fish sometimes swim in groups.",
+    "C": "The researchers studied adult fish.",
+    "D": "To investigate why young fish save energy behind adults, researchers used water-tank simulations to model the adults' wake."
+   },
+   "filler": "1"
+  },
+  "33.2": {
+   "body": "A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. Notes: Scientists investigated how cyclists reduce air resistance when riding in a line; they used wind-tunnel tests; the goal is to present the study and methodology.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Cyclists can reduce air resistance in groups.",
+    "B": "The study involved cyclists.",
+    "C": "Scientists used wind-tunnel tests to study how cyclists reduce air resistance when riding in a line.",
+    "D": "Wind tunnels are used in engineering."
+   },
+   "filler": "2"
+  },
+  "33.3": {
+   "body": "At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. Notes: Engineers studied why seeds travel farther in rotating flight; they used computer models of airflow; the goal is to present the study and methodology.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The study examined seed movement.",
+    "B": "Engineers used computer airflow models to study why rotating flight allows some seeds to travel farther.",
+    "C": "Seeds may travel by wind.",
+    "D": "Computer models are useful in engineering."
+   },
+   "filler": "3"
+  },
+  "33.4": {
+   "body": "A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. Notes: A team examined how penguins conserve heat in huddles; they used thermal imaging; the goal is to present the study and methodology.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Thermal imaging detects heat.",
+    "B": "Penguins sometimes form huddles.",
+    "C": "To examine how penguins conserve heat in huddles, the team used thermal imaging.",
+    "D": "The team studied penguins in cold conditions."
+   },
+   "filler": "4"
+  },
+  "33.5": {
+   "body": "Notes: Researchers studied how leaves shed rainwater quickly; they used high-speed video; the goal is to present the study and methodology.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Researchers used high-speed video to study how leaves shed rainwater quickly.",
+    "B": "The study concerned plant surfaces.",
+    "C": "High-speed video can capture fast motion.",
+    "D": "Leaves are often exposed to rain."
+   },
+   "filler": "5"
+  }
+ }
+}

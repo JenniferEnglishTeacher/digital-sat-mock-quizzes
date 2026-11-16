@@ -33,7 +33,7 @@ def zh_sentence(s):
 
 def zh_body(body, filler_key):
     parts = []
-    if filler_key: parts.append(zh_sentence(pref[filler_key]))
+    if filler_key and pref[filler_key].strip(): parts.append(zh_sentence(pref[filler_key]))
     for para in split_sents(body):
         parts.append(''.join(zh_sentence(s) for s in para))
     return '\n'.join(p for p in parts if p)

@@ -2653,5 +2653,660 @@
   "pos": "n.",
   "en": "a subject that people write or talk about",
   "zh": "主題；題目"
+ },
+ "passion": {
+  "pos": "n.",
+  "en": "a very strong interest in or love for something",
+  "zh": "熱情；熱愛"
+ },
+ "evocatively": {
+  "pos": "adv.",
+  "en": "in a way that brings strong images or feelings to mind",
+  "zh": "富有感染力地；引人聯想地"
+ },
+ "poetic": {
+  "pos": "adj.",
+  "en": "having the beauty or style of poetry",
+  "zh": "詩意的"
+ },
+ "prose": {
+  "pos": "n.",
+  "en": "ordinary written language, not poetry",
+  "zh": "散文；白話文"
+ },
+ "centrality": {
+  "pos": "n.",
+  "en": "the state of being central or most important",
+  "zh": "核心地位；中心性"
+ },
+ "simultaneously": {
+  "pos": "adv.",
+  "en": "at the same time",
+  "zh": "同時地"
+ },
+ "distaste": {
+  "pos": "n.",
+  "en": "a feeling of dislike",
+  "zh": "厭惡；反感"
+ },
+ "wilderness": {
+  "pos": "n.",
+  "en": "a wild natural area where people do not live",
+  "zh": "荒野"
+ },
+ "citizen": {
+  "pos": "n.",
+  "en": "a legal member of a country or nation",
+  "zh": "公民"
+ },
+ "wend": {
+  "pos": "v.",
+  "en": "to move or travel slowly along a winding route",
+  "zh": "蜿蜒前行"
+ },
+ "reprise": {
+  "pos": "v.",
+  "en": "to repeat or perform again",
+  "zh": "重複；再現"
+ },
+ "striking": {
+  "pos": "adj.",
+  "en": "very noticeable or impressive",
+  "zh": "引人注目的；醒目的"
+ },
+ "resemble": {
+  "pos": "v.",
+  "en": "to look like or be similar to",
+  "zh": "相似；像"
+ },
+ "legacy": {
+  "pos": "n.",
+  "en": "something handed down from the past",
+  "zh": "遺產；影響"
+ },
+ "reinforce": {
+  "pos": "v.",
+  "en": "to make an idea or feeling stronger",
+  "zh": "強化；加強"
+ },
+ "imagery": {
+  "pos": "n.",
+  "en": "pictures or descriptive language that create images",
+  "zh": "意象；圖像"
+ },
+ "assert": {
+  "pos": "v.",
+  "en": "to state something firmly",
+  "zh": "斷言；主張"
+ },
+ "strengthen": {
+  "pos": "v.",
+  "en": "to make stronger",
+  "zh": "加強；鞏固"
+ },
+ "presence": {
+  "pos": "n.",
+  "en": "the fact of being present or represented",
+  "zh": "存在；出現"
+ },
+ "accelerator": {
+  "pos": "n.",
+  "en": "a machine that makes particles move very fast",
+  "zh": "加速器"
+ },
+ "particle": {
+  "pos": "n.",
+  "en": "an extremely small piece of matter",
+  "zh": "粒子；微粒"
+ },
+ "circular": {
+  "pos": "adj.",
+  "en": "shaped like a circle",
+  "zh": "圓形的"
+ },
+ "divert": {
+  "pos": "v.",
+  "en": "to change the direction of something",
+  "zh": "使轉向；轉移"
+ },
+ "collide": {
+  "pos": "v.",
+  "en": "to hit something while moving",
+  "zh": "碰撞"
+ },
+ "nectar": {
+  "pos": "n.",
+  "en": "a sweet liquid made by flowers",
+  "zh": "花蜜"
+ },
+ "moderately": {
+  "pos": "adv.",
+  "en": "to an average or medium degree",
+  "zh": "適度地；中等程度地"
+ },
+ "advantageous": {
+  "pos": "adj.",
+  "en": "giving a benefit or advantage",
+  "zh": "有利的"
+ },
+ "intensive": {
+  "pos": "adj.",
+  "en": "requiring a lot of something",
+  "zh": "密集的；大量消耗的"
+ },
+ "span": {
+  "pos": "n.",
+  "en": "the length of time something lasts",
+  "zh": "期間；跨度"
+ },
+ "species": {
+  "pos": "n.",
+  "en": "a group of living things of the same kind",
+  "zh": "物種"
+ },
+ "boast": {
+  "pos": "v.",
+  "en": "to have something impressive",
+  "zh": "擁有（值得誇耀的事物）"
+ },
+ "perimeter": {
+  "pos": "n.",
+  "en": "the outer edge of an area",
+  "zh": "周邊；周界"
+ },
+ "livestock": {
+  "pos": "n.",
+  "en": "farm animals such as cows and sheep",
+  "zh": "家畜；牲畜"
+ },
+ "pasture": {
+  "pos": "n.",
+  "en": "land covered with grass for animals to eat",
+  "zh": "牧場；草地"
+ },
+ "endangered": {
+  "pos": "adj.",
+  "en": "at risk of disappearing completely",
+  "zh": "瀕臨絕種的"
+ },
+ "install": {
+  "pos": "v.",
+  "en": "to put equipment in place so it can be used",
+  "zh": "安裝"
+ },
+ "alloy": {
+  "pos": "n.",
+  "en": "a metal made by mixing two or more metals",
+  "zh": "合金"
+ },
+ "mixture": {
+  "pos": "n.",
+  "en": "a combination of different things",
+  "zh": "混合物"
+ },
+ "unsuitable": {
+  "pos": "adj.",
+  "en": "not right for a purpose",
+  "zh": "不合適的"
+ },
+ "replacement": {
+  "pos": "n.",
+  "en": "a thing that takes the place of another",
+  "zh": "替代品"
+ },
+ "equality": {
+  "pos": "n.",
+  "en": "the state of having the same rights and status",
+  "zh": "平等"
+ },
+ "domestication": {
+  "pos": "n.",
+  "en": "the process of taming animals or plants for human use",
+  "zh": "馴化"
+ },
+ "fragment": {
+  "pos": "n.",
+  "en": "a small broken piece of something",
+  "zh": "碎片"
+ },
+ "harness": {
+  "pos": "n.",
+  "en": "straps used to control an animal",
+  "zh": "挽具；馬具"
+ },
+ "outcrop": {
+  "pos": "n.",
+  "en": "rock that sticks out above the ground",
+  "zh": "露出地面的岩層"
+ },
+ "burial": {
+  "pos": "n.",
+  "en": "the act of putting a dead body in the ground",
+  "zh": "埋葬"
+ },
+ "chamber": {
+  "pos": "n.",
+  "en": "an enclosed room or space",
+  "zh": "室；腔室"
+ },
+ "seamlessly": {
+  "pos": "adv.",
+  "en": "smoothly, without obvious breaks",
+  "zh": "天衣無縫地"
+ },
+ "minuscule": {
+  "pos": "adj.",
+  "en": "extremely small",
+  "zh": "極小的"
+ },
+ "defect": {
+  "pos": "n.",
+  "en": "a flaw or fault",
+  "zh": "缺陷"
+ },
+ "fracture": {
+  "pos": "n.",
+  "en": "a crack or break",
+  "zh": "裂縫；斷裂"
+ },
+ "withstand": {
+  "pos": "v.",
+  "en": "to resist or survive something",
+  "zh": "承受；抵擋"
+ },
+ "strain": {
+  "pos": "n.",
+  "en": "force that stretches or pressures a material",
+  "zh": "應變；拉力"
+ },
+ "massive": {
+  "pos": "adj.",
+  "en": "very large",
+  "zh": "巨大的"
+ },
+ "undertake": {
+  "pos": "v.",
+  "en": "to begin or take on a task",
+  "zh": "承擔；進行"
+ },
+ "reignite": {
+  "pos": "v.",
+  "en": "to start burning again",
+  "zh": "重新點燃"
+ },
+ "reproduce": {
+  "pos": "v.",
+  "en": "to make a copy of something",
+  "zh": "複製；再製"
+ },
+ "ungainliness": {
+  "pos": "n.",
+  "en": "the quality of being awkward or clumsy",
+  "zh": "笨拙"
+ },
+ "spacecraft": {
+  "pos": "n.",
+  "en": "a vehicle that travels in space",
+  "zh": "太空船"
+ },
+ "asteroid": {
+  "pos": "n.",
+  "en": "a small rocky object that orbits the Sun",
+  "zh": "小行星"
+ },
+ "obstacle": {
+  "pos": "n.",
+  "en": "something that blocks the way",
+  "zh": "障礙"
+ },
+ "boulder": {
+  "pos": "n.",
+  "en": "a very large rock",
+  "zh": "巨石"
+ },
+ "preferential": {
+  "pos": "adj.",
+  "en": "showing a preference for one thing over another",
+  "zh": "偏好的；優先的"
+ },
+ "trait": {
+  "pos": "n.",
+  "en": "a particular quality or characteristic",
+  "zh": "特徵；特質"
+ },
+ "reveal": {
+  "pos": "v.",
+  "en": "to show something that was hidden",
+  "zh": "揭示；顯露"
+ },
+ "cypress": {
+  "pos": "n.",
+  "en": "a type of evergreen tree",
+  "zh": "柏樹"
+ },
+ "exquisite": {
+  "pos": "adj.",
+  "en": "extremely beautiful and delicate",
+  "zh": "精緻的；優美的"
+ },
+ "destruction": {
+  "pos": "n.",
+  "en": "the act of destroying something",
+  "zh": "毀滅；破壞"
+ },
+ "establish": {
+  "pos": "v.",
+  "en": "to create or set up something",
+  "zh": "建立"
+ },
+ "comrade": {
+  "pos": "n.",
+  "en": "a close friend or companion",
+  "zh": "同伴；同志"
+ },
+ "fragile": {
+  "pos": "adj.",
+  "en": "easily broken or damaged",
+  "zh": "脆弱的"
+ },
+ "foliage": {
+  "pos": "n.",
+  "en": "the leaves of a plant",
+  "zh": "葉子；枝葉"
+ },
+ "foster": {
+  "pos": "v.",
+  "en": "to help something grow or develop",
+  "zh": "培養；滋養"
+ },
+ "languish": {
+  "pos": "v.",
+  "en": "to become weak or fail to grow",
+  "zh": "衰弱；凋萎"
+ },
+ "demonstrative": {
+  "pos": "adj.",
+  "en": "showing feelings openly",
+  "zh": "情感外露的"
+ },
+ "tolerate": {
+  "pos": "v.",
+  "en": "to accept something unpleasant without complaint",
+  "zh": "容忍"
+ },
+ "passive": {
+  "pos": "adj.",
+  "en": "accepting without active response",
+  "zh": "被動的；消極的"
+ },
+ "organic": {
+  "pos": "adj.",
+  "en": "grown without artificial chemicals",
+  "zh": "有機的"
+ },
+ "fertilizer": {
+  "pos": "n.",
+  "en": "a substance added to soil to help plants grow",
+  "zh": "肥料"
+ },
+ "synthetic": {
+  "pos": "adj.",
+  "en": "made artificially, not natural",
+  "zh": "合成的；人造的"
+ },
+ "fraction": {
+  "pos": "n.",
+  "en": "a small part of a whole",
+  "zh": "一小部分"
+ },
+ "subspecies": {
+  "pos": "n.",
+  "en": "a group within a species with distinct features",
+  "zh": "亞種"
+ },
+ "migratory": {
+  "pos": "adj.",
+  "en": "moving from one region to another seasonally",
+  "zh": "遷徙的"
+ },
+ "divergence": {
+  "pos": "n.",
+  "en": "the process of becoming different",
+  "zh": "分歧；分化"
+ },
+ "anatomical": {
+  "pos": "adj.",
+  "en": "related to the structure of the body",
+  "zh": "解剖學的；身體構造的"
+ },
+ "bombard": {
+  "pos": "v.",
+  "en": "to hit repeatedly",
+  "zh": "轟擊；連續撞擊"
+ },
+ "cosmic": {
+  "pos": "adj.",
+  "en": "related to outer space",
+  "zh": "宇宙的"
+ },
+ "originate": {
+  "pos": "v.",
+  "en": "to come from a particular place",
+  "zh": "起源；發源"
+ },
+ "vaporize": {
+  "pos": "v.",
+  "en": "to turn into gas",
+  "zh": "汽化；蒸發"
+ },
+ "ablation": {
+  "pos": "n.",
+  "en": "the removal of material by melting or vaporizing",
+  "zh": "燒蝕；消融"
+ },
+ "collective": {
+  "pos": "n.",
+  "en": "a group of people who work together",
+  "zh": "團體；集體"
+ },
+ "stylistic": {
+  "pos": "adj.",
+  "en": "related to style",
+  "zh": "風格上的"
+ },
+ "mitigate": {
+  "pos": "v.",
+  "en": "to make something less severe",
+  "zh": "減輕；緩和"
+ },
+ "depict": {
+  "pos": "v.",
+  "en": "to show in a picture or describe",
+  "zh": "描繪"
+ },
+ "associate": {
+  "pos": "v.",
+  "en": "to connect in the mind",
+  "zh": "使聯想；與……有關"
+ },
+ "ghostwriter": {
+  "pos": "n.",
+  "en": "a person who writes for someone else who is credited",
+  "zh": "代筆作家"
+ },
+ "celebrity": {
+  "pos": "n.",
+  "en": "a famous person",
+  "zh": "名人"
+ },
+ "amphibian": {
+  "pos": "n.",
+  "en": "an animal that lives both on land and in water",
+  "zh": "兩棲動物"
+ },
+ "glucose": {
+  "pos": "n.",
+  "en": "a type of sugar that gives energy",
+  "zh": "葡萄糖"
+ },
+ "generate": {
+  "pos": "v.",
+  "en": "to produce",
+  "zh": "產生"
+ },
+ "spate": {
+  "pos": "n.",
+  "en": "a large number of things happening in a short time",
+  "zh": "一連串"
+ },
+ "clinch": {
+  "pos": "v.",
+  "en": "to win or settle something finally",
+  "zh": "贏得；確定"
+ },
+ "abstraction": {
+  "pos": "n.",
+  "en": "art that uses shapes and colors rather than realistic images",
+  "zh": "抽象（藝術）"
+ },
+ "essence": {
+  "pos": "n.",
+  "en": "the most important quality of something",
+  "zh": "本質；精髓"
+ },
+ "splotch": {
+  "pos": "n.",
+  "en": "an irregular spot or patch",
+  "zh": "斑點；污漬"
+ },
+ "sculptor": {
+  "pos": "n.",
+  "en": "an artist who makes sculptures",
+  "zh": "雕塑家"
+ },
+ "pillar": {
+  "pos": "n.",
+  "en": "a tall vertical support or column",
+  "zh": "柱子"
+ },
+ "entrepreneur": {
+  "pos": "n.",
+  "en": "a person who starts a business",
+  "zh": "企業家；創業者"
+ },
+ "treatment": {
+  "pos": "n.",
+  "en": "medical care for an illness",
+  "zh": "治療"
+ },
+ "botanical": {
+  "pos": "adj.",
+  "en": "related to plants",
+  "zh": "植物的"
+ },
+ "conservation": {
+  "pos": "n.",
+  "en": "the protection of nature",
+  "zh": "保育；保護"
+ },
+ "designation": {
+  "pos": "n.",
+  "en": "an official name or status",
+  "zh": "指定；認定"
+ },
+ "architecture": {
+  "pos": "n.",
+  "en": "the design of buildings",
+  "zh": "建築"
+ },
+ "resubmit": {
+  "pos": "v.",
+  "en": "to submit again",
+  "zh": "重新提交"
+ },
+ "volcano": {
+  "pos": "n.",
+  "en": "a mountain that can erupt with lava",
+  "zh": "火山"
+ },
+ "approximately": {
+  "pos": "adv.",
+  "en": "about; roughly",
+  "zh": "大約"
+ },
+ "leavening": {
+  "pos": "adj.",
+  "en": "making dough or batter rise",
+  "zh": "發酵的；膨鬆的"
+ },
+ "ingredient": {
+  "pos": "n.",
+  "en": "one of the foods used to make a dish",
+  "zh": "成分；原料"
+ },
+ "acidic": {
+  "pos": "adj.",
+  "en": "containing acid",
+  "zh": "酸性的"
+ },
+ "iridescent": {
+  "pos": "adj.",
+  "en": "showing changing rainbow colors",
+  "zh": "彩虹色的；閃光的"
+ },
+ "medium": {
+  "pos": "n.",
+  "en": "a material or method used to create art",
+  "zh": "媒材；媒介"
+ },
+ "prism": {
+  "pos": "n.",
+  "en": "a band of rainbow colors made by light",
+  "zh": "稜鏡光；光譜"
+ },
+ "expression": {
+  "pos": "n.",
+  "en": "the showing of feelings or ideas",
+  "zh": "表達"
+ },
+ "upward": {
+  "pos": "adv.",
+  "en": "toward a higher place",
+  "zh": "向上地"
+ },
+ "illness": {
+  "pos": "n.",
+  "en": "a disease or period of sickness",
+  "zh": "疾病"
+ },
+ "relay": {
+  "pos": "n.",
+  "en": "a race in which team members take turns running",
+  "zh": "接力賽"
+ },
+ "blanket": {
+  "pos": "n.",
+  "en": "a large cover made of cloth, used for warmth",
+  "zh": "毯子"
+ },
+ "craft": {
+  "pos": "v.",
+  "en": "to make something skillfully by hand",
+  "zh": "精心製作"
+ },
+ "historical": {
+  "pos": "adj.",
+  "en": "related to history or the past",
+  "zh": "歷史的"
+ },
+ "expert": {
+  "pos": "n.",
+  "en": "a person with special knowledge or skill",
+  "zh": "專家"
+ },
+ "sensitive": {
+  "pos": "adj.",
+  "en": "delicate; easily affected",
+  "zh": "敏感的；細緻的"
  }
 }
