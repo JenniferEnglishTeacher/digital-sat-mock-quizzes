@@ -1,0 +1,2189 @@
+{
+ "pref": {
+  "1": "Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. ",
+  "2": "A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. ",
+  "3": "At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. ",
+  "4": "A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. ",
+  "5": "In a laboratory study, researchers tracked a process over multiple stages and found that the outcome depended on timing, environment, and the interaction of several variables. Their summary presents the evidence carefully because a small change in wording would alter the precision of the claim and might make the conclusion sound broader than the data support. "
+ },
+ "items": {
+  "o1": {
+   "body": "As Mexico's first president from an Indigenous community, Benito Juarez became one of the most ______ figures in his country's history: among the many significant accomplishments of his long tenure in office (1858-1872), Juarez consolidated the authority of the national government and advanced the rights of Indigenous peoples.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "unpredictable",
+    "B": "important",
+    "C": "secretive",
+    "D": "ordinary"
+   },
+   "filler": null
+  },
+  "1.1": {
+   "body": "As the first woman to lead the national observatory, astronomer Vera Rubin became a ______ figure in modern astronomy; her work helped reshape discussions of dark matter.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "erratic",
+    "B": "pivotal",
+    "C": "ordinary",
+    "D": "obscure"
+   },
+   "filler": "1"
+  },
+  "1.2": {
+   "body": "The court's decision was ______ because it changed how later judges interpreted privacy rights.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "secretive",
+    "B": "momentous",
+    "C": "inconsequential",
+    "D": "unpredictable"
+   },
+   "filler": "2"
+  },
+  "1.3": {
+   "body": "The treaty became a ______ event in regional politics, ending decades of border conflict.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "formative",
+    "B": "concealed",
+    "C": "minor",
+    "D": "routine"
+   },
+   "filler": "3"
+  },
+  "1.4": {
+   "body": "The chemist's discovery proved ______, eventually enabling several new medical treatments.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "ambiguous",
+    "B": "ordinary",
+    "C": "private",
+    "D": "consequential"
+   },
+   "filler": "4"
+  },
+  "1.5": {
+   "body": "The writer's first novel remains ______ in Caribbean literature because it influenced generations of later authors.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "anonymous",
+    "B": "erratic",
+    "C": "landmark",
+    "D": "peripheral"
+   },
+   "filler": "5"
+  },
+  "o2": {
+   "body": "Due to their often strange images, highly experimental syntax, and opaque subject matter, many of John Ashbery's poems can be quite difficult to ______ and thus are the object of heated debate among scholars.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "delegate",
+    "B": "compose",
+    "C": "interpret",
+    "D": "renounce"
+   },
+   "filler": null
+  },
+  "2.1": {
+   "body": "Because the inscription is damaged and uses several rare symbols, scholars still struggle to ______ its exact meaning.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "renounce",
+    "B": "delegate",
+    "C": "decipher",
+    "D": "compose"
+   },
+   "filler": "1"
+  },
+  "2.2": {
+   "body": "The critic argues that the film's nonlinear structure makes it difficult to ______ without close attention to repeated visual motifs.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "parse",
+    "B": "dismiss",
+    "C": "translate",
+    "D": "replicate"
+   },
+   "filler": "2"
+  },
+  "2.3": {
+   "body": "The poem's syntax is intentionally fragmented, so readers must ______ connections among images that are never explained directly.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "delegate",
+    "B": "postpone",
+    "C": "erase",
+    "D": "infer"
+   },
+   "filler": "3"
+  },
+  "2.4": {
+   "body": "Because the ritual is described only in scattered accounts, anthropologists disagree about how to ______ its social purpose.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "renounce",
+    "B": "interpret",
+    "C": "manufacture",
+    "D": "conceal"
+   },
+   "filler": "4"
+  },
+  "2.5": {
+   "body": "The ancient map includes symbols whose meanings are uncertain, making it challenging for historians to ______ the route it depicts.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "appoint",
+    "B": "diminish",
+    "C": "decode",
+    "D": "compose"
+   },
+   "filler": "5"
+  },
+  "o3": {
+   "body": "The Cambrian explosion gets its name from the sudden appearance and rapid diversification of animal remains in the fossil record about 541 million years ago, during the Cambrian period. Some scientists argue that this ______ change in the fossil record might be because of a shift in many organisms to body types that were more likely to be preserved.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "catastrophic",
+    "B": "elusive",
+    "C": "abrupt",
+    "D": "imminent"
+   },
+   "filler": null
+  },
+  "3.1": {
+   "body": "Tree-ring evidence suggests that the settlement underwent an ______ decline after several decades of stable growth.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "elusive",
+    "B": "abrupt",
+    "C": "imminent",
+    "D": "gradual"
+   },
+   "filler": "1"
+  },
+  "3.2": {
+   "body": "The archive shows a ______ increase in pamphlet production immediately after the new press was installed.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "distant",
+    "B": "concealed",
+    "C": "sudden",
+    "D": "ordinary"
+   },
+   "filler": "2"
+  },
+  "3.3": {
+   "body": "The team's measurements revealed a ______ shift in ocean temperature over a single month.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "decorative",
+    "B": "durable",
+    "C": "ambiguous",
+    "D": "precipitous"
+   },
+   "filler": "3"
+  },
+  "3.4": {
+   "body": "The composer was known for ______ changes in tempo that surprised even experienced performers.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "instantaneous",
+    "B": "peripheral",
+    "C": "subtle",
+    "D": "predictable"
+   },
+   "filler": "4"
+  },
+  "3.5": {
+   "body": "The species' disappearance from the fossil layer appears ______ rather than slow, suggesting a rapid environmental disruption.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "impartial",
+    "B": "commonplace",
+    "C": "elusive",
+    "D": "swift"
+   },
+   "filler": "5"
+  },
+  "o4": {
+   "body": "During a 2014 archaeological dig in Spain, Vicente Lull and his team uncovered the skeleton of a woman from El Algar, an Early Bronze Age society, buried with valuable objects signaling a high position of power. This finding may persuade researchers who have argued that Bronze Age societies were ruled by men to ______ that women may have also held leadership roles.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "waive",
+    "B": "concede",
+    "C": "refute",
+    "D": "require"
+   },
+   "filler": null
+  },
+  "4.1": {
+   "body": "After new satellite images revealed an older river channel, geologists who had favored a different explanation had to ______ that water once flowed through the valley.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "concede",
+    "B": "obscure",
+    "C": "waive",
+    "D": "require"
+   },
+   "filler": "1"
+  },
+  "4.2": {
+   "body": "The historian initially rejected the revised date, but the newly found diary led her to ______ that the event occurred earlier.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "refute",
+    "B": "delegate",
+    "C": "mandate",
+    "D": "acknowledge"
+   },
+   "filler": "2"
+  },
+  "4.3": {
+   "body": "When the second experiment produced the same result, skeptics began to ______ that the original finding was reliable.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "predict",
+    "B": "conceal",
+    "C": "deny",
+    "D": "grant"
+   },
+   "filler": "3"
+  },
+  "4.4": {
+   "body": "The critic remained cautious but was forced to ______ that the anonymous manuscript was probably genuine.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "renounce",
+    "B": "postpone",
+    "C": "admit",
+    "D": "require"
+   },
+   "filler": "4"
+  },
+  "4.5": {
+   "body": "The discovery of matching tool marks persuaded researchers to ______ that the two artifacts came from the same workshop.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "forecast",
+    "B": "accept",
+    "C": "reject",
+    "D": "counter"
+   },
+   "filler": "5"
+  },
+  "o5": {
+   "body": "Within baleen whale species, some individuals develop an accessory spleen - a seemingly functionless formation of splenetic tissue outside the normal spleen. Given the formation's greater prevalence among whales known to make deeper dives, some researchers hypothesize that its role isn't ______; rather, the accessory spleen may actively support diving mechanisms.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "replicable",
+    "B": "predetermined",
+    "C": "operative",
+    "D": "latent"
+   },
+   "filler": null
+  },
+  "5.1": {
+   "body": "The enzyme was once thought to be ______ in cold conditions, but new evidence shows that it continues to catalyze reactions at low temperatures.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "predetermined",
+    "B": "inactive",
+    "C": "visible",
+    "D": "replicable"
+   },
+   "filler": "1"
+  },
+  "5.2": {
+   "body": "The secondary chamber looked ______ until researchers found that it helps regulate pressure during deep dives.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "essential",
+    "B": "functional",
+    "C": "operative",
+    "D": "dormant"
+   },
+   "filler": "2"
+  },
+  "5.3": {
+   "body": "Although the structure had been dismissed as ______, later tests showed that it plays a role in immune response.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "vestigial",
+    "B": "replicable",
+    "C": "coordinated",
+    "D": "measurable"
+   },
+   "filler": "3"
+  },
+  "5.4": {
+   "body": "The protein's role was not ______ after all; under stress, it activated several repair mechanisms.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "visible",
+    "B": "quiescent",
+    "C": "complex",
+    "D": "replicated"
+   },
+   "filler": "4"
+  },
+  "5.5": {
+   "body": "The organ seemed ______, but scans revealed that it expands during prolonged dives.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "predictable",
+    "B": "necessary",
+    "C": "inert",
+    "D": "operative"
+   },
+   "filler": "5"
+  },
+  "o6": {
+   "body": "According to a US tax policy expert, state taxes are ______ other factors when considering an interstate move. Even significant differences in state taxation have almost no effect on most people's decisions, while differences in employment opportunities, housing availability, and climate are strong influences.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "consistent with",
+    "B": "representative of",
+    "C": "overshadowed by",
+    "D": "irrelevant to"
+   },
+   "filler": null
+  },
+  "6.1": {
+   "body": "The survey suggests that school quality is ______ housing cost when families choose a neighborhood; parents mention academic programs far more often than prices.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "irrelevant to",
+    "B": "consistent with",
+    "C": "representative of",
+    "D": "eclipsed by"
+   },
+   "filler": "1"
+  },
+  "6.2": {
+   "body": "For many commuters, small differences in bus fare are ______ travel time and reliability.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "subordinate to",
+    "B": "symbolic of",
+    "C": "identical to",
+    "D": "predictive of"
+   },
+   "filler": "2"
+  },
+  "6.3": {
+   "body": "The curator argues that the painting's market value is ______ its cultural importance in deciding whether to exhibit it.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "independent of",
+    "B": "representative of",
+    "C": "secondary to",
+    "D": "equivalent to"
+   },
+   "filler": "3"
+  },
+  "6.4": {
+   "body": "In patients' choice of clinic, parking convenience is often ______ the availability of specialists.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "indicative of",
+    "B": "irrelevant to",
+    "C": "consistent with",
+    "D": "overshadowed by"
+   },
+   "filler": "4"
+  },
+  "6.5": {
+   "body": "The committee found that minor design preferences were ______ safety requirements during the bridge review.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "derived from",
+    "B": "outweighed by",
+    "C": "modeled on",
+    "D": "synchronized with"
+   },
+   "filler": "5"
+  },
+  "o7": {
+   "body": "The author's claim about the relationship between Neanderthals and Homo sapiens is ______, as it fails to account for several recent archaeological discoveries. To be convincing, his argument would need to address recent finds of additional hominid fossils, such as the latest Denisovan specimens and Homo longi.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "disorienting",
+    "B": "tenuous",
+    "C": "nuanced",
+    "D": "unoriginal"
+   },
+   "filler": null
+  },
+  "7.1": {
+   "body": "The proposal is ______ because it relies on a single survey with a small, unrepresentative sample.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "nuanced",
+    "B": "original",
+    "C": "robust",
+    "D": "tenuous"
+   },
+   "filler": "1"
+  },
+  "7.2": {
+   "body": "The archaeologist's conclusion remains ______ until the team can date the artifacts more precisely.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "provisional",
+    "B": "compelling",
+    "C": "ordinary",
+    "D": "irrelevant"
+   },
+   "filler": "2"
+  },
+  "7.3": {
+   "body": "Because the study omits several major variables, its central claim is ______.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "meticulous",
+    "B": "precarious",
+    "C": "indisputable",
+    "D": "conventional"
+   },
+   "filler": "3"
+  },
+  "7.4": {
+   "body": "The critic's argument is ______: it depends on one ambiguous line while ignoring several contradictory passages.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "fragile",
+    "B": "comprehensive",
+    "C": "decorative",
+    "D": "balanced"
+   },
+   "filler": "4"
+  },
+  "7.5": {
+   "body": "Without evidence from the later manuscripts, the theory remains ______.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "definitive",
+    "B": "well-founded",
+    "C": "speculative",
+    "D": "redundant"
+   },
+   "filler": "5"
+  },
+  "o8": {
+   "body": "The following text is from Georgia Douglas Johnson's 1922 poem \"Benediction.\"\n\nGo forth, my son,\nWinged by my heart's desire!\nGreat reaches, yet unknown,\nAwait\nFor your possession.\nI may not, if I would,\nRetrace the way with you,\nMy pilgrimage is through,\nBut life is calling you!",
+   "stem": "Which choice best states the main purpose of the text?",
+   "opts": {
+    "A": "To express hope that a child will have the same accomplishments as his parent did",
+    "B": "To suggest that raising a child involves many struggles",
+    "C": "To warn a child that he will face many challenges throughout his life",
+    "D": "To encourage a child to embrace the experiences life will offer"
+   },
+   "filler": null
+  },
+  "8.1": {
+   "body": "A passage describes how a poet addresses a younger relative who is about to leave home. The speaker says that the road ahead cannot be walked by anyone else and that the unknown world should be met with courage, not fear.",
+   "stem": "Which choice best states the main idea or main purpose of the text?",
+   "opts": {
+    "A": "To argue that travel is always dangerous",
+    "B": "To describe the speaker's own childhood in detail",
+    "C": "To criticize a relative for leaving home",
+    "D": "To encourage someone to face future experiences independently"
+   },
+   "filler": "1"
+  },
+  "8.2": {
+   "body": "A short informational text explains that community historians once preserved family records orally and now also use digital archives, but their central task remains protecting collective memory.",
+   "stem": "Which choice best states the main idea or main purpose of the text?",
+   "opts": {
+    "A": "Digital archives have made oral history unnecessary.",
+    "B": "The role of community historians has changed in tools but not in its core purpose.",
+    "C": "Community historians mainly work as entertainers.",
+    "D": "Family records are less valuable than public records."
+   },
+   "filler": "2"
+  },
+  "8.3": {
+   "body": "A science passage explains that a structure predicted decades earlier was finally observed after researchers cooled particles into an ordered arrangement and used a new imaging method.",
+   "stem": "Which choice best states the main idea or main purpose of the text?",
+   "opts": {
+    "A": "The imaging method is unrelated to the discovery.",
+    "B": "Cooling particles prevents ordered structures from forming.",
+    "C": "Researchers obtained direct evidence for a long-theorized structure.",
+    "D": "The prediction was disproved by later experiments."
+   },
+   "filler": "3"
+  },
+  "8.4": {
+   "body": "A passage states that a spacecraft designed for Earth failed in a simulated thin atmosphere, so engineers lengthened its blades and increased their rotation speed.",
+   "stem": "Which choice best states the main idea or main purpose of the text?",
+   "opts": {
+    "A": "Longer blades make aircraft unable to fly on Earth.",
+    "B": "Earth-designed aircraft may fail in thinner atmospheres because their blades do not generate enough lift.",
+    "C": "Spacecraft designed for Earth are too heavy to test in laboratories.",
+    "D": "Engineers avoid changing aircraft designs for other planets."
+   },
+   "filler": "4"
+  },
+  "8.5": {
+   "body": "In a literary excerpt, a speaker blesses a child before the child begins an independent journey, saying that new regions wait to be claimed.",
+   "stem": "Which choice best states the main idea or main purpose of the text?",
+   "opts": {
+    "A": "To express hopeful encouragement as a younger person begins a new life stage",
+    "B": "To explain how the speaker became famous",
+    "C": "To complain that the speaker was abandoned",
+    "D": "To warn that the child should avoid unfamiliar places"
+   },
+   "filler": "5"
+  },
+  "o9": {
+   "body": "The following text is adapted from Indian Boyhood, a 1902 memoir by Ohiyesa (Charles A. Eastman), a Santee Dakota writer. In the text, Ohiyesa recalls how the women in his tribe harvested maple syrup during his childhood.\n\nNow the women began to test the trees - moving leisurely among them, axe in hand, and striking a single quick blow, to see if the sap would appear. The trees, like people, have their individual characters; some were ready to yield up their life-blood, while others were more reluctant. Now one of the birchen basins was set under each tree, and a hardwood chip driven deep into the cut which the axe had made. From the corners of this chip - at first drop by drop, then more freely - the sap trickled into the little dishes.",
+   "stem": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+   "opts": {
+    "A": "It portrays the range of personality traits displayed by the women as they work.",
+    "B": "It foregrounds the beneficial relationship between humans and maple trees.",
+    "C": "It demonstrates how human behavior can be influenced by the natural environment.",
+    "D": "It elaborates on an aspect of the maple trees that the women evaluate."
+   },
+   "filler": null
+  },
+  "9.1": {
+   "body": "A memoir passage says workers test several trees before tapping them. The next sentence explains that some trees yield sap readily while others resist, comparing them to people with different characters.",
+   "stem": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+   "opts": {
+    "A": "It argues that trees are superior to humans.",
+    "B": "It elaborates on what the workers discover when evaluating the trees.",
+    "C": "It shifts the focus from trees to weather patterns.",
+    "D": "It describes the workers' disagreements with one another."
+   },
+   "filler": "1"
+  },
+  "9.2": {
+   "body": "A novel first states that the room revealed its owner's habits. The next sentence lists the ink-stained desk, stacked letters, and half-open maps.",
+   "stem": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+   "opts": {
+    "A": "It introduces an unrelated setting.",
+    "B": "It summarizes the entire plot.",
+    "C": "It contradicts the previous sentence.",
+    "D": "It supplies details that support the previous claim."
+   },
+   "filler": "2"
+  },
+  "9.3": {
+   "body": "A science passage says a fossil site contains mixed evidence. The next sentence notes that marine shells appear beside plant remains from dry land.",
+   "stem": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+   "opts": {
+    "A": "It explains how fossils are collected.",
+    "B": "It describes the researchers' equipment.",
+    "C": "It gives an example of the mixed evidence just mentioned.",
+    "D": "It rejects the idea that the site is important."
+   },
+   "filler": "3"
+  },
+  "9.4": {
+   "body": "A poem first describes the city as restless. The next line presents bells, wheels, and voices overlapping before dawn.",
+   "stem": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+   "opts": {
+    "A": "It develops the earlier description through sound imagery.",
+    "B": "It defines a technical term.",
+    "C": "It changes the setting to the countryside.",
+    "D": "It introduces the speaker's family history."
+   },
+   "filler": "4"
+  },
+  "9.5": {
+   "body": "A paragraph claims that the sculpture changes as viewers move around it. The next sentence says that an opening visible from one angle disappears from another.",
+   "stem": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+   "opts": {
+    "A": "It describes the museum's opening hours.",
+    "B": "It criticizes viewers for moving too quickly.",
+    "C": "It provides a concrete example of the sculpture's shifting appearance.",
+    "D": "It explains the sculpture's price."
+   },
+   "filler": "5"
+  },
+  "o10": {
+   "body": "Text 1\nEcologists have long wondered how thousands of microscopic phytoplankton species can live together near ocean surfaces competing for the same resources. According to conventional wisdom, one species should emerge after outcompeting the rest. So why do so many species remain? Ecologists' many efforts to explain this phenomenon still haven't uncovered a satisfactory explanation.\n\nText 2\nEcologist Michael Behrenfeld and colleagues have connected phytoplankton's diversity to their microscopic size. Because these organisms are so tiny, they are spaced relatively far apart from each other in ocean water and, moreover, experience that water as a relatively dense substance. This in turn makes it hard for them to move around and interact with one another. Therefore, says Behrenfeld's team, direct competition among phytoplankton probably happens much less than previously thought.\n\nBased on the texts, how would Behrenfeld and colleagues (Text 2) most likely respond to the \"conventional wisdom\" discussed in Text 1?",
+   "stem": null,
+   "opts": {
+    "A": "By arguing that it is based on a misconception about phytoplankton species competing with one another",
+    "B": "By asserting that it fails to recognize that routine replenishment of ocean nutrients prevents competition between phytoplankton species",
+    "C": "By suggesting that their own findings help clarify how phytoplankton species are able to compete with larger organisms",
+    "D": "By recommending that more ecologists focus their research on how competition among phytoplankton species is increased with water density"
+   },
+   "filler": null
+  },
+  "10.1": {
+   "body": "Text 1 argues that two bird species must be competing because they eat the same seeds. Text 2 reports that one species feeds at night and the other during the day, so direct competition is rare.\n\nBased on the texts, which choice best describes how the second text would respond to the first?",
+   "stem": null,
+   "opts": {
+    "A": "By claiming that seed availability is irrelevant",
+    "B": "By recommending that both species change diets",
+    "C": "By agreeing that one species must disappear",
+    "D": "By arguing that Text 1 overestimates competition between the species"
+   },
+   "filler": "1"
+  },
+  "10.2": {
+   "body": "Text 1 says a city's murals show a single political message. Text 2 notes that the murals were painted by different groups with conflicting goals.\n\nBased on the texts, which choice best describes how the second text would respond to the first?",
+   "stem": null,
+   "opts": {
+    "A": "By focusing only on painting materials",
+    "B": "By arguing that all murals share one author",
+    "C": "By suggesting that Text 1 simplifies the murals' meanings",
+    "D": "By proving that the murals were not political"
+   },
+   "filler": "2"
+  },
+  "10.3": {
+   "body": "Text 1 claims that ancient trade declined because a road closed. Text 2 presents shipwreck evidence showing that sea trade expanded at the same time.\n\nBased on the texts, which choice best describes how the second text would respond to the first?",
+   "stem": null,
+   "opts": {
+    "A": "By focusing on modern shipping",
+    "B": "By arguing that the evidence points to a shift in trade routes rather than an overall decline",
+    "C": "By denying that trade existed",
+    "D": "By claiming that roads were never used"
+   },
+   "filler": "3"
+  },
+  "10.4": {
+   "body": "Text 1 proposes that a species vanished because of climate. Text 2 shows that the species survived in several cooler regions but disappeared where a predator arrived.\n\nBased on the texts, which choice best describes how the second text would respond to the first?",
+   "stem": null,
+   "opts": {
+    "A": "By suggesting that climate alone may not explain the disappearance",
+    "B": "By rejecting fossil evidence altogether",
+    "C": "By arguing that predators were harmless",
+    "D": "By confirming that temperature was the only factor"
+   },
+   "filler": "4"
+  },
+  "10.5": {
+   "body": "Text 1 says students avoid collaboration because group work lowers performance. Text 2 reports that collaboration improves results when tasks are complex and roles are clear.\n\nBased on the texts, which choice best describes how the second text would respond to the first?",
+   "stem": null,
+   "opts": {
+    "A": "By stating that individual work is always best",
+    "B": "By qualifying Text 1's claim about collaboration",
+    "C": "By arguing that roles make no difference",
+    "D": "By claiming that grades cannot be measured"
+   },
+   "filler": "5"
+  },
+  "o11": {
+   "body": "In 2014, Amelia Quon and her team at NASA set out to build a helicopter capable of flying on Mars. Because Mars's atmosphere is only one percent as dense as Earth's, the air of Mars would not provide enough resistance to the rotating blades of a standard helicopter for the aircraft to stay aloft. For five years, Quon's team tested designs in a lab that mimicked Mars's atmospheric conditions. The craft the team ultimately designed can fly on Mars because its blades are longer and rotate faster than those of a helicopter of the same size built for Earth.\n\nAccording to the text, why would a helicopter built for Earth be unable to fly on Mars?",
+   "stem": null,
+   "opts": {
+    "A": "Because Mars and Earth have different atmospheric conditions",
+    "B": "Because the blades of helicopters built for Earth are too large to work on Mars",
+    "C": "Because the gravity of Mars is much weaker than the gravity of Earth",
+    "D": "Because helicopters built for Earth are too small to handle the conditions on Mars"
+   },
+   "filler": null
+  },
+  "11.1": {
+   "body": "A passage describes how a poet addresses a younger relative who is about to leave home. The speaker says that the road ahead cannot be walked by anyone else and that the unknown world should be met with courage, not fear.",
+   "stem": "Which choice best states the main idea or main purpose of the text?",
+   "opts": {
+    "A": "To criticize a relative for leaving home",
+    "B": "To describe the speaker's own childhood in detail",
+    "C": "To argue that travel is always dangerous",
+    "D": "To encourage someone to face future experiences independently"
+   },
+   "filler": "1"
+  },
+  "11.2": {
+   "body": "A short informational text explains that community historians once preserved family records orally and now also use digital archives, but their central task remains protecting collective memory.",
+   "stem": "Which choice best states the main idea or main purpose of the text?",
+   "opts": {
+    "A": "The role of community historians has changed in tools but not in its core purpose.",
+    "B": "Digital archives have made oral history unnecessary.",
+    "C": "Community historians mainly work as entertainers.",
+    "D": "Family records are less valuable than public records."
+   },
+   "filler": "2"
+  },
+  "11.3": {
+   "body": "A science passage explains that a structure predicted decades earlier was finally observed after researchers cooled particles into an ordered arrangement and used a new imaging method.",
+   "stem": "Which choice best states the main idea or main purpose of the text?",
+   "opts": {
+    "A": "Cooling particles prevents ordered structures from forming.",
+    "B": "Researchers obtained direct evidence for a long-theorized structure.",
+    "C": "The prediction was disproved by later experiments.",
+    "D": "The imaging method is unrelated to the discovery."
+   },
+   "filler": "3"
+  },
+  "11.4": {
+   "body": "A passage states that a spacecraft designed for Earth failed in a simulated thin atmosphere, so engineers lengthened its blades and increased their rotation speed.",
+   "stem": "Which choice best states the main idea or main purpose of the text?",
+   "opts": {
+    "A": "Engineers avoid changing aircraft designs for other planets.",
+    "B": "Spacecraft designed for Earth are too heavy to test in laboratories.",
+    "C": "Earth-designed aircraft may fail in thinner atmospheres because their blades do not generate enough lift.",
+    "D": "Longer blades make aircraft unable to fly on Earth."
+   },
+   "filler": "4"
+  },
+  "11.5": {
+   "body": "In a literary excerpt, a speaker blesses a child before the child begins an independent journey, saying that new regions wait to be claimed.",
+   "stem": "Which choice best states the main idea or main purpose of the text?",
+   "opts": {
+    "A": "To express hopeful encouragement as a younger person begins a new life stage",
+    "B": "To warn that the child should avoid unfamiliar places",
+    "C": "To complain that the speaker was abandoned",
+    "D": "To explain how the speaker became famous"
+   },
+   "filler": "5"
+  },
+  "o12": {
+   "body": "In West Africa, jalis have traditionally been keepers of information about family histories and records of important events. They have often served as teachers and advisers, too. New technologies may have changed some aspects of the role today, but jalis continue to be valued for knowing and protecting their peoples' stories.",
+   "stem": "Which choice best states the main idea of the text?",
+   "opts": {
+    "A": "Even though there have been some changes in their role, jalis continue to preserve their communities' histories.",
+    "B": "Although jalis have many roles, many of them like teaching best.",
+    "C": "Jalis have been entertaining the people within their communities for centuries.",
+    "D": "Technology can now do some of the things jalis used to be responsible for."
+   },
+   "filler": null
+  },
+  "12.1": {
+   "body": "A passage describes how a poet addresses a younger relative who is about to leave home. The speaker says that the road ahead cannot be walked by anyone else and that the unknown world should be met with courage, not fear.",
+   "stem": "Which choice best states the main idea or main purpose of the text?",
+   "opts": {
+    "A": "To criticize a relative for leaving home",
+    "B": "To describe the speaker's own childhood in detail",
+    "C": "To encourage someone to face future experiences independently",
+    "D": "To argue that travel is always dangerous"
+   },
+   "filler": "1"
+  },
+  "12.2": {
+   "body": "A short informational text explains that community historians once preserved family records orally and now also use digital archives, but their central task remains protecting collective memory.",
+   "stem": "Which choice best states the main idea or main purpose of the text?",
+   "opts": {
+    "A": "The role of community historians has changed in tools but not in its core purpose.",
+    "B": "Community historians mainly work as entertainers.",
+    "C": "Family records are less valuable than public records.",
+    "D": "Digital archives have made oral history unnecessary."
+   },
+   "filler": "2"
+  },
+  "12.3": {
+   "body": "A science passage explains that a structure predicted decades earlier was finally observed after researchers cooled particles into an ordered arrangement and used a new imaging method.",
+   "stem": "Which choice best states the main idea or main purpose of the text?",
+   "opts": {
+    "A": "Cooling particles prevents ordered structures from forming.",
+    "B": "The imaging method is unrelated to the discovery.",
+    "C": "The prediction was disproved by later experiments.",
+    "D": "Researchers obtained direct evidence for a long-theorized structure."
+   },
+   "filler": "3"
+  },
+  "12.4": {
+   "body": "A passage states that a spacecraft designed for Earth failed in a simulated thin atmosphere, so engineers lengthened its blades and increased their rotation speed.",
+   "stem": "Which choice best states the main idea or main purpose of the text?",
+   "opts": {
+    "A": "Spacecraft designed for Earth are too heavy to test in laboratories.",
+    "B": "Earth-designed aircraft may fail in thinner atmospheres because their blades do not generate enough lift.",
+    "C": "Longer blades make aircraft unable to fly on Earth.",
+    "D": "Engineers avoid changing aircraft designs for other planets."
+   },
+   "filler": "4"
+  },
+  "12.5": {
+   "body": "In a literary excerpt, a speaker blesses a child before the child begins an independent journey, saying that new regions wait to be claimed.",
+   "stem": "Which choice best states the main idea or main purpose of the text?",
+   "opts": {
+    "A": "To complain that the speaker was abandoned",
+    "B": "To warn that the child should avoid unfamiliar places",
+    "C": "To express hopeful encouragement as a younger person begins a new life stage",
+    "D": "To explain how the speaker became famous"
+   },
+   "filler": "5"
+  },
+  "o13": {
+   "body": "In 1934 physicist Eugene Wigner posited the existence of a crystal consisting entirely of electrons in a honeycomb-like structure. The so-called Wigner crystal remained largely conjecture, however, until Feng Wang and colleagues announced in 2021 that they had captured an image of one. The researchers trapped electrons between two semiconductors and then cooled the apparatus, causing the electrons to settle into a crystalline structure. By inserting an ultrathin sheet of graphene above the crystal, the researchers obtained an impression - the first visual confirmation of the Wigner crystal.",
+   "stem": "Which choice best states the main idea of the text?",
+   "opts": {
+    "A": "Researchers have obtained the most definitive evidence to date of the existence of the Wigner crystal.",
+    "B": "Researchers have identified an innovative new method for working with unusual crystalline structures.",
+    "C": "Graphene is the most important of the components required to capture an image of a Wigner crystal.",
+    "D": "It's difficult to acquire an image of a Wigner crystal because of the crystal's honeycomb structure."
+   },
+   "filler": null
+  },
+  "13.1": {
+   "body": "A passage describes how a poet addresses a younger relative who is about to leave home. The speaker says that the road ahead cannot be walked by anyone else and that the unknown world should be met with courage, not fear.",
+   "stem": "Which choice best states the main idea or main purpose of the text?",
+   "opts": {
+    "A": "To encourage someone to face future experiences independently",
+    "B": "To argue that travel is always dangerous",
+    "C": "To describe the speaker's own childhood in detail",
+    "D": "To criticize a relative for leaving home"
+   },
+   "filler": "1"
+  },
+  "13.2": {
+   "body": "A short informational text explains that community historians once preserved family records orally and now also use digital archives, but their central task remains protecting collective memory.",
+   "stem": "Which choice best states the main idea or main purpose of the text?",
+   "opts": {
+    "A": "Community historians mainly work as entertainers.",
+    "B": "Family records are less valuable than public records.",
+    "C": "Digital archives have made oral history unnecessary.",
+    "D": "The role of community historians has changed in tools but not in its core purpose."
+   },
+   "filler": "2"
+  },
+  "13.3": {
+   "body": "A science passage explains that a structure predicted decades earlier was finally observed after researchers cooled particles into an ordered arrangement and used a new imaging method.",
+   "stem": "Which choice best states the main idea or main purpose of the text?",
+   "opts": {
+    "A": "The prediction was disproved by later experiments.",
+    "B": "Researchers obtained direct evidence for a long-theorized structure.",
+    "C": "Cooling particles prevents ordered structures from forming.",
+    "D": "The imaging method is unrelated to the discovery."
+   },
+   "filler": "3"
+  },
+  "13.4": {
+   "body": "A passage states that a spacecraft designed for Earth failed in a simulated thin atmosphere, so engineers lengthened its blades and increased their rotation speed.",
+   "stem": "Which choice best states the main idea or main purpose of the text?",
+   "opts": {
+    "A": "Longer blades make aircraft unable to fly on Earth.",
+    "B": "Spacecraft designed for Earth are too heavy to test in laboratories.",
+    "C": "Engineers avoid changing aircraft designs for other planets.",
+    "D": "Earth-designed aircraft may fail in thinner atmospheres because their blades do not generate enough lift."
+   },
+   "filler": "4"
+  },
+  "13.5": {
+   "body": "In a literary excerpt, a speaker blesses a child before the child begins an independent journey, saying that new regions wait to be claimed.",
+   "stem": "Which choice best states the main idea or main purpose of the text?",
+   "opts": {
+    "A": "To explain how the speaker became famous",
+    "B": "To warn that the child should avoid unfamiliar places",
+    "C": "To express hopeful encouragement as a younger person begins a new life stage",
+    "D": "To complain that the speaker was abandoned"
+   },
+   "filler": "5"
+  },
+  "o14": {
+   "body": "A graph titled \"Average Number of Individuals Reporting Directly to CEOs\" shows managers and department leaders over three periods. The average number of department leaders reporting directly to CEOs rises from slightly more than 3 in 1991-1995 to 4 in 1996-2001 and to almost 7 in 2001-2008. Considering a large sample of companies, economics experts Maria Guadalupe, Julie Wulf, and Raghuram Rajan assessed the number of managers and leaders from different departments who reported directly to a CEO. According to the researchers, the findings suggest that across the years analyzed, there was a growing interest among CEOs in connecting with more departments in their companies.",
+   "stem": "Which choice best describes data from the graph that support the researchers' conclusion?",
+   "opts": {
+    "A": "The average numbers of managers and department leaders reporting directly to their CEO didn't fluctuate from the 1991-1995 period to the 2001-2008 period.",
+    "B": "The average number of managers reporting directly to their CEO was highest in the 1996-2001 period.",
+    "C": "The average number of department leaders reporting directly to their CEO was greater than the average number of managers reporting directly to their CEO in each of the three periods studied.",
+    "D": "The average number of department leaders reporting directly to their CEO rose over the three periods studied."
+   },
+   "filler": null
+  },
+  "14.1": {
+   "body": "A graph shows that the share of households using solar panels rose from 8% to 27% over three survey periods. Researchers claim public interest increased.",
+   "stem": "Which choice most effectively uses evidence to support or weaken the claim?",
+   "opts": {
+    "A": "The first period had the fewest households in the survey.",
+    "B": "Some households did not use solar panels.",
+    "C": "The share of households using solar panels rose across the periods studied.",
+    "D": "The graph includes three survey periods."
+   },
+   "filler": "1"
+  },
+  "14.2": {
+   "body": "A table shows that restored wetlands had 42, 55, and 63 nesting pairs over three years, while unrestored wetlands stayed near 20. Which finding best supports the restoration claim?",
+   "stem": "Which choice most effectively uses evidence to support or weaken the claim?",
+   "opts": {
+    "A": "Nesting pairs increased in restored wetlands and remained lower in unrestored wetlands.",
+    "B": "Both sites contained water.",
+    "C": "Researchers counted birds once a year.",
+    "D": "The first year had fewer nests than the third."
+   },
+   "filler": "2"
+  },
+  "14.3": {
+   "body": "A study claims that a drug improves memory, but a new finding shows that participants who received the drug also had twice as much sleep as the control group.",
+   "stem": "Which choice most effectively uses evidence to support or weaken the claim?",
+   "opts": {
+    "A": "The new finding is unrelated to memory.",
+    "B": "The new finding proves the drug had no effect on anyone.",
+    "C": "The new finding supports the drug claim directly.",
+    "D": "The new finding weakens the claim because sleep could explain the memory difference."
+   },
+   "filler": "3"
+  },
+  "14.4": {
+   "body": "A graph shows department leaders reporting to CEOs increasing from 2 to 6 while unrelated consultant meetings stay flat. Which data best support the conclusion?",
+   "stem": "Which choice most effectively uses evidence to support or weaken the claim?",
+   "opts": {
+    "A": "Consultant meetings were measured separately.",
+    "B": "Department-leader reports rose steadily across the period.",
+    "C": "The graph contains more than one category.",
+    "D": "The earliest period had the lowest total."
+   },
+   "filler": "4"
+  },
+  "14.5": {
+   "body": "Researchers hypothesize that soil disturbance benefits a plant by increasing genetic diversity. Which finding would undermine the hypothesis?",
+   "stem": "Which choice most effectively uses evidence to support or weaken the claim?",
+   "opts": {
+    "A": "More disturbed sites have lower genetic diversity and poorer plant health.",
+    "B": "Soil disturbance is easy to measure.",
+    "C": "Some disturbed sites contain the plant.",
+    "D": "The plant reproduces in more than one way."
+   },
+   "filler": "5"
+  },
+  "o15": {
+   "body": "When digging for clams, their primary food, sea otters damage the roots of eelgrass plants growing on the seafloor. Near Vancouver Island in Canada, the otter population is large and well established, yet the eelgrass meadows are healthier than those found elsewhere off Canada's coast. To explain this, conservation scientist Erin Foster and colleagues compared the Vancouver Island meadows to meadows where otters are absent or were reintroduced only recently. Finding that the Vancouver Island meadows have a more diverse gene pool than the others do, Foster hypothesized that damage to eelgrass roots increases the plant's rate of sexual reproduction; this, in turn, boosts genetic diversity, which benefits the meadow's health overall.\n\nWhich finding, if true, would most directly undermine Foster's hypothesis?",
+   "stem": null,
+   "opts": {
+    "A": "At some sites in the study, eelgrass meadows are found near otter populations that are small and have only recently been reintroduced.",
+    "B": "At several sites not included in the study, there are large, well-established sea otter populations but no eelgrass meadows.",
+    "C": "At several sites not included in the study, eelgrass meadows' health correlates negatively with the length of residence and size of otter populations.",
+    "D": "At some sites in the study, the health of plants unrelated to eelgrass correlates negatively with the length of residence and size of otter populations."
+   },
+   "filler": null
+  },
+  "15.1": {
+   "body": "A graph shows that the share of households using solar panels rose from 8% to 27% over three survey periods. Researchers claim public interest increased.",
+   "stem": "Which choice most effectively uses evidence to support or weaken the claim?",
+   "opts": {
+    "A": "Some households did not use solar panels.",
+    "B": "The first period had the fewest households in the survey.",
+    "C": "The graph includes three survey periods.",
+    "D": "The share of households using solar panels rose across the periods studied."
+   },
+   "filler": "1"
+  },
+  "15.2": {
+   "body": "A table shows that restored wetlands had 42, 55, and 63 nesting pairs over three years, while unrestored wetlands stayed near 20. Which finding best supports the restoration claim?",
+   "stem": "Which choice most effectively uses evidence to support or weaken the claim?",
+   "opts": {
+    "A": "Nesting pairs increased in restored wetlands and remained lower in unrestored wetlands.",
+    "B": "Both sites contained water.",
+    "C": "The first year had fewer nests than the third.",
+    "D": "Researchers counted birds once a year."
+   },
+   "filler": "2"
+  },
+  "15.3": {
+   "body": "A study claims that a drug improves memory, but a new finding shows that participants who received the drug also had twice as much sleep as the control group.",
+   "stem": "Which choice most effectively uses evidence to support or weaken the claim?",
+   "opts": {
+    "A": "The new finding is unrelated to memory.",
+    "B": "The new finding weakens the claim because sleep could explain the memory difference.",
+    "C": "The new finding supports the drug claim directly.",
+    "D": "The new finding proves the drug had no effect on anyone."
+   },
+   "filler": "3"
+  },
+  "15.4": {
+   "body": "A graph shows department leaders reporting to CEOs increasing from 2 to 6 while unrelated consultant meetings stay flat. Which data best support the conclusion?",
+   "stem": "Which choice most effectively uses evidence to support or weaken the claim?",
+   "opts": {
+    "A": "The graph contains more than one category.",
+    "B": "Consultant meetings were measured separately.",
+    "C": "Department-leader reports rose steadily across the period.",
+    "D": "The earliest period had the lowest total."
+   },
+   "filler": "4"
+  },
+  "15.5": {
+   "body": "Researchers hypothesize that soil disturbance benefits a plant by increasing genetic diversity. Which finding would undermine the hypothesis?",
+   "stem": "Which choice most effectively uses evidence to support or weaken the claim?",
+   "opts": {
+    "A": "Some disturbed sites contain the plant.",
+    "B": "Soil disturbance is easy to measure.",
+    "C": "More disturbed sites have lower genetic diversity and poorer plant health.",
+    "D": "The plant reproduces in more than one way."
+   },
+   "filler": "5"
+  },
+  "o16": {
+   "body": "Scholars have noted that F. Scott Fitzgerald's writings were likely influenced in part by his marriage to Zelda Fitzgerald, but many don't recognize Zelda as a writer in her own right. Indeed, Zelda authored several works herself, such as the novel Save Me the Waltz and numerous short stories. Thus, those who primarily view Zelda as an inspiration for F. Scott's writings ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "overlook the many other factors that motivated F. Scott to write.",
+    "B": "risk misrepresenting the full range of Zelda's contributions to literature.",
+    "C": "may draw inaccurate conclusions about how F. Scott and Zelda viewed each other's works.",
+    "D": "tend to read the works of F. Scott and Zelda in an overly autobiographical light."
+   },
+   "filler": null
+  },
+  "16.1": {
+   "body": "A study measured students' reasoning with puzzles that also required very different levels of hand-eye coordination. Therefore, the results ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "show that coordination is unrelated to test design.",
+    "B": "prove that all students reason equally well.",
+    "C": "could mistake differences in motor skill for differences in reasoning.",
+    "D": "should be applied to every academic subject."
+   },
+   "filler": "1"
+  },
+  "16.2": {
+   "body": "Researchers found face-like pattern preference in a solitary species. This suggests that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "only social species can recognize patterns.",
+    "B": "the solitary species learned the preference from parents.",
+    "C": "adult animals always prefer faces more than young animals.",
+    "D": "the preference may not depend only on social bonding or parental care."
+   },
+   "filler": "2"
+  },
+  "16.3": {
+   "body": "A collection mostly preserves poems from before an invasion, but some poems mention practices introduced afterward. Therefore, scholars infer that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the scribes knew nothing about the later culture.",
+    "B": "the collection likely includes both earlier material and later additions.",
+    "C": "the references must be coincidental.",
+    "D": "the collection could not contain any earlier material."
+   },
+   "filler": "3"
+  },
+  "16.4": {
+   "body": "A writer is remembered only as another author's inspiration, even though she published several works herself. That view ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "risks understating her own literary contributions.",
+    "B": "shows that biography is never useful.",
+    "C": "proves the other author wrote less than scholars think.",
+    "D": "means the two authors disliked each other."
+   },
+   "filler": "4"
+  },
+  "16.5": {
+   "body": "A theory ignores newly discovered evidence that directly bears on its central claim. As a result, the theory ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "is unrelated to future discoveries.",
+    "B": "remains insufficiently supported until it addresses that evidence.",
+    "C": "can be accepted without revision.",
+    "D": "becomes stronger because it is simpler."
+   },
+   "filler": "5"
+  },
+  "o17": {
+   "body": "Among social animals that care for their young, such as chickens, macaque monkeys, and humans, newborns appear to show an innate attraction to faces and face-like stimuli. Elisabetta Versace and her colleagues used an image of three black dots arranged in the shape of eyes and a nose or mouth to test whether this trait also occurs in Testudo tortoises, which live alone and do not engage in parental care. They found that tortoise hatchlings showed a significant preference for the image, suggesting that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "face-like stimuli are likely perceived as harmless by newborns of social species that practice parental care but as threatening by newborns of solitary species without parental care.",
+    "B": "researchers should not assume that an innate attraction to face-like stimuli is necessarily an adaptation related to social interaction or parental care.",
+    "C": "researchers can assume that the attraction to face-like stimuli that is seen in social species that practice parental care is learned rather than innate.",
+    "D": "newly hatched Testudo tortoises show a stronger preference for face-like stimuli than adult Testudo tortoises do."
+   },
+   "filler": null
+  },
+  "17.1": {
+   "body": "A study measured students' reasoning with puzzles that also required very different levels of hand-eye coordination. Therefore, the results ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "show that coordination is unrelated to test design.",
+    "B": "prove that all students reason equally well.",
+    "C": "should be applied to every academic subject.",
+    "D": "could mistake differences in motor skill for differences in reasoning."
+   },
+   "filler": "1"
+  },
+  "17.2": {
+   "body": "Researchers found face-like pattern preference in a solitary species. This suggests that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the preference may not depend only on social bonding or parental care.",
+    "B": "adult animals always prefer faces more than young animals.",
+    "C": "the solitary species learned the preference from parents.",
+    "D": "only social species can recognize patterns."
+   },
+   "filler": "2"
+  },
+  "17.3": {
+   "body": "A collection mostly preserves poems from before an invasion, but some poems mention practices introduced afterward. Therefore, scholars infer that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the scribes knew nothing about the later culture.",
+    "B": "the collection likely includes both earlier material and later additions.",
+    "C": "the collection could not contain any earlier material.",
+    "D": "the references must be coincidental."
+   },
+   "filler": "3"
+  },
+  "17.4": {
+   "body": "A writer is remembered only as another author's inspiration, even though she published several works herself. That view ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "proves the other author wrote less than scholars think.",
+    "B": "shows that biography is never useful.",
+    "C": "risks understating her own literary contributions.",
+    "D": "means the two authors disliked each other."
+   },
+   "filler": "4"
+  },
+  "17.5": {
+   "body": "A theory ignores newly discovered evidence that directly bears on its central claim. As a result, the theory ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "can be accepted without revision.",
+    "B": "is unrelated to future discoveries.",
+    "C": "becomes stronger because it is simpler.",
+    "D": "remains insufficiently supported until it addresses that evidence."
+   },
+   "filler": "5"
+  },
+  "o18": {
+   "body": "Compiled in the late 1500s largely through the efforts of Indigenous scribes, Cantares Mexicanos is the most important collection of poetry in Classical Nahuatl, the principal language of the Aztec Empire. The poems portray Aztec society before the occupation of the empire by the army of Spain, and marginal notes in Cantares Mexicanos indicate that much of the collection's content predates the initial invasion. Nonetheless, some of the poems contain inarguable references to beliefs and customs common in Spain during this era. Thus, some scholars have concluded that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "while its content largely predates the invasion, Cantares Mexicanos also contains additions made after the invasion.",
+    "B": "although those who compiled Cantares Mexicanos were fluent in Nahuatl, they had limited knowledge of the Spanish language.",
+    "C": "before the invasion by Spain, the poets of the Aztec Empire borrowed from the literary traditions of other societies.",
+    "D": "the references to beliefs and customs in Spain should be attributed to a coincidental resemblance between the societies of Spain and the Aztec Empire."
+   },
+   "filler": null
+  },
+  "18.1": {
+   "body": "A study measured students' reasoning with puzzles that also required very different levels of hand-eye coordination. Therefore, the results ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "show that coordination is unrelated to test design.",
+    "B": "should be applied to every academic subject.",
+    "C": "could mistake differences in motor skill for differences in reasoning.",
+    "D": "prove that all students reason equally well."
+   },
+   "filler": "1"
+  },
+  "18.2": {
+   "body": "Researchers found face-like pattern preference in a solitary species. This suggests that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the preference may not depend only on social bonding or parental care.",
+    "B": "adult animals always prefer faces more than young animals.",
+    "C": "the solitary species learned the preference from parents.",
+    "D": "only social species can recognize patterns."
+   },
+   "filler": "2"
+  },
+  "18.3": {
+   "body": "A collection mostly preserves poems from before an invasion, but some poems mention practices introduced afterward. Therefore, scholars infer that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the scribes knew nothing about the later culture.",
+    "B": "the collection could not contain any earlier material.",
+    "C": "the references must be coincidental.",
+    "D": "the collection likely includes both earlier material and later additions."
+   },
+   "filler": "3"
+  },
+  "18.4": {
+   "body": "A writer is remembered only as another author's inspiration, even though she published several works herself. That view ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "proves the other author wrote less than scholars think.",
+    "B": "shows that biography is never useful.",
+    "C": "risks understating her own literary contributions.",
+    "D": "means the two authors disliked each other."
+   },
+   "filler": "4"
+  },
+  "18.5": {
+   "body": "A theory ignores newly discovered evidence that directly bears on its central claim. As a result, the theory ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "becomes stronger because it is simpler.",
+    "B": "remains insufficiently supported until it addresses that evidence.",
+    "C": "can be accepted without revision.",
+    "D": "is unrelated to future discoveries."
+   },
+   "filler": "5"
+  },
+  "o19": {
+   "body": "In a study of the cognitive abilities of white-faced capuchin monkeys (Cebus imitator), researchers neglected to control for the physical difficulty of the tasks they used to evaluate the monkeys. The cognitive abilities of monkeys given problems requiring little dexterity, such as sliding a panel to retrieve food, were judged by the same criteria as were those of monkeys given physically demanding problems, such as unscrewing a bottle and inserting a straw. The results of the study, therefore, ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "could suggest that there are differences in cognitive ability among the monkeys even though such differences may not actually exist.",
+    "B": "are useful for identifying tasks that the monkeys lack the cognitive capacity to perform but not for identifying tasks that the monkeys can perform.",
+    "C": "should not be taken as indicative of the cognitive abilities of any monkey species other than C. imitator.",
+    "D": "reveal more about the monkeys' cognitive abilities when solving artificial problems than when solving problems encountered in the wild."
+   },
+   "filler": null
+  },
+  "19.1": {
+   "body": "A study measured students' reasoning with puzzles that also required very different levels of hand-eye coordination. Therefore, the results ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "show that coordination is unrelated to test design.",
+    "B": "prove that all students reason equally well.",
+    "C": "should be applied to every academic subject.",
+    "D": "could mistake differences in motor skill for differences in reasoning."
+   },
+   "filler": "1"
+  },
+  "19.2": {
+   "body": "Researchers found face-like pattern preference in a solitary species. This suggests that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "adult animals always prefer faces more than young animals.",
+    "B": "only social species can recognize patterns.",
+    "C": "the preference may not depend only on social bonding or parental care.",
+    "D": "the solitary species learned the preference from parents."
+   },
+   "filler": "2"
+  },
+  "19.3": {
+   "body": "A collection mostly preserves poems from before an invasion, but some poems mention practices introduced afterward. Therefore, scholars infer that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the collection could not contain any earlier material.",
+    "B": "the collection likely includes both earlier material and later additions.",
+    "C": "the scribes knew nothing about the later culture.",
+    "D": "the references must be coincidental."
+   },
+   "filler": "3"
+  },
+  "19.4": {
+   "body": "A writer is remembered only as another author's inspiration, even though she published several works herself. That view ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "means the two authors disliked each other.",
+    "B": "proves the other author wrote less than scholars think.",
+    "C": "risks understating her own literary contributions.",
+    "D": "shows that biography is never useful."
+   },
+   "filler": "4"
+  },
+  "19.5": {
+   "body": "A theory ignores newly discovered evidence that directly bears on its central claim. As a result, the theory ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "remains insufficiently supported until it addresses that evidence.",
+    "B": "becomes stronger because it is simpler.",
+    "C": "is unrelated to future discoveries.",
+    "D": "can be accepted without revision."
+   },
+   "filler": "5"
+  },
+  "o20": {
+   "body": "To survive when water is scarce, embryos inside African turquoise killifish eggs ______ a dormant state known as diapause. In this state, embryonic development is paused for as long as two years - longer than the life span of an adult killifish.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "enter",
+    "B": "to enter",
+    "C": "having entered",
+    "D": "entering"
+   },
+   "filler": null
+  },
+  "20.1": {
+   "body": "The larvae of several desert insects ______ a dormant state when rainfall is delayed.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "having entered",
+    "B": "to enter",
+    "C": "entering",
+    "D": "enter"
+   },
+   "filler": "1"
+  },
+  "20.2": {
+   "body": "By the time the archive reopened in 2010, the staff ______ more than two million documents.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "will digitize",
+    "B": "has digitized",
+    "C": "had digitized",
+    "D": "digitizes"
+   },
+   "filler": "2"
+  },
+  "20.3": {
+   "body": "The mineral stabilizes the alloy's structure. It ______ in small amounts during cooling.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "forms",
+    "B": "forming",
+    "C": "to form",
+    "D": "having formed"
+   },
+   "filler": "3"
+  },
+  "20.4": {
+   "body": "The novel's narrator ______ the events in present tense, a choice that gives the story immediacy.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "had described",
+    "B": "describes",
+    "C": "described",
+    "D": "will describe"
+   },
+   "filler": "4"
+  },
+  "20.5": {
+   "body": "The trail across the ______ surface records the boulders' movement.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "lakebed",
+    "B": "lakebed's",
+    "C": "lakebeds'",
+    "D": "lakebeds"
+   },
+   "filler": "5"
+  },
+  "o21": {
+   "body": "Formed in 1967 to foster political and economic stability within the Asia-Pacific region, the Association of Southeast Asian Nations was originally made up of five members: Thailand, the Philippines, Singapore, Malaysia, and Indonesia. By the end of the 1990s, the organization ______ its initial membership.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "has doubled",
+    "B": "had doubled",
+    "C": "doubles",
+    "D": "will double"
+   },
+   "filler": null
+  },
+  "21.1": {
+   "body": "The larvae of several desert insects ______ a dormant state when rainfall is delayed.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "enter",
+    "B": "having entered",
+    "C": "entering",
+    "D": "to enter"
+   },
+   "filler": "1"
+  },
+  "21.2": {
+   "body": "By the time the archive reopened in 2010, the staff ______ more than two million documents.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "had digitized",
+    "B": "digitizes",
+    "C": "will digitize",
+    "D": "has digitized"
+   },
+   "filler": "2"
+  },
+  "21.3": {
+   "body": "The mineral stabilizes the alloy's structure. It ______ in small amounts during cooling.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "forming",
+    "B": "having formed",
+    "C": "forms",
+    "D": "to form"
+   },
+   "filler": "3"
+  },
+  "21.4": {
+   "body": "The novel's narrator ______ the events in present tense, a choice that gives the story immediacy.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "had described",
+    "B": "describes",
+    "C": "will describe",
+    "D": "described"
+   },
+   "filler": "4"
+  },
+  "21.5": {
+   "body": "The trail across the ______ surface records the boulders' movement.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "lakebed",
+    "B": "lakebeds",
+    "C": "lakebeds'",
+    "D": "lakebed's"
+   },
+   "filler": "5"
+  },
+  "o22": {
+   "body": "The intense pressure found in the deep ocean can affect the structure of proteins in fish's cells, distorting the proteins' shape. The chemical trimethylamine N-oxide (TMAO) counters this effect, ensuring that proteins retain their original ______ is found in high concentrations in the cells of the deepest-dwelling fish.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "configurations. TMAO",
+    "B": "configurations TMAO",
+    "C": "configurations, TMAO",
+    "D": "configurations and TMAO"
+   },
+   "filler": null
+  },
+  "22.1": {
+   "body": "The larvae of several desert insects ______ a dormant state when rainfall is delayed.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "entering",
+    "B": "enter",
+    "C": "having entered",
+    "D": "to enter"
+   },
+   "filler": "1"
+  },
+  "22.2": {
+   "body": "By the time the archive reopened in 2010, the staff ______ more than two million documents.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "will digitize",
+    "B": "digitizes",
+    "C": "has digitized",
+    "D": "had digitized"
+   },
+   "filler": "2"
+  },
+  "22.3": {
+   "body": "The mineral stabilizes the alloy's structure. It ______ in small amounts during cooling.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "to form",
+    "B": "forming",
+    "C": "forms",
+    "D": "having formed"
+   },
+   "filler": "3"
+  },
+  "22.4": {
+   "body": "The novel's narrator ______ the events in present tense, a choice that gives the story immediacy.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "had described",
+    "B": "described",
+    "C": "describes",
+    "D": "will describe"
+   },
+   "filler": "4"
+  },
+  "22.5": {
+   "body": "The trail across the ______ surface records the boulders' movement.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "lakebed's",
+    "B": "lakebeds'",
+    "C": "lakebeds",
+    "D": "lakebed"
+   },
+   "filler": "5"
+  },
+  "o23": {
+   "body": "Food and the sensation of taste are central to Monique Truong's novels. In The Book of Salt, for example, the exiled character of Binh connects to his native Saigon through the food he prepares, while in Bitter in the Mouth, the character of Linda ______ a form of synesthesia whereby the words she hears evoke tastes.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "experienced",
+    "B": "had experienced",
+    "C": "experiences",
+    "D": "will be experiencing"
+   },
+   "filler": null
+  },
+  "23.1": {
+   "body": "The larvae of several desert insects ______ a dormant state when rainfall is delayed.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "to enter",
+    "B": "enter",
+    "C": "having entered",
+    "D": "entering"
+   },
+   "filler": "1"
+  },
+  "23.2": {
+   "body": "By the time the archive reopened in 2010, the staff ______ more than two million documents.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "digitizes",
+    "B": "has digitized",
+    "C": "will digitize",
+    "D": "had digitized"
+   },
+   "filler": "2"
+  },
+  "23.3": {
+   "body": "The mineral stabilizes the alloy's structure. It ______ in small amounts during cooling.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "forms",
+    "B": "to form",
+    "C": "having formed",
+    "D": "forming"
+   },
+   "filler": "3"
+  },
+  "23.4": {
+   "body": "The novel's narrator ______ the events in present tense, a choice that gives the story immediacy.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "describes",
+    "B": "had described",
+    "C": "described",
+    "D": "will describe"
+   },
+   "filler": "4"
+  },
+  "23.5": {
+   "body": "The trail across the ______ surface records the boulders' movement.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "lakebeds'",
+    "B": "lakebeds",
+    "C": "lakebed's",
+    "D": "lakebed"
+   },
+   "filler": "5"
+  },
+  "o24": {
+   "body": "Inventor John Friedman created a prototype of the first flexible straw by inserting a screw into a paper straw and, using dental floss, binding the straw tightly around the ______ When the floss and screw were removed, the resulting corrugations in the paper allowed the straw to bend easily over the edge of a glass.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "screw's thread's.",
+    "B": "screws' threads.",
+    "C": "screw's threads.",
+    "D": "screws threads'."
+   },
+   "filler": null
+  },
+  "24.1": {
+   "body": "The larvae of several desert insects ______ a dormant state when rainfall is delayed.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "entering",
+    "B": "enter",
+    "C": "having entered",
+    "D": "to enter"
+   },
+   "filler": "1"
+  },
+  "24.2": {
+   "body": "By the time the archive reopened in 2010, the staff ______ more than two million documents.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "has digitized",
+    "B": "digitizes",
+    "C": "will digitize",
+    "D": "had digitized"
+   },
+   "filler": "2"
+  },
+  "24.3": {
+   "body": "The mineral stabilizes the alloy's structure. It ______ in small amounts during cooling.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "forming",
+    "B": "to form",
+    "C": "forms",
+    "D": "having formed"
+   },
+   "filler": "3"
+  },
+  "24.4": {
+   "body": "The novel's narrator ______ the events in present tense, a choice that gives the story immediacy.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "describes",
+    "B": "will describe",
+    "C": "had described",
+    "D": "described"
+   },
+   "filler": "4"
+  },
+  "24.5": {
+   "body": "The trail across the ______ surface records the boulders' movement.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "lakebeds",
+    "B": "lakebed's",
+    "C": "lakebeds'",
+    "D": "lakebed"
+   },
+   "filler": "5"
+  },
+  "o25": {
+   "body": "In her analysis of Edith Wharton's The House of Mirth (1905), scholar Candace Waid observes that the novel depicts the upper classes of New York society as \"consumed by the appetite of a soulless ______ an apt assessment given that The House of Mirth is set during the Gilded Age, a period marked by rapid industrialization, economic greed, and widening wealth disparities.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "materialism\"; and",
+    "B": "materialism\" and",
+    "C": "materialism,\"",
+    "D": "materialism\""
+   },
+   "filler": null
+  },
+  "25.1": {
+   "body": "The larvae of several desert insects ______ a dormant state when rainfall is delayed.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "to enter",
+    "B": "enter",
+    "C": "having entered",
+    "D": "entering"
+   },
+   "filler": "1"
+  },
+  "25.2": {
+   "body": "By the time the archive reopened in 2010, the staff ______ more than two million documents.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "will digitize",
+    "B": "digitizes",
+    "C": "has digitized",
+    "D": "had digitized"
+   },
+   "filler": "2"
+  },
+  "25.3": {
+   "body": "The mineral stabilizes the alloy's structure. It ______ in small amounts during cooling.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "having formed",
+    "B": "forming",
+    "C": "forms",
+    "D": "to form"
+   },
+   "filler": "3"
+  },
+  "25.4": {
+   "body": "The novel's narrator ______ the events in present tense, a choice that gives the story immediacy.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "had described",
+    "B": "will describe",
+    "C": "described",
+    "D": "describes"
+   },
+   "filler": "4"
+  },
+  "25.5": {
+   "body": "The trail across the ______ surface records the boulders' movement.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "lakebed's",
+    "B": "lakebeds'",
+    "C": "lakebed",
+    "D": "lakebeds"
+   },
+   "filler": "5"
+  },
+  "o26": {
+   "body": "To humans, it does not appear that the golden orb-weaver spider uses camouflage to capture its ______ the brightly colored arachnid seems to wait conspicuously in the center of its large circular web for insects to approach. Researcher Po Peng of the University of Melbourne has explained that the spider's distinctive coloration may in fact be part of its appeal.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "prey, rather,",
+    "B": "prey rather,",
+    "C": "prey, rather;",
+    "D": "prey; rather,"
+   },
+   "filler": null
+  },
+  "26.1": {
+   "body": "The larvae of several desert insects ______ a dormant state when rainfall is delayed.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "to enter",
+    "B": "having entered",
+    "C": "enter",
+    "D": "entering"
+   },
+   "filler": "1"
+  },
+  "26.2": {
+   "body": "By the time the archive reopened in 2010, the staff ______ more than two million documents.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "had digitized",
+    "B": "will digitize",
+    "C": "digitizes",
+    "D": "has digitized"
+   },
+   "filler": "2"
+  },
+  "26.3": {
+   "body": "The mineral stabilizes the alloy's structure. It ______ in small amounts during cooling.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "to form",
+    "B": "forms",
+    "C": "having formed",
+    "D": "forming"
+   },
+   "filler": "3"
+  },
+  "26.4": {
+   "body": "The novel's narrator ______ the events in present tense, a choice that gives the story immediacy.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "describes",
+    "B": "will describe",
+    "C": "described",
+    "D": "had described"
+   },
+   "filler": "4"
+  },
+  "26.5": {
+   "body": "The trail across the ______ surface records the boulders' movement.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "lakebeds'",
+    "B": "lakebed",
+    "C": "lakebeds",
+    "D": "lakebed's"
+   },
+   "filler": "5"
+  },
+  "o27": {
+   "body": "In Death Valley National Park's Racetrack Playa, a flat, dry lakebed, are 162 rocks - some weighing less than a pound but others almost 700 pounds - that move periodically from place to place, seemingly of their own volition. Racetrack-like trails in the ______ mysterious migration.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "playas sediment mark the rock's",
+    "B": "playa's sediment mark the rocks",
+    "C": "playa's sediment mark the rocks'",
+    "D": "playas' sediment mark the rocks'"
+   },
+   "filler": null
+  },
+  "27.1": {
+   "body": "The larvae of several desert insects ______ a dormant state when rainfall is delayed.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "to enter",
+    "B": "having entered",
+    "C": "entering",
+    "D": "enter"
+   },
+   "filler": "1"
+  },
+  "27.2": {
+   "body": "By the time the archive reopened in 2010, the staff ______ more than two million documents.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "has digitized",
+    "B": "had digitized",
+    "C": "digitizes",
+    "D": "will digitize"
+   },
+   "filler": "2"
+  },
+  "27.3": {
+   "body": "The mineral stabilizes the alloy's structure. It ______ in small amounts during cooling.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "to form",
+    "B": "having formed",
+    "C": "forms",
+    "D": "forming"
+   },
+   "filler": "3"
+  },
+  "27.4": {
+   "body": "The novel's narrator ______ the events in present tense, a choice that gives the story immediacy.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "describes",
+    "B": "described",
+    "C": "had described",
+    "D": "will describe"
+   },
+   "filler": "4"
+  },
+  "27.5": {
+   "body": "The trail across the ______ surface records the boulders' movement.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "lakebed",
+    "B": "lakebed's",
+    "C": "lakebeds'",
+    "D": "lakebeds"
+   },
+   "filler": "5"
+  },
+  "o28": {
+   "body": "In crafting her fantasy fiction, Nigerian-born British author Helen Oyeyemi has drawn inspiration from the classic nineteenth-century fairy tales of the Brothers Grimm. Her 2014 novel Boy, Snow, Bird, for instance, is a complex retelling of the story of Snow White, while her 2019 novel ______ offers a delicious twist on the classic tale of Hansel and Gretel.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "Gingerbread -",
+    "B": "Gingerbread,",
+    "C": "Gingerbread",
+    "D": "Gingerbread:"
+   },
+   "filler": null
+  },
+  "28.1": {
+   "body": "The larvae of several desert insects ______ a dormant state when rainfall is delayed.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "to enter",
+    "B": "having entered",
+    "C": "enter",
+    "D": "entering"
+   },
+   "filler": "1"
+  },
+  "28.2": {
+   "body": "By the time the archive reopened in 2010, the staff ______ more than two million documents.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "digitizes",
+    "B": "will digitize",
+    "C": "has digitized",
+    "D": "had digitized"
+   },
+   "filler": "2"
+  },
+  "28.3": {
+   "body": "The mineral stabilizes the alloy's structure. It ______ in small amounts during cooling.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "forms",
+    "B": "having formed",
+    "C": "to form",
+    "D": "forming"
+   },
+   "filler": "3"
+  },
+  "28.4": {
+   "body": "The novel's narrator ______ the events in present tense, a choice that gives the story immediacy.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "describes",
+    "B": "will describe",
+    "C": "had described",
+    "D": "described"
+   },
+   "filler": "4"
+  },
+  "28.5": {
+   "body": "The trail across the ______ surface records the boulders' movement.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "lakebeds",
+    "B": "lakebed's",
+    "C": "lakebeds'",
+    "D": "lakebed"
+   },
+   "filler": "5"
+  },
+  "o29": {
+   "body": "While researching a topic, a student has taken notes about NASA rovers and microprobes. The notes say that NASA uses wheeled rovers to explore Mars, but rovers cannot explore regions inaccessible to wheeled vehicles and are heavy, making them difficult to land. Microprobes, robotic probes weighing as little as 50 milligrams, could be deployed virtually anywhere on Mars and have been proposed as an alternative to rovers.\n\nThe student wants to explain an advantage of microprobes. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "stem": null,
+   "opts": {
+    "A": "Despite being heavy, NASA's rovers can land successfully on the surface of Mars.",
+    "B": "Microprobes, which weigh as little as 50 milligrams, could explore areas of Mars that are inaccessible to NASA's heavy, wheeled rovers.",
+    "C": "NASA currently uses its rovers on Mars, but microprobes have been proposed as an alternative.",
+    "D": "Though they are different sizes, both microprobes and rovers can be used to explore the surface of Mars."
+   },
+   "filler": null
+  },
+  "29.1": {
+   "body": "Notes: A lightweight aerial drone can cross ravines; wheeled survey robots cannot cross ravines; the drone weighs less than 100 grams; engineers propose drones for terrain that blocks wheels.\n\nGoal: explain an advantage of drones.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Engineers use several kinds of robots.",
+    "B": "Lightweight drones could survey terrain inaccessible to heavier wheeled robots.",
+    "C": "Drones and robots can both collect data.",
+    "D": "Some robots have wheels."
+   },
+   "filler": "1"
+  },
+  "29.2": {
+   "body": "Notes: A novel was written by a Nobel Prize winner; it is set during colonial rule; critics praise its historical scope; the audience does not know the book.\n\nGoal: introduce the novel and author.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The novel has a historical setting.",
+    "B": "The author won a Nobel Prize.",
+    "C": "Critics have discussed the book.",
+    "D": "The praised historical novel was written by a Nobel Prize-winning author and explores life under colonial rule."
+   },
+   "filler": "2"
+  },
+  "29.3": {
+   "body": "Notes: City A has fewer residents than City B but contains a larger share of its country's population. Goal: emphasize relative population size.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The countries have different populations.",
+    "B": "City B has many residents.",
+    "C": "Although City B has more residents, City A represents a larger share of its national population.",
+    "D": "City A and City B are capitals."
+   },
+   "filler": "3"
+  },
+  "29.4": {
+   "body": "Notes: Scholars collected texts from several regions; they translated them; they copied them onto durable paper; the goal was preservation.\n\nGoal: explain how knowledge was preserved.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Scholars preserved knowledge by collecting texts, translating them, and copying them onto paper for study and sharing.",
+    "B": "The library was founded long ago.",
+    "C": "Paper technology was important.",
+    "D": "Some texts came from famous writers."
+   },
+   "filler": "4"
+  },
+  "29.5": {
+   "body": "Notes: Researchers used statistical patterns to investigate who wrote disputed song passages.\n\nGoal: generalize about the kind of study.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Several songs have shared credit.",
+    "B": "The researchers studied a famous band.",
+    "C": "One songwriter probably wrote one verse.",
+    "D": "Statistical methods can be used to investigate disputed authorship in music."
+   },
+   "filler": "5"
+  },
+  "o30": {
+   "body": "While researching a topic, a student has taken notes about Abdulrazak Gurnah and Paradise. The notes say that Gurnah was awarded the 2021 Nobel Prize in Literature, was born in Zanzibar in East Africa, and currently lives in the United Kingdom. Many readers have singled out Gurnah's 1994 book Paradise for praise. Paradise is a historical novel about events that occurred in colonial East Africa.\n\nThe student wants to introduce Paradise to an audience unfamiliar with the novel and its author. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "stem": null,
+   "opts": {
+    "A": "Abdulrazak Gurnah, who wrote Paradise and later was awarded the Nobel Prize in Literature, was born in Zanzibar in East Africa and currently lives in the United Kingdom.",
+    "B": "Many readers have singled out Abdulrazak Gurnah's 1994 book Paradise, a historical novel about colonial East Africa, for praise.",
+    "C": "A much-praised historical novel about colonial East Africa, Paradise (1994) was written by Abdulrazak Gurnah, winner of the 2021 Nobel Prize in Literature.",
+    "D": "Paradise is a historical novel about events that occurred in colonial East Africa, Abdulrazak Gurnah's homeland."
+   },
+   "filler": null
+  },
+  "30.1": {
+   "body": "Notes: A lightweight aerial drone can cross ravines; wheeled survey robots cannot cross ravines; the drone weighs less than 100 grams; engineers propose drones for terrain that blocks wheels.\n\nGoal: explain an advantage of drones.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Drones and robots can both collect data.",
+    "B": "Lightweight drones could survey terrain inaccessible to heavier wheeled robots.",
+    "C": "Engineers use several kinds of robots.",
+    "D": "Some robots have wheels."
+   },
+   "filler": "1"
+  },
+  "30.2": {
+   "body": "Notes: A novel was written by a Nobel Prize winner; it is set during colonial rule; critics praise its historical scope; the audience does not know the book.\n\nGoal: introduce the novel and author.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Critics have discussed the book.",
+    "B": "The novel has a historical setting.",
+    "C": "The author won a Nobel Prize.",
+    "D": "The praised historical novel was written by a Nobel Prize-winning author and explores life under colonial rule."
+   },
+   "filler": "2"
+  },
+  "30.3": {
+   "body": "Notes: City A has fewer residents than City B but contains a larger share of its country's population. Goal: emphasize relative population size.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Although City B has more residents, City A represents a larger share of its national population.",
+    "B": "The countries have different populations.",
+    "C": "City A and City B are capitals.",
+    "D": "City B has many residents."
+   },
+   "filler": "3"
+  },
+  "30.4": {
+   "body": "Notes: Scholars collected texts from several regions; they translated them; they copied them onto durable paper; the goal was preservation.\n\nGoal: explain how knowledge was preserved.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Scholars preserved knowledge by collecting texts, translating them, and copying them onto paper for study and sharing.",
+    "B": "Some texts came from famous writers.",
+    "C": "The library was founded long ago.",
+    "D": "Paper technology was important."
+   },
+   "filler": "4"
+  },
+  "30.5": {
+   "body": "Notes: Researchers used statistical patterns to investigate who wrote disputed song passages.\n\nGoal: generalize about the kind of study.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The researchers studied a famous band.",
+    "B": "One songwriter probably wrote one verse.",
+    "C": "Statistical methods can be used to investigate disputed authorship in music.",
+    "D": "Several songs have shared credit."
+   },
+   "filler": "5"
+  },
+  "o31": {
+   "body": "While researching a topic, a student has taken notes about Ulaanbaatar and Hanoi. Ulaanbaatar is the capital of Mongolia, has a population of 907,802, and contains 31.98 percent of Mongolia's population. Hanoi is the capital of Vietnam, has a population of 7,781,631, and contains 8.14 percent of Vietnam's population.",
+   "stem": "Which choice most effectively uses information from the given sentences to emphasize the relative sizes of the two capitals' populations?",
+   "opts": {
+    "A": "Mongolia's capital is Ulaanbaatar, which has 907,802 people, and Vietnam's capital is Hanoi, which has 7,781,631 people.",
+    "B": "The populations of the capitals of Mongolia and Vietnam are 907,802 (Ulaanbaatar) and 7,781,631 (Hanoi), respectively.",
+    "C": "Even though Hanoi (population 7,781,631) is larger than Ulaanbaatar (population 907,802), Ulaanbaatar accounts for more of its country's population.",
+    "D": "Comparing Vietnam and Mongolia, 7,781,631 is 8.14 percent of Vietnam's population, and 907,802 is 31.98 percent of Mongolia's."
+   },
+   "filler": null
+  },
+  "31.1": {
+   "body": "Notes: A lightweight aerial drone can cross ravines; wheeled survey robots cannot cross ravines; the drone weighs less than 100 grams; engineers propose drones for terrain that blocks wheels.\n\nGoal: explain an advantage of drones.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Engineers use several kinds of robots.",
+    "B": "Some robots have wheels.",
+    "C": "Lightweight drones could survey terrain inaccessible to heavier wheeled robots.",
+    "D": "Drones and robots can both collect data."
+   },
+   "filler": "1"
+  },
+  "31.2": {
+   "body": "Notes: A novel was written by a Nobel Prize winner; it is set during colonial rule; critics praise its historical scope; the audience does not know the book.\n\nGoal: introduce the novel and author.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The novel has a historical setting.",
+    "B": "The author won a Nobel Prize.",
+    "C": "Critics have discussed the book.",
+    "D": "The praised historical novel was written by a Nobel Prize-winning author and explores life under colonial rule."
+   },
+   "filler": "2"
+  },
+  "31.3": {
+   "body": "Notes: City A has fewer residents than City B but contains a larger share of its country's population. Goal: emphasize relative population size.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The countries have different populations.",
+    "B": "Although City B has more residents, City A represents a larger share of its national population.",
+    "C": "City B has many residents.",
+    "D": "City A and City B are capitals."
+   },
+   "filler": "3"
+  },
+  "31.4": {
+   "body": "Notes: Scholars collected texts from several regions; they translated them; they copied them onto durable paper; the goal was preservation.\n\nGoal: explain how knowledge was preserved.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Some texts came from famous writers.",
+    "B": "The library was founded long ago.",
+    "C": "Paper technology was important.",
+    "D": "Scholars preserved knowledge by collecting texts, translating them, and copying them onto paper for study and sharing."
+   },
+   "filler": "4"
+  },
+  "31.5": {
+   "body": "Notes: Researchers used statistical patterns to investigate who wrote disputed song passages.\n\nGoal: generalize about the kind of study.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Statistical methods can be used to investigate disputed authorship in music.",
+    "B": "The researchers studied a famous band.",
+    "C": "Several songs have shared credit.",
+    "D": "One songwriter probably wrote one verse."
+   },
+   "filler": "5"
+  },
+  "o32": {
+   "body": "While researching a topic, a student has taken notes about the House of Wisdom in Baghdad, Iraq. The notes say it was founded in the eighth century with the goal of preserving all the world's knowledge. Scholars collected ancient and contemporary texts from Greece, India, and elsewhere and translated them into Arabic. Writings included those of Aristotle and Aryabhata. The House of Wisdom used Chinese papermaking technology to create paper versions to be studied and shared.\n\nThe student wants to explain how the House of Wisdom preserved the world's knowledge. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "stem": null,
+   "opts": {
+    "A": "The House of Wisdom was known for bringing together knowledge from around the world, including from Greece, India, and China.",
+    "B": "Founded in Iraq in the eighth century, the House of Wisdom employed many scholars as translators.",
+    "C": "Writings from the Greek philosopher Aristotle and the Indian mathematician Aryabhata were preserved at the House of Wisdom.",
+    "D": "The House of Wisdom collected writings from different countries and created paper versions in Arabic to be studied and shared."
+   },
+   "filler": null
+  },
+  "32.1": {
+   "body": "Notes: A lightweight aerial drone can cross ravines; wheeled survey robots cannot cross ravines; the drone weighs less than 100 grams; engineers propose drones for terrain that blocks wheels.\n\nGoal: explain an advantage of drones.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Lightweight drones could survey terrain inaccessible to heavier wheeled robots.",
+    "B": "Some robots have wheels.",
+    "C": "Drones and robots can both collect data.",
+    "D": "Engineers use several kinds of robots."
+   },
+   "filler": "1"
+  },
+  "32.2": {
+   "body": "Notes: A novel was written by a Nobel Prize winner; it is set during colonial rule; critics praise its historical scope; the audience does not know the book.\n\nGoal: introduce the novel and author.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The novel has a historical setting.",
+    "B": "Critics have discussed the book.",
+    "C": "The praised historical novel was written by a Nobel Prize-winning author and explores life under colonial rule.",
+    "D": "The author won a Nobel Prize."
+   },
+   "filler": "2"
+  },
+  "32.3": {
+   "body": "Notes: City A has fewer residents than City B but contains a larger share of its country's population. Goal: emphasize relative population size.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Although City B has more residents, City A represents a larger share of its national population.",
+    "B": "The countries have different populations.",
+    "C": "City B has many residents.",
+    "D": "City A and City B are capitals."
+   },
+   "filler": "3"
+  },
+  "32.4": {
+   "body": "Notes: Scholars collected texts from several regions; they translated them; they copied them onto durable paper; the goal was preservation.\n\nGoal: explain how knowledge was preserved.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The library was founded long ago.",
+    "B": "Scholars preserved knowledge by collecting texts, translating them, and copying them onto paper for study and sharing.",
+    "C": "Paper technology was important.",
+    "D": "Some texts came from famous writers."
+   },
+   "filler": "4"
+  },
+  "32.5": {
+   "body": "Notes: Researchers used statistical patterns to investigate who wrote disputed song passages.\n\nGoal: generalize about the kind of study.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The researchers studied a famous band.",
+    "B": "One songwriter probably wrote one verse.",
+    "C": "Several songs have shared credit.",
+    "D": "Statistical methods can be used to investigate disputed authorship in music."
+   },
+   "filler": "5"
+  },
+  "o33": {
+   "body": "While researching a topic, a student has taken notes about Beatles songwriting credits. British musicians John Lennon and Paul McCartney shared writing credit for numerous Beatles songs, though many Lennon-McCartney songs were actually written by either Lennon or McCartney, not both. The exact authorship of specific parts of many Beatles songs, such as the verse for \"In My Life,\" is disputed. Mark Glickman, Jason Brown, and Ryan Song used statistical methods to analyze the musical content of Beatles songs and concluded that there is an 18.9% probability that McCartney wrote the verse for \"In My Life,\" stating that the verse is \"consistent with Lennon's songwriting style.\"\n\nThe student wants to make a generalization about the kind of study conducted by Glickman, Brown, and Song. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "stem": null,
+   "opts": {
+    "A": "Based on statistical analysis, Glickman, Brown, and Song claim that John Lennon wrote the verse of \"In My Life.\"",
+    "B": "There is only an 18.9% probability that Paul McCartney wrote the verse for \"In My Life\"; John Lennon is the more likely author.",
+    "C": "It is likely that John Lennon, not Paul McCartney, wrote the verse for \"In My Life.\"",
+    "D": "Researchers have used statistical methods to address questions of authorship within the field of music."
+   },
+   "filler": null
+  },
+  "33.1": {
+   "body": "Notes: A lightweight aerial drone can cross ravines; wheeled survey robots cannot cross ravines; the drone weighs less than 100 grams; engineers propose drones for terrain that blocks wheels.\n\nGoal: explain an advantage of drones.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Engineers use several kinds of robots.",
+    "B": "Some robots have wheels.",
+    "C": "Lightweight drones could survey terrain inaccessible to heavier wheeled robots.",
+    "D": "Drones and robots can both collect data."
+   },
+   "filler": "1"
+  },
+  "33.2": {
+   "body": "Notes: A novel was written by a Nobel Prize winner; it is set during colonial rule; critics praise its historical scope; the audience does not know the book.\n\nGoal: introduce the novel and author.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Critics have discussed the book.",
+    "B": "The novel has a historical setting.",
+    "C": "The praised historical novel was written by a Nobel Prize-winning author and explores life under colonial rule.",
+    "D": "The author won a Nobel Prize."
+   },
+   "filler": "2"
+  },
+  "33.3": {
+   "body": "Notes: City A has fewer residents than City B but contains a larger share of its country's population. Goal: emphasize relative population size.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "City B has many residents.",
+    "B": "The countries have different populations.",
+    "C": "City A and City B are capitals.",
+    "D": "Although City B has more residents, City A represents a larger share of its national population."
+   },
+   "filler": "3"
+  },
+  "33.4": {
+   "body": "Notes: Scholars collected texts from several regions; they translated them; they copied them onto durable paper; the goal was preservation.\n\nGoal: explain how knowledge was preserved.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The library was founded long ago.",
+    "B": "Scholars preserved knowledge by collecting texts, translating them, and copying them onto paper for study and sharing.",
+    "C": "Paper technology was important.",
+    "D": "Some texts came from famous writers."
+   },
+   "filler": "4"
+  },
+  "33.5": {
+   "body": "Notes: Researchers used statistical patterns to investigate who wrote disputed song passages.\n\nGoal: generalize about the kind of study.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Statistical methods can be used to investigate disputed authorship in music.",
+    "B": "One songwriter probably wrote one verse.",
+    "C": "The researchers studied a famous band.",
+    "D": "Several songs have shared credit."
+   },
+   "filler": "5"
+  }
+ }
+}

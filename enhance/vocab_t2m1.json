@@ -1,0 +1,602 @@
+{
+ "abrupt": {
+  "pos": "adj.",
+  "en": "sudden and unexpected",
+  "zh": "突然的；意外的；唐突的"
+ },
+ "accept": {
+  "pos": "v.",
+  "en": "to agree that something is true or correct",
+  "zh": "接受；承認；認可"
+ },
+ "acknowledge": {
+  "pos": "v.",
+  "en": "to admit or accept that something is true or exists",
+  "zh": "承認；認可；確認"
+ },
+ "admit": {
+  "pos": "v.",
+  "en": "to agree, often unwillingly, that something is true",
+  "zh": "承認；坦承"
+ },
+ "ambiguous": {
+  "pos": "adj.",
+  "en": "having more than one possible meaning; unclear",
+  "zh": "模糊的；含糊不清的"
+ },
+ "anonymous": {
+  "pos": "adj.",
+  "en": "made or done by someone whose name is not known",
+  "zh": "匿名的；不具名的"
+ },
+ "appoint": {
+  "pos": "v.",
+  "en": "to officially choose someone for a job or position",
+  "zh": "任命；指派"
+ },
+ "balanced": {
+  "pos": "adj.",
+  "en": "giving fair and equal attention to different sides or parts",
+  "zh": "均衡的；平衡的；公允的"
+ },
+ "catastrophic": {
+  "pos": "adj.",
+  "en": "causing great damage or suffering",
+  "zh": "災難性的；毀滅性的"
+ },
+ "commonplace": {
+  "pos": "adj.",
+  "en": "ordinary and not unusual or interesting",
+  "zh": "平凡的；司空見慣的"
+ },
+ "compelling": {
+  "pos": "adj.",
+  "en": "very convincing or holding your attention strongly",
+  "zh": "令人信服的；引人入勝的"
+ },
+ "complex": {
+  "pos": "adj.",
+  "en": "made of many connected parts; difficult to understand",
+  "zh": "複雜的；錯綜的"
+ },
+ "compose": {
+  "pos": "v.",
+  "en": "to write or create something such as music or a poem; to make up",
+  "zh": "創作；組成；構成"
+ },
+ "comprehensive": {
+  "pos": "adj.",
+  "en": "including all or nearly all parts or details",
+  "zh": "全面的；廣泛的；綜合的"
+ },
+ "conceal": {
+  "pos": "v.",
+  "en": "to hide something or keep it secret",
+  "zh": "隱藏；隱瞞"
+ },
+ "concealed": {
+  "pos": "adj.",
+  "en": "hidden from view or kept secret",
+  "zh": "隱藏的；隱蔽的"
+ },
+ "concede": {
+  "pos": "v.",
+  "en": "to admit, often reluctantly, that something is true",
+  "zh": "（勉強）承認；讓步"
+ },
+ "consequential": {
+  "pos": "adj.",
+  "en": "important and having significant results",
+  "zh": "重大的；影響深遠的"
+ },
+ "consistent with": {
+  "pos": "phr.",
+  "en": "in agreement with or matching something",
+  "zh": "與……一致；符合"
+ },
+ "conventional": {
+  "pos": "adj.",
+  "en": "following accepted customs or usual ways",
+  "zh": "傳統的；慣例的；常規的"
+ },
+ "coordinated": {
+  "pos": "adj.",
+  "en": "organized so that different parts work well together",
+  "zh": "協調的；配合良好的"
+ },
+ "counter": {
+  "pos": "v.",
+  "en": "to act against something or reduce its effect",
+  "zh": "抵消；對抗；反制"
+ },
+ "decipher": {
+  "pos": "v.",
+  "en": "to figure out the meaning of something difficult to read or understand",
+  "zh": "解讀；破譯；辨認"
+ },
+ "decode": {
+  "pos": "v.",
+  "en": "to change a coded message into ordinary language; to interpret",
+  "zh": "解碼；破譯；解讀"
+ },
+ "decorative": {
+  "pos": "adj.",
+  "en": "meant to look attractive rather than to be useful",
+  "zh": "裝飾性的；裝飾用的"
+ },
+ "definitive": {
+  "pos": "adj.",
+  "en": "final, complete, and not able to be questioned",
+  "zh": "決定性的；權威的；最終的"
+ },
+ "delegate": {
+  "pos": "v.",
+  "en": "to give part of your work or authority to someone else",
+  "zh": "委派；授權"
+ },
+ "deny": {
+  "pos": "v.",
+  "en": "to say that something is not true",
+  "zh": "否認；否定"
+ },
+ "derived from": {
+  "pos": "phr.",
+  "en": "coming from or developed out of something",
+  "zh": "源自；衍生自"
+ },
+ "diminish": {
+  "pos": "v.",
+  "en": "to make or become smaller or less important",
+  "zh": "減少；減弱；降低"
+ },
+ "dismiss": {
+  "pos": "v.",
+  "en": "to decide that something is not worth considering",
+  "zh": "不予理會；否定；駁回"
+ },
+ "disorienting": {
+  "pos": "adj.",
+  "en": "making someone confused about where they are or what is happening",
+  "zh": "使人迷惘的；令人困惑的"
+ },
+ "distant": {
+  "pos": "adj.",
+  "en": "far away in space or time",
+  "zh": "遙遠的；久遠的"
+ },
+ "dormant": {
+  "pos": "adj.",
+  "en": "not active or growing now but able to become active later",
+  "zh": "休眠的；蟄伏的；潛伏的"
+ },
+ "durable": {
+  "pos": "adj.",
+  "en": "able to last a long time without breaking or wearing out",
+  "zh": "耐用的；持久的"
+ },
+ "eclipsed by": {
+  "pos": "phr.",
+  "en": "made to seem less important by something greater",
+  "zh": "被……蓋過；相形失色於"
+ },
+ "elusive": {
+  "pos": "adj.",
+  "en": "difficult to find, catch, or understand",
+  "zh": "難以捉摸的；難以理解的"
+ },
+ "equivalent to": {
+  "pos": "phr.",
+  "en": "equal in value, amount, meaning, or importance to",
+  "zh": "等同於；相當於"
+ },
+ "erase": {
+  "pos": "v.",
+  "en": "to remove completely so no trace is left",
+  "zh": "抹去；消除"
+ },
+ "erratic": {
+  "pos": "adj.",
+  "en": "not regular or predictable; changing often",
+  "zh": "不規則的；反覆無常的"
+ },
+ "essential": {
+  "pos": "adj.",
+  "en": "extremely important and necessary",
+  "zh": "必要的；不可或缺的；本質的"
+ },
+ "forecast": {
+  "pos": "v.",
+  "en": "to say what is likely to happen in the future",
+  "zh": "預測；預報"
+ },
+ "formative": {
+  "pos": "adj.",
+  "en": "having an important influence on the development of something",
+  "zh": "形成期的；有重大影響的"
+ },
+ "fragile": {
+  "pos": "adj.",
+  "en": "easily broken or damaged",
+  "zh": "脆弱的；易碎的"
+ },
+ "functional": {
+  "pos": "adj.",
+  "en": "having a practical use; working as intended",
+  "zh": "有功能的；實用的；能運作的"
+ },
+ "gradual": {
+  "pos": "adj.",
+  "en": "happening slowly over a long period",
+  "zh": "逐漸的；漸進的"
+ },
+ "grant": {
+  "pos": "v.",
+  "en": "to admit that something is true; to give or allow",
+  "zh": "承認；同意；授予"
+ },
+ "identical to": {
+  "pos": "phr.",
+  "en": "exactly the same as",
+  "zh": "與……完全相同"
+ },
+ "imminent": {
+  "pos": "adj.",
+  "en": "about to happen very soon",
+  "zh": "即將發生的；迫在眉睫的"
+ },
+ "impartial": {
+  "pos": "adj.",
+  "en": "not favoring one side over another; fair",
+  "zh": "公正的；不偏不倚的"
+ },
+ "important": {
+  "pos": "adj.",
+  "en": "having great value, meaning, or effect",
+  "zh": "重要的；重大的"
+ },
+ "inactive": {
+  "pos": "adj.",
+  "en": "not doing anything; not working or functioning",
+  "zh": "不活躍的；無作用的；靜止的"
+ },
+ "inconsequential": {
+  "pos": "adj.",
+  "en": "not important or significant",
+  "zh": "無關緊要的；不重要的"
+ },
+ "independent of": {
+  "pos": "phr.",
+  "en": "not influenced by or relying on something",
+  "zh": "不受……影響；獨立於"
+ },
+ "indicative of": {
+  "pos": "phr.",
+  "en": "serving as a sign or evidence of something",
+  "zh": "顯示出；表明；象徵"
+ },
+ "indisputable": {
+  "pos": "adj.",
+  "en": "so clearly true that it cannot be questioned",
+  "zh": "無可爭辯的；無庸置疑的"
+ },
+ "inert": {
+  "pos": "adj.",
+  "en": "not moving or active; having no chemical or biological effect",
+  "zh": "無活性的；惰性的；不動的"
+ },
+ "infer": {
+  "pos": "v.",
+  "en": "to reach a conclusion based on evidence and reasoning",
+  "zh": "推論；推斷"
+ },
+ "instantaneous": {
+  "pos": "adj.",
+  "en": "happening immediately, without any delay",
+  "zh": "瞬間的；即刻的"
+ },
+ "interpret": {
+  "pos": "v.",
+  "en": "to explain or understand the meaning of something",
+  "zh": "詮釋；解讀；理解"
+ },
+ "irrelevant": {
+  "pos": "adj.",
+  "en": "not connected with or important to the matter at hand",
+  "zh": "無關的；不相干的"
+ },
+ "irrelevant to": {
+  "pos": "phr.",
+  "en": "not connected with or important to something",
+  "zh": "與……無關"
+ },
+ "landmark": {
+  "pos": "adj.",
+  "en": "marking an important stage or turning point",
+  "zh": "里程碑式的；劃時代的"
+ },
+ "latent": {
+  "pos": "adj.",
+  "en": "present but not yet visible, active, or developed",
+  "zh": "潛在的；潛伏的"
+ },
+ "mandate": {
+  "pos": "v.",
+  "en": "to officially require something",
+  "zh": "強制規定；授權"
+ },
+ "manufacture": {
+  "pos": "v.",
+  "en": "to make goods in large quantities, often with machines",
+  "zh": "製造；生產"
+ },
+ "measurable": {
+  "pos": "adj.",
+  "en": "large enough to be noticed or measured",
+  "zh": "可測量的；顯著的"
+ },
+ "meticulous": {
+  "pos": "adj.",
+  "en": "very careful and paying close attention to every detail",
+  "zh": "一絲不苟的；極為仔細的"
+ },
+ "minor": {
+  "pos": "adj.",
+  "en": "small or not very important",
+  "zh": "次要的；較小的；不重要的"
+ },
+ "modeled on": {
+  "pos": "phr.",
+  "en": "designed or made to copy or follow something",
+  "zh": "以……為範本；仿照"
+ },
+ "momentous": {
+  "pos": "adj.",
+  "en": "very important because of its effect on the future",
+  "zh": "重大的；極其重要的"
+ },
+ "necessary": {
+  "pos": "adj.",
+  "en": "needed in order to achieve something",
+  "zh": "必要的；必需的"
+ },
+ "nuanced": {
+  "pos": "adj.",
+  "en": "showing subtle differences or shades of meaning",
+  "zh": "細膩的；有細微差別的"
+ },
+ "obscure": {
+  "pos": "adj.",
+  "en": "not well known; or difficult to understand",
+  "zh": "晦澀的；鮮為人知的"
+ },
+ "operative": {
+  "pos": "adj.",
+  "en": "working, functioning, or having an effect",
+  "zh": "運作中的；有效的；起作用的"
+ },
+ "ordinary": {
+  "pos": "adj.",
+  "en": "normal and not special",
+  "zh": "普通的；平常的"
+ },
+ "original": {
+  "pos": "adj.",
+  "en": "new and different; not copied",
+  "zh": "原創的；新穎的；原本的"
+ },
+ "outweighed by": {
+  "pos": "phr.",
+  "en": "less important or influential than something else",
+  "zh": "不如……重要；被……壓過"
+ },
+ "overshadowed by": {
+  "pos": "phr.",
+  "en": "made to seem less important by something else",
+  "zh": "被……掩蓋；相形見絀於"
+ },
+ "parse": {
+  "pos": "v.",
+  "en": "to analyze something carefully to understand its parts and meaning",
+  "zh": "剖析；分析；解析"
+ },
+ "peripheral": {
+  "pos": "adj.",
+  "en": "not central or most important; on the edge",
+  "zh": "次要的；周邊的"
+ },
+ "pivotal": {
+  "pos": "adj.",
+  "en": "of central importance, especially in causing change",
+  "zh": "關鍵的；舉足輕重的"
+ },
+ "postpone": {
+  "pos": "v.",
+  "en": "to delay something until a later time",
+  "zh": "延後；延期"
+ },
+ "precarious": {
+  "pos": "adj.",
+  "en": "not secure or stable; likely to fall or fail",
+  "zh": "不穩定的；岌岌可危的"
+ },
+ "precipitous": {
+  "pos": "adj.",
+  "en": "very sudden and steep, especially a drop or decline",
+  "zh": "急遽的；陡峭的"
+ },
+ "predetermined": {
+  "pos": "adj.",
+  "en": "decided or fixed in advance",
+  "zh": "預先決定的；預定的"
+ },
+ "predict": {
+  "pos": "v.",
+  "en": "to say what will happen in the future",
+  "zh": "預測；預言"
+ },
+ "predictable": {
+  "pos": "adj.",
+  "en": "happening in a way that can be expected",
+  "zh": "可預測的；意料之中的"
+ },
+ "predictive of": {
+  "pos": "phr.",
+  "en": "indicating what is likely to happen",
+  "zh": "可預示……；能預測……"
+ },
+ "private": {
+  "pos": "adj.",
+  "en": "belonging to or meant for one person or group; not public",
+  "zh": "私人的；私下的"
+ },
+ "provisional": {
+  "pos": "adj.",
+  "en": "temporary and likely to be changed later",
+  "zh": "暫時的；臨時的；有待確認的"
+ },
+ "quiescent": {
+  "pos": "adj.",
+  "en": "quiet and inactive, often for a time",
+  "zh": "靜止的；休眠的；沉寂的"
+ },
+ "redundant": {
+  "pos": "adj.",
+  "en": "not needed because something else already does the job",
+  "zh": "多餘的；冗贅的"
+ },
+ "refute": {
+  "pos": "v.",
+  "en": "to prove that a statement or idea is wrong",
+  "zh": "駁斥；反駁"
+ },
+ "reject": {
+  "pos": "v.",
+  "en": "to refuse to accept or believe something",
+  "zh": "拒絕；否決；排斥"
+ },
+ "renounce": {
+  "pos": "v.",
+  "en": "to formally give up a belief, claim, or right",
+  "zh": "放棄；聲明斷絕"
+ },
+ "replicable": {
+  "pos": "adj.",
+  "en": "able to be repeated with the same results",
+  "zh": "可重複的；可複製的"
+ },
+ "replicate": {
+  "pos": "v.",
+  "en": "to repeat or copy something exactly, such as an experiment",
+  "zh": "複製；重複（實驗）"
+ },
+ "replicated": {
+  "pos": "adj.",
+  "en": "repeated or copied exactly, often to check results",
+  "zh": "經重複驗證的；複製的"
+ },
+ "representative of": {
+  "pos": "phr.",
+  "en": "typical of or serving as an example of a group",
+  "zh": "代表……；典型的"
+ },
+ "require": {
+  "pos": "v.",
+  "en": "to need something or make it necessary",
+  "zh": "需要；要求"
+ },
+ "robust": {
+  "pos": "adj.",
+  "en": "strong and well supported; not easily weakened",
+  "zh": "穩健的；強而有力的"
+ },
+ "routine": {
+  "pos": "adj.",
+  "en": "ordinary and done regularly; not special",
+  "zh": "例行的；平常的"
+ },
+ "secondary to": {
+  "pos": "phr.",
+  "en": "less important than something else",
+  "zh": "次於；不如……重要"
+ },
+ "secretive": {
+  "pos": "adj.",
+  "en": "tending to hide feelings, plans, or information",
+  "zh": "隱密的；守口如瓶的"
+ },
+ "speculative": {
+  "pos": "adj.",
+  "en": "based on guesses rather than firm evidence",
+  "zh": "推測性的；臆測的"
+ },
+ "subordinate to": {
+  "pos": "phr.",
+  "en": "lower in rank or importance than something else",
+  "zh": "從屬於；次於"
+ },
+ "subtle": {
+  "pos": "adj.",
+  "en": "not obvious; small and hard to notice",
+  "zh": "細微的；微妙的"
+ },
+ "sudden": {
+  "pos": "adj.",
+  "en": "happening quickly and unexpectedly",
+  "zh": "突然的；驟然的"
+ },
+ "swift": {
+  "pos": "adj.",
+  "en": "happening quickly or promptly",
+  "zh": "迅速的；快速的"
+ },
+ "symbolic of": {
+  "pos": "phr.",
+  "en": "representing or standing for something",
+  "zh": "象徵……；代表"
+ },
+ "synchronized with": {
+  "pos": "phr.",
+  "en": "happening at the same time or rate as something",
+  "zh": "與……同步"
+ },
+ "tenuous": {
+  "pos": "adj.",
+  "en": "very weak or poorly supported",
+  "zh": "薄弱的；站不住腳的"
+ },
+ "translate": {
+  "pos": "v.",
+  "en": "to change words into another language; to interpret",
+  "zh": "翻譯；轉化；解讀"
+ },
+ "unoriginal": {
+  "pos": "adj.",
+  "en": "not new or creative; copied from others",
+  "zh": "缺乏原創性的；平庸的"
+ },
+ "unpredictable": {
+  "pos": "adj.",
+  "en": "not able to be known or expected in advance",
+  "zh": "無法預測的；難以預料的"
+ },
+ "vestigial": {
+  "pos": "adj.",
+  "en": "remaining from an earlier stage but no longer having a useful function",
+  "zh": "退化的；殘留的；無功能的"
+ },
+ "visible": {
+  "pos": "adj.",
+  "en": "able to be seen or noticed",
+  "zh": "看得見的；明顯的"
+ },
+ "waive": {
+  "pos": "v.",
+  "en": "to choose not to require or enforce a rule or right",
+  "zh": "放棄（權利）；免除"
+ },
+ "well-founded": {
+  "pos": "adj.",
+  "en": "based on good evidence or reasoning",
+  "zh": "有根據的；理由充分的"
+ }
+}
