@@ -9,7 +9,7 @@ pref={}
 for k,texts in groups.items():
   p=os.path.commonprefix(texts); p=p[:p.rfind('. ')+2]; pref[k]=p
 def split(text, filler=''):
-  if filler and text.startswith(filler): text=text[len(filler):]
+  while filler and text.startswith(filler): text=text[len(filler):]  # some data files repeat the filler twice
   lines=text.split('\n'); opts={}; stem=None; body=[]
   for l in lines:
     mo=re.match(r'^([A-D])\) (.*)$',l)

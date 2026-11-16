@@ -1438,5 +1438,550 @@
   "pos": "n.",
   "en": "poems in general",
   "zh": "詩"
+ },
+ "nuance": {
+  "pos": "n.",
+  "en": "a very small difference in meaning, color, or feeling",
+  "zh": "細微差別"
+ },
+ "vitality": {
+  "pos": "n.",
+  "en": "energy, strength, and liveliness",
+  "zh": "活力；生命力"
+ },
+ "toxicity": {
+  "pos": "n.",
+  "en": "the degree to which something is poisonous",
+  "zh": "毒性"
+ },
+ "potency": {
+  "pos": "n.",
+  "en": "strength or power to produce an effect",
+  "zh": "效力；強度"
+ },
+ "experimental": {
+  "pos": "adj.",
+  "en": "trying new ideas or methods",
+  "zh": "實驗性的"
+ },
+ "pinpoint": {
+  "pos": "v.",
+  "en": "to find or identify something exactly",
+  "zh": "精確找出；準確指出"
+ },
+ "diaphragm": {
+  "pos": "n.",
+  "en": "the large muscle between the chest and stomach used in breathing",
+  "zh": "橫膈膜"
+ },
+ "contraction": {
+  "pos": "n.",
+  "en": "the tightening or shortening of a muscle",
+  "zh": "收縮"
+ },
+ "regulate": {
+  "pos": "v.",
+  "en": "to control something so it works correctly",
+  "zh": "調節；控制"
+ },
+ "periodically": {
+  "pos": "adv.",
+  "en": "happening again and again at regular times",
+  "zh": "定期地；週期性地"
+ },
+ "boutique": {
+  "pos": "n.",
+  "en": "a small shop selling fashionable goods",
+  "zh": "精品店"
+ },
+ "perspective": {
+  "pos": "n.",
+  "en": "a particular way of seeing or thinking about something",
+  "zh": "觀點；視角"
+ },
+ "rebellion": {
+  "pos": "n.",
+  "en": "opposition to authority or accepted rules",
+  "zh": "反叛；反抗"
+ },
+ "defy": {
+  "pos": "v.",
+  "en": "to refuse to obey or follow",
+  "zh": "違抗；公然反抗"
+ },
+ "sensation": {
+  "pos": "n.",
+  "en": "a physical feeling; a strong feeling",
+  "zh": "感覺；知覺"
+ },
+ "province": {
+  "pos": "n.",
+  "en": "a large region of a country or empire with its own government",
+  "zh": "省；行省"
+ },
+ "situate": {
+  "pos": "v.",
+  "en": "to place in a particular location",
+  "zh": "使位於"
+ },
+ "capital": {
+  "pos": "n.",
+  "en": "the city where a country's government is",
+  "zh": "首都"
+ },
+ "overland": {
+  "pos": "adj.",
+  "en": "traveling across land rather than by sea or air",
+  "zh": "陸路的"
+ },
+ "regenerate": {
+  "pos": "v.",
+  "en": "to grow again after being lost or damaged",
+  "zh": "再生"
+ },
+ "comparatively": {
+  "pos": "adv.",
+  "en": "when compared with something else",
+  "zh": "相對地；比較而言"
+ },
+ "regeneration": {
+  "pos": "n.",
+  "en": "the regrowth of lost or damaged body parts",
+  "zh": "再生"
+ },
+ "zealous": {
+  "pos": "adj.",
+  "en": "full of strong enthusiasm",
+  "zh": "熱切的；熱情的"
+ },
+ "pilgrimage": {
+  "pos": "n.",
+  "en": "a long journey to a special or holy place",
+  "zh": "朝聖之旅"
+ },
+ "employment": {
+  "pos": "n.",
+  "en": "work for which people are paid; the state of having a job",
+  "zh": "就業；雇用"
+ },
+ "agricultural": {
+  "pos": "adj.",
+  "en": "relating to farming",
+  "zh": "農業的"
+ },
+ "population": {
+  "pos": "n.",
+  "en": "the number of people living in a place",
+  "zh": "人口"
+ },
+ "image": {
+  "pos": "n.",
+  "en": "a picture; a picture formed in the mind by words",
+  "zh": "圖像；意象"
+ },
+ "molecule": {
+  "pos": "n.",
+  "en": "the smallest unit of a substance, made of atoms",
+  "zh": "分子"
+ },
+ "coloration": {
+  "pos": "n.",
+  "en": "the color pattern of an animal or plant",
+  "zh": "顏色；色彩圖案"
+ },
+ "saturated": {
+  "pos": "adj.",
+  "en": "(of color) very strong and deep",
+  "zh": "（顏色）飽和的；濃烈的"
+ },
+ "manipulate": {
+  "pos": "v.",
+  "en": "to control or change something skillfully",
+  "zh": "操控；操縱"
+ },
+ "publishing": {
+  "pos": "n.",
+  "en": "the business of producing books and magazines",
+  "zh": "出版業"
+ },
+ "contest": {
+  "pos": "n.",
+  "en": "a competition",
+  "zh": "比賽；競賽"
+ },
+ "volcanic": {
+  "pos": "adj.",
+  "en": "relating to or produced by volcanoes",
+  "zh": "火山的"
+ },
+ "extinction": {
+  "pos": "n.",
+  "en": "the dying out of a whole species",
+  "zh": "滅絕"
+ },
+ "availability": {
+  "pos": "n.",
+  "en": "the state of being able to be obtained or used",
+  "zh": "可取得性；供應情況"
+ },
+ "invertebrate": {
+  "pos": "n.",
+  "en": "an animal without a backbone",
+  "zh": "無脊椎動物"
+ },
+ "extensive": {
+  "pos": "adj.",
+  "en": "covering a large area or amount",
+  "zh": "廣泛的；大面積的"
+ },
+ "alkaline": {
+  "pos": "adj.",
+  "en": "having a pH greater than 7; not acidic",
+  "zh": "鹼性的"
+ },
+ "contain": {
+  "pos": "v.",
+  "en": "to have or hold something inside",
+  "zh": "包含；容納"
+ },
+ "insoluble": {
+  "pos": "adj.",
+  "en": "not able to be dissolved in liquid",
+  "zh": "不溶的"
+ },
+ "spreadsheet": {
+  "pos": "n.",
+  "en": "a computer program or table for organizing and calculating numbers",
+  "zh": "試算表"
+ },
+ "calculation": {
+  "pos": "n.",
+  "en": "the process of working out an amount using numbers",
+  "zh": "計算"
+ },
+ "dependent": {
+  "pos": "adj.",
+  "en": "relying on or determined by something else",
+  "zh": "依賴的；取決於…的"
+ },
+ "nonnative": {
+  "pos": "adj.",
+  "en": "not originally from the place where it lives now",
+  "zh": "非本地的；外來的"
+ },
+ "salinity": {
+  "pos": "n.",
+  "en": "the amount of salt in water",
+  "zh": "鹽度"
+ },
+ "barrier": {
+  "pos": "n.",
+  "en": "something that blocks movement or access",
+  "zh": "屏障；障礙"
+ },
+ "versatile": {
+  "pos": "adj.",
+  "en": "able to be used in many different ways",
+  "zh": "多用途的；多才多藝的"
+ },
+ "nonrenewable": {
+  "pos": "adj.",
+  "en": "not able to be replaced naturally once used up",
+  "zh": "不可再生的"
+ },
+ "petroleum": {
+  "pos": "n.",
+  "en": "oil found under the ground, used to make fuel and plastics",
+  "zh": "石油"
+ },
+ "biodegrade": {
+  "pos": "v.",
+  "en": "to break down naturally by bacteria",
+  "zh": "生物分解"
+ },
+ "spatulae": {
+  "pos": "n.",
+  "en": "tiny flat structures at the tips of hairs (plural of spatula)",
+  "zh": "匙狀毛（複數）"
+ },
+ "temporarily": {
+  "pos": "adv.",
+  "en": "for a limited time only",
+  "zh": "暫時地"
+ },
+ "surface": {
+  "pos": "n.",
+  "en": "the outside or top layer of something",
+  "zh": "表面"
+ },
+ "firsthand": {
+  "pos": "adv./adj.",
+  "en": "directly from personal experience",
+  "zh": "第一手地；親身的"
+ },
+ "modernist": {
+  "pos": "adj.",
+  "en": "relating to modern art styles that broke with tradition",
+  "zh": "現代主義的"
+ },
+ "flourish": {
+  "pos": "v.",
+  "en": "to grow or develop successfully",
+  "zh": "蓬勃發展；興盛"
+ },
+ "proposition": {
+  "pos": "n.",
+  "en": "a proposal voted on by the public; an idea offered for consideration",
+  "zh": "（公投）提案；主張"
+ },
+ "activist": {
+  "pos": "n.",
+  "en": "a person who works for social or political change",
+  "zh": "社運人士；運動者"
+ },
+ "suffrage": {
+  "pos": "n.",
+  "en": "the right to vote in elections",
+  "zh": "投票權；選舉權"
+ },
+ "consolidate": {
+  "pos": "v.",
+  "en": "to make stronger or more secure; to combine",
+  "zh": "鞏固；統一"
+ },
+ "authority": {
+  "pos": "n.",
+  "en": "the power to make decisions or give orders",
+  "zh": "權力；權威"
+ },
+ "syntax": {
+  "pos": "n.",
+  "en": "the way words are arranged to form sentences",
+  "zh": "句法；語法結構"
+ },
+ "opaque": {
+  "pos": "adj.",
+  "en": "hard to understand; not clear",
+  "zh": "晦澀的；難懂的"
+ },
+ "heated": {
+  "pos": "adj.",
+  "en": "(of a discussion) full of strong feeling or anger",
+  "zh": "激烈的"
+ },
+ "archaeological": {
+  "pos": "adj.",
+  "en": "relating to the study of ancient remains",
+  "zh": "考古的"
+ },
+ "skeleton": {
+  "pos": "n.",
+  "en": "the frame of bones in a body",
+  "zh": "骨骼"
+ },
+ "persuade": {
+  "pos": "v.",
+  "en": "to make someone agree or believe by giving reasons",
+  "zh": "說服"
+ },
+ "accessory": {
+  "pos": "adj.",
+  "en": "extra; added to the main thing",
+  "zh": "附屬的；輔助的"
+ },
+ "prevalence": {
+  "pos": "n.",
+  "en": "how common something is",
+  "zh": "普遍程度；盛行率"
+ },
+ "desire": {
+  "pos": "n.",
+  "en": "a strong wish or want",
+  "zh": "渴望；願望"
+ },
+ "possession": {
+  "pos": "n.",
+  "en": "the state of owning or having something",
+  "zh": "擁有；所有物"
+ },
+ "leisurely": {
+  "pos": "adv./adj.",
+  "en": "in a relaxed way, without hurry",
+  "zh": "從容地；悠閒的"
+ },
+ "reluctant": {
+  "pos": "adj.",
+  "en": "unwilling and hesitant to do something",
+  "zh": "不情願的"
+ },
+ "trickle": {
+  "pos": "v.",
+  "en": "to flow slowly in a thin stream",
+  "zh": "滴流；細流"
+ },
+ "percent": {
+  "pos": "n.",
+  "en": "parts in every hundred (%)",
+  "zh": "百分比"
+ },
+ "resistance": {
+  "pos": "n.",
+  "en": "a force that slows or opposes movement",
+  "zh": "阻力；抵抗"
+ },
+ "adviser": {
+  "pos": "n.",
+  "en": "a person who gives advice",
+  "zh": "顧問"
+ },
+ "technology": {
+  "pos": "n.",
+  "en": "scientific knowledge used to make tools and machines",
+  "zh": "科技；技術"
+ },
+ "average": {
+  "pos": "adj./n.",
+  "en": "the usual or typical amount; the result of adding numbers and dividing",
+  "zh": "平均的；平均數"
+ },
+ "manager": {
+  "pos": "n.",
+  "en": "a person who controls a business or team",
+  "zh": "經理；管理者"
+ },
+ "department": {
+  "pos": "n.",
+  "en": "a section of a large organization",
+  "zh": "部門"
+ },
+ "slightly": {
+  "pos": "adv.",
+  "en": "a little",
+  "zh": "稍微；略微"
+ },
+ "inspiration": {
+  "pos": "n.",
+  "en": "something that gives you ideas or makes you want to create",
+  "zh": "靈感"
+ },
+ "stimuli": {
+  "pos": "n.",
+  "en": "plural of stimulus; things that cause reactions",
+  "zh": "刺激物（複數）"
+ },
+ "hatchling": {
+  "pos": "n.",
+  "en": "a young animal that has just come out of its egg",
+  "zh": "剛孵化的幼體"
+ },
+ "cognitive": {
+  "pos": "adj.",
+  "en": "related to thinking, learning, and understanding",
+  "zh": "認知的"
+ },
+ "neglect": {
+  "pos": "v.",
+  "en": "to fail to do or pay attention to something",
+  "zh": "忽略；疏忽"
+ },
+ "dexterity": {
+  "pos": "n.",
+  "en": "skill in using the hands",
+  "zh": "靈巧；手巧"
+ },
+ "embryo": {
+  "pos": "n.",
+  "en": "an animal or plant in the earliest stage of development",
+  "zh": "胚胎"
+ },
+ "embryonic": {
+  "pos": "adj.",
+  "en": "relating to an embryo; at a very early stage",
+  "zh": "胚胎的；初期的"
+ },
+ "stability": {
+  "pos": "n.",
+  "en": "the state of being steady and not changing suddenly",
+  "zh": "穩定"
+ },
+ "membership": {
+  "pos": "n.",
+  "en": "the members of a group; being a member",
+  "zh": "成員；會員資格"
+ },
+ "synesthesia": {
+  "pos": "n.",
+  "en": "a condition in which one sense triggers another, e.g. hearing colors",
+  "zh": "聯覺"
+ },
+ "prototype": {
+  "pos": "n.",
+  "en": "a first model of something, used for testing",
+  "zh": "原型；樣品"
+ },
+ "flexible": {
+  "pos": "adj.",
+  "en": "able to bend easily",
+  "zh": "可彎曲的；有彈性的"
+ },
+ "corrugation": {
+  "pos": "n.",
+  "en": "a series of parallel ridges and grooves",
+  "zh": "波紋；褶皺"
+ },
+ "appetite": {
+  "pos": "n.",
+  "en": "a strong desire for something",
+  "zh": "慾望；胃口"
+ },
+ "industrialization": {
+  "pos": "n.",
+  "en": "the development of industries in a country",
+  "zh": "工業化"
+ },
+ "disparity": {
+  "pos": "n.",
+  "en": "a large difference between things",
+  "zh": "差距；不平等"
+ },
+ "camouflage": {
+  "pos": "n.",
+  "en": "colors or patterns that help something hide",
+  "zh": "偽裝；保護色"
+ },
+ "conspicuously": {
+  "pos": "adv.",
+  "en": "in a way that is very easy to see",
+  "zh": "顯眼地；引人注目地"
+ },
+ "distinctive": {
+  "pos": "adj.",
+  "en": "easy to recognize because it is different",
+  "zh": "獨特的；有特色的"
+ },
+ "volition": {
+  "pos": "n.",
+  "en": "the act of choosing or deciding by yourself",
+  "zh": "意志；自主意願"
+ },
+ "mysterious": {
+  "pos": "adj.",
+  "en": "hard to understand or explain",
+  "zh": "神秘的；難以解釋的"
+ },
+ "migration": {
+  "pos": "n.",
+  "en": "movement from one place to another",
+  "zh": "遷移；移動"
+ },
+ "retelling": {
+  "pos": "n.",
+  "en": "a new version of a story told before",
+  "zh": "重述；改寫"
+ },
+ "pivotal": {
+  "pos": "adj.",
+  "en": "very important; central to a result",
+  "zh": "關鍵的；舉足輕重的"
  }
 }

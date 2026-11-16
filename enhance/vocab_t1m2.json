@@ -1,0 +1,636 @@
+{
+ "a disconcerting": {
+  "w": "disconcerting",
+  "pos": "adj.",
+  "en": "causing worry, confusion, or unease",
+  "zh": "令人不安的；使人困惑的"
+ },
+ "a substantial": {
+  "w": "substantial",
+  "pos": "adj.",
+  "en": "large in amount, size, or importance",
+  "zh": "大量的；相當大的；重大的"
+ },
+ "abrasive": {
+  "pos": "adj.",
+  "en": "rough or harsh in manner; also able to scrape or rub away a surface",
+  "zh": "粗魯的；刺耳的；有磨蝕性的"
+ },
+ "acceptable": {
+  "pos": "adj.",
+  "en": "good enough to be allowed or approved",
+  "zh": "可接受的；尚可的"
+ },
+ "accidental": {
+  "pos": "adj.",
+  "en": "happening by chance, not on purpose",
+  "zh": "意外的；偶然的"
+ },
+ "an acceptable": {
+  "w": "acceptable",
+  "pos": "adj.",
+  "en": "good enough to be allowed or approved",
+  "zh": "可接受的；尚可的"
+ },
+ "an imperceptible": {
+  "w": "imperceptible",
+  "pos": "adj.",
+  "en": "too small or slight to be noticed",
+  "zh": "察覺不到的；極細微的"
+ },
+ "approximate": {
+  "pos": "adj.",
+  "en": "close to the actual amount but not exact",
+  "zh": "大約的；近似的"
+ },
+ "argumentative": {
+  "pos": "adj.",
+  "en": "tending to argue or disagree",
+  "zh": "好爭論的；愛抬槓的"
+ },
+ "artificial": {
+  "pos": "adj.",
+  "en": "made by people rather than occurring naturally; not genuine",
+  "zh": "人造的；人工的；不自然的"
+ },
+ "attentive": {
+  "pos": "adj.",
+  "en": "paying close attention; watchful",
+  "zh": "專注的；留心的"
+ },
+ "automatically": {
+  "pos": "adv.",
+  "en": "without conscious thought or control; by itself",
+  "zh": "自動地；不假思索地"
+ },
+ "awkwardly": {
+  "pos": "adv.",
+  "en": "in a clumsy or uncomfortable way",
+  "zh": "笨拙地；尷尬地"
+ },
+ "beautiful": {
+  "pos": "adj.",
+  "en": "very pleasing to look at or experience",
+  "zh": "美麗的；優美的"
+ },
+ "beneficially": {
+  "pos": "adv.",
+  "en": "in a way that is helpful or produces good results",
+  "zh": "有益地；有利地"
+ },
+ "benign": {
+  "pos": "adj.",
+  "en": "gentle and not harmful",
+  "zh": "無害的；溫和的；良性的"
+ },
+ "borrowed": {
+  "pos": "v.",
+  "en": "took or used something from another source",
+  "zh": "借用；借來"
+ },
+ "carefully": {
+  "pos": "adv.",
+  "en": "with close attention so as to avoid mistakes or harm",
+  "zh": "小心地；仔細地"
+ },
+ "careless": {
+  "pos": "adj.",
+  "en": "not paying enough attention; causing mistakes",
+  "zh": "粗心的；疏忽的"
+ },
+ "casual": {
+  "pos": "adj.",
+  "en": "relaxed and informal; not planned or required",
+  "zh": "隨意的；非正式的；不經意的"
+ },
+ "celebrated": {
+  "pos": "adj.",
+  "en": "famous and widely praised",
+  "zh": "著名的；受讚揚的"
+ },
+ "central": {
+  "pos": "adj.",
+  "en": "located in the middle; most important",
+  "zh": "中央的；核心的；主要的"
+ },
+ "coincide": {
+  "pos": "v.",
+  "en": "to happen at the same time or to agree exactly",
+  "zh": "同時發生；相符；一致"
+ },
+ "collapse": {
+  "pos": "v.",
+  "en": "to fall down or fail suddenly",
+  "zh": "倒塌；崩潰；瓦解"
+ },
+ "committed": {
+  "pos": "adj.",
+  "en": "dedicated and loyal to a cause or task",
+  "zh": "投入的；忠誠的；堅定的"
+ },
+ "compete": {
+  "pos": "v.",
+  "en": "to try to win or do better than others",
+  "zh": "競爭；比賽"
+ },
+ "concealed": {
+  "pos": "adj.",
+  "en": "hidden from view",
+  "zh": "隱藏的；隱蔽的"
+ },
+ "confident": {
+  "pos": "adj.",
+  "en": "feeling sure of oneself or of something",
+  "zh": "有信心的；自信的；確信的"
+ },
+ "confidently": {
+  "pos": "adv.",
+  "en": "in a sure and self-assured way",
+  "zh": "有把握地；自信地"
+ },
+ "confusing": {
+  "pos": "adj.",
+  "en": "difficult to understand; unclear",
+  "zh": "令人困惑的；混亂的"
+ },
+ "considerable": {
+  "pos": "adj.",
+  "en": "large in size, amount, or importance",
+  "zh": "相當大的；可觀的"
+ },
+ "converge": {
+  "pos": "v.",
+  "en": "to come together from different directions; to meet or overlap",
+  "zh": "匯合；交會；趨於一致"
+ },
+ "critical": {
+  "pos": "adj.",
+  "en": "very important; or expressing disapproval",
+  "zh": "關鍵的；批判的；挑剔的"
+ },
+ "dangerous": {
+  "pos": "adj.",
+  "en": "likely to cause harm or injury",
+  "zh": "危險的"
+ },
+ "deceptive": {
+  "pos": "adj.",
+  "en": "giving a false impression; misleading",
+  "zh": "欺騙性的；誤導人的"
+ },
+ "decorative": {
+  "pos": "adj.",
+  "en": "serving to make something look attractive",
+  "zh": "裝飾性的；裝飾用的"
+ },
+ "deliberately": {
+  "pos": "adv.",
+  "en": "on purpose; intentionally",
+  "zh": "故意地；刻意地"
+ },
+ "detached": {
+  "pos": "adj.",
+  "en": "emotionally uninvolved or separated; not connected",
+  "zh": "超然的；冷漠的；分離的"
+ },
+ "dictated": {
+  "pos": "v.",
+  "en": "ordered or required with authority",
+  "zh": "規定；支配；命令"
+ },
+ "diminish": {
+  "pos": "v.",
+  "en": "to become or make smaller or less",
+  "zh": "減少；減弱；縮小"
+ },
+ "disappear": {
+  "pos": "v.",
+  "en": "to stop being visible or to stop existing",
+  "zh": "消失；不見"
+ },
+ "discerning": {
+  "pos": "adj.",
+  "en": "showing good judgment and the ability to notice fine differences",
+  "zh": "有眼光的；有辨別力的"
+ },
+ "dismissive": {
+  "pos": "adj.",
+  "en": "showing that something is not worth considering",
+  "zh": "不屑一顧的；輕視的"
+ },
+ "distant": {
+  "pos": "adj.",
+  "en": "far away in space or time",
+  "zh": "遙遠的；遠方的；疏遠的"
+ },
+ "diverge": {
+  "pos": "v.",
+  "en": "to separate and go in different directions; to differ",
+  "zh": "分歧；岔開；相異"
+ },
+ "enforced": {
+  "pos": "v.",
+  "en": "made sure that a rule or law was obeyed",
+  "zh": "強制執行；實施"
+ },
+ "fail": {
+  "pos": "v.",
+  "en": "to not succeed or not do what is expected",
+  "zh": "失敗；未能"
+ },
+ "famous": {
+  "pos": "adj.",
+  "en": "known by many people",
+  "zh": "著名的；出名的"
+ },
+ "gradually": {
+  "pos": "adv.",
+  "en": "slowly and over a period of time",
+  "zh": "逐漸地；漸漸地"
+ },
+ "harmful": {
+  "pos": "adj.",
+  "en": "causing damage or injury",
+  "zh": "有害的"
+ },
+ "harmless": {
+  "pos": "adj.",
+  "en": "not able or likely to cause harm",
+  "zh": "無害的；無惡意的"
+ },
+ "hesitant": {
+  "pos": "adj.",
+  "en": "slow to act or speak because of doubt or uncertainty",
+  "zh": "猶豫的；遲疑的"
+ },
+ "hesitate": {
+  "pos": "v.",
+  "en": "to pause before acting because of uncertainty",
+  "zh": "猶豫；遲疑"
+ },
+ "hidden": {
+  "pos": "adj.",
+  "en": "kept out of sight; not easily seen",
+  "zh": "隱藏的；隱蔽的"
+ },
+ "ignored": {
+  "pos": "v.",
+  "en": "paid no attention to",
+  "zh": "忽視；不理會"
+ },
+ "illustrated": {
+  "pos": "v.",
+  "en": "showed or explained with examples or pictures",
+  "zh": "說明；舉例闡明；配插圖"
+ },
+ "imagined": {
+  "pos": "adj.",
+  "en": "existing only in the mind; not real",
+  "zh": "想像的；虛構的"
+ },
+ "impatient": {
+  "pos": "adj.",
+  "en": "unwilling to wait; easily annoyed by delays",
+  "zh": "不耐煩的；急躁的"
+ },
+ "imperceptible": {
+  "pos": "adj.",
+  "en": "too small or slight to be noticed",
+  "zh": "察覺不到的；極細微的"
+ },
+ "imposed": {
+  "pos": "v.",
+  "en": "forced a rule, duty, or burden on someone",
+  "zh": "強加；施加；規定"
+ },
+ "impractical": {
+  "pos": "adj.",
+  "en": "not sensible or realistic to do or use",
+  "zh": "不切實際的；不實用的"
+ },
+ "impulsive": {
+  "pos": "adj.",
+  "en": "acting suddenly without careful thought",
+  "zh": "衝動的；一時興起的"
+ },
+ "indifferent": {
+  "pos": "adj.",
+  "en": "having no interest or concern",
+  "zh": "漠不關心的；冷淡的"
+ },
+ "innocuous": {
+  "pos": "adj.",
+  "en": "not harmful or offensive",
+  "zh": "無害的；無傷大雅的"
+ },
+ "interjected": {
+  "pos": "v.",
+  "en": "said something suddenly as an interruption",
+  "zh": "插話；突然插入"
+ },
+ "interrupted": {
+  "pos": "v.",
+  "en": "stopped something for a short time; broke in",
+  "zh": "打斷；中斷"
+ },
+ "intersect": {
+  "pos": "v.",
+  "en": "to cross or overlap with each other",
+  "zh": "交叉；相交；交會"
+ },
+ "intertwine": {
+  "pos": "v.",
+  "en": "to twist or connect closely together",
+  "zh": "交織；纏繞；緊密相連"
+ },
+ "invented": {
+  "pos": "v.",
+  "en": "created something new for the first time",
+  "zh": "發明；創造；捏造"
+ },
+ "invisible": {
+  "pos": "adj.",
+  "en": "unable to be seen",
+  "zh": "看不見的；隱形的"
+ },
+ "involuntarily": {
+  "pos": "adv.",
+  "en": "without conscious control or choice",
+  "zh": "不由自主地；非自願地"
+ },
+ "mandated": {
+  "pos": "v.",
+  "en": "officially required or ordered",
+  "zh": "規定；強制要求；授權"
+ },
+ "marginal": {
+  "pos": "adj.",
+  "en": "small and not important; at the edge",
+  "zh": "微小的；次要的；邊緣的"
+ },
+ "marked": {
+  "pos": "adj.",
+  "en": "clearly noticeable",
+  "zh": "明顯的；顯著的"
+ },
+ "misleading": {
+  "pos": "adj.",
+  "en": "giving the wrong idea or impression",
+  "zh": "誤導的；使人誤解的"
+ },
+ "misread": {
+  "pos": "v.",
+  "en": "read or interpreted something incorrectly",
+  "zh": "誤讀；誤解"
+ },
+ "negligible": {
+  "pos": "adj.",
+  "en": "so small or unimportant that it can be ignored",
+  "zh": "微不足道的；可忽略的"
+ },
+ "nonthreatening": {
+  "pos": "adj.",
+  "en": "not likely to cause fear or harm",
+  "zh": "不具威脅性的；溫和的"
+ },
+ "novel": {
+  "pos": "adj.",
+  "en": "new and original; not seen before",
+  "zh": "新穎的；新奇的"
+ },
+ "observant": {
+  "pos": "adj.",
+  "en": "quick to notice details",
+  "zh": "觀察敏銳的；善於觀察的"
+ },
+ "ordinary": {
+  "pos": "adj.",
+  "en": "normal and common; not special",
+  "zh": "普通的；平凡的"
+ },
+ "outlying": {
+  "pos": "adj.",
+  "en": "far from the center of a place",
+  "zh": "偏遠的；外圍的"
+ },
+ "overlap": {
+  "pos": "v.",
+  "en": "to cover part of the same area or share some features",
+  "zh": "重疊；部分相同"
+ },
+ "perceptive": {
+  "pos": "adj.",
+  "en": "quick to notice and understand things",
+  "zh": "有洞察力的；敏銳的"
+ },
+ "peripheral": {
+  "pos": "adj.",
+  "en": "located at the outer edge; of minor importance",
+  "zh": "周邊的；邊緣的；次要的"
+ },
+ "politely": {
+  "pos": "adv.",
+  "en": "in a courteous, respectful way",
+  "zh": "有禮貌地；客氣地"
+ },
+ "prescribed": {
+  "pos": "v.",
+  "en": "set down as a rule to be followed",
+  "zh": "規定；指定；開（藥方）"
+ },
+ "prevail": {
+  "pos": "v.",
+  "en": "to win or prove more powerful; to be widespread",
+  "zh": "勝過；占優勢；盛行"
+ },
+ "pronounced": {
+  "pos": "adj.",
+  "en": "very noticeable; strongly marked",
+  "zh": "明顯的；顯著的"
+ },
+ "prosperous": {
+  "pos": "adj.",
+  "en": "successful and wealthy",
+  "zh": "繁榮的；富裕的"
+ },
+ "questionable": {
+  "pos": "adj.",
+  "en": "doubtful or not certain to be true or proper",
+  "zh": "可疑的；有疑問的"
+ },
+ "questioned": {
+  "pos": "v.",
+  "en": "expressed doubt about; asked questions about",
+  "zh": "質疑；詢問"
+ },
+ "rare": {
+  "pos": "adj.",
+  "en": "not happening or found very often",
+  "zh": "罕見的；稀有的"
+ },
+ "rarely": {
+  "pos": "adv.",
+  "en": "not often; seldom",
+  "zh": "很少；難得"
+ },
+ "reckless": {
+  "pos": "adj.",
+  "en": "not caring about danger or the results of one's actions",
+  "zh": "魯莽的；不顧後果的"
+ },
+ "reflexively": {
+  "pos": "adv.",
+  "en": "automatically, as a reflex, without conscious thought",
+  "zh": "反射性地；本能地"
+ },
+ "remote": {
+  "pos": "adj.",
+  "en": "far away from other places; isolated",
+  "zh": "遙遠的；偏僻的"
+ },
+ "restless": {
+  "pos": "adj.",
+  "en": "unable to stay still or relax",
+  "zh": "焦躁不安的；坐立不安的"
+ },
+ "retreat": {
+  "pos": "v.",
+  "en": "to move back or withdraw",
+  "zh": "撤退；退卻"
+ },
+ "routine": {
+  "pos": "adj.",
+  "en": "ordinary and done regularly as part of normal practice",
+  "zh": "例行的；平常的"
+ },
+ "separate": {
+  "pos": "adj.",
+  "en": "not joined or connected; distinct",
+  "zh": "分開的；個別的；獨立的"
+ },
+ "significant": {
+  "pos": "adj.",
+  "en": "large or important enough to have an effect",
+  "zh": "重大的；顯著的；有意義的"
+ },
+ "skeptical": {
+  "pos": "adj.",
+  "en": "doubting that something is true",
+  "zh": "懷疑的；持保留態度的"
+ },
+ "smoothly": {
+  "pos": "adv.",
+  "en": "without problems or difficulties",
+  "zh": "順利地；平穩地"
+ },
+ "softened": {
+  "pos": "v.",
+  "en": "made less harsh, strong, or severe",
+  "zh": "緩和；軟化；減輕"
+ },
+ "spontaneously": {
+  "pos": "adv.",
+  "en": "without planning or outside cause; naturally",
+  "zh": "自發地；自然而然地"
+ },
+ "strenuously": {
+  "pos": "adv.",
+  "en": "with great energy or effort",
+  "zh": "費力地；奮力地；強烈地"
+ },
+ "substantial": {
+  "pos": "adj.",
+  "en": "large in amount, size, or importance",
+  "zh": "大量的；相當大的；重大的"
+ },
+ "succumb": {
+  "pos": "v.",
+  "en": "to give in to a force or pressure",
+  "zh": "屈服；屈從；不敵"
+ },
+ "summarized": {
+  "pos": "v.",
+  "en": "gave a brief statement of the main points",
+  "zh": "總結；概述"
+ },
+ "symbolic": {
+  "pos": "adj.",
+  "en": "serving as a symbol; representing something else",
+  "zh": "象徵性的；象徵的"
+ },
+ "temporary": {
+  "pos": "adj.",
+  "en": "lasting for only a limited time",
+  "zh": "暫時的；臨時的"
+ },
+ "translated": {
+  "pos": "v.",
+  "en": "changed words into another language; converted into another form",
+  "zh": "翻譯；轉化"
+ },
+ "trivial": {
+  "pos": "adj.",
+  "en": "of little value or importance",
+  "zh": "瑣碎的；微不足道的"
+ },
+ "unconsciously": {
+  "pos": "adv.",
+  "en": "without being aware",
+  "zh": "無意識地；不知不覺地"
+ },
+ "unfocused": {
+  "pos": "adj.",
+  "en": "not concentrated on one thing; lacking clear direction",
+  "zh": "不專注的；缺乏焦點的"
+ },
+ "unified": {
+  "pos": "adj.",
+  "en": "joined together as one whole",
+  "zh": "統一的；一致的；整合的"
+ },
+ "unmeasured": {
+  "pos": "adj.",
+  "en": "not measured or calculated",
+  "zh": "未經測量的；無法衡量的"
+ },
+ "unobtrusive": {
+  "pos": "adj.",
+  "en": "not attracting attention; not noticeable",
+  "zh": "不顯眼的；不引人注目的"
+ },
+ "unrelated": {
+  "pos": "adj.",
+  "en": "not connected",
+  "zh": "無關的；不相關的"
+ },
+ "unusual": {
+  "pos": "adj.",
+  "en": "not common or ordinary",
+  "zh": "不尋常的；罕見的"
+ },
+ "urban": {
+  "pos": "adj.",
+  "en": "relating to a city or town",
+  "zh": "都市的；城市的"
+ },
+ "vanish": {
+  "pos": "v.",
+  "en": "to disappear suddenly or completely",
+  "zh": "消失；消逝"
+ },
+ "watchful": {
+  "pos": "adj.",
+  "en": "paying close attention to possible danger or detail",
+  "zh": "警惕的；留意的"
+ },
+ "weaken": {
+  "pos": "v.",
+  "en": "to make or become less strong",
+  "zh": "削弱；減弱"
+ },
+ "wealthy": {
+  "pos": "adj.",
+  "en": "having a lot of money or possessions",
+  "zh": "富有的；富裕的"
+ }
+}
