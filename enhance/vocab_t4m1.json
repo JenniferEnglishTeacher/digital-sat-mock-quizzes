@@ -1,0 +1,297 @@
+{
+ "absorb": {
+  "pos": "v.",
+  "en": "to take in a substance or information",
+  "zh": "吸收"
+ },
+ "apparent": {
+  "pos": "adj.",
+  "en": "easy to see or understand",
+  "zh": "明顯的；顯而易見的"
+ },
+ "appropriate": {
+  "pos": "adj.",
+  "en": "suitable or right for a particular situation",
+  "zh": "適當的；恰當的"
+ },
+ "attached": {
+  "pos": "v.",
+  "en": "fastened or joined one thing to another",
+  "zh": "附上；連接"
+ },
+ "captures": {
+  "pos": "v.",
+  "en": "represents or records something accurately",
+  "zh": "捕捉；準確呈現"
+ },
+ "collected": {
+  "pos": "v.",
+  "en": "gathered things together; obtained a sample",
+  "zh": "收集；採集"
+ },
+ "compiled": {
+  "pos": "v.",
+  "en": "gathered information together into a list or record",
+  "zh": "彙編；整理"
+ },
+ "complex": {
+  "pos": "adj.",
+  "en": "having many connected parts; complicated",
+  "zh": "複雜的"
+ },
+ "controversial": {
+  "pos": "adj.",
+  "en": "causing much disagreement or argument",
+  "zh": "有爭議的"
+ },
+ "decorative": {
+  "pos": "adj.",
+  "en": "meant to look attractive rather than to be useful",
+  "zh": "裝飾性的"
+ },
+ "detectable": {
+  "pos": "adj.",
+  "en": "able to be noticed or discovered",
+  "zh": "可察覺的；可偵測的"
+ },
+ "discarded": {
+  "pos": "v.",
+  "en": "threw something away as no longer useful",
+  "zh": "丟棄；捨棄"
+ },
+ "distort": {
+  "pos": "v.",
+  "en": "to change something so it is no longer true or accurate",
+  "zh": "扭曲；歪曲"
+ },
+ "disturbed": {
+  "pos": "v.",
+  "en": "interrupted or changed the normal state of something",
+  "zh": "打擾；擾亂"
+ },
+ "document": {
+  "pos": "v.",
+  "en": "to record something in writing, photos, or other evidence",
+  "zh": "記錄；以文件證明"
+ },
+ "efficient": {
+  "pos": "adj.",
+  "en": "working well without wasting time or energy",
+  "zh": "有效率的"
+ },
+ "evaluate": {
+  "pos": "v.",
+  "en": "to judge the quality or value of something",
+  "zh": "評估"
+ },
+ "evaluates": {
+  "pos": "v.",
+  "en": "judges the quality or value of something",
+  "zh": "評估"
+ },
+ "flexible": {
+  "pos": "adj.",
+  "en": "able to change or bend easily",
+  "zh": "靈活的；有彈性的"
+ },
+ "followed": {
+  "pos": "v.",
+  "en": "came after; went behind; acted according to",
+  "zh": "跟隨；遵循"
+ },
+ "gathered": {
+  "pos": "v.",
+  "en": "collected things from different places",
+  "zh": "收集；聚集"
+ },
+ "harvested": {
+  "pos": "v.",
+  "en": "collected a crop or natural resource",
+  "zh": "收穫；採收"
+ },
+ "imitate": {
+  "pos": "v.",
+  "en": "to copy the way something is done",
+  "zh": "模仿"
+ },
+ "imitated": {
+  "pos": "v.",
+  "en": "copied the way something was done",
+  "zh": "模仿"
+ },
+ "imitates": {
+  "pos": "v.",
+  "en": "copies the way something is done",
+  "zh": "模仿"
+ },
+ "indicate": {
+  "pos": "v.",
+  "en": "to show or point out",
+  "zh": "顯示；表明"
+ },
+ "insignificant": {
+  "pos": "adj.",
+  "en": "too small or unimportant to matter",
+  "zh": "微不足道的"
+ },
+ "inspected": {
+  "pos": "v.",
+  "en": "looked at something carefully to check it",
+  "zh": "檢查；檢視"
+ },
+ "instructive": {
+  "pos": "adj.",
+  "en": "giving useful information or lessons",
+  "zh": "有教育意義的；有啟發性的"
+ },
+ "intriguing": {
+  "pos": "adj.",
+  "en": "very interesting because unusual or mysterious",
+  "zh": "引人入勝的；耐人尋味的"
+ },
+ "irrelevant": {
+  "pos": "adj.",
+  "en": "not related to the matter being discussed",
+  "zh": "無關的"
+ },
+ "judge": {
+  "pos": "v.",
+  "en": "to form an opinion about something after thinking carefully",
+  "zh": "判斷；評斷"
+ },
+ "measure": {
+  "pos": "v.",
+  "en": "to find the size, amount, or degree of something",
+  "zh": "測量"
+ },
+ "mimic": {
+  "pos": "v.",
+  "en": "to copy the behavior or appearance of something",
+  "zh": "模仿；模擬"
+ },
+ "minor": {
+  "pos": "adj.",
+  "en": "small and not very important",
+  "zh": "次要的；輕微的"
+ },
+ "ordinary": {
+  "pos": "adj.",
+  "en": "normal and not special",
+  "zh": "普通的；平常的"
+ },
+ "overlooked": {
+  "pos": "v.",
+  "en": "failed to notice or consider something",
+  "zh": "忽略；忽視"
+ },
+ "perceptible": {
+  "pos": "adj.",
+  "en": "able to be noticed or felt",
+  "zh": "可察覺的"
+ },
+ "postponed": {
+  "pos": "v.",
+  "en": "delayed something to a later time",
+  "zh": "延後；推遲"
+ },
+ "predicted": {
+  "pos": "v.",
+  "en": "said what would happen in the future",
+  "zh": "預測"
+ },
+ "preserve": {
+  "pos": "v.",
+  "en": "to keep something in its original state",
+  "zh": "保存；保留"
+ },
+ "productive": {
+  "pos": "adj.",
+  "en": "producing a lot or achieving good results",
+  "zh": "有成效的；多產的"
+ },
+ "receive": {
+  "pos": "v.",
+  "en": "to get or be given something",
+  "zh": "接收；收到"
+ },
+ "receives": {
+  "pos": "v.",
+  "en": "gets or is given something",
+  "zh": "接收；收到"
+ },
+ "recognizable": {
+  "pos": "adj.",
+  "en": "easy to identify or notice",
+  "zh": "可辨認的；容易認出的"
+ },
+ "reflect": {
+  "pos": "v.",
+  "en": "to show or represent something accurately",
+  "zh": "反映；呈現"
+ },
+ "replace": {
+  "pos": "v.",
+  "en": "to put something new in place of something else",
+  "zh": "取代；替換"
+ },
+ "replaced": {
+  "pos": "v.",
+  "en": "put something new in place of something else",
+  "zh": "取代；替換"
+ },
+ "replicated": {
+  "pos": "v.",
+  "en": "copied or repeated something exactly",
+  "zh": "複製；重現"
+ },
+ "represent": {
+  "pos": "v.",
+  "en": "to show or stand for something",
+  "zh": "代表；呈現"
+ },
+ "retrieved": {
+  "pos": "v.",
+  "en": "got something back or brought it back",
+  "zh": "取回；取得"
+ },
+ "satisfying": {
+  "pos": "adj.",
+  "en": "giving a feeling of pleasure or contentment",
+  "zh": "令人滿意的"
+ },
+ "significant": {
+  "pos": "adj.",
+  "en": "important or large enough to notice",
+  "zh": "重要的；顯著的"
+ },
+ "substantial": {
+  "pos": "adj.",
+  "en": "large in amount, size, or importance",
+  "zh": "大量的；重大的"
+ },
+ "trivial": {
+  "pos": "adj.",
+  "en": "not important or serious",
+  "zh": "瑣碎的；微不足道的"
+ },
+ "unimportant": {
+  "pos": "adj.",
+  "en": "not important",
+  "zh": "不重要的"
+ },
+ "useful": {
+  "pos": "adj.",
+  "en": "helpful for doing something",
+  "zh": "有用的"
+ },
+ "valuable": {
+  "pos": "adj.",
+  "en": "very useful or important; worth a lot",
+  "zh": "有價值的；寶貴的"
+ },
+ "visible": {
+  "pos": "adj.",
+  "en": "able to be seen",
+  "zh": "看得見的；明顯的"
+ }
+}
