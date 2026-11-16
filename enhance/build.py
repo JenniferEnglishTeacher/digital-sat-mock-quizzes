@@ -45,28 +45,47 @@ def zh_opt(o):
 
 STOP = set('''about above after again against almost already also although always among another anyone anything around because become becomes became before began begin behind being believe believed below beside besides between beyond called cannot certain change changed comes could course describe described describes different during either enough every example except family finally following former further having himself herself however include included includes including instead itself little making many might moment nearly nothing often others otherwise people perhaps possible present rather really recently several should simply something sometimes still students study their there therefore these things though through toward towards under until usually various whether which while within without would years young public report research researchers scientists however later early later great little large small whole other another across along toward where whose'''.split())
 
+GLOSS = json.load(open('enhance/glossary_common.json'))
+GLOSS.update({k: v for k, v in vocab.items() if 'w' not in k})  # option words too
+def lemma_candidates(w):
+    w = w.lower(); out = [w]
+    for suf, rep in (('ies','y'),('ied','y'),('ier','y'),('es',''),('s',''),('ed',''),('ed','e'),('ing',''),('ing','e'),('ly',''),('ally','al'),('ally',''),('ers','er'),('er',''),('ist','ist'),('ists','ist'),('ions','ion'),('al',''),('ness','')):
+        if w.endswith(suf) and len(w) > len(suf) + 2: out.append(w[:-len(suf)] + rep)
+    if len(w) > 4 and w[-1] == w[-2]: out.append(w[:-1])  # stopped -> stop (after 'ed' strip)
+    return out
+def lookup(w):
+    for c in lemma_candidates(w):
+        if c in GLOSS: return c, GLOSS[c]
+    for c in lemma_candidates(w):
+        for suf in ('ing', 'ed', 's'):
+            if c.endswith(suf) and c[:-len(suf)] in GLOSS: return c[:-len(suf)], GLOSS[c[:-len(suf)]]
+    return None, None
+
 def pick_words(text, n=4):
-    seen, cands = set(), []
+    seen, hits, others = set(), [], []
     for m in re.finditer(r"[A-Za-z][a-z]+(?:-[a-z]+)?", text):
         w = m.group(0)
-        if w[0].isupper() or '_' in w: continue
+        if w[0].isupper(): continue
         lw = w.lower()
-        if lw in STOP or lw in seen or len(lw) < 7: continue
-        seen.add(lw); cands.append(lw)
-    cands.sort(key=len, reverse=True)
-    out = cands[:n]
-    if len(out) < 3:  # relax
-        for m in re.finditer(r"[a-z]{5,}", text):
-            lw = m.group(0)
-            if lw not in out and lw not in STOP: out.append(lw)
-            if len(out) >= 3: break
+        if lw in STOP or lw in seen or len(lw) < 5: continue
+        seen.add(lw)
+        lem, g = lookup(lw)
+        if g and lem not in [h[1] for h in hits]: hits.append((lw, lem, g))
+        elif len(lw) >= 7: others.append(lw)
+    hits.sort(key=lambda h: -len(h[1]))
+    out = hits[:n]
+    i = 0
+    while len(out) < 3 and i < len(others): out.append((others[i], others[i], None)); i += 1
     return out
 
 def link_words(text):
     esc = html.escape(text)
-    for w in pick_words(text):
+    for w, lem, g in pick_words(text):
         pat = re.compile(r'(?<![A-Za-z>])(' + re.escape(w) + r')(?![A-Za-z])', re.I)
-        esc = pat.sub(lambda m: f'<a class="dict" href="https://dictionary.cambridge.org/search/english-chinese-traditional/direct/?q={w}" target="_blank" rel="noopener" title="Cambridge 英漢（繁體）字典">{m.group(1)}</a>', esc, count=1)
+        attrs = ''
+        if g:
+            attrs = f' data-w="{html.escape(lem)}" data-pos="{html.escape(g.get("pos",""))}" data-en="{html.escape(g["en"])}" data-zh="{html.escape(g["zh"])}"'
+        esc = pat.sub(lambda m: f'<a class="dict" href="https://dictionary.cambridge.org/search/english-chinese-traditional/direct/?q={lem}" target="_blank" rel="noopener"{attrs}>{m.group(1)}</a>', esc, count=1)
     return esc.replace('\n', '<br>')
 
 Q = []

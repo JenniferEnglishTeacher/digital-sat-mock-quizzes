@@ -1,0 +1,1442 @@
+{
+ "abstract": {
+  "pos": "adj.",
+  "en": "existing as an idea rather than a physical thing; (art) not showing real objects",
+  "zh": "抽象的"
+ },
+ "accessibility": {
+  "pos": "n.",
+  "en": "the quality of being easy to reach, enter, or use",
+  "zh": "可及性；無障礙程度"
+ },
+ "accomplish": {
+  "pos": "v.",
+  "en": "to succeed in doing or finishing something",
+  "zh": "完成；達成"
+ },
+ "accurate": {
+  "pos": "adj.",
+  "en": "correct and exact, without mistakes",
+  "zh": "準確的"
+ },
+ "achievement": {
+  "pos": "n.",
+  "en": "something done successfully with effort or skill",
+  "zh": "成就"
+ },
+ "address": {
+  "pos": "v./n.",
+  "en": "to deal with a problem; a formal speech",
+  "zh": "處理；演說"
+ },
+ "adhesive": {
+  "pos": "n.",
+  "en": "a substance used to stick things together",
+  "zh": "黏著劑"
+ },
+ "administration": {
+  "pos": "n.",
+  "en": "the government or management of a country or organization during a period",
+  "zh": "政府；行政當局"
+ },
+ "advocate": {
+  "pos": "n.",
+  "en": "a person who publicly supports a cause",
+  "zh": "倡議者；擁護者"
+ },
+ "alliance": {
+  "pos": "n.",
+  "en": "an agreement between groups or countries to work together",
+  "zh": "聯盟"
+ },
+ "ambitious": {
+  "pos": "adj.",
+  "en": "having a strong desire to succeed; needing great effort",
+  "zh": "有野心的；雄心勃勃的"
+ },
+ "analyze": {
+  "pos": "v.",
+  "en": "to examine something carefully in order to understand it",
+  "zh": "分析"
+ },
+ "ancient": {
+  "pos": "adj.",
+  "en": "belonging to the very distant past",
+  "zh": "古代的"
+ },
+ "appoint": {
+  "pos": "v.",
+  "en": "to choose someone officially for a job or position",
+  "zh": "任命"
+ },
+ "apprenticeship": {
+  "pos": "n.",
+  "en": "a period of learning a skill by working with an expert",
+  "zh": "學徒制；學徒期"
+ },
+ "appropriate": {
+  "pos": "adj.",
+  "en": "suitable or right for a particular situation",
+  "zh": "合宜的；適當的"
+ },
+ "archaeologist": {
+  "pos": "n.",
+  "en": "a scientist who studies past human life through remains and objects",
+  "zh": "考古學家"
+ },
+ "archive": {
+  "pos": "n.",
+  "en": "a collection of historical documents or records",
+  "zh": "檔案館；檔案"
+ },
+ "archivist": {
+  "pos": "n.",
+  "en": "a person who looks after an archive",
+  "zh": "檔案管理員"
+ },
+ "assumption": {
+  "pos": "n.",
+  "en": "something accepted as true without proof",
+  "zh": "假設；假定"
+ },
+ "astronaut": {
+  "pos": "n.",
+  "en": "a person trained to travel into space",
+  "zh": "太空人"
+ },
+ "atmospheric": {
+  "pos": "adj.",
+  "en": "relating to the air surrounding the Earth",
+  "zh": "大氣的"
+ },
+ "attribute": {
+  "pos": "v.",
+  "en": "to say that something is caused by a particular thing",
+  "zh": "把…歸因於"
+ },
+ "authenticity": {
+  "pos": "n.",
+  "en": "the quality of being real or genuine",
+  "zh": "真實性"
+ },
+ "background": {
+  "pos": "n.",
+  "en": "the setting behind the main subject; a person's past experience",
+  "zh": "背景"
+ },
+ "barnacle": {
+  "pos": "n.",
+  "en": "a small sea creature that sticks firmly to rocks, ships, or turtles",
+  "zh": "藤壺"
+ },
+ "behind the scenes": {
+  "pos": "phr.",
+  "en": "out of public view; without being noticed",
+  "zh": "在幕後"
+ },
+ "bilingual": {
+  "pos": "adj.",
+  "en": "using or able to speak two languages",
+  "zh": "雙語的"
+ },
+ "bloom": {
+  "pos": "v.",
+  "en": "to produce flowers",
+  "zh": "開花"
+ },
+ "botanist": {
+  "pos": "n.",
+  "en": "a scientist who studies plants",
+  "zh": "植物學家"
+ },
+ "calculate": {
+  "pos": "v.",
+  "en": "to find an answer using mathematics",
+  "zh": "計算"
+ },
+ "cargo": {
+  "pos": "n.",
+  "en": "goods carried by a ship, plane, or truck",
+  "zh": "貨物"
+ },
+ "choreographer": {
+  "pos": "n.",
+  "en": "a person who designs dance movements",
+  "zh": "編舞家"
+ },
+ "chronology": {
+  "pos": "n.",
+  "en": "the order in which events happened",
+  "zh": "時間順序；年表"
+ },
+ "civic": {
+  "pos": "adj.",
+  "en": "relating to a town or city and its citizens",
+  "zh": "公民的；市政的"
+ },
+ "claim": {
+  "pos": "n./v.",
+  "en": "a statement that something is true; to state as true",
+  "zh": "主張；聲稱"
+ },
+ "clinic": {
+  "pos": "n.",
+  "en": "a place where people receive medical treatment",
+  "zh": "診所"
+ },
+ "coincide": {
+  "pos": "v.",
+  "en": "to happen at the same time",
+  "zh": "同時發生；吻合"
+ },
+ "collaborate": {
+  "pos": "v.",
+  "en": "to work together with others on a project",
+  "zh": "合作"
+ },
+ "collaboration": {
+  "pos": "n.",
+  "en": "the act of working together",
+  "zh": "合作"
+ },
+ "colleague": {
+  "pos": "n.",
+  "en": "a person you work with",
+  "zh": "同事"
+ },
+ "commission": {
+  "pos": "v.",
+  "en": "to formally ask someone to create a piece of work",
+  "zh": "委託製作"
+ },
+ "complexity": {
+  "pos": "n.",
+  "en": "the state of having many connected parts; being complicated",
+  "zh": "複雜性"
+ },
+ "complicate": {
+  "pos": "v.",
+  "en": "to make something more difficult or confusing",
+  "zh": "使複雜"
+ },
+ "conclude": {
+  "pos": "v.",
+  "en": "to decide something after considering the evidence",
+  "zh": "得出結論"
+ },
+ "conclusion": {
+  "pos": "n.",
+  "en": "a judgment reached after thinking about the evidence",
+  "zh": "結論"
+ },
+ "conjecture": {
+  "pos": "n.",
+  "en": "a guess or opinion based on incomplete information",
+  "zh": "推測"
+ },
+ "considerable": {
+  "pos": "adj.",
+  "en": "large in amount or importance",
+  "zh": "相當大的；可觀的"
+ },
+ "contemporary": {
+  "pos": "adj.",
+  "en": "belonging to the present time; modern",
+  "zh": "當代的"
+ },
+ "contribution": {
+  "pos": "n.",
+  "en": "something you give or do to help achieve something",
+  "zh": "貢獻"
+ },
+ "conventional": {
+  "pos": "adj.",
+  "en": "following what is traditional or usual",
+  "zh": "傳統的；慣例的"
+ },
+ "convert": {
+  "pos": "v.",
+  "en": "to change something into a different form",
+  "zh": "轉換"
+ },
+ "courier": {
+  "pos": "n.",
+  "en": "a person who delivers packages or messages",
+  "zh": "快遞員"
+ },
+ "credit": {
+  "pos": "n.",
+  "en": "public recognition for work done, e.g., on a film",
+  "zh": "（作品的）署名；功勞"
+ },
+ "critical": {
+  "pos": "adj.",
+  "en": "extremely important; or expressing disapproval",
+  "zh": "關鍵的；批判的"
+ },
+ "crystallographer": {
+  "pos": "n.",
+  "en": "a scientist who studies the structure of crystals, often using X-rays",
+  "zh": "晶體學家"
+ },
+ "curator": {
+  "pos": "n.",
+  "en": "a person in charge of a museum collection or exhibition",
+  "zh": "策展人"
+ },
+ "cycle": {
+  "pos": "n.",
+  "en": "a series of events that repeat in the same order",
+  "zh": "循環；週期"
+ },
+ "debate": {
+  "pos": "n.",
+  "en": "a formal discussion in which people give opposing views",
+  "zh": "辯論"
+ },
+ "definite": {
+  "pos": "adj.",
+  "en": "clear and certain; fixed",
+  "zh": "明確的；確定的"
+ },
+ "deliver": {
+  "pos": "v.",
+  "en": "to give a speech; to take something to a place",
+  "zh": "發表（演說）；遞送"
+ },
+ "desegregation": {
+  "pos": "n.",
+  "en": "the ending of the separation of people by race",
+  "zh": "廢除種族隔離"
+ },
+ "determine": {
+  "pos": "v.",
+  "en": "to discover the facts about something; to decide",
+  "zh": "判定；確定"
+ },
+ "developmental": {
+  "pos": "adj.",
+  "en": "relating to growth or development",
+  "zh": "發育的；發展的"
+ },
+ "dignity": {
+  "pos": "n.",
+  "en": "the quality of being worthy of respect",
+  "zh": "尊嚴"
+ },
+ "disagreement": {
+  "pos": "n.",
+  "en": "a situation in which people have different opinions",
+  "zh": "分歧；意見不合"
+ },
+ "disappearance": {
+  "pos": "n.",
+  "en": "the fact of no longer existing or being seen",
+  "zh": "消失"
+ },
+ "dissent": {
+  "pos": "n.",
+  "en": "disagreement with an official or majority opinion",
+  "zh": "異議"
+ },
+ "dissolve": {
+  "pos": "v.",
+  "en": "to mix with a liquid and become part of it; to break down",
+  "zh": "溶解"
+ },
+ "distinct": {
+  "pos": "adj.",
+  "en": "clearly different or separate",
+  "zh": "不同的；明顯的"
+ },
+ "distort": {
+  "pos": "v.",
+  "en": "to change the shape or meaning of something so it is no longer accurate",
+  "zh": "扭曲"
+ },
+ "distribute": {
+  "pos": "v.",
+  "en": "to spread or give out over an area or among people",
+  "zh": "分布；分配"
+ },
+ "document": {
+  "pos": "v.",
+  "en": "to record something in writing or pictures",
+  "zh": "記錄"
+ },
+ "duration": {
+  "pos": "n.",
+  "en": "the length of time something lasts",
+  "zh": "持續時間"
+ },
+ "earnings": {
+  "pos": "n.",
+  "en": "the profit a company makes; money earned",
+  "zh": "盈餘；收入"
+ },
+ "ecologist": {
+  "pos": "n.",
+  "en": "a scientist who studies the relationship between living things and their environment",
+  "zh": "生態學家"
+ },
+ "effectively": {
+  "pos": "adv.",
+  "en": "in a way that produces the intended result",
+  "zh": "有效地"
+ },
+ "elevated": {
+  "pos": "adj.",
+  "en": "raised above the ground or above the normal level",
+  "zh": "高架的；升高的"
+ },
+ "emphasize": {
+  "pos": "v.",
+  "en": "to give special importance to something",
+  "zh": "強調"
+ },
+ "encounter": {
+  "pos": "v.",
+  "en": "to meet or experience something, often unexpectedly",
+  "zh": "遇到"
+ },
+ "enlargement": {
+  "pos": "n.",
+  "en": "the act of making something bigger; a bigger version",
+  "zh": "放大；擴大"
+ },
+ "enthusiast": {
+  "pos": "n.",
+  "en": "a person who is very interested in something",
+  "zh": "愛好者"
+ },
+ "environment": {
+  "pos": "n.",
+  "en": "the conditions or surroundings in which something exists",
+  "zh": "環境"
+ },
+ "equivalent": {
+  "pos": "n./adj.",
+  "en": "something equal in value or meaning; equal",
+  "zh": "等值物；相等的"
+ },
+ "erosion": {
+  "pos": "n.",
+  "en": "the gradual wearing away of rock or soil",
+  "zh": "侵蝕"
+ },
+ "essential": {
+  "pos": "adj.",
+  "en": "absolutely necessary",
+  "zh": "必要的；不可或缺的"
+ },
+ "ethnographic": {
+  "pos": "adj.",
+  "en": "relating to the scientific description of peoples and cultures",
+  "zh": "民族誌的"
+ },
+ "evidence": {
+  "pos": "n.",
+  "en": "facts or signs that show something is true",
+  "zh": "證據"
+ },
+ "exaggerate": {
+  "pos": "v.",
+  "en": "to make something seem larger or more important than it is",
+  "zh": "誇大"
+ },
+ "excerpt": {
+  "pos": "n.",
+  "en": "a short part taken from a longer text",
+  "zh": "節選；摘錄"
+ },
+ "exhibition": {
+  "pos": "n.",
+  "en": "a public display of art or objects",
+  "zh": "展覽"
+ },
+ "expectation": {
+  "pos": "n.",
+  "en": "a belief that something will happen",
+  "zh": "預期；期望"
+ },
+ "experiential": {
+  "pos": "adj.",
+  "en": "based on experience or direct observation",
+  "zh": "體驗式的"
+ },
+ "exploratory": {
+  "pos": "adj.",
+  "en": "done in order to discover or examine something",
+  "zh": "探索的"
+ },
+ "extensively": {
+  "pos": "adv.",
+  "en": "to a large degree; covering a wide area",
+  "zh": "廣泛地"
+ },
+ "fidelity": {
+  "pos": "n.",
+  "en": "faithfulness; the quality of staying loyal to a place or thing",
+  "zh": "忠誠；忠實"
+ },
+ "forecast": {
+  "pos": "n.",
+  "en": "a statement of what is expected to happen in the future",
+  "zh": "預測"
+ },
+ "fossil": {
+  "pos": "n.",
+  "en": "the remains of a prehistoric plant or animal preserved in rock",
+  "zh": "化石"
+ },
+ "fragmentary": {
+  "pos": "adj.",
+  "en": "consisting of small, incomplete pieces",
+  "zh": "零碎的；不完整的"
+ },
+ "function": {
+  "pos": "n.",
+  "en": "the purpose or role of something",
+  "zh": "功能；作用"
+ },
+ "funding": {
+  "pos": "n.",
+  "en": "money provided for a purpose",
+  "zh": "經費；資金"
+ },
+ "genre": {
+  "pos": "n.",
+  "en": "a type or category of art, music, or literature",
+  "zh": "文類；類型"
+ },
+ "grammatically": {
+  "pos": "adv.",
+  "en": "according to the rules of grammar",
+  "zh": "在文法上"
+ },
+ "herbivorous": {
+  "pos": "adj.",
+  "en": "feeding only on plants",
+  "zh": "草食性的"
+ },
+ "historian": {
+  "pos": "n.",
+  "en": "a person who studies or writes about history",
+  "zh": "歷史學家"
+ },
+ "host": {
+  "pos": "n.",
+  "en": "a plant or animal on which another organism lives",
+  "zh": "宿主"
+ },
+ "hybrid": {
+  "pos": "adj./n.",
+  "en": "made by combining two different things",
+  "zh": "混合的；混合體"
+ },
+ "hypothesis": {
+  "pos": "n.",
+  "en": "an idea suggested as an explanation that has not yet been proven",
+  "zh": "假設"
+ },
+ "hypothesize": {
+  "pos": "v.",
+  "en": "to suggest a possible explanation that has not been proven",
+  "zh": "提出假設"
+ },
+ "illustrate": {
+  "pos": "v.",
+  "en": "to show or explain something clearly with examples",
+  "zh": "說明；例證"
+ },
+ "immediately": {
+  "pos": "adv.",
+  "en": "at once; without delay",
+  "zh": "立刻"
+ },
+ "imply": {
+  "pos": "v.",
+  "en": "to suggest something without saying it directly",
+  "zh": "暗示"
+ },
+ "impossible": {
+  "pos": "adj.",
+  "en": "not able to happen or be done",
+  "zh": "不可能的"
+ },
+ "inclusive": {
+  "pos": "adj.",
+  "en": "including everyone; not leaving anyone out",
+  "zh": "包容的；涵蓋廣泛的"
+ },
+ "incomplete": {
+  "pos": "adj.",
+  "en": "not having all the necessary parts",
+  "zh": "不完整的"
+ },
+ "incorporate": {
+  "pos": "v.",
+  "en": "to include something as part of a whole",
+  "zh": "納入；融合"
+ },
+ "independent": {
+  "pos": "adj.",
+  "en": "not controlled by or depending on others",
+  "zh": "獨立的"
+ },
+ "indigenous": {
+  "pos": "adj.",
+  "en": "originally living or existing in a particular place; native",
+  "zh": "原住民的；本土的"
+ },
+ "inference": {
+  "pos": "n.",
+  "en": "a conclusion reached from evidence and reasoning",
+  "zh": "推論"
+ },
+ "inform": {
+  "pos": "v.",
+  "en": "to influence or shape (an idea or decision); to tell",
+  "zh": "影響；促成；告知"
+ },
+ "initially": {
+  "pos": "adv.",
+  "en": "at the beginning",
+  "zh": "起初"
+ },
+ "inspire": {
+  "pos": "v.",
+  "en": "to give someone the idea or desire to do something",
+  "zh": "啟發"
+ },
+ "installation": {
+  "pos": "n.",
+  "en": "a large artwork built for a particular space",
+  "zh": "裝置藝術"
+ },
+ "institution": {
+  "pos": "n.",
+  "en": "a large organization such as a university or hospital",
+  "zh": "機構"
+ },
+ "interaction": {
+  "pos": "n.",
+  "en": "the way things or people affect each other",
+  "zh": "交互作用；互動"
+ },
+ "interpretation": {
+  "pos": "n.",
+  "en": "an explanation of the meaning of something",
+  "zh": "詮釋；解釋"
+ },
+ "intimacy": {
+  "pos": "n.",
+  "en": "a close, familiar relationship",
+  "zh": "親密"
+ },
+ "irrelevant": {
+  "pos": "adj.",
+  "en": "not connected with what is being discussed",
+  "zh": "不相關的"
+ },
+ "juvenile": {
+  "pos": "adj./n.",
+  "en": "young; not yet adult",
+  "zh": "幼年的；幼體"
+ },
+ "laboratory": {
+  "pos": "n.",
+  "en": "a room or building for scientific experiments",
+  "zh": "實驗室"
+ },
+ "landscape": {
+  "pos": "n.",
+  "en": "a large area of land as seen from one place",
+  "zh": "風景；地景"
+ },
+ "legislator": {
+  "pos": "n.",
+  "en": "a member of a group that makes laws",
+  "zh": "議員；立法者"
+ },
+ "linguist": {
+  "pos": "n.",
+  "en": "a scientist who studies language",
+  "zh": "語言學家"
+ },
+ "literary": {
+  "pos": "adj.",
+  "en": "relating to literature",
+  "zh": "文學的"
+ },
+ "logical": {
+  "pos": "adj.",
+  "en": "reasonable and sensible; following the rules of reasoning",
+  "zh": "合乎邏輯的"
+ },
+ "magnetic": {
+  "pos": "adj.",
+  "en": "relating to a magnet or magnetism",
+  "zh": "磁的"
+ },
+ "manuscript": {
+  "pos": "n.",
+  "en": "an author's original text before it is published",
+  "zh": "手稿"
+ },
+ "mathematician": {
+  "pos": "n.",
+  "en": "an expert in mathematics",
+  "zh": "數學家"
+ },
+ "measurement": {
+  "pos": "n.",
+  "en": "the act or result of measuring",
+  "zh": "測量；測量值"
+ },
+ "methodology": {
+  "pos": "n.",
+  "en": "the system of methods used in a study",
+  "zh": "研究方法"
+ },
+ "migraine": {
+  "pos": "n.",
+  "en": "a very severe headache",
+  "zh": "偏頭痛"
+ },
+ "minimum": {
+  "pos": "n.",
+  "en": "the smallest possible amount",
+  "zh": "最低限度；最小值"
+ },
+ "misleading": {
+  "pos": "adj.",
+  "en": "giving a wrong idea or impression",
+  "zh": "誤導的"
+ },
+ "modifier": {
+  "pos": "n.",
+  "en": "a word or phrase that describes another word",
+  "zh": "修飾語"
+ },
+ "monitor": {
+  "pos": "v.",
+  "en": "to watch and check something over time",
+  "zh": "監測"
+ },
+ "moral": {
+  "pos": "adj.",
+  "en": "relating to right and wrong behavior",
+  "zh": "道德的"
+ },
+ "mural": {
+  "pos": "n.",
+  "en": "a large painting done directly on a wall",
+  "zh": "壁畫"
+ },
+ "mussel": {
+  "pos": "n.",
+  "en": "a small sea creature with a dark shell that clings to rocks",
+  "zh": "貽貝"
+ },
+ "narrative": {
+  "pos": "n.",
+  "en": "a story or account of events",
+  "zh": "敘事；故事"
+ },
+ "native": {
+  "pos": "adj.",
+  "en": "originally from a particular place",
+  "zh": "本土的；原生的"
+ },
+ "neighborhood": {
+  "pos": "n.",
+  "en": "an area of a town where people live",
+  "zh": "社區；街區"
+ },
+ "nursery": {
+  "pos": "n.",
+  "en": "a place where young animals or plants are raised",
+  "zh": "育幼場；苗圃"
+ },
+ "nutrient": {
+  "pos": "n.",
+  "en": "a substance that living things need to grow",
+  "zh": "養分"
+ },
+ "objection": {
+  "pos": "n.",
+  "en": "a reason for disagreeing with something",
+  "zh": "反對意見"
+ },
+ "observation": {
+  "pos": "n.",
+  "en": "the act of watching carefully; a remark based on it",
+  "zh": "觀察"
+ },
+ "obvious": {
+  "pos": "adj.",
+  "en": "easy to see or understand",
+  "zh": "明顯的"
+ },
+ "occasion": {
+  "pos": "n.",
+  "en": "a special event or time",
+  "zh": "場合"
+ },
+ "opportunity": {
+  "pos": "n.",
+  "en": "a chance to do something",
+  "zh": "機會"
+ },
+ "optimistic": {
+  "pos": "adj.",
+  "en": "expecting good things to happen",
+  "zh": "樂觀的"
+ },
+ "oral": {
+  "pos": "adj.",
+  "en": "spoken rather than written",
+  "zh": "口述的；口頭的"
+ },
+ "orchestral": {
+  "pos": "adj.",
+  "en": "written for or played by an orchestra",
+  "zh": "管弦樂的"
+ },
+ "organism": {
+  "pos": "n.",
+  "en": "a living thing",
+  "zh": "生物"
+ },
+ "orient": {
+  "pos": "v.",
+  "en": "to position something in a particular direction",
+  "zh": "使朝向；定向"
+ },
+ "overstate": {
+  "pos": "v.",
+  "en": "to describe something as more important than it really is",
+  "zh": "誇大其詞"
+ },
+ "parasitic": {
+  "pos": "adj.",
+  "en": "living on or in another organism and taking food from it",
+  "zh": "寄生的"
+ },
+ "participation": {
+  "pos": "n.",
+  "en": "the act of taking part in something",
+  "zh": "參與"
+ },
+ "participatory": {
+  "pos": "adj.",
+  "en": "allowing people to take part",
+  "zh": "參與式的"
+ },
+ "percentage": {
+  "pos": "n.",
+  "en": "an amount expressed as a part of 100",
+  "zh": "百分比"
+ },
+ "perceptive": {
+  "pos": "adj.",
+  "en": "quick to notice and understand things",
+  "zh": "敏銳的；有洞察力的"
+ },
+ "phenomenon": {
+  "pos": "n.",
+  "en": "a fact or event that is observed to happen",
+  "zh": "現象"
+ },
+ "philosopher": {
+  "pos": "n.",
+  "en": "a person who studies ideas about knowledge, truth, and life",
+  "zh": "哲學家"
+ },
+ "photograph": {
+  "pos": "n.",
+  "en": "a picture made with a camera",
+  "zh": "照片"
+ },
+ "pioneering": {
+  "pos": "adj.",
+  "en": "being the first to do or develop something new",
+  "zh": "開創性的"
+ },
+ "plausible": {
+  "pos": "adj.",
+  "en": "seeming reasonable or likely to be true",
+  "zh": "合理的；可信的"
+ },
+ "pleasure": {
+  "pos": "n.",
+  "en": "a feeling of happiness or enjoyment",
+  "zh": "快樂"
+ },
+ "pollinator": {
+  "pos": "n.",
+  "en": "an animal, such as a bee, that carries pollen between plants",
+  "zh": "傳粉者"
+ },
+ "portray": {
+  "pos": "v.",
+  "en": "to represent or describe someone or something in a particular way",
+  "zh": "描繪；呈現"
+ },
+ "precipitate": {
+  "pos": "v.",
+  "en": "to cause something to happen suddenly or sooner",
+  "zh": "引發；促成"
+ },
+ "precise": {
+  "pos": "adj.",
+  "en": "exact and accurate",
+  "zh": "精確的"
+ },
+ "predator": {
+  "pos": "n.",
+  "en": "an animal that kills and eats other animals",
+  "zh": "掠食者"
+ },
+ "preliminary": {
+  "pos": "adj.",
+  "en": "happening before the main part; initial",
+  "zh": "初步的"
+ },
+ "premiere": {
+  "pos": "v./n.",
+  "en": "to perform or show for the first time; a first performance",
+  "zh": "首演；首映"
+ },
+ "preserve": {
+  "pos": "v.",
+  "en": "to keep something safe from harm or change",
+  "zh": "保存"
+ },
+ "prevalent": {
+  "pos": "adj.",
+  "en": "common or widespread",
+  "zh": "普遍的"
+ },
+ "principle": {
+  "pos": "n.",
+  "en": "a basic rule or belief that guides behavior",
+  "zh": "原則"
+ },
+ "production": {
+  "pos": "n.",
+  "en": "the process of making or growing something; the amount made",
+  "zh": "生產；產量"
+ },
+ "professor": {
+  "pos": "n.",
+  "en": "a senior teacher at a university",
+  "zh": "教授"
+ },
+ "programmer": {
+  "pos": "n.",
+  "en": "a person who writes computer programs",
+  "zh": "程式設計師"
+ },
+ "proportion": {
+  "pos": "n.",
+  "en": "a part or share of a whole",
+  "zh": "比例"
+ },
+ "proportional": {
+  "pos": "adj.",
+  "en": "corresponding in size or amount to something else",
+  "zh": "成比例的"
+ },
+ "protein": {
+  "pos": "n.",
+  "en": "a substance in living things that is needed for growth",
+  "zh": "蛋白質"
+ },
+ "pterosaur": {
+  "pos": "n.",
+  "en": "a flying reptile that lived in the time of dinosaurs",
+  "zh": "翼龍"
+ },
+ "publication": {
+  "pos": "n.",
+  "en": "a book, magazine, or article that is printed; the act of publishing",
+  "zh": "出版品；發表"
+ },
+ "quartzite": {
+  "pos": "n.",
+  "en": "a hard rock formed from sandstone",
+  "zh": "石英岩"
+ },
+ "realism": {
+  "pos": "n.",
+  "en": "the showing of things as they really are in art and literature",
+  "zh": "寫實主義"
+ },
+ "rebut": {
+  "pos": "v.",
+  "en": "to argue that a claim is false",
+  "zh": "反駁"
+ },
+ "recover": {
+  "pos": "v.",
+  "en": "to return to a normal or healthy state",
+  "zh": "復原；康復"
+ },
+ "recruit": {
+  "pos": "v.",
+  "en": "to persuade someone to join an organization or activity",
+  "zh": "招募"
+ },
+ "reef": {
+  "pos": "n.",
+  "en": "a line of rock or coral near the surface of the sea",
+  "zh": "礁；珊瑚礁"
+ },
+ "rejection": {
+  "pos": "n.",
+  "en": "the act of refusing to accept something",
+  "zh": "拒絕；否定"
+ },
+ "relationship": {
+  "pos": "n.",
+  "en": "the way two things are connected",
+  "zh": "關係"
+ },
+ "relevant": {
+  "pos": "adj.",
+  "en": "connected with the matter being discussed",
+  "zh": "相關的"
+ },
+ "remarkable": {
+  "pos": "adj.",
+  "en": "unusual and worth noticing",
+  "zh": "非凡的；值得注意的"
+ },
+ "replicate": {
+  "pos": "v.",
+  "en": "to repeat an experiment to check its results",
+  "zh": "重複驗證；複製"
+ },
+ "represent": {
+  "pos": "v.",
+  "en": "to show or stand for something",
+  "zh": "代表；呈現"
+ },
+ "reprieve": {
+  "pos": "n.",
+  "en": "a temporary relief from something bad",
+  "zh": "暫時的緩解"
+ },
+ "reproductive": {
+  "pos": "adj.",
+  "en": "relating to producing young",
+  "zh": "繁殖的"
+ },
+ "researcher": {
+  "pos": "n.",
+  "en": "a person who studies a subject carefully to discover facts",
+  "zh": "研究人員"
+ },
+ "resilient": {
+  "pos": "adj.",
+  "en": "able to recover quickly or withstand pressure",
+  "zh": "堅韌的；有復原力的"
+ },
+ "restore": {
+  "pos": "v.",
+  "en": "to return something to its original condition",
+  "zh": "復育；修復"
+ },
+ "revolve": {
+  "pos": "v.",
+  "en": "to have something as its main point or focus; to turn around",
+  "zh": "圍繞；旋轉"
+ },
+ "rhetorically": {
+  "pos": "adv.",
+  "en": "in terms of effective or persuasive language",
+  "zh": "在修辭上"
+ },
+ "romanticize": {
+  "pos": "v.",
+  "en": "to describe something as better or more appealing than it really is",
+  "zh": "浪漫化；美化"
+ },
+ "roundworm": {
+  "pos": "n.",
+  "en": "a small worm with a round body, often living in soil",
+  "zh": "圓蟲；線蟲"
+ },
+ "scenario": {
+  "pos": "n.",
+  "en": "a description of a possible situation",
+  "zh": "情境"
+ },
+ "sculpture": {
+  "pos": "n.",
+  "en": "a three-dimensional work of art",
+  "zh": "雕塑"
+ },
+ "secondary": {
+  "pos": "adj.",
+  "en": "less important than something else",
+  "zh": "次要的"
+ },
+ "secrete": {
+  "pos": "v.",
+  "en": "(of a living thing) to produce and release a substance",
+  "zh": "分泌"
+ },
+ "secretion": {
+  "pos": "n.",
+  "en": "a substance produced and released by a living thing",
+  "zh": "分泌物"
+ },
+ "sediment": {
+  "pos": "n.",
+  "en": "material that settles at the bottom of a liquid",
+  "zh": "沉積物"
+ },
+ "seedling": {
+  "pos": "n.",
+  "en": "a young plant grown from a seed",
+  "zh": "幼苗"
+ },
+ "sensory": {
+  "pos": "adj.",
+  "en": "relating to the physical senses",
+  "zh": "感官的"
+ },
+ "significance": {
+  "pos": "n.",
+  "en": "importance or meaning",
+  "zh": "重要性；意義"
+ },
+ "significant": {
+  "pos": "adj.",
+  "en": "important or large enough to notice",
+  "zh": "顯著的；重要的"
+ },
+ "simplify": {
+  "pos": "v.",
+  "en": "to make something easier to understand",
+  "zh": "簡化"
+ },
+ "skyrocket": {
+  "pos": "v.",
+  "en": "to rise extremely quickly",
+  "zh": "飆升"
+ },
+ "socialization": {
+  "pos": "n.",
+  "en": "the process of learning to behave in a way accepted by a group",
+  "zh": "社會化"
+ },
+ "sole": {
+  "pos": "adj.",
+  "en": "only; single",
+  "zh": "唯一的"
+ },
+ "spike": {
+  "pos": "n.",
+  "en": "a sudden sharp increase",
+  "zh": "飆升；激增"
+ },
+ "strategically": {
+  "pos": "adv.",
+  "en": "in a way that is carefully planned to achieve a goal",
+  "zh": "策略性地"
+ },
+ "subsequent": {
+  "pos": "adj.",
+  "en": "happening after something else",
+  "zh": "隨後的"
+ },
+ "substantially": {
+  "pos": "adv.",
+  "en": "to a large degree",
+  "zh": "大幅地；實質上"
+ },
+ "subtle": {
+  "pos": "adj.",
+  "en": "not obvious; small and hard to notice",
+  "zh": "細微的"
+ },
+ "survive": {
+  "pos": "v.",
+  "en": "to continue to live or exist",
+  "zh": "存活"
+ },
+ "synthesize": {
+  "pos": "v.",
+  "en": "to combine different ideas or things into a whole",
+  "zh": "綜合；合成"
+ },
+ "tendency": {
+  "pos": "n.",
+  "en": "a likelihood to behave or happen in a particular way",
+  "zh": "傾向"
+ },
+ "testimony": {
+  "pos": "n.",
+  "en": "a formal statement that something is true",
+  "zh": "證詞"
+ },
+ "traditionally": {
+  "pos": "adv.",
+  "en": "according to long-established custom",
+  "zh": "傳統上"
+ },
+ "transition": {
+  "pos": "n.",
+  "en": "a change from one state or topic to another",
+  "zh": "轉折；過渡"
+ },
+ "transportation": {
+  "pos": "n.",
+  "en": "the system of moving people or goods",
+  "zh": "交通運輸"
+ },
+ "treaty": {
+  "pos": "n.",
+  "en": "a formal agreement between countries",
+  "zh": "條約"
+ },
+ "uncertainty": {
+  "pos": "n.",
+  "en": "the state of not being sure",
+  "zh": "不確定性"
+ },
+ "underlying": {
+  "pos": "adj.",
+  "en": "lying beneath; forming the basis of something",
+  "zh": "底下的；根本的"
+ },
+ "vaccine": {
+  "pos": "n.",
+  "en": "a substance given to protect against a disease",
+  "zh": "疫苗"
+ },
+ "vegetation": {
+  "pos": "n.",
+  "en": "plants in general, especially in a particular area",
+  "zh": "植被"
+ },
+ "virtue": {
+  "pos": "n.",
+  "en": "a good moral quality",
+  "zh": "美德"
+ },
+ "visibility": {
+  "pos": "n.",
+  "en": "the degree to which something can be seen or noticed",
+  "zh": "能見度；曝光度"
+ },
+ "volunteer": {
+  "pos": "n.",
+  "en": "a person who does work without being paid",
+  "zh": "志工"
+ },
+ "wary": {
+  "pos": "adj.",
+  "en": "cautious; careful because of possible danger",
+  "zh": "警覺的；小心的"
+ },
+ "wetland": {
+  "pos": "n.",
+  "en": "land that is often covered with water, such as a marsh",
+  "zh": "濕地"
+ },
+ "promote": {
+  "pos": "v.",
+  "en": "to encourage or support something so that it develops",
+  "zh": "推動；促進"
+ },
+ "vast": {
+  "pos": "adj.",
+  "en": "extremely large",
+  "zh": "廣大的"
+ },
+ "continuously": {
+  "pos": "adv.",
+  "en": "without stopping or interruption",
+  "zh": "持續不斷地"
+ },
+ "binary": {
+  "pos": "adj.",
+  "en": "consisting of two parts",
+  "zh": "雙重的；二元的"
+ },
+ "formation": {
+  "pos": "n.",
+  "en": "the process by which something is formed",
+  "zh": "形成"
+ },
+ "existence": {
+  "pos": "n.",
+  "en": "the state of being real or present",
+  "zh": "存在"
+ },
+ "modeling": {
+  "pos": "n.",
+  "en": "the use of mathematical or computer models to study something",
+  "zh": "建模"
+ },
+ "distorted": {
+  "pos": "adj.",
+  "en": "changed in shape so as to look unnatural or unclear",
+  "zh": "扭曲的；變形的"
+ },
+ "recognize": {
+  "pos": "v.",
+  "en": "to identify something seen before",
+  "zh": "辨認"
+ },
+ "automated": {
+  "pos": "adj.",
+  "en": "operated by machines without human control",
+  "zh": "自動化的"
+ },
+ "security": {
+  "pos": "n.",
+  "en": "protection against danger or attack",
+  "zh": "安全；保全"
+ },
+ "dull": {
+  "pos": "adj.",
+  "en": "boring; not interesting",
+  "zh": "無趣的"
+ },
+ "adapted": {
+  "pos": "adj.",
+  "en": "changed to suit a new purpose or audience",
+  "zh": "改編的"
+ },
+ "mighty": {
+  "pos": "adj.",
+  "en": "very strong or powerful",
+  "zh": "強大的"
+ },
+ "mirth": {
+  "pos": "n.",
+  "en": "laughter and happiness",
+  "zh": "歡樂"
+ },
+ "cradle": {
+  "pos": "v.",
+  "en": "to hold gently, like a baby",
+  "zh": "搖籃般地哺育；輕抱"
+ },
+ "respond": {
+  "pos": "v.",
+  "en": "to answer or react",
+  "zh": "回應"
+ },
+ "output": {
+  "pos": "n.",
+  "en": "the amount of something produced",
+  "zh": "產出；產量"
+ },
+ "entirely": {
+  "pos": "adv.",
+  "en": "completely",
+  "zh": "完全地"
+ },
+ "campaign": {
+  "pos": "n.",
+  "en": "a planned series of activities to achieve a goal",
+  "zh": "宣導活動；運動"
+ },
+ "consumer": {
+  "pos": "n.",
+  "en": "a person who buys goods or services",
+  "zh": "消費者"
+ },
+ "reduction": {
+  "pos": "n.",
+  "en": "the act of making something smaller or less",
+  "zh": "減少"
+ },
+ "instruct": {
+  "pos": "v.",
+  "en": "to tell someone officially to do something",
+  "zh": "指示"
+ },
+ "announce": {
+  "pos": "v.",
+  "en": "to make something known publicly",
+  "zh": "宣布"
+ },
+ "structure": {
+  "pos": "n.",
+  "en": "the way parts are arranged or put together",
+  "zh": "結構"
+ },
+ "fiber": {
+  "pos": "n.",
+  "en": "a thin thread-like strand",
+  "zh": "纖維"
+ },
+ "graduate": {
+  "pos": "adj./n.",
+  "en": "relating to study after a first degree; a person who has completed a degree",
+  "zh": "研究生的；畢業生"
+ },
+ "numerous": {
+  "pos": "adj.",
+  "en": "many",
+  "zh": "眾多的"
+ },
+ "villain": {
+  "pos": "n.",
+  "en": "a bad character in a story or film",
+  "zh": "反派"
+ },
+ "heroine": {
+  "pos": "n.",
+  "en": "the main female character",
+  "zh": "女主角"
+ },
+ "expand": {
+  "pos": "v.",
+  "en": "to become or make larger",
+  "zh": "擴展"
+ },
+ "version": {
+  "pos": "n.",
+  "en": "a form of something that is slightly different from others",
+  "zh": "版本"
+ },
+ "classic": {
+  "pos": "adj.",
+  "en": "well known and of lasting quality",
+  "zh": "經典的"
+ },
+ "single-use": {
+  "pos": "adj.",
+  "en": "designed to be used only once",
+  "zh": "一次性的"
+ },
+ "condition": {
+  "pos": "n.",
+  "en": "the state or situation something is in",
+  "zh": "條件；狀況"
+ },
+ "computer scientist": {
+  "pos": "n.",
+  "en": "a scientist who studies computers and computing",
+  "zh": "電腦科學家"
+ },
+ "dully": {
+  "pos": "adv.",
+  "en": "in a boring, uninterested way",
+  "zh": "無趣地"
+ },
+ "poetry": {
+  "pos": "n.",
+  "en": "poems in general",
+  "zh": "詩"
+ }
+}
