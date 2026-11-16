@@ -1,0 +1,445 @@
+{
+ "Arriving at": {
+  "w": "arrive at",
+  "pos": "phr. v.",
+  "en": "reaching a place at the end of a trip",
+  "zh": "抵達；到達"
+ },
+ "Gaining on": {
+  "w": "gain on",
+  "pos": "phr. v.",
+  "en": "getting closer to someone or something you are chasing",
+  "zh": "逐漸追上；逼近"
+ },
+ "Joining with": {
+  "w": "join with",
+  "pos": "phr. v.",
+  "en": "coming together with someone to do something",
+  "zh": "與……結合；與……聯手"
+ },
+ "Stretching toward": {
+  "w": "stretch toward",
+  "pos": "phr. v.",
+  "en": "extending your arm or body in the direction of something",
+  "zh": "伸向；朝……伸出"
+ },
+ "a celebrated": {
+  "w": "celebrated",
+  "pos": "adj.",
+  "en": "famous and praised by many people",
+  "zh": "著名的；備受讚揚的"
+ },
+ "a conspicuous": {
+  "w": "conspicuous",
+  "pos": "adj.",
+  "en": "very easy to notice; standing out",
+  "zh": "顯眼的；引人注目的"
+ },
+ "a contentious": {
+  "w": "contentious",
+  "pos": "adj.",
+  "en": "causing a lot of disagreement or argument",
+  "zh": "有爭議的；引起爭論的"
+ },
+ "a controversial": {
+  "w": "controversial",
+  "pos": "adj.",
+  "en": "causing public disagreement",
+  "zh": "有爭議的"
+ },
+ "a disputed": {
+  "w": "disputed",
+  "pos": "adj.",
+  "en": "argued about; not agreed on",
+  "zh": "有爭議的；受質疑的"
+ },
+ "a fragile": {
+  "w": "fragile",
+  "pos": "adj.",
+  "en": "weak and easily damaged or lost",
+  "zh": "脆弱的；不穩固的"
+ },
+ "a heated": {
+  "w": "heated",
+  "pos": "adj.",
+  "en": "full of strong feeling or angry argument",
+  "zh": "激烈的；熱烈的"
+ },
+ "a lasting": {
+  "w": "lasting",
+  "pos": "adj.",
+  "en": "continuing for a long time",
+  "zh": "持久的"
+ },
+ "a limited": {
+  "w": "limited",
+  "pos": "adj.",
+  "en": "small in amount or importance; restricted",
+  "zh": "有限的"
+ },
+ "a marginal": {
+  "w": "marginal",
+  "pos": "adj.",
+  "en": "small and not very important; at the edge",
+  "zh": "邊緣的；次要的"
+ },
+ "a permanent": {
+  "w": "permanent",
+  "pos": "adj.",
+  "en": "lasting forever or for a very long time",
+  "zh": "永久的"
+ },
+ "a prominent": {
+  "w": "prominent",
+  "pos": "adj.",
+  "en": "important and well known; easy to see",
+  "zh": "顯著的；重要的"
+ },
+ "a secure": {
+  "w": "secure",
+  "pos": "adj.",
+  "en": "firm and not likely to be lost",
+  "zh": "穩固的；安穩的"
+ },
+ "a slight": {
+  "w": "slight",
+  "pos": "adj.",
+  "en": "small in degree; not much",
+  "zh": "輕微的；微小的"
+ },
+ "a tenuous": {
+  "w": "tenuous",
+  "pos": "adj.",
+  "en": "very weak or slight; easily lost",
+  "zh": "薄弱的；不穩固的"
+ },
+ "a visible": {
+  "w": "visible",
+  "pos": "adj.",
+  "en": "able to be seen or noticed",
+  "zh": "明顯的；看得見的"
+ },
+ "acquire": {
+  "pos": "v.",
+  "en": "to get or gain something",
+  "zh": "取得；獲得"
+ },
+ "acquired": {
+  "pos": "v.",
+  "en": "got or gained something (past tense of acquire)",
+  "zh": "取得；獲得（acquire 的過去式／過去分詞）"
+ },
+ "adjust": {
+  "pos": "v.",
+  "en": "to change something slightly to make it fit or work better",
+  "zh": "調整"
+ },
+ "alter": {
+  "pos": "v.",
+  "en": "to change something",
+  "zh": "改變；修改"
+ },
+ "an enduring": {
+  "w": "enduring",
+  "pos": "adj.",
+  "en": "lasting for a long time",
+  "zh": "持久的；長存的"
+ },
+ "an uncertain": {
+  "w": "uncertain",
+  "pos": "adj.",
+  "en": "not sure or fixed; not clearly known",
+  "zh": "不確定的；不穩固的"
+ },
+ "approached": {
+  "pos": "v.",
+  "en": "came near to something (past tense of approach)",
+  "zh": "接近；靠近（approach 的過去式）"
+ },
+ "arrived at": {
+  "w": "arrive at",
+  "pos": "phr. v.",
+  "en": "reached a place (past tense)",
+  "zh": "抵達（過去式）"
+ },
+ "arrived beside": {
+  "w": "arrive beside",
+  "pos": "phr. v.",
+  "en": "came to a place next to something (past tense)",
+  "zh": "來到……旁邊（過去式）"
+ },
+ "arrived near": {
+  "w": "arrive near",
+  "pos": "phr. v.",
+  "en": "came to a place close to something (past tense)",
+  "zh": "來到……附近（過去式）"
+ },
+ "caught up to": {
+  "w": "catch up to",
+  "pos": "phr. v.",
+  "en": "reached someone who was ahead of you (past tense)",
+  "zh": "追上（過去式）"
+ },
+ "caught up with": {
+  "w": "catch up with",
+  "pos": "phr. v.",
+  "en": "reached the same level or place as someone ahead (past tense)",
+  "zh": "趕上；追上（過去式）"
+ },
+ "classified": {
+  "pos": "v.",
+  "en": "arranged things into groups (past tense of classify)",
+  "zh": "分類（classify 的過去式／過去分詞）"
+ },
+ "collaborated with": {
+  "w": "collaborate with",
+  "pos": "phr. v.",
+  "en": "worked together with someone (past tense)",
+  "zh": "與……合作（過去式）"
+ },
+ "collected": {
+  "pos": "v.",
+  "en": "gathered things together (past tense of collect)",
+  "zh": "收集（collect 的過去式／過去分詞）"
+ },
+ "combined with": {
+  "w": "combine with",
+  "pos": "phr. v.",
+  "en": "joined or mixed together with something (past tense)",
+  "zh": "與……結合（過去式）"
+ },
+ "conceal": {
+  "pos": "v.",
+  "en": "to hide something",
+  "zh": "隱藏"
+ },
+ "condense": {
+  "pos": "v.",
+  "en": "to make something shorter or more compact",
+  "zh": "濃縮；精簡"
+ },
+ "decorate": {
+  "pos": "v.",
+  "en": "to make something look more attractive by adding things to it",
+  "zh": "裝飾"
+ },
+ "decreased": {
+  "pos": "v.",
+  "en": "became or was made smaller (past tense of decrease)",
+  "zh": "減少；降低（decrease 的過去式／過去分詞）"
+ },
+ "defend": {
+  "pos": "v.",
+  "en": "to support an idea or claim with arguments or evidence",
+  "zh": "為……辯護；捍衛"
+ },
+ "derive": {
+  "pos": "v.",
+  "en": "to get something from a particular source",
+  "zh": "取得；推導出"
+ },
+ "determined": {
+  "pos": "v.",
+  "en": "found out or decided exactly (past tense of determine)",
+  "zh": "確定；決定（determine 的過去式／過去分詞）"
+ },
+ "diminished": {
+  "pos": "v.",
+  "en": "made or became smaller or weaker (past tense of diminish)",
+  "zh": "減少；減弱（diminish 的過去式／過去分詞）"
+ },
+ "evaluated": {
+  "pos": "v.",
+  "en": "judged the quality or value of something (past tense of evaluate)",
+  "zh": "評估（evaluate 的過去式／過去分詞）"
+ },
+ "expanded": {
+  "pos": "v.",
+  "en": "made or became larger (past tense of expand)",
+  "zh": "擴大；擴展（expand 的過去式／過去分詞）"
+ },
+ "extended toward": {
+  "w": "extend toward",
+  "pos": "phr. v.",
+  "en": "reached or stretched out in the direction of something (past tense)",
+  "zh": "伸向（過去式）"
+ },
+ "extract": {
+  "pos": "v.",
+  "en": "to get information or a substance out of something",
+  "zh": "取得；提取"
+ },
+ "gain": {
+  "pos": "v.",
+  "en": "to get or obtain something",
+  "zh": "獲得"
+ },
+ "gained on": {
+  "w": "gain on",
+  "pos": "phr. v.",
+  "en": "got closer to someone being chased (past tense)",
+  "zh": "逐漸追上（過去式）"
+ },
+ "hoard": {
+  "pos": "v.",
+  "en": "to collect and hide a large amount of something",
+  "zh": "囤積；貯藏"
+ },
+ "imagine": {
+  "pos": "v.",
+  "en": "to form a picture or idea in your mind",
+  "zh": "想像"
+ },
+ "inhabit": {
+  "pos": "v.",
+  "en": "to live in a place",
+  "zh": "居住於"
+ },
+ "joined": {
+  "pos": "v.",
+  "en": "connected or became part of a group (past tense of join)",
+  "zh": "加入；連接（join 的過去式）"
+ },
+ "joined with": {
+  "w": "join with",
+  "pos": "phr. v.",
+  "en": "came together with someone (past tense)",
+  "zh": "與……結合（過去式）"
+ },
+ "justify": {
+  "pos": "v.",
+  "en": "to show that something is reasonable or right",
+  "zh": "證明……有理；為……辯護"
+ },
+ "leaned toward": {
+  "w": "lean toward",
+  "pos": "phr. v.",
+  "en": "bent the body in the direction of something (past tense)",
+  "zh": "傾身靠向（過去式）"
+ },
+ "measured": {
+  "pos": "v.",
+  "en": "found the size or amount of something (past tense of measure)",
+  "zh": "測量（measure 的過去式／過去分詞）"
+ },
+ "modify": {
+  "pos": "v.",
+  "en": "to change something slightly",
+  "zh": "修改"
+ },
+ "muted": {
+  "pos": "v.",
+  "en": "made a sound or signal quieter or weaker (past tense of mute)",
+  "zh": "減弱；使變小聲（mute 的過去式／過去分詞）"
+ },
+ "obtain": {
+  "pos": "v.",
+  "en": "to get something, especially through effort",
+  "zh": "獲得；取得"
+ },
+ "obtained": {
+  "pos": "v.",
+  "en": "got something (past tense of obtain)",
+  "zh": "獲得；取得（obtain 的過去式／過去分詞）"
+ },
+ "occupy": {
+  "pos": "v.",
+  "en": "to fill or use a space or time",
+  "zh": "佔據；佔用"
+ },
+ "overtook": {
+  "w": "overtake",
+  "pos": "v.",
+  "en": "went past someone moving in the same direction (past tense of overtake)",
+  "zh": "超越；追過（overtake 的過去式）"
+ },
+ "reached over to": {
+  "w": "reach over to",
+  "pos": "phr. v.",
+  "en": "stretched an arm across something to get it (past tense)",
+  "zh": "伸手越過去拿（過去式）"
+ },
+ "reached toward": {
+  "w": "reach toward",
+  "pos": "phr. v.",
+  "en": "stretched an arm in the direction of something (past tense)",
+  "zh": "伸向（過去式）"
+ },
+ "reduced": {
+  "pos": "v.",
+  "en": "made smaller or less (past tense of reduce)",
+  "zh": "減少；降低（reduce 的過去式／過去分詞）"
+ },
+ "reserve": {
+  "pos": "v.",
+  "en": "to keep something for later or for a special purpose",
+  "zh": "保留；預訂"
+ },
+ "resolved": {
+  "pos": "v.",
+  "en": "solved a problem or made a decision (past tense of resolve)",
+  "zh": "解決；決定（resolve 的過去式／過去分詞）"
+ },
+ "revise": {
+  "pos": "v.",
+  "en": "to change something to improve or correct it",
+  "zh": "修改；修訂"
+ },
+ "shorten": {
+  "pos": "v.",
+  "en": "to make something shorter",
+  "zh": "縮短"
+ },
+ "stockpile": {
+  "pos": "v.",
+  "en": "to collect a large supply of something for future use",
+  "zh": "儲存；囤積"
+ },
+ "stretched toward": {
+  "w": "stretch toward",
+  "pos": "phr. v.",
+  "en": "extended the arm or body in the direction of something (past tense)",
+  "zh": "伸向（過去式）"
+ },
+ "substantiate": {
+  "pos": "v.",
+  "en": "to prove a claim with evidence",
+  "zh": "證實；以證據支持"
+ },
+ "summarize": {
+  "pos": "v.",
+  "en": "to give a short statement of the main points",
+  "zh": "總結；概述"
+ },
+ "support": {
+  "pos": "v.",
+  "en": "to show that a claim is true or reasonable",
+  "zh": "支持；證實"
+ },
+ "united with": {
+  "w": "unite with",
+  "pos": "phr. v.",
+  "en": "joined together with someone as one group (past tense)",
+  "zh": "與……聯合（過去式）"
+ },
+ "validate": {
+  "pos": "v.",
+  "en": "to prove that something is true or correct",
+  "zh": "證實；確認……有效"
+ },
+ "visited": {
+  "pos": "v.",
+  "en": "went to see a person or place (past tense of visit)",
+  "zh": "拜訪；參觀（visit 的過去式）"
+ },
+ "weakened": {
+  "pos": "v.",
+  "en": "made or became less strong (past tense of weaken)",
+  "zh": "減弱；削弱（weaken 的過去式／過去分詞）"
+ },
+ "withhold": {
+  "pos": "v.",
+  "en": "to refuse to give something",
+  "zh": "扣留；保留不給"
+ }
+}

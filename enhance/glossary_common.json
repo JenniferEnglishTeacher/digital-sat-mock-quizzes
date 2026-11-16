@@ -4213,5 +4213,245 @@
   "pos": "v.",
   "en": "to make or create something, especially in large numbers",
   "zh": "生產；製造"
+ },
+ "gorgeous": {
+  "pos": "adj.",
+  "en": "very beautiful or attractive",
+  "zh": "非常漂亮的；華麗的"
+ },
+ "resist": {
+  "pos": "v.",
+  "en": "to stop yourself from doing or having something you want",
+  "zh": "抗拒；忍住"
+ },
+ "pile": {
+  "pos": "v.",
+  "en": "to put things on top of each other in a heap",
+  "zh": "堆放；堆積"
+ },
+ "neuroeconomist": {
+  "pos": "n.",
+  "en": "a scientist who studies how the brain makes economic decisions",
+  "zh": "神經經濟學家"
+ },
+ "prefrontal": {
+  "pos": "adj.",
+  "en": "in the front part of the brain's frontal lobe",
+  "zh": "前額葉的"
+ },
+ "cortex": {
+  "pos": "n.",
+  "en": "the outer layer of the brain",
+  "zh": "皮質；大腦皮層"
+ },
+ "parietal": {
+  "pos": "adj.",
+  "en": "relating to the upper middle part of the brain",
+  "zh": "頂葉的"
+ },
+ "decisive": {
+  "pos": "adj.",
+  "en": "able to make decisions quickly and firmly",
+  "zh": "果斷的"
+ },
+ "intensify": {
+  "pos": "v.",
+  "en": "to become or make something stronger",
+  "zh": "增強；加劇"
+ },
+ "anecdote": {
+  "pos": "n.",
+  "en": "a short, interesting story about a real event",
+  "zh": "軼事；趣聞"
+ },
+ "passenger": {
+  "pos": "n.",
+  "en": "a person traveling in a vehicle, ship, or plane who is not driving it",
+  "zh": "乘客"
+ },
+ "captain": {
+  "pos": "n.",
+  "en": "the person in charge of a ship",
+  "zh": "船長"
+ },
+ "radiant": {
+  "pos": "adj.",
+  "en": "shining brightly; full of light",
+  "zh": "光芒四射的；燦爛的"
+ },
+ "swarm": {
+  "pos": "v.",
+  "en": "to be full of a large moving crowd",
+  "zh": "擠滿；蜂擁"
+ },
+ "tireless": {
+  "pos": "adj.",
+  "en": "never seeming to get tired",
+  "zh": "不知疲倦的"
+ },
+ "sidewalk": {
+  "pos": "n.",
+  "en": "a paved path for walking beside a street",
+  "zh": "人行道"
+ },
+ "dart": {
+  "pos": "v.",
+  "en": "to move suddenly and quickly",
+  "zh": "猛衝；疾奔"
+ },
+ "submission": {
+  "pos": "n.",
+  "en": "something sent in to be judged or considered",
+  "zh": "提交的作品；投稿"
+ },
+ "trend": {
+  "pos": "n.",
+  "en": "a general direction in which something is changing",
+  "zh": "趨勢"
+ },
+ "evolve": {
+  "pos": "v.",
+  "en": "to change gradually over a long time",
+  "zh": "演化；逐步發展"
+ },
+ "biologist": {
+  "pos": "n.",
+  "en": "a scientist who studies living things",
+  "zh": "生物學家"
+ },
+ "harpsichord": {
+  "pos": "n.",
+  "en": "a keyboard instrument, like an early piano, whose strings are plucked",
+  "zh": "大鍵琴"
+ },
+ "pluck": {
+  "pos": "v.",
+  "en": "to pull a string with your fingers or a small tool",
+  "zh": "撥（弦）"
+ },
+ "utensil": {
+  "pos": "n.",
+  "en": "a tool used in the kitchen or for eating",
+  "zh": "器具；餐具"
+ },
+ "condemn": {
+  "pos": "v.",
+  "en": "to say strongly that something is wrong",
+  "zh": "譴責"
+ },
+ "luxury": {
+  "pos": "n.",
+  "en": "something expensive and pleasant that is not necessary",
+  "zh": "奢侈品；奢華"
+ },
+ "havoc": {
+  "pos": "n.",
+  "en": "great damage or confusion",
+  "zh": "大混亂；嚴重破壞"
+ },
+ "wreak": {
+  "pos": "v.",
+  "en": "to cause a lot of damage or harm",
+  "zh": "造成（破壞）"
+ },
+ "lodge": {
+  "pos": "v.",
+  "en": "to become stuck firmly in a place",
+  "zh": "卡住；嵌入"
+ },
+ "humorous": {
+  "pos": "adj.",
+  "en": "funny and amusing",
+  "zh": "幽默的"
+ },
+ "comedian": {
+  "pos": "n.",
+  "en": "a performer whose job is to make people laugh",
+  "zh": "喜劇演員"
+ },
+ "sociologist": {
+  "pos": "n.",
+  "en": "a person who studies human society and social behavior",
+  "zh": "社會學家"
+ },
+ "ideological": {
+  "pos": "adj.",
+  "en": "based on a set of political or cultural beliefs",
+  "zh": "意識形態的"
+ },
+ "internalize": {
+  "pos": "v.",
+  "en": "to accept ideas or values so they become part of how you think",
+  "zh": "內化"
+ },
+ "affiliation": {
+  "pos": "n.",
+  "en": "a connection with a group or organization",
+  "zh": "隸屬關係；政治傾向"
+ },
+ "resurface": {
+  "pos": "v.",
+  "en": "to put a new surface on something",
+  "zh": "重鋪表面；整修表面"
+ },
+ "scrape": {
+  "pos": "v.",
+  "en": "to remove something by rubbing a hard edge across a surface",
+  "zh": "刮；刮除"
+ },
+ "groove": {
+  "pos": "n.",
+  "en": "a long, narrow cut in a surface",
+  "zh": "溝；凹槽"
+ },
+ "storytelling": {
+  "pos": "n.",
+  "en": "the activity of telling stories",
+  "zh": "說故事"
+ },
+ "landmass": {
+  "pos": "n.",
+  "en": "a large area of land, such as a continent",
+  "zh": "大陸；陸塊"
+ },
+ "theorize": {
+  "pos": "v.",
+  "en": "to form an idea that explains something",
+  "zh": "提出理論；推論"
+ },
+ "astronomy": {
+  "pos": "n.",
+  "en": "the scientific study of stars, planets, and space",
+  "zh": "天文學"
+ },
+ "solar": {
+  "pos": "adj.",
+  "en": "relating to the Sun",
+  "zh": "太陽的"
+ },
+ "roughly": {
+  "pos": "adv.",
+  "en": "approximately; not exactly",
+  "zh": "大約；粗略地"
+ },
+ "fulcrum": {
+  "pos": "n.",
+  "en": "the point on which a lever turns or is supported",
+  "zh": "支點"
+ },
+ "pivot": {
+  "pos": "v.",
+  "en": "to turn around a central point",
+  "zh": "以……為軸旋轉"
+ },
+ "rigid": {
+  "pos": "adj.",
+  "en": "stiff and not able to bend",
+  "zh": "堅硬的；不易彎曲的"
+ },
+ "exert": {
+  "pos": "v.",
+  "en": "to apply force or influence",
+  "zh": "施加（力量、影響）"
  }
 }
