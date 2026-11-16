@@ -2278,5 +2278,380 @@
   "pos": "n.",
   "en": "the background or conditions in which events happen",
   "zh": "背景"
+ },
+ "self-governing": {
+  "pos": "adj.",
+  "en": "ruling itself rather than being controlled by another government",
+  "zh": "自治的"
+ },
+ "administer": {
+  "pos": "v.",
+  "en": "to manage or provide something officially",
+  "zh": "管理；執行；提供"
+ },
+ "accordance": {
+  "pos": "n.",
+  "en": "agreement with a rule (in accordance with = following)",
+  "zh": "依照；一致"
+ },
+ "intercropping": {
+  "pos": "n.",
+  "en": "growing two or more crops together in the same field",
+  "zh": "間作；混作"
+ },
+ "nitrogen": {
+  "pos": "n.",
+  "en": "a chemical element that plants need to grow",
+  "zh": "氮"
+ },
+ "discourage": {
+  "pos": "v.",
+  "en": "to make something less likely to happen",
+  "zh": "抑制；使不易發生"
+ },
+ "artisan": {
+  "pos": "n.",
+  "en": "a skilled worker who makes things by hand",
+  "zh": "工匠"
+ },
+ "guild": {
+  "pos": "n.",
+  "en": "an organization of people who do the same craft or trade",
+  "zh": "行會；同業公會"
+ },
+ "bellows": {
+  "pos": "n.",
+  "en": "a tool that blows air into a fire to make it hotter",
+  "zh": "風箱"
+ },
+ "forge": {
+  "pos": "n.",
+  "en": "a place or furnace where metal is heated and shaped",
+  "zh": "鍛造爐；熔爐"
+ },
+ "supposition": {
+  "pos": "n.",
+  "en": "an idea believed to be true without proof",
+  "zh": "假設；推測"
+ },
+ "household": {
+  "pos": "n.",
+  "en": "all the people who live together in one home",
+  "zh": "家庭；家戶"
+ },
+ "disprove": {
+  "pos": "v.",
+  "en": "to show that something is false",
+  "zh": "證明…是錯的"
+ },
+ "portraiture": {
+  "pos": "n.",
+  "en": "the art of making portraits",
+  "zh": "肖像畫藝術"
+ },
+ "intertribal": {
+  "pos": "adj.",
+  "en": "shared by or happening among different tribes",
+  "zh": "跨部落的"
+ },
+ "tension": {
+  "pos": "n.",
+  "en": "a feeling of strain between different forces or ideas",
+  "zh": "張力；緊張關係"
+ },
+ "altitude": {
+  "pos": "n.",
+  "en": "height above sea level",
+  "zh": "海拔；高度"
+ },
+ "chemistry": {
+  "pos": "n.",
+  "en": "the chemical makeup of a substance",
+  "zh": "化學組成；化學"
+ },
+ "stately": {
+  "pos": "adj.",
+  "en": "dignified and impressive",
+  "zh": "莊嚴的；威嚴的"
+ },
+ "seldom": {
+  "pos": "adv.",
+  "en": "not often",
+  "zh": "很少；不常"
+ },
+ "carriage": {
+  "pos": "n.",
+  "en": "a vehicle pulled by horses",
+  "zh": "馬車"
+ },
+ "apron": {
+  "pos": "n.",
+  "en": "a piece of cloth worn over the front of clothes to keep them clean",
+  "zh": "圍裙"
+ },
+ "effectual": {
+  "pos": "adj.",
+  "en": "producing the intended result",
+  "zh": "有效的"
+ },
+ "imprudence": {
+  "pos": "n.",
+  "en": "lack of care or good judgment",
+  "zh": "輕率；不謹慎"
+ },
+ "counteract": {
+  "pos": "v.",
+  "en": "to reduce the effect of something by acting against it",
+  "zh": "抵消；對抗"
+ },
+ "disposition": {
+  "pos": "n.",
+  "en": "a person's usual character or mood",
+  "zh": "性情；性格"
+ },
+ "eagerness": {
+  "pos": "n.",
+  "en": "strong wanting to do something",
+  "zh": "急切；熱切"
+ },
+ "impractical": {
+  "pos": "adj.",
+  "en": "not sensible or useful in real situations",
+  "zh": "不實用的"
+ },
+ "fanciful": {
+  "pos": "adj.",
+  "en": "imaginative and unusual rather than practical",
+  "zh": "充滿奇想的；異想天開的"
+ },
+ "disorient": {
+  "pos": "v.",
+  "en": "to make someone lose their sense of direction",
+  "zh": "使迷失方向"
+ },
+ "invigorate": {
+  "pos": "v.",
+  "en": "to give energy and strength to",
+  "zh": "使振奮；使有活力"
+ },
+ "terrain": {
+  "pos": "n.",
+  "en": "an area of land and its physical features",
+  "zh": "地形；地勢"
+ },
+ "urbanize": {
+  "pos": "v.",
+  "en": "to make an area more like a city",
+  "zh": "使都市化"
+ },
+ "prominent": {
+  "pos": "adj.",
+  "en": "important and easy to notice",
+  "zh": "突出的；顯著的"
+ },
+ "cultivation": {
+  "pos": "n.",
+  "en": "the growing of crops",
+  "zh": "耕種；栽培"
+ },
+ "folklore": {
+  "pos": "n.",
+  "en": "traditional stories, songs, and customs of a community",
+  "zh": "民間傳說；民俗"
+ },
+ "ongoing": {
+  "pos": "adj.",
+  "en": "continuing to happen",
+  "zh": "持續進行的"
+ },
+ "artifact": {
+  "pos": "n.",
+  "en": "an object made by people long ago",
+  "zh": "文物；人工製品"
+ },
+ "settlement": {
+  "pos": "n.",
+  "en": "a place where people have come to live",
+  "zh": "聚落；定居地"
+ },
+ "accelerate": {
+  "pos": "v.",
+  "en": "to happen faster or earlier",
+  "zh": "加速；提早"
+ },
+ "unmodified": {
+  "pos": "adj.",
+  "en": "not changed",
+  "zh": "未經改造的；未修改的"
+ },
+ "aerospace": {
+  "pos": "adj.",
+  "en": "relating to the science and industry of flight in air and space",
+  "zh": "航太的"
+ },
+ "mathematical": {
+  "pos": "adj.",
+  "en": "relating to mathematics",
+  "zh": "數學的"
+ },
+ "guidance": {
+  "pos": "n.",
+  "en": "advice or information that helps you do something",
+  "zh": "指引；指導"
+ },
+ "marginalia": {
+  "pos": "n.",
+  "en": "notes written in the margins of a book",
+  "zh": "頁緣註記"
+ },
+ "scribble": {
+  "pos": "n.",
+  "en": "careless or untidy writing or drawing",
+  "zh": "塗鴉；潦草的字"
+ },
+ "margin": {
+  "pos": "n.",
+  "en": "the empty space at the edge of a page",
+  "zh": "頁緣；邊緣空白"
+ },
+ "consumption": {
+  "pos": "n.",
+  "en": "the amount of something that is used",
+  "zh": "使用量；消耗"
+ },
+ "rebound": {
+  "pos": "n.",
+  "en": "a return to a higher level after a fall",
+  "zh": "反彈；回升"
+ },
+ "impose": {
+  "pos": "v.",
+  "en": "to officially force a rule or tax on people",
+  "zh": "強制實施；課徵"
+ },
+ "translation": {
+  "pos": "n.",
+  "en": "text changed from one language into another",
+  "zh": "翻譯；譯本"
+ },
+ "ambition": {
+  "pos": "n.",
+  "en": "a strong desire to achieve something",
+  "zh": "抱負；雄心"
+ },
+ "encapsulate": {
+  "pos": "v.",
+  "en": "to express the main points of something briefly",
+  "zh": "概括；總結"
+ },
+ "godfather": {
+  "pos": "n.",
+  "en": "(informal) the founder or leading figure of a movement",
+  "zh": "（某領域的）教父；開創者"
+ },
+ "highlight": {
+  "pos": "v.",
+  "en": "to draw attention to something",
+  "zh": "突顯；強調"
+ },
+ "inspection": {
+  "pos": "n.",
+  "en": "a careful look at something",
+  "zh": "檢查；細看"
+ },
+ "stitch": {
+  "pos": "v.",
+  "en": "to sew",
+  "zh": "縫；縫合"
+ },
+ "fabric": {
+  "pos": "n.",
+  "en": "cloth",
+  "zh": "布料；織物"
+ },
+ "portrait": {
+  "pos": "n.",
+  "en": "a painting, drawing, or photograph of a person",
+  "zh": "肖像；畫像"
+ },
+ "conifer": {
+  "pos": "n.",
+  "en": "a tree that produces cones and usually has needle-like leaves",
+  "zh": "針葉樹；毬果植物"
+ },
+ "evergreen": {
+  "pos": "adj.",
+  "en": "having leaves all year round",
+  "zh": "常綠的"
+ },
+ "woodworker": {
+  "pos": "n.",
+  "en": "a person who makes things from wood",
+  "zh": "木工；木匠"
+ },
+ "unfamiliar": {
+  "pos": "adj.",
+  "en": "not known or recognized",
+  "zh": "不熟悉的；陌生的"
+ },
+ "audience": {
+  "pos": "n.",
+  "en": "the people who read, watch, or listen to something",
+  "zh": "讀者；觀眾"
+ },
+ "commercial": {
+  "pos": "adj.",
+  "en": "relating to buying and selling for profit",
+  "zh": "商業的"
+ },
+ "variety": {
+  "pos": "n.",
+  "en": "a type of plant within a species",
+  "zh": "品種；種類"
+ },
+ "specify": {
+  "pos": "v.",
+  "en": "to state something clearly and exactly",
+  "zh": "具體指出；明確說明"
+ },
+ "decline": {
+  "pos": "n.",
+  "en": "a decrease in amount or quality",
+  "zh": "減少；衰退"
+ },
+ "collection": {
+  "pos": "n.",
+  "en": "a group of poems, stories, or objects gathered together",
+  "zh": "選集；收藏"
+ },
+ "introduce": {
+  "pos": "v.",
+  "en": "to present something to people for the first time",
+  "zh": "介紹"
+ },
+ "medical": {
+  "pos": "adj.",
+  "en": "relating to medicine or health care",
+  "zh": "醫學的；醫療的"
+ },
+ "preservation": {
+  "pos": "n.",
+  "en": "the act of keeping something safe from loss or damage",
+  "zh": "保存；保護"
+ },
+ "woodland": {
+  "pos": "n.",
+  "en": "land covered with trees",
+  "zh": "林地"
+ },
+ "expansion": {
+  "pos": "n.",
+  "en": "an increase in size or area",
+  "zh": "擴張；擴展"
+ },
+ "topic": {
+  "pos": "n.",
+  "en": "a subject that people write or talk about",
+  "zh": "主題；題目"
  }
 }

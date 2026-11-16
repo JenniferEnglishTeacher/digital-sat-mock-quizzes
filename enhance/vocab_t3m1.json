@@ -1,0 +1,802 @@
+{
+ "abandon": {
+  "pos": "v.",
+  "en": "to stop doing or using something completely",
+  "zh": "放棄；拋棄"
+ },
+ "abandons": {
+  "pos": "v.",
+  "en": "stops doing or using something completely",
+  "zh": "放棄；拋棄"
+ },
+ "accept": {
+  "pos": "v.",
+  "en": "to agree that something is true or correct",
+  "zh": "接受；承認；認可"
+ },
+ "accidental": {
+  "pos": "adj.",
+  "en": "happening by chance, not on purpose",
+  "zh": "意外的；偶然的"
+ },
+ "acknowledge": {
+  "pos": "v.",
+  "en": "to admit or accept that something is true or exists",
+  "zh": "承認；認可；確認"
+ },
+ "acknowledged": {
+  "pos": "v.",
+  "en": "admitted or recognized that something is true or important",
+  "zh": "承認；認可"
+ },
+ "adhere to": {
+  "pos": "phr. v.",
+  "en": "to follow a rule, practice, or belief closely",
+  "zh": "堅守；遵循"
+ },
+ "ambiguous": {
+  "pos": "adj.",
+  "en": "having more than one possible meaning; unclear",
+  "zh": "模糊的；含糊不清的"
+ },
+ "apply": {
+  "pos": "v.",
+  "en": "to use something in a particular situation",
+  "zh": "應用；施行"
+ },
+ "appreciate": {
+  "pos": "v.",
+  "en": "to recognize the value or quality of something",
+  "zh": "欣賞；賞識"
+ },
+ "argue against": {
+  "pos": "phr. v.",
+  "en": "to give reasons why something is wrong",
+  "zh": "反對；駁斥"
+ },
+ "argue with": {
+  "pos": "phr. v.",
+  "en": "to disagree with someone in words",
+  "zh": "與…爭論"
+ },
+ "borrow": {
+  "pos": "v.",
+  "en": "to take and use an idea or thing from another source",
+  "zh": "借用；借鑑"
+ },
+ "broad": {
+  "pos": "adj.",
+  "en": "wide; including many different people or things",
+  "zh": "廣泛的；寬廣的"
+ },
+ "careful": {
+  "pos": "adj.",
+  "en": "giving close attention to avoid mistakes",
+  "zh": "小心的；仔細的"
+ },
+ "careless": {
+  "pos": "adj.",
+  "en": "not paying enough attention; causing mistakes",
+  "zh": "粗心的；疏忽的"
+ },
+ "catalog of": {
+  "pos": "n. phr.",
+  "en": "a complete list of items",
+  "zh": "…的目錄"
+ },
+ "compatible": {
+  "pos": "adj.",
+  "en": "able to exist or work together without problems",
+  "zh": "相容的；協調的"
+ },
+ "complementary": {
+  "pos": "adj.",
+  "en": "combining well so that each improves the other",
+  "zh": "互補的"
+ },
+ "complex": {
+  "pos": "adj.",
+  "en": "made of many connected parts; difficult to understand",
+  "zh": "複雜的；錯綜的"
+ },
+ "complicate": {
+  "pos": "v.",
+  "en": "to make something more difficult to understand or deal with",
+  "zh": "使複雜化"
+ },
+ "comply with": {
+  "pos": "phr. v.",
+  "en": "to obey a rule or request",
+  "zh": "遵守；依從"
+ },
+ "concealed": {
+  "pos": "adj.",
+  "en": "hidden from view or kept secret",
+  "zh": "隱藏的；隱蔽的"
+ },
+ "concede": {
+  "pos": "v.",
+  "en": "to admit, often reluctantly, that something is true",
+  "zh": "（勉強）承認；讓步"
+ },
+ "confirmed": {
+  "pos": "v.",
+  "en": "showed that something is definitely true",
+  "zh": "證實了；確認了"
+ },
+ "conjectured": {
+  "pos": "v.",
+  "en": "guessed or formed an opinion without complete evidence",
+  "zh": "推測；臆測"
+ },
+ "contrasting": {
+  "pos": "adj.",
+  "en": "very different from one another",
+  "zh": "對比鮮明的；截然不同的"
+ },
+ "contrived": {
+  "pos": "v.",
+  "en": "arranged or invented something in a clever or artificial way",
+  "zh": "策劃；捏造"
+ },
+ "dearth of": {
+  "pos": "n. phr.",
+  "en": "a lack or shortage of something",
+  "zh": "…的缺乏"
+ },
+ "debate over": {
+  "pos": "n. phr.",
+  "en": "a discussion in which people disagree about something",
+  "zh": "關於…的爭論"
+ },
+ "decorative": {
+  "pos": "adj.",
+  "en": "meant to look attractive rather than to be useful",
+  "zh": "裝飾性的；裝飾用的"
+ },
+ "defense of": {
+  "pos": "n. phr.",
+  "en": "arguments given in support of something",
+  "zh": "對…的辯護"
+ },
+ "denied": {
+  "pos": "v.",
+  "en": "said that something is not true; refused to accept",
+  "zh": "否認；拒絕承認"
+ },
+ "deny": {
+  "pos": "v.",
+  "en": "to say that something is not true",
+  "zh": "否認；否定"
+ },
+ "deviate from": {
+  "pos": "phr. v.",
+  "en": "to move away from what is usual or expected",
+  "zh": "偏離"
+ },
+ "dismiss": {
+  "pos": "v.",
+  "en": "to decide that something is not worth considering",
+  "zh": "不予理會；否定；駁回"
+ },
+ "disparate": {
+  "pos": "adj.",
+  "en": "very different in kind and not easily compared or grouped together",
+  "zh": "迥然不同的；難以歸類在一起的"
+ },
+ "distort": {
+  "pos": "v.",
+  "en": "to change something so that it is no longer accurate",
+  "zh": "扭曲；曲解"
+ },
+ "diverse": {
+  "pos": "adj.",
+  "en": "including many different types of people or things",
+  "zh": "多樣的；各式各樣的"
+ },
+ "elaborate": {
+  "pos": "adj.",
+  "en": "having many carefully arranged parts or details",
+  "zh": "精心製作的；複雜精細的"
+ },
+ "enact": {
+  "pos": "v.",
+  "en": "to make a law; to put something into action",
+  "zh": "制定（法律）；實施"
+ },
+ "ensure": {
+  "pos": "v.",
+  "en": "to make certain that something happens",
+  "zh": "確保"
+ },
+ "ensured": {
+  "pos": "v.",
+  "en": "made certain that something happened",
+  "zh": "確保了"
+ },
+ "evade": {
+  "pos": "v.",
+  "en": "to avoid something, especially in a dishonest way",
+  "zh": "逃避；規避"
+ },
+ "execute": {
+  "pos": "v.",
+  "en": "to carry out a plan or order",
+  "zh": "執行；實行"
+ },
+ "experiment against": {
+  "pos": "phr.",
+  "en": "(not a standard phrase) to test in opposition to something",
+  "zh": "（非慣用搭配）"
+ },
+ "experiment with": {
+  "pos": "phr. v.",
+  "en": "to try new ideas or methods to see what happens",
+  "zh": "嘗試；實驗"
+ },
+ "extensive": {
+  "pos": "adj.",
+  "en": "covering a large area or amount",
+  "zh": "廣泛的；大規模的"
+ },
+ "far-reaching": {
+  "pos": "adj.",
+  "en": "having a wide influence or many effects",
+  "zh": "影響深遠的"
+ },
+ "flood of": {
+  "pos": "n. phr.",
+  "en": "a very large number of things arriving at once",
+  "zh": "大量的…"
+ },
+ "fragile": {
+  "pos": "adj.",
+  "en": "easily broken or damaged",
+  "zh": "脆弱的；易碎的"
+ },
+ "grapple with": {
+  "pos": "phr. v.",
+  "en": "to try hard to deal with a difficult problem",
+  "zh": "努力應付；設法解決"
+ },
+ "heterogeneous": {
+  "pos": "adj.",
+  "en": "made up of parts or members that are very different from one another",
+  "zh": "異質的；由不同成分組成的"
+ },
+ "hidden": {
+  "pos": "adj.",
+  "en": "kept out of sight; not easily seen",
+  "zh": "隱藏的；隱蔽的"
+ },
+ "identical": {
+  "pos": "adj.",
+  "en": "exactly the same",
+  "zh": "完全相同的"
+ },
+ "ignored": {
+  "pos": "v.",
+  "en": "paid no attention to something",
+  "zh": "忽視"
+ },
+ "illegible": {
+  "pos": "adj.",
+  "en": "impossible or very hard to read",
+  "zh": "字跡難以辨認的"
+ },
+ "imitate": {
+  "pos": "v.",
+  "en": "to copy someone's behavior or a thing's style",
+  "zh": "模仿"
+ },
+ "imitated": {
+  "pos": "v.",
+  "en": "copied someone's behavior or a thing's style",
+  "zh": "模仿了"
+ },
+ "implement": {
+  "pos": "v.",
+  "en": "to put a law, plan, or policy into effect",
+  "zh": "實施；執行"
+ },
+ "implemented": {
+  "pos": "v.",
+  "en": "put a law, plan, or policy into effect",
+  "zh": "實施了；執行了"
+ },
+ "improve on": {
+  "pos": "phr. v.",
+  "en": "to do or make something better than before",
+  "zh": "改進；勝過"
+ },
+ "improvise": {
+  "pos": "v.",
+  "en": "to make or perform something without planning",
+  "zh": "即興創作；臨時湊合"
+ },
+ "incidental": {
+  "pos": "adj.",
+  "en": "happening as a minor part or result of something else; not essential",
+  "zh": "附帶的；偶然的；次要的"
+ },
+ "indecipherable": {
+  "pos": "adj.",
+  "en": "impossible to read or understand",
+  "zh": "無法辨認的；難以解讀的"
+ },
+ "indistinguishable": {
+  "pos": "adj.",
+  "en": "so similar that differences cannot be seen",
+  "zh": "無法區分的"
+ },
+ "inferred": {
+  "pos": "v.",
+  "en": "reached a conclusion from evidence and reasoning",
+  "zh": "推斷"
+ },
+ "infrequent": {
+  "pos": "adj.",
+  "en": "not happening often",
+  "zh": "不常發生的；罕見的"
+ },
+ "interchangeable": {
+  "pos": "adj.",
+  "en": "able to be exchanged for each other without difference",
+  "zh": "可互換的"
+ },
+ "interfere with": {
+  "pos": "phr. v.",
+  "en": "to prevent something from working or happening properly",
+  "zh": "干擾；妨礙"
+ },
+ "intermittent": {
+  "pos": "adj.",
+  "en": "stopping and starting repeatedly",
+  "zh": "間歇的；斷斷續續的"
+ },
+ "interrupt": {
+  "pos": "v.",
+  "en": "to stop something for a short time",
+  "zh": "打斷；中斷"
+ },
+ "interwoven": {
+  "pos": "adj.",
+  "en": "closely connected or mixed together",
+  "zh": "交織在一起的"
+ },
+ "intricate": {
+  "pos": "adj.",
+  "en": "having many small parts connected in complex and detailed ways",
+  "zh": "錯綜複雜的；精細的"
+ },
+ "invent": {
+  "pos": "v.",
+  "en": "to create something new; to make up something untrue",
+  "zh": "發明；捏造"
+ },
+ "isolated": {
+  "pos": "adj.",
+  "en": "separate from others; happening only once",
+  "zh": "孤立的；零星的"
+ },
+ "lack of": {
+  "pos": "n. phr.",
+  "en": "the state of not having enough of something",
+  "zh": "…的缺乏"
+ },
+ "lamented": {
+  "pos": "v.",
+  "en": "expressed sadness or regret about something",
+  "zh": "哀嘆；惋惜"
+ },
+ "lessen": {
+  "pos": "v.",
+  "en": "to make something smaller or weaker",
+  "zh": "減少；減輕"
+ },
+ "measured": {
+  "pos": "v.",
+  "en": "found the size or amount of something",
+  "zh": "測量"
+ },
+ "mimic": {
+  "pos": "v.",
+  "en": "to copy the way something looks, sounds, or acts",
+  "zh": "模仿"
+ },
+ "minor": {
+  "pos": "adj.",
+  "en": "small or not very important",
+  "zh": "次要的；較小的；不重要的"
+ },
+ "misinterpret": {
+  "pos": "v.",
+  "en": "to understand something wrongly",
+  "zh": "誤解"
+ },
+ "misplace": {
+  "pos": "v.",
+  "en": "to put something in the wrong place",
+  "zh": "放錯地方；遺失"
+ },
+ "misrepresent": {
+  "pos": "v.",
+  "en": "to describe something falsely",
+  "zh": "歪曲；不實陳述"
+ },
+ "model after": {
+  "pos": "phr. v.",
+  "en": "to design something by copying another thing",
+  "zh": "仿效；以…為範本"
+ },
+ "multifaceted": {
+  "pos": "adj.",
+  "en": "having many different parts or aspects",
+  "zh": "多面向的"
+ },
+ "narrow": {
+  "pos": "adj.",
+  "en": "limited in range or scope",
+  "zh": "狹窄的；有限的"
+ },
+ "neglect": {
+  "pos": "v.",
+  "en": "to fail to give enough attention to something",
+  "zh": "忽視；疏忽"
+ },
+ "obscure": {
+  "pos": "adj.",
+  "en": "not well known; or difficult to understand",
+  "zh": "晦澀的；鮮為人知的"
+ },
+ "observe": {
+  "pos": "v.",
+  "en": "to follow a rule or custom; to watch carefully",
+  "zh": "遵守；觀察"
+ },
+ "obvious": {
+  "pos": "adj.",
+  "en": "easy to see or understand",
+  "zh": "明顯的"
+ },
+ "optional": {
+  "pos": "adj.",
+  "en": "not required; available as a choice",
+  "zh": "可選擇的；非必要的"
+ },
+ "ordinary": {
+  "pos": "adj.",
+  "en": "normal and not special",
+  "zh": "普通的；平常的"
+ },
+ "ornamental": {
+  "pos": "adj.",
+  "en": "used for decoration rather than function",
+  "zh": "裝飾用的"
+ },
+ "overlook": {
+  "pos": "v.",
+  "en": "to fail to notice or consider something",
+  "zh": "忽略"
+ },
+ "parallel": {
+  "pos": "adj.",
+  "en": "similar and happening at the same time",
+  "zh": "平行的；相似的"
+ },
+ "parallel to": {
+  "pos": "adj. phr.",
+  "en": "similar to or happening alongside something",
+  "zh": "與…平行；與…相似"
+ },
+ "paucity of": {
+  "pos": "n. phr.",
+  "en": "a very small amount; a shortage of something",
+  "zh": "…的缺乏；稀少"
+ },
+ "plain": {
+  "pos": "adj.",
+  "en": "simple, not decorated; easy to understand",
+  "zh": "樸素的；明白的"
+ },
+ "postpone": {
+  "pos": "v.",
+  "en": "to delay something until a later time",
+  "zh": "延後；延期"
+ },
+ "predict": {
+  "pos": "v.",
+  "en": "to say what will happen in the future",
+  "zh": "預測；預言"
+ },
+ "predictable": {
+  "pos": "adj.",
+  "en": "happening in a way that can be expected",
+  "zh": "可預測的；意料之中的"
+ },
+ "preference for": {
+  "pos": "n. phr.",
+  "en": "a greater liking for one thing than another",
+  "zh": "對…的偏好"
+ },
+ "presume": {
+  "pos": "v.",
+  "en": "to suppose something is true without proof",
+  "zh": "推定；假定"
+ },
+ "presumed": {
+  "pos": "v.",
+  "en": "supposed something was true without proof",
+  "zh": "推定；假定"
+ },
+ "prevalent": {
+  "pos": "adj.",
+  "en": "common or widespread",
+  "zh": "普遍的；盛行的"
+ },
+ "prevented": {
+  "pos": "v.",
+  "en": "stopped something from happening",
+  "zh": "阻止"
+ },
+ "private": {
+  "pos": "adj.",
+  "en": "belonging to or meant for one person or group; not public",
+  "zh": "私人的；私下的"
+ },
+ "profusion of": {
+  "pos": "n. phr.",
+  "en": "a very large amount of something",
+  "zh": "大量的…"
+ },
+ "provisional": {
+  "pos": "adj.",
+  "en": "temporary and likely to be changed later",
+  "zh": "暫時的；臨時的；有待確認的"
+ },
+ "put into practice": {
+  "pos": "phr.",
+  "en": "to start using an idea or plan",
+  "zh": "付諸實行"
+ },
+ "quarrel about": {
+  "pos": "n. phr.",
+  "en": "an angry argument about something",
+  "zh": "關於…的爭吵"
+ },
+ "question": {
+  "pos": "v.",
+  "en": "to express doubt about something",
+  "zh": "質疑"
+ },
+ "questioned": {
+  "pos": "v.",
+  "en": "expressed doubt about something",
+  "zh": "質疑"
+ },
+ "questions": {
+  "pos": "v.",
+  "en": "expresses doubt about something",
+  "zh": "質疑"
+ },
+ "recognize": {
+  "pos": "v.",
+  "en": "to accept that something is true, important, or valuable",
+  "zh": "認可；承認"
+ },
+ "record of": {
+  "pos": "n. phr.",
+  "en": "written information kept about something",
+  "zh": "…的紀錄"
+ },
+ "redundant": {
+  "pos": "adj.",
+  "en": "not needed because something else already does the job",
+  "zh": "多餘的；冗贅的"
+ },
+ "regretted": {
+  "pos": "v.",
+  "en": "felt sorry about something done",
+  "zh": "後悔；遺憾"
+ },
+ "reluctant": {
+  "pos": "adj.",
+  "en": "not willing to do something",
+  "zh": "不情願的"
+ },
+ "replace": {
+  "pos": "v.",
+  "en": "to take the place of something",
+  "zh": "取代"
+ },
+ "resemblance to": {
+  "pos": "n. phr.",
+  "en": "the state of looking like something",
+  "zh": "與…相似"
+ },
+ "resemble": {
+  "pos": "v.",
+  "en": "to look like or be similar to",
+  "zh": "像；類似"
+ },
+ "resented": {
+  "pos": "v.",
+  "en": "felt angry about something unfair",
+  "zh": "怨恨；不滿"
+ },
+ "resolved": {
+  "pos": "v.",
+  "en": "solved a problem; decided firmly",
+  "zh": "解決；決心"
+ },
+ "retain": {
+  "pos": "v.",
+  "en": "to keep or continue to have something",
+  "zh": "保留；保持"
+ },
+ "revises": {
+  "pos": "v.",
+  "en": "changes something to improve or correct it",
+  "zh": "修改；修訂"
+ },
+ "scarcity of": {
+  "pos": "n. phr.",
+  "en": "a situation in which there is not enough of something",
+  "zh": "…的缺乏"
+ },
+ "selective": {
+  "pos": "adj.",
+  "en": "choosing carefully; including only some",
+  "zh": "有選擇性的"
+ },
+ "sequence of": {
+  "pos": "n. phr.",
+  "en": "a series of related things in order",
+  "zh": "一連串的…"
+ },
+ "shortage of": {
+  "pos": "n. phr.",
+  "en": "a situation in which there is not enough of something",
+  "zh": "…的短缺"
+ },
+ "similarity among": {
+  "pos": "n. phr.",
+  "en": "the ways in which things are alike",
+  "zh": "…之間的相似處"
+ },
+ "simplify": {
+  "pos": "v.",
+  "en": "to make something easier or less complex",
+  "zh": "簡化"
+ },
+ "specialized": {
+  "pos": "adj.",
+  "en": "designed for a particular purpose or field",
+  "zh": "專門的"
+ },
+ "speculate": {
+  "pos": "v.",
+  "en": "to guess possible answers without enough information",
+  "zh": "推測"
+ },
+ "speculate about": {
+  "pos": "phr. v.",
+  "en": "to form guesses about something",
+  "zh": "對…推測"
+ },
+ "sporadic": {
+  "pos": "adj.",
+  "en": "happening only occasionally or irregularly",
+  "zh": "零星的；偶發的"
+ },
+ "summarize": {
+  "pos": "v.",
+  "en": "to give a short statement of the main points",
+  "zh": "摘要；總結"
+ },
+ "summary of": {
+  "pos": "n. phr.",
+  "en": "a short statement of the main points",
+  "zh": "…的摘要"
+ },
+ "supposed": {
+  "pos": "v.",
+  "en": "thought that something was likely true",
+  "zh": "認為；假定"
+ },
+ "surfeit of": {
+  "pos": "n. phr.",
+  "en": "an amount that is too large",
+  "zh": "過量的…"
+ },
+ "surmised": {
+  "pos": "v.",
+  "en": "guessed or inferred without complete proof",
+  "zh": "推測；臆測"
+ },
+ "surplus of": {
+  "pos": "n. phr.",
+  "en": "more than is needed",
+  "zh": "過剩的…"
+ },
+ "take for granted": {
+  "pos": "phr.",
+  "en": "to accept something as true without questioning it",
+  "zh": "視為理所當然"
+ },
+ "temporary": {
+  "pos": "adj.",
+  "en": "lasting for only a limited time",
+  "zh": "暫時的；臨時的"
+ },
+ "tentative": {
+  "pos": "adj.",
+  "en": "not certain or fixed; done as a trial",
+  "zh": "暫定的；試探性的"
+ },
+ "transparent": {
+  "pos": "adj.",
+  "en": "able to be seen through; easy to understand",
+  "zh": "透明的；易懂的"
+ },
+ "unchanging": {
+  "pos": "adj.",
+  "en": "staying the same",
+  "zh": "不變的"
+ },
+ "underestimated": {
+  "pos": "v.",
+  "en": "thought something was smaller or less important than it really was",
+  "zh": "低估"
+ },
+ "uniform": {
+  "pos": "adj.",
+  "en": "the same in all parts or cases",
+  "zh": "一致的；統一的"
+ },
+ "unintended": {
+  "pos": "adj.",
+  "en": "not planned or meant",
+  "zh": "非預期的；無意的"
+ },
+ "unknown": {
+  "pos": "adj.",
+  "en": "not known or familiar",
+  "zh": "未知的"
+ },
+ "unverified": {
+  "pos": "adj.",
+  "en": "not proved to be true",
+  "zh": "未經證實的"
+ },
+ "upholds": {
+  "pos": "v.",
+  "en": "supports or keeps a tradition, law, or principle",
+  "zh": "維護；堅持"
+ },
+ "varied": {
+  "pos": "adj.",
+  "en": "including many different types",
+  "zh": "各式各樣的；多變的"
+ },
+ "verisimilitude in": {
+  "pos": "n. phr.",
+  "en": "the quality of seeming real or true",
+  "zh": "…的逼真性"
+ },
+ "wander from": {
+  "pos": "phr. v.",
+  "en": "to move away from a planned course",
+  "zh": "偏離"
+ },
+ "widespread": {
+  "pos": "adj.",
+  "en": "existing or happening in many places or among many people",
+  "zh": "普遍的；廣泛的"
+ },
+ "withhold": {
+  "pos": "v.",
+  "en": "to refuse to give something",
+  "zh": "保留；扣留"
+ }
+}
