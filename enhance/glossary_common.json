@@ -3893,5 +3893,325 @@
   "pos": "n.",
   "en": "a description of events, real or imagined, told or written",
   "zh": "故事；小說"
+ },
+ "anthology": {
+  "pos": "n.",
+  "en": "a book that collects writings by different authors",
+  "zh": "選集；文集"
+ },
+ "deliberately": {
+  "pos": "adv.",
+  "en": "on purpose; intentionally",
+  "zh": "刻意地；故意地"
+ },
+ "feminist": {
+  "pos": "adj.",
+  "en": "supporting equal rights and opportunities for women",
+  "zh": "女性主義的"
+ },
+ "cohort": {
+  "pos": "n.",
+  "en": "a group of people who share a characteristic, such as age",
+  "zh": "（具共同特徵的）一群人；世代族群"
+ },
+ "overemphasize": {
+  "pos": "v.",
+  "en": "to give something more importance than it deserves",
+  "zh": "過度強調"
+ },
+ "multitude": {
+  "pos": "n.",
+  "en": "a very large number of people or things",
+  "zh": "眾多；人群"
+ },
+ "festive": {
+  "pos": "adj.",
+  "en": "bright and cheerful in a way suited to a celebration",
+  "zh": "節慶的；歡樂的"
+ },
+ "vendor": {
+  "pos": "n.",
+  "en": "a person who sells things, often on the street",
+  "zh": "小販；攤販"
+ },
+ "indisputable": {
+  "pos": "adj.",
+  "en": "so clearly true that no one can argue against it",
+  "zh": "無可爭辯的"
+ },
+ "scholarship": {
+  "pos": "n.",
+  "en": "serious academic study and research",
+  "zh": "學術研究"
+ },
+ "undermine": {
+  "pos": "v.",
+  "en": "to gradually weaken or damage something",
+  "zh": "削弱；暗中破壞"
+ },
+ "spontaneously": {
+  "pos": "adv.",
+  "en": "naturally and without planning",
+  "zh": "自然而然地；自發地"
+ },
+ "virtuosity": {
+  "pos": "n.",
+  "en": "very great skill in music or another art",
+  "zh": "精湛技藝"
+ },
+ "tremendous": {
+  "pos": "adj.",
+  "en": "very great in amount or degree",
+  "zh": "極大的；巨大的"
+ },
+ "preparation": {
+  "pos": "n.",
+  "en": "the work done to get ready for something",
+  "zh": "準備"
+ },
+ "evince": {
+  "pos": "v.",
+  "en": "to show a feeling or quality clearly",
+  "zh": "表現出；顯示"
+ },
+ "livelihood": {
+  "pos": "n.",
+  "en": "the way a person earns the money needed to live",
+  "zh": "生計"
+ },
+ "oblige": {
+  "pos": "v.",
+  "en": "to force someone to do something",
+  "zh": "迫使；不得不"
+ },
+ "singular": {
+  "pos": "adj.",
+  "en": "unusual and remarkable",
+  "zh": "非凡的；獨特的"
+ },
+ "patience": {
+  "pos": "n.",
+  "en": "the ability to wait or accept problems calmly",
+  "zh": "耐心"
+ },
+ "contract": {
+  "pos": "n.",
+  "en": "a formal agreement between people, often legal",
+  "zh": "契約；合約"
+ },
+ "industry": {
+  "pos": "n.",
+  "en": "the businesses that make a particular product",
+  "zh": "產業；工業"
+ },
+ "presentation": {
+  "pos": "n.",
+  "en": "a talk that gives information to an audience",
+  "zh": "報告；簡報"
+ },
+ "accommodation": {
+  "pos": "n.",
+  "en": "a place to stay or be served, such as rooms or seating",
+  "zh": "住宿；設施"
+ },
+ "establishment": {
+  "pos": "n.",
+  "en": "a business such as a shop, hotel, or restaurant",
+  "zh": "營業場所；機構"
+ },
+ "elegant": {
+  "pos": "adj.",
+  "en": "graceful and stylish",
+  "zh": "優雅的；精緻的"
+ },
+ "folklorist": {
+  "pos": "n.",
+  "en": "a person who studies the traditional stories and customs of a people",
+  "zh": "民俗學者"
+ },
+ "influential": {
+  "pos": "adj.",
+  "en": "having a strong effect on people or events",
+  "zh": "有影響力的"
+ },
+ "innovative": {
+  "pos": "adj.",
+  "en": "using new methods or ideas",
+  "zh": "創新的"
+ },
+ "technique": {
+  "pos": "n.",
+  "en": "a particular way of doing something that needs skill",
+  "zh": "技巧；手法"
+ },
+ "emphasis": {
+  "pos": "n.",
+  "en": "special importance or attention given to something",
+  "zh": "強調；重點"
+ },
+ "reverse": {
+  "pos": "v.",
+  "en": "to change something to its opposite order or direction",
+  "zh": "顛倒；反轉"
+ },
+ "investigate": {
+  "pos": "v.",
+  "en": "to examine something carefully to find out the truth",
+  "zh": "調查；研究"
+ },
+ "underestimate": {
+  "pos": "v.",
+  "en": "to think something is smaller or less important than it really is",
+  "zh": "低估"
+ },
+ "conduct": {
+  "pos": "v.",
+  "en": "to organize and carry out an activity",
+  "zh": "進行；實施"
+ },
+ "kindness": {
+  "pos": "n.",
+  "en": "the quality of being friendly, generous, and caring",
+  "zh": "善意；仁慈"
+ },
+ "microscope": {
+  "pos": "n.",
+  "en": "an instrument that makes very small things look larger",
+  "zh": "顯微鏡"
+ },
+ "strand": {
+  "pos": "n.",
+  "en": "a single thin thread or piece",
+  "zh": "（一）股；縷"
+ },
+ "diffraction": {
+  "pos": "n.",
+  "en": "the spreading of light or waves as they pass an edge or opening",
+  "zh": "繞射"
+ },
+ "restrict": {
+  "pos": "v.",
+  "en": "to limit something",
+  "zh": "限制"
+ },
+ "eliminate": {
+  "pos": "v.",
+  "en": "to remove or get rid of something completely",
+  "zh": "消除；排除"
+ },
+ "destination": {
+  "pos": "n.",
+  "en": "the place where someone or something is going",
+  "zh": "目的地"
+ },
+ "pinhole": {
+  "pos": "n.",
+  "en": "a very small hole",
+  "zh": "針孔"
+ },
+ "astrobiologist": {
+  "pos": "n.",
+  "en": "a scientist who studies the possibility of life in the universe",
+  "zh": "天體生物學家"
+ },
+ "extraterrestrial": {
+  "pos": "adj.",
+  "en": "coming from or existing outside Earth",
+  "zh": "地球以外的；外星的"
+ },
+ "distinction": {
+  "pos": "n.",
+  "en": "a clear difference between things",
+  "zh": "區別；差異"
+ },
+ "characteristic": {
+  "pos": "n.",
+  "en": "a typical quality or feature",
+  "zh": "特徵；特性"
+ },
+ "potentially": {
+  "pos": "adv.",
+  "en": "possibly, in the future",
+  "zh": "可能地；潛在地"
+ },
+ "gallery": {
+  "pos": "n.",
+  "en": "a room or building where art is shown",
+  "zh": "展覽廳；美術館"
+ },
+ "unveil": {
+  "pos": "v.",
+  "en": "to show or introduce something new publicly for the first time",
+  "zh": "揭幕；公開推出"
+ },
+ "elevation": {
+  "pos": "n.",
+  "en": "the height of a place above sea level",
+  "zh": "海拔；高度"
+ },
+ "snowpack": {
+  "pos": "n.",
+  "en": "a layer of snow that builds up on the ground over winter",
+  "zh": "積雪層"
+ },
+ "intricately": {
+  "pos": "adv.",
+  "en": "in a very detailed and complicated way",
+  "zh": "錯綜複雜地；精細地"
+ },
+ "countable": {
+  "pos": "adj.",
+  "en": "able to be counted",
+  "zh": "可計數的"
+ },
+ "device": {
+  "pos": "n.",
+  "en": "a tool or object made for a particular purpose",
+  "zh": "裝置；器具"
+ },
+ "hindsight": {
+  "pos": "n.",
+  "en": "understanding of an event only after it has happened",
+  "zh": "事後的認識"
+ },
+ "coincidence": {
+  "pos": "n.",
+  "en": "a surprising situation where things happen together by chance",
+  "zh": "巧合"
+ },
+ "paradigm": {
+  "pos": "n.",
+  "en": "a model or accepted way of thinking about something",
+  "zh": "典範；範式"
+ },
+ "circulate": {
+  "pos": "v.",
+  "en": "to pass or spread from person to person",
+  "zh": "流傳；傳播"
+ },
+ "independently": {
+  "pos": "adv.",
+  "en": "separately, without help from or connection to others",
+  "zh": "獨立地；各自地"
+ },
+ "genius": {
+  "pos": "n.",
+  "en": "a person with exceptional intelligence or creative ability",
+  "zh": "天才"
+ },
+ "theory": {
+  "pos": "n.",
+  "en": "a set of ideas meant to explain something",
+  "zh": "理論"
+ },
+ "company": {
+  "pos": "n.",
+  "en": "a business that makes or sells goods or services",
+  "zh": "公司"
+ },
+ "produce": {
+  "pos": "v.",
+  "en": "to make or create something, especially in large numbers",
+  "zh": "生產；製造"
  }
 }

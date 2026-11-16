@@ -1,0 +1,595 @@
+{
+ "examples of": {
+  "pos": "n. phr.",
+  "en": "particular cases that show what a group or type is like",
+  "zh": "……的例子"
+ },
+ "concerns about": {
+  "pos": "n. phr.",
+  "en": "worries about something",
+  "zh": "對……的擔憂"
+ },
+ "indications of": {
+  "pos": "n. phr.",
+  "en": "signs that suggest something is true or exists",
+  "zh": "……的跡象"
+ },
+ "similarities with": {
+  "pos": "n. phr.",
+  "en": "ways in which things are alike",
+  "zh": "與……的相似之處"
+ },
+ "warnings about": {
+  "pos": "n. phr.",
+  "en": "statements that tell people about a possible danger",
+  "zh": "關於……的警告"
+ },
+ "objections to": {
+  "pos": "n. phr.",
+  "en": "reasons for disagreeing with or opposing something",
+  "zh": "對……的反對"
+ },
+ "criticisms of": {
+  "pos": "n. phr.",
+  "en": "comments pointing out faults in something",
+  "zh": "對……的批評"
+ },
+ "likenesses to": {
+  "pos": "n. phr.",
+  "en": "ways in which something resembles something else",
+  "zh": "與……的相似之處"
+ },
+ "departures from": {
+  "pos": "n. phr.",
+  "en": "changes away from a usual way or model",
+  "zh": "對……的背離；偏離"
+ },
+ "evidence for": {
+  "pos": "n. phr.",
+  "en": "facts or signs that show something is true",
+  "zh": "支持……的證據"
+ },
+ "resemblances to": {
+  "pos": "n. phr.",
+  "en": "ways in which something looks or acts like something else",
+  "zh": "與……的相似之處"
+ },
+ "exceptions to": {
+  "pos": "n. phr.",
+  "en": "cases that do not follow a general rule",
+  "zh": "……的例外"
+ },
+ "reservations about": {
+  "pos": "n. phr.",
+  "en": "doubts or feelings of not fully agreeing with something",
+  "zh": "對……的保留（疑慮）"
+ },
+ "inquiries into": {
+  "pos": "n. phr.",
+  "en": "official or careful investigations of something",
+  "zh": "對……的調查"
+ },
+ "doubts about": {
+  "pos": "n. phr.",
+  "en": "feelings of being unsure about something",
+  "zh": "對……的懷疑"
+ },
+ "imitations of": {
+  "pos": "n. phr.",
+  "en": "copies made to look or act like something else",
+  "zh": "對……的模仿；仿製品"
+ },
+ "affinities with": {
+  "pos": "n. phr.",
+  "en": "natural similarities or close connections with something",
+  "zh": "與……的相似性；親緣關係"
+ },
+ "complaints about": {
+  "pos": "n. phr.",
+  "en": "statements that something is wrong or unsatisfactory",
+  "zh": "對……的抱怨"
+ },
+ "predictions about": {
+  "pos": "n. phr.",
+  "en": "statements about what will happen in the future",
+  "zh": "對……的預測"
+ },
+ "parallels between": {
+  "pos": "n. phr.",
+  "en": "similarities between two things",
+  "zh": "……之間的相似之處"
+ },
+ "barriers between": {
+  "pos": "n. phr.",
+  "en": "things that separate or block contact between two groups",
+  "zh": "……之間的障礙"
+ },
+ "a prudently": {
+  "w": "prudently",
+  "pos": "adv.",
+  "en": "in a careful and sensible way that avoids risk",
+  "zh": "謹慎地；審慎地"
+ },
+ "an overtly": {
+  "w": "overtly",
+  "pos": "adv.",
+  "en": "in an open and obvious way, not hidden",
+  "zh": "公開地；明顯地"
+ },
+ "a cordially": {
+  "w": "cordially",
+  "pos": "adv.",
+  "en": "in a warm and friendly way",
+  "zh": "親切地；熱誠地"
+ },
+ "an inadvertently": {
+  "w": "inadvertently",
+  "pos": "adv.",
+  "en": "without meaning to; by accident",
+  "zh": "無意地；不經意地"
+ },
+ "an accidental": {
+  "w": "accidental",
+  "pos": "adj.",
+  "en": "happening by chance, not on purpose",
+  "zh": "意外的；偶然的"
+ },
+ "a cordial": {
+  "w": "cordial",
+  "pos": "adj.",
+  "en": "warm and friendly",
+  "zh": "親切的；友好的"
+ },
+ "an overt": {
+  "w": "overt",
+  "pos": "adj.",
+  "en": "done openly and not hidden",
+  "zh": "公開的；明顯的"
+ },
+ "a tentative": {
+  "w": "tentative",
+  "pos": "adj.",
+  "en": "not certain or confident; done as a trial",
+  "zh": "試探性的；不確定的"
+ },
+ "a reluctantly": {
+  "w": "reluctantly",
+  "pos": "adv.",
+  "en": "in an unwilling or hesitant way",
+  "zh": "不情願地；勉強地"
+ },
+ "an explicitly": {
+  "w": "explicitly",
+  "pos": "adv.",
+  "en": "in a clear and direct way, leaving no doubt",
+  "zh": "明確地；直截了當地"
+ },
+ "a privately": {
+  "w": "privately",
+  "pos": "adv.",
+  "en": "in a way that is not shared with the public",
+  "zh": "私下地；不公開地"
+ },
+ "unmistakable": {
+  "pos": "adj.",
+  "en": "so clear that it cannot be confused with anything else",
+  "zh": "明白無誤的；不會弄錯的"
+ },
+ "improvised": {
+  "pos": "adj.",
+  "en": "made or done without planning, using what is available",
+  "zh": "即興的；臨時拼湊的"
+ },
+ "decorative": {
+  "pos": "adj.",
+  "en": "meant to look attractive rather than to be useful",
+  "zh": "裝飾性的"
+ },
+ "ambiguous": {
+  "pos": "adj.",
+  "en": "having more than one possible meaning; unclear",
+  "zh": "模稜兩可的；含糊的"
+ },
+ "incidentally": {
+  "pos": "adv.",
+  "en": "as a minor point; by chance",
+  "zh": "附帶地；順便地"
+ },
+ "accidentally": {
+  "pos": "adv.",
+  "en": "by chance; without intending to",
+  "zh": "意外地；不小心地"
+ },
+ "openly": {
+  "pos": "adv.",
+  "en": "in a way that is not hidden or secret",
+  "zh": "公開地；坦率地"
+ },
+ "mildly": {
+  "pos": "adv.",
+  "en": "slightly; in a gentle way",
+  "zh": "溫和地；稍微地"
+ },
+ "unplanned": {
+  "pos": "adj.",
+  "en": "not arranged or intended beforehand",
+  "zh": "非計畫中的；意外的"
+ },
+ "courteous": {
+  "pos": "adj.",
+  "en": "polite and showing respect",
+  "zh": "有禮貌的；謙恭的"
+ },
+ "irrelevant": {
+  "pos": "adj.",
+  "en": "not connected with or important to the matter",
+  "zh": "無關的；不相干的"
+ },
+ "plain": {
+  "pos": "adj.",
+  "en": "clear, simple, and easy to understand",
+  "zh": "明白的；直白的"
+ },
+ "Exacerbating": {
+  "w": "exacerbating",
+  "pos": "v.",
+  "en": "making a problem or bad situation worse",
+  "zh": "使惡化；加劇"
+ },
+ "Redressing": {
+  "w": "redressing",
+  "pos": "v.",
+  "en": "correcting something that is wrong or unfair",
+  "zh": "矯正；補救"
+ },
+ "Epitomizing": {
+  "w": "epitomizing",
+  "pos": "v.",
+  "en": "being a perfect example of something",
+  "zh": "作為……的典型；集中體現"
+ },
+ "Precluding": {
+  "w": "precluding",
+  "pos": "v.",
+  "en": "preventing something from happening",
+  "zh": "阻止；排除（可能性）"
+ },
+ "Counteracting": {
+  "w": "counteracting",
+  "pos": "v.",
+  "en": "acting against something to reduce its effect",
+  "zh": "抵消；對抗"
+ },
+ "Representing": {
+  "w": "representing",
+  "pos": "v.",
+  "en": "standing for or being a typical example of something",
+  "zh": "代表；象徵"
+ },
+ "Intensifying": {
+  "w": "intensifying",
+  "pos": "v.",
+  "en": "making something stronger or more extreme",
+  "zh": "加強；使加劇"
+ },
+ "Preventing": {
+  "w": "preventing",
+  "pos": "v.",
+  "en": "stopping something from happening",
+  "zh": "防止；預防"
+ },
+ "embodying": {
+  "pos": "v.",
+  "en": "being a clear expression or example of an idea",
+  "zh": "體現；具體表現"
+ },
+ "exacerbating": {
+  "pos": "v.",
+  "en": "making a problem or bad situation worse",
+  "zh": "使惡化；加劇"
+ },
+ "excluding": {
+  "pos": "v.",
+  "en": "leaving out; not including",
+  "zh": "排除；不包括"
+ },
+ "correcting": {
+  "pos": "v.",
+  "en": "making something right or accurate",
+  "zh": "修正；糾正"
+ },
+ "illustrate": {
+  "pos": "v.",
+  "en": "to show or explain something by giving examples",
+  "zh": "說明；例證"
+ },
+ "remedy": {
+  "pos": "v.",
+  "en": "to correct or improve a bad situation",
+  "zh": "補救；糾正"
+ },
+ "worsen": {
+  "pos": "v.",
+  "en": "to make or become worse",
+  "zh": "使惡化"
+ },
+ "foreclose": {
+  "pos": "v.",
+  "en": "to rule out or prevent a possibility",
+  "zh": "排除（可能性）；阻止"
+ },
+ "symbolizing": {
+  "pos": "v.",
+  "en": "representing an idea through a sign or image",
+  "zh": "象徵"
+ },
+ "imitating": {
+  "pos": "v.",
+  "en": "copying the way something looks or acts",
+  "zh": "模仿"
+ },
+ "addressing": {
+  "pos": "v.",
+  "en": "dealing with or trying to solve a problem",
+  "zh": "處理；解決（問題）"
+ },
+ "magnifying": {
+  "pos": "v.",
+  "en": "making something seem bigger or more important",
+  "zh": "放大；誇大"
+ },
+ "redress": {
+  "pos": "v.",
+  "en": "to correct something that is wrong or unfair",
+  "zh": "矯正；補救"
+ },
+ "prohibit": {
+  "pos": "v.",
+  "en": "to officially forbid something",
+  "zh": "禁止"
+ },
+ "typify": {
+  "pos": "v.",
+  "en": "to be a typical example of something",
+  "zh": "作為……的典型"
+ },
+ "heighten": {
+  "pos": "v.",
+  "en": "to make something stronger or greater",
+  "zh": "提高；加強"
+ },
+ "Arguing about": {
+  "w": "arguing about",
+  "pos": "phr. v.",
+  "en": "disagreeing with someone in words about something",
+  "zh": "爭論；為……爭吵"
+ },
+ "Disapproving of": {
+  "w": "disapproving of",
+  "pos": "phr. v.",
+  "en": "having a negative opinion of something",
+  "zh": "不贊成；反對"
+ },
+ "Asserting possession of": {
+  "w": "asserting possession of",
+  "pos": "v. phr.",
+  "en": "firmly claiming that something belongs to you",
+  "zh": "聲稱擁有；主張所有權"
+ },
+ "Providing resistance to": {
+  "w": "providing resistance to",
+  "pos": "v. phr.",
+  "en": "acting against something so that it cannot move or progress easily",
+  "zh": "對……形成阻礙；抵抗"
+ },
+ "describing": {
+  "pos": "v.",
+  "en": "telling what something is like",
+  "zh": "描述"
+ },
+ "blocking": {
+  "pos": "v.",
+  "en": "getting in the way so that something cannot pass",
+  "zh": "阻擋；擋住"
+ },
+ "owning": {
+  "pos": "v.",
+  "en": "having something as your property",
+  "zh": "擁有"
+ },
+ "approving": {
+  "pos": "v.",
+  "en": "having a positive opinion of something",
+  "zh": "贊同；認可"
+ },
+ "obstructed": {
+  "pos": "v.",
+  "en": "blocked a path or made movement difficult",
+  "zh": "阻擋；阻礙"
+ },
+ "claimed": {
+  "pos": "v.",
+  "en": "said that something was true or belonged to you",
+  "zh": "聲稱；宣稱擁有"
+ },
+ "discussed": {
+  "pos": "v.",
+  "en": "talked about something",
+  "zh": "討論"
+ },
+ "endorsed": {
+  "pos": "v.",
+  "en": "publicly supported or approved",
+  "zh": "支持；認可"
+ },
+ "explaining": {
+  "pos": "v.",
+  "en": "making something clear or easy to understand",
+  "zh": "解釋"
+ },
+ "admiring": {
+  "pos": "v.",
+  "en": "looking at something with pleasure or respect",
+  "zh": "欣賞；讚賞"
+ },
+ "contesting": {
+  "pos": "v.",
+  "en": "fighting or competing for something; resisting",
+  "zh": "爭奪；抗爭"
+ },
+ "summarizing": {
+  "pos": "v.",
+  "en": "giving a short version of the main points",
+  "zh": "總結；概述"
+ },
+ "praised": {
+  "pos": "v.",
+  "en": "expressed approval or admiration",
+  "zh": "稱讚"
+ },
+ "owned": {
+  "pos": "v.",
+  "en": "had something as your property",
+  "zh": "擁有"
+ },
+ "resisted": {
+  "pos": "v.",
+  "en": "acted against something; did not let it move easily",
+  "zh": "抵抗；阻擋"
+ },
+ "announced": {
+  "pos": "v.",
+  "en": "told people something officially",
+  "zh": "宣布"
+ },
+ "celebrated": {
+  "pos": "v.",
+  "en": "showed happiness about an event; praised publicly",
+  "zh": "慶祝；頌揚"
+ },
+ "debated": {
+  "pos": "v.",
+  "en": "discussed different opinions formally",
+  "zh": "辯論；討論"
+ },
+ "possessed": {
+  "pos": "v.",
+  "en": "owned or had something",
+  "zh": "擁有"
+ },
+ "impeded": {
+  "pos": "v.",
+  "en": "slowed down or blocked progress",
+  "zh": "阻礙；妨礙"
+ },
+ "controversial among": {
+  "pos": "adj. phr.",
+  "en": "causing strong disagreement among a group",
+  "zh": "在……之間引起爭議的"
+ },
+ "antagonistic toward": {
+  "pos": "adj. phr.",
+  "en": "showing strong opposition or hostility toward",
+  "zh": "對……懷有敵意的"
+ },
+ "imitated by": {
+  "pos": "v. phr.",
+  "en": "copied by someone else",
+  "zh": "被……模仿"
+ },
+ "inconsequential to": {
+  "pos": "adj. phr.",
+  "en": "not important or having little effect for someone",
+  "zh": "對……無足輕重的"
+ },
+ "copied by": {
+  "pos": "v. phr.",
+  "en": "reproduced or imitated by someone",
+  "zh": "被……抄襲、模仿"
+ },
+ "hostile toward": {
+  "pos": "adj. phr.",
+  "en": "unfriendly and opposed toward",
+  "zh": "對……懷有敵意的"
+ },
+ "famous among": {
+  "pos": "adj. phr.",
+  "en": "well known to a group of people",
+  "zh": "在……之間很有名的"
+ },
+ "irrelevant to": {
+  "pos": "adj. phr.",
+  "en": "not connected with or important to",
+  "zh": "與……無關的；對……不重要的"
+ },
+ "unimportant to": {
+  "pos": "adj. phr.",
+  "en": "not mattering to someone",
+  "zh": "對……不重要的"
+ },
+ "opposed to": {
+  "pos": "adj. phr.",
+  "en": "disagreeing with or against something",
+  "zh": "反對……的"
+ },
+ "praised by": {
+  "pos": "v. phr.",
+  "en": "spoken of with approval by someone",
+  "zh": "受到……讚揚"
+ },
+ "central to": {
+  "pos": "adj. phr.",
+  "en": "very important to; at the center of",
+  "zh": "對……至關重要的"
+ },
+ "directed against": {
+  "pos": "v. phr.",
+  "en": "aimed at opposing someone or something",
+  "zh": "針對……的"
+ },
+ "borrowed from": {
+  "pos": "v. phr.",
+  "en": "taken or adapted from another source",
+  "zh": "借自……；取材於……"
+ },
+ "available to": {
+  "pos": "adj. phr.",
+  "en": "able to be used or obtained by",
+  "zh": "可供……取得的"
+ },
+ "insignificant to": {
+  "pos": "adj. phr.",
+  "en": "too small or unimportant to matter to someone",
+  "zh": "對……微不足道的"
+ },
+ "modeled on": {
+  "pos": "v. phr.",
+  "en": "made using something else as an example",
+  "zh": "以……為範本"
+ },
+ "celebrated by": {
+  "pos": "v. phr.",
+  "en": "praised or honored by someone",
+  "zh": "受到……推崇"
+ },
+ "of no consequence to": {
+  "pos": "adj. phr.",
+  "en": "not important at all to someone",
+  "zh": "對……毫無重要性的"
+ },
+ "critical of": {
+  "pos": "adj. phr.",
+  "en": "expressing disapproval of",
+  "zh": "對……持批評態度的"
+ },
+ "derived from": {
+  "pos": "v. phr.",
+  "en": "coming or developed from a source",
+  "zh": "源自……"
+ },
+ "in agreement with": {
+  "pos": "adj. phr.",
+  "en": "having the same opinion as",
+  "zh": "與……意見一致的"
+ }
+}
