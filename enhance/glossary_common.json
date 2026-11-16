@@ -5178,5 +5178,140 @@
   "pos": "n.",
   "en": "a person who plays music, especially as a job",
   "zh": "音樂家；樂手"
+ },
+ "electricity": {
+  "pos": "n.",
+  "en": "a form of energy used for light, heat, and power",
+  "zh": "電；電力"
+ },
+ "unpredictable": {
+  "pos": "adj.",
+  "en": "impossible to know in advance",
+  "zh": "無法預測的"
+ },
+ "technological": {
+  "pos": "adj.",
+  "en": "relating to the use of science and machines",
+  "zh": "科技的；技術的"
+ },
+ "generation": {
+  "pos": "n.",
+  "en": "the production of something, such as electricity",
+  "zh": "產生；發電"
+ },
+ "realist": {
+  "pos": "adj.",
+  "en": "showing people and things as they really are",
+  "zh": "寫實主義的"
+ },
+ "impressionist": {
+  "pos": "adj.",
+  "en": "relating to a style of painting that shows the effects of light and color",
+  "zh": "印象派的"
+ },
+ "echo": {
+  "pos": "v.",
+  "en": "to repeat or be similar to something earlier",
+  "zh": "呼應；重複"
+ },
+ "clear": {
+  "pos": "adj./v.",
+  "en": "easy to see or understand; (v.) to remove something blocking, e.g., to clear your throat",
+  "zh": "清楚的；清除、清（喉嚨）"
+ },
+ "sniff": {
+  "pos": "v.",
+  "en": "to breathe in quickly and noisily through the nose",
+  "zh": "吸鼻子；嗅"
+ },
+ "throat": {
+  "pos": "n.",
+  "en": "the inside passage at the back of the mouth",
+  "zh": "喉嚨"
+ },
+ "forestry": {
+  "pos": "n.",
+  "en": "the science of planting and caring for forests",
+  "zh": "林業；林學"
+ },
+ "recommend": {
+  "pos": "v.",
+  "en": "to suggest something as good or suitable",
+  "zh": "推薦；建議"
+ },
+ "maximum": {
+  "pos": "adj.",
+  "en": "the largest possible amount",
+  "zh": "最大的；最高的"
+ },
+ "woodcut": {
+  "pos": "n.",
+  "en": "a print made from a design cut into a block of wood",
+  "zh": "木刻版畫"
+ },
+ "exhibit": {
+  "pos": "v.",
+  "en": "to show something publicly, especially in a museum",
+  "zh": "展出；展示"
+ },
+ "memorable": {
+  "pos": "adj.",
+  "en": "worth remembering; easily remembered",
+  "zh": "難忘的"
+ },
+ "pollen": {
+  "pos": "n.",
+  "en": "fine powder produced by flowers",
+  "zh": "花粉"
+ },
+ "intervention": {
+  "pos": "n.",
+  "en": "the act of becoming involved to change a situation",
+  "zh": "干預；介入"
+ },
+ "interruption": {
+  "pos": "n.",
+  "en": "a break that stops something from continuing",
+  "zh": "中斷；打斷"
+ },
+ "treeless": {
+  "pos": "adj.",
+  "en": "without trees",
+  "zh": "沒有樹木的"
+ },
+ "warrior": {
+  "pos": "n.",
+  "en": "a soldier or fighter, especially in the past",
+  "zh": "戰士；武士"
+ },
+ "statue": {
+  "pos": "n.",
+  "en": "a figure of a person or animal made of stone, metal, etc.",
+  "zh": "雕像"
+ },
+ "televise": {
+  "pos": "v.",
+  "en": "to broadcast on television",
+  "zh": "以電視播出"
+ },
+ "deliberation": {
+  "pos": "n.",
+  "en": "careful discussion before a decision",
+  "zh": "審議；仔細討論"
+ },
+ "misinterpret": {
+  "pos": "v.",
+  "en": "to understand something wrongly",
+  "zh": "誤解；曲解"
+ },
+ "mischaracterize": {
+  "pos": "v.",
+  "en": "to describe something in a false or misleading way",
+  "zh": "錯誤描述；曲解"
+ },
+ "discourse": {
+  "pos": "n.",
+  "en": "serious discussion or debate",
+  "zh": "論述；討論"
  }
 }

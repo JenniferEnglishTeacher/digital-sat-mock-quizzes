@@ -1,0 +1,294 @@
+{
+ "renounce": {
+  "pos": "v.",
+  "en": "to formally give up a belief, claim, or right",
+  "zh": "放棄；聲明斷絕"
+ },
+ "secretive": {
+  "pos": "adj.",
+  "en": "tending to hide feelings, plans, or information",
+  "zh": "隱密的；守口如瓶的"
+ },
+ "decipher": {
+  "pos": "v.",
+  "en": "to figure out the meaning of something difficult to read or understand",
+  "zh": "解讀；破譯；辨認"
+ },
+ "interpret": {
+  "pos": "v.",
+  "en": "to explain or understand the meaning of something",
+  "zh": "詮釋；解讀；理解"
+ },
+ "compose": {
+  "pos": "v.",
+  "en": "to write or create something such as music or a poem; to make up",
+  "zh": "創作；組成；構成"
+ },
+ "confident": {
+  "pos": "adj.",
+  "en": "feeling sure of oneself or of something",
+  "zh": "有信心的；自信的；確信的"
+ },
+ "constant": {
+  "pos": "adj.",
+  "en": "happening all the time or staying the same",
+  "zh": "持續的；不變的"
+ },
+ "ignored": {
+  "pos": "v.",
+  "en": "paid no attention to something",
+  "zh": "忽視"
+ },
+ "postponed": {
+  "pos": "v.",
+  "en": "delayed something to a later time",
+  "zh": "延後；推遲"
+ },
+ "derived from": {
+  "pos": "v. phr.",
+  "en": "coming or developed from",
+  "zh": "源自……；由……衍生"
+ },
+ "discussed": {
+  "pos": "v.",
+  "en": "talked about something",
+  "zh": "討論"
+ },
+ "indecipherable": {
+  "pos": "adj.",
+  "en": "impossible to read or understand",
+  "zh": "無法辨認的；難以解讀的"
+ },
+ "ordinary": {
+  "pos": "adj.",
+  "en": "normal; not special",
+  "zh": "普通的；平常的"
+ },
+ "expensive": {
+  "pos": "adj.",
+  "en": "costing a lot of money",
+  "zh": "昂貴的"
+ },
+ "delegate": {
+  "pos": "v.",
+  "en": "to give part of your work or authority to someone else",
+  "zh": "委派；授權"
+ },
+ "hidden": {
+  "pos": "adj.",
+  "en": "kept out of sight; not easily seen",
+  "zh": "隱藏的；隱蔽的"
+ },
+ "compelling": {
+  "pos": "adj.",
+  "en": "very convincing or holding your attention strongly",
+  "zh": "令人信服的；引人入勝的"
+ },
+ "delayed": {
+  "pos": "v.",
+  "en": "made something happen later than planned",
+  "zh": "延遲；推遲"
+ },
+ "accidental": {
+  "pos": "adj.",
+  "en": "happening by chance, not on purpose",
+  "zh": "意外的；偶然的"
+ },
+ "debated": {
+  "pos": "v.",
+  "en": "discussed different opinions formally",
+  "zh": "辯論；討論"
+ },
+ "costly": {
+  "pos": "adj.",
+  "en": "costing a lot of money or causing loss",
+  "zh": "昂貴的；代價高的"
+ },
+ "Discussed": {
+  "pos": "v.",
+  "en": "talked or written about",
+  "zh": "討論"
+ },
+ "Organized": {
+  "pos": "v.",
+  "en": "put in a clear, planned order",
+  "zh": "有條理地安排；整理"
+ },
+ "Ranked": {
+  "pos": "v.",
+  "en": "put in order according to quality or importance",
+  "zh": "排名；分等級"
+ },
+ "Scheduled": {
+  "pos": "v.",
+  "en": "planned for a particular time",
+  "zh": "排定時間；安排日程"
+ },
+ "abandoned": {
+  "pos": "v.",
+  "en": "left behind or given up completely",
+  "zh": "拋棄；放棄"
+ },
+ "arranged": {
+  "pos": "v.",
+  "en": "put in a particular order or position",
+  "zh": "排列；安排"
+ },
+ "bounded by": {
+  "w": "bounded",
+  "pos": "phr.",
+  "en": "limited or enclosed by something",
+  "zh": "以…為界；受…限制"
+ },
+ "closed": {
+  "pos": "adj.",
+  "en": "not open to new people or ideas",
+  "zh": "封閉的；不開放的"
+ },
+ "composed": {
+  "pos": "v.",
+  "en": "wrote or created (music, poetry, etc.)",
+  "zh": "創作；組成"
+ },
+ "confined to": {
+  "w": "confined",
+  "pos": "phr.",
+  "en": "kept within the limits of a place or group",
+  "zh": "侷限於…"
+ },
+ "consistent": {
+  "pos": "adj.",
+  "en": "staying the same over time",
+  "zh": "一致的；穩定的"
+ },
+ "constrained to": {
+  "w": "constrained",
+  "pos": "phr.",
+  "en": "limited or held within something",
+  "zh": "受限於…"
+ },
+ "construe": {
+  "pos": "v.",
+  "en": "to understand or explain the meaning of something in a particular way",
+  "zh": "解讀；理解"
+ },
+ "daunting": {
+  "pos": "adj.",
+  "en": "seeming difficult and making you lose confidence",
+  "zh": "令人生畏的；令人卻步的"
+ },
+ "delegated": {
+  "pos": "v.",
+  "en": "gave a task or responsibility to someone else",
+  "zh": "委派；授權"
+ },
+ "dependable": {
+  "pos": "adj.",
+  "en": "able to be trusted to work or behave as expected",
+  "zh": "可靠的"
+ },
+ "exclusive": {
+  "pos": "adj.",
+  "en": "limited to only a few people; not open to everyone",
+  "zh": "排外的；限定的"
+ },
+ "impenetrable": {
+  "pos": "adj.",
+  "en": "impossible to get into or through",
+  "zh": "無法進入的；難以打入的"
+ },
+ "inaccessible": {
+  "pos": "adj.",
+  "en": "impossible or very difficult to reach or enter",
+  "zh": "難以進入的；無法接近的"
+ },
+ "legitimate": {
+  "pos": "adj.",
+  "en": "acceptable, fair, or allowed by rules",
+  "zh": "正當的；合理的"
+ },
+ "limited to": {
+  "w": "limited",
+  "pos": "phr.",
+  "en": "existing only within a certain area or group",
+  "zh": "限於…"
+ },
+ "ordered": {
+  "pos": "v.",
+  "en": "arranged in a particular sequence",
+  "zh": "依序排列"
+ },
+ "organized": {
+  "pos": "v.",
+  "en": "arranged in a planned and orderly way",
+  "zh": "有條理地安排；組織"
+ },
+ "positioned": {
+  "pos": "v.",
+  "en": "placed in a particular place or way",
+  "zh": "放置；安置"
+ },
+ "ranked": {
+  "pos": "v.",
+  "en": "put in order according to quality or importance",
+  "zh": "排名；分等級"
+ },
+ "read": {
+  "pos": "v.",
+  "en": "to understand or interpret something in a particular way",
+  "zh": "解讀；理解"
+ },
+ "recognized in": {
+  "w": "recognized",
+  "pos": "phr.",
+  "en": "acknowledged or accepted as important in a place",
+  "zh": "在…受到認可"
+ },
+ "reliable": {
+  "pos": "adj.",
+  "en": "able to be trusted; performing well every time",
+  "zh": "可靠的"
+ },
+ "renamed": {
+  "pos": "v.",
+  "en": "gave a new name to",
+  "zh": "重新命名"
+ },
+ "renounced": {
+  "pos": "v.",
+  "en": "formally gave up a claim, belief, or right",
+  "zh": "放棄；宣布斷絕"
+ },
+ "repressed by": {
+  "w": "repressed",
+  "pos": "phr.",
+  "en": "held back or controlled by force",
+  "zh": "受…壓制"
+ },
+ "restricted to": {
+  "w": "restricted",
+  "pos": "phr.",
+  "en": "limited to a particular area, group, or use",
+  "zh": "限於…"
+ },
+ "scheduled": {
+  "pos": "v.",
+  "en": "planned for a particular time",
+  "zh": "排定時間"
+ },
+ "stable": {
+  "pos": "adj.",
+  "en": "not likely to change suddenly",
+  "zh": "穩定的"
+ },
+ "steady": {
+  "pos": "adj.",
+  "en": "continuing in a regular, even way",
+  "zh": "穩定的；平穩的"
+ },
+ "understood": {
+  "pos": "v.",
+  "en": "knew the meaning of",
+  "zh": "理解；明白"
+ }
+}
