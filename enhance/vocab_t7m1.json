@@ -1,0 +1,497 @@
+{
+"theory": {
+"pos": "n.",
+"en": "an idea or explanation that is proposed to account for something",
+"zh": "理論；推論"
+},
+"evidence": {
+"pos": "n.",
+"en": "facts or signs that show something is true",
+"zh": "證據"
+},
+"constant": {
+"pos": "n.",
+"en": "a value or quantity that does not change",
+"zh": "常數；恆定值"
+},
+"experiment": {
+"pos": "n.",
+"en": "a scientific test done to learn or prove something",
+"zh": "實驗"
+},
+"sample": {
+"pos": "n.",
+"en": "a small part taken from something to study it",
+"zh": "樣本"
+},
+"instrument": {
+"pos": "n.",
+"en": "a tool or device used for measuring or scientific work",
+"zh": "儀器；工具"
+},
+"interval": {
+"pos": "n.",
+"en": "a period of time or space between two things",
+"zh": "間隔；區間"
+},
+"measurement": {
+"pos": "n.",
+"en": "the size or amount found by measuring",
+"zh": "測量；測量值"
+},
+"hypothesis": {
+"pos": "n.",
+"en": "an idea that is suggested as a possible explanation and then tested",
+"zh": "假說；假設"
+},
+"artifact": {
+"pos": "n.",
+"en": "an object made by people, especially one of historical interest",
+"zh": "手工藝品；文物"
+},
+"habitat": {
+"pos": "n.",
+"en": "the natural home of an animal or plant",
+"zh": "棲息地"
+},
+"specimen": {
+"pos": "n.",
+"en": "an example of a plant, animal, etc. kept for study",
+"zh": "標本；樣本"
+},
+"prediction": {
+"pos": "n.",
+"en": "a statement about what will happen or is true before it is checked",
+"zh": "預測"
+},
+"boundary": {
+"pos": "n.",
+"en": "a line that marks the edge of an area",
+"zh": "邊界；界線"
+},
+"claim": {
+"pos": "n.",
+"en": "a statement that something is true",
+"zh": "主張；說法"
+},
+"temperature": {
+"pos": "n.",
+"en": "how hot or cold something is",
+"zh": "溫度"
+},
+"survey": {
+"pos": "n.",
+"en": "a set of questions asked to gather information",
+"zh": "調查"
+},
+"exception": {
+"pos": "n.",
+"en": "something that does not follow the usual rule",
+"zh": "例外"
+},
+"expense": {
+"pos": "n.",
+"en": "the money spent on something",
+"zh": "費用；開支"
+},
+"device": {
+"pos": "n.",
+"en": "a machine or tool made for a purpose",
+"zh": "裝置；設備"
+},
+"projection": {
+"pos": "n.",
+"en": "an estimate of what will happen in the future",
+"zh": "預測；推估"
+},
+"Simple": {
+"pos": "adj.",
+"en": "easy to understand; not complicated",
+"zh": "簡單的"
+},
+"Understandable": {
+"pos": "adj.",
+"en": "able to be understood easily",
+"zh": "可理解的；易懂的"
+},
+"Obvious": {
+"pos": "adj.",
+"en": "easy to see or understand",
+"zh": "明顯的"
+},
+"Transparent": {
+"pos": "adj.",
+"en": "clear enough to see through",
+"zh": "透明的；清澈的"
+},
+"obvious": {
+"pos": "adj.",
+"en": "easy to see or understand",
+"zh": "明顯的"
+},
+"transparent": {
+"pos": "adj.",
+"en": "clear enough to see through",
+"zh": "透明的；清澈的"
+},
+"simple": {
+"pos": "adj.",
+"en": "easy to understand; not complicated",
+"zh": "簡單的"
+},
+"plain": {
+"pos": "adj.",
+"en": "simple and without decoration; easy to understand",
+"zh": "樸素的；明白的"
+},
+"distant": {
+"pos": "adj.",
+"en": "far away",
+"zh": "遙遠的"
+},
+"ordinary": {
+"pos": "adj.",
+"en": "normal or usual; not special",
+"zh": "普通的；平常的"
+},
+"crowded": {
+"pos": "adj.",
+"en": "full of people or things",
+"zh": "擁擠的"
+},
+"lucid": {
+"pos": "adj.",
+"en": "clear and easy to see through (of air or water)",
+"zh": "清澈的；明晰的"
+},
+"certain": {
+"pos": "adj.",
+"en": "sure; having no doubt",
+"zh": "確定的"
+},
+"basic": {
+"pos": "adj.",
+"en": "simple and fundamental",
+"zh": "基本的"
+},
+"crystalline": {
+"pos": "adj.",
+"en": "very clear, like crystal",
+"zh": "清澈透明的；水晶般的"
+},
+"logical": {
+"pos": "adj.",
+"en": "following clear reasoning",
+"zh": "合乎邏輯的"
+},
+"limpid": {
+"pos": "adj.",
+"en": "completely clear and easy to see through",
+"zh": "清澈的；透明的"
+},
+"familiar": {
+"pos": "adj.",
+"en": "well known because seen or heard often",
+"zh": "熟悉的"
+},
+"evident": {
+"pos": "adj.",
+"en": "clearly seen or understood",
+"zh": "明顯的；顯而易見的"
+},
+"prolong": {
+"pos": "v.",
+"en": "to make something last longer",
+"zh": "延長"
+},
+"rectify": {
+"pos": "v.",
+"en": "to correct or fix something that is wrong",
+"zh": "矯正；糾正"
+},
+"retain": {
+"pos": "v.",
+"en": "to keep something",
+"zh": "保留"
+},
+"highlight": {
+"pos": "v.",
+"en": "to draw attention to something",
+"zh": "強調；凸顯"
+},
+"display": {
+"pos": "v.",
+"en": "to show something so people can see it",
+"zh": "展示"
+},
+"remedy": {
+"pos": "v.",
+"en": "to fix or solve a problem",
+"zh": "補救；解決"
+},
+"advertise": {
+"pos": "v.",
+"en": "to tell the public about something to promote it",
+"zh": "廣告；宣傳"
+},
+"preserve": {
+"pos": "v.",
+"en": "to keep something in its original state",
+"zh": "保存；維護"
+},
+"intensify": {
+"pos": "v.",
+"en": "to make something stronger or more extreme",
+"zh": "加劇；加強"
+},
+"redress": {
+"pos": "v.",
+"en": "to correct something unfair or wrong",
+"zh": "矯正；彌補"
+},
+"describe": {
+"pos": "v.",
+"en": "to say what something is like",
+"zh": "描述"
+},
+"continue": {
+"pos": "v.",
+"en": "to keep doing or keep happening",
+"zh": "繼續"
+},
+"summarize": {
+"pos": "v.",
+"en": "to give the main points briefly",
+"zh": "總結；概括"
+},
+"alleviate": {
+"pos": "v.",
+"en": "to make a problem or pain less severe",
+"zh": "減輕；緩和"
+},
+"imitate": {
+"pos": "v.",
+"en": "to copy someone or something",
+"zh": "模仿"
+},
+"promote": {
+"pos": "v.",
+"en": "to help something grow or become popular",
+"zh": "促進；推廣"
+},
+"correct": {
+"pos": "v.",
+"en": "to make something right or fix an error",
+"zh": "糾正；改正"
+},
+"extend": {
+"pos": "v.",
+"en": "to make something longer or larger",
+"zh": "延長；擴大"
+},
+"circumvent": {
+"pos": "v.",
+"en": "to find a way around a rule or obstacle",
+"zh": "規避；繞過"
+},
+"corroborate": {
+"pos": "v.",
+"en": "to support or confirm with evidence",
+"zh": "證實；佐證"
+},
+"disseminate": {
+"pos": "v.",
+"en": "to spread information widely",
+"zh": "散播；傳播"
+},
+"implement": {
+"pos": "v.",
+"en": "to put a plan or decision into action",
+"zh": "實施；執行"
+},
+"avoid": {
+"pos": "v.",
+"en": "to keep away from or stop something from happening",
+"zh": "避免；避開"
+},
+"apply": {
+"pos": "v.",
+"en": "to use something in a particular situation",
+"zh": "應用；運用"
+},
+"support": {
+"pos": "v.",
+"en": "to show that an idea or result is true",
+"zh": "支持；證實"
+},
+"publish": {
+"pos": "v.",
+"en": "to make information available to the public",
+"zh": "發表；出版"
+},
+"confirm": {
+"pos": "v.",
+"en": "to show that something is true or correct",
+"zh": "證實；確認"
+},
+"distribute": {
+"pos": "v.",
+"en": "to give or share out among many people",
+"zh": "分發；分配"
+},
+"perform": {
+"pos": "v.",
+"en": "to do or carry out an action",
+"zh": "執行；表演"
+},
+"evade": {
+"pos": "v.",
+"en": "to avoid or escape from something",
+"zh": "逃避；規避"
+},
+"announce": {
+"pos": "v.",
+"en": "to tell people something officially",
+"zh": "宣布"
+},
+"substantiate": {
+"pos": "v.",
+"en": "to provide evidence that proves something",
+"zh": "證實；證明"
+},
+"validate": {
+"pos": "v.",
+"en": "to show that something is true or correct",
+"zh": "證實；確認"
+},
+"spread": {
+"pos": "v.",
+"en": "to cause to reach a wider area or more people",
+"zh": "散布；傳播"
+},
+"bypass": {
+"pos": "v.",
+"en": "to go around something to avoid it",
+"zh": "繞過；略過"
+},
+"execute": {
+"pos": "v.",
+"en": "to carry out a plan or action",
+"zh": "執行；實施"
+},
+"verify": {
+"pos": "v.",
+"en": "to check that something is true",
+"zh": "核實；查證"
+},
+"circulate": {
+"pos": "v.",
+"en": "to pass from person to person",
+"zh": "流通；傳播"
+},
+"demarcated from": {
+"pos": "v. phr.",
+"en": "clearly separated or set apart from",
+"zh": "與……區分開來；與……劃清界線"
+},
+"reconstituted as": {
+"pos": "v. phr.",
+"en": "formed again in a different way as",
+"zh": "被重組為……"
+},
+"conflated with": {
+"pos": "v. phr.",
+"en": "wrongly treated as the same as",
+"zh": "與……混為一談"
+},
+"derived from": {
+"pos": "v. phr.",
+"en": "coming or developed from",
+"zh": "源自……；由……衍生"
+},
+"distinguish": {
+"pos": "v.",
+"en": "to show or recognize a difference between things",
+"zh": "區分；區別"
+},
+"confuse": {
+"pos": "v.",
+"en": "to mistake one thing for another",
+"zh": "混淆"
+},
+"rebuild": {
+"pos": "v.",
+"en": "to build something again",
+"zh": "重建"
+},
+"derive": {
+"pos": "v.",
+"en": "to get or develop something from a source",
+"zh": "衍生；源自"
+},
+"reclassified": {
+"pos": "v.",
+"en": "put into a different category",
+"zh": "重新分類"
+},
+"combined": {
+"pos": "v.",
+"en": "joined or mixed together",
+"zh": "結合；合併"
+},
+"derived": {
+"pos": "v.",
+"en": "obtained or developed from a source",
+"zh": "衍生；源自"
+},
+"separated": {
+"pos": "v.",
+"en": "kept apart or divided",
+"zh": "分開；區隔"
+},
+"rebuilt": {
+"pos": "v.",
+"en": "built again",
+"zh": "重建"
+},
+"copied": {
+"pos": "v.",
+"en": "made something the same as something else",
+"zh": "複製；模仿"
+},
+"differentiated": {
+"pos": "v.",
+"en": "showed or made a difference between",
+"zh": "區分；區別"
+},
+"merged": {
+"pos": "v.",
+"en": "joined together into one",
+"zh": "合併；融合"
+},
+"originated": {
+"pos": "v.",
+"en": "began or came from",
+"zh": "起源；發源"
+},
+"confused": {
+"pos": "v.",
+"en": "mistook one thing for another",
+"zh": "混淆"
+},
+"recreated": {
+"pos": "v.",
+"en": "made again",
+"zh": "重新創造；重現"
+},
+"converted": {
+"pos": "v.",
+"en": "changed into a different form",
+"zh": "轉變；轉換"
+},
+"distinguished": {
+"pos": "v.",
+"en": "recognized or showed the difference between",
+"zh": "區分；區別"
+}
+}

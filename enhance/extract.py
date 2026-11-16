@@ -26,10 +26,13 @@ def split(text, filler=''):
   body='\n'.join(body).strip()
   body=re.sub(r'\n{3,}','\n\n',body)
   return body,stem,opts
+# optional cleaned originals (raw PDF text with hard line wraps / graph debris): enhance/orig_text_tTmM.json {n: text}
+OT=f'enhance/orig_text_t{test}m{mod}.json'
+OTX=json.load(open(OT)) if os.path.exists(OT) else {}
 items={}
 strings=set()
 for q in d:
-  b,s,o=split(q['original'])
+  b,s,o=split(OTX.get(str(q['n']),q['original']))
   items['o%d'%q['n']]={'body':b,'stem':s,'opts':o,'filler':None}
   strings.add(b); strings.update(o.values()); strings.add(s)
   for m in q['generated']:
