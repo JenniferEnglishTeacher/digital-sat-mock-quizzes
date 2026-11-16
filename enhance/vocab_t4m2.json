@@ -1,0 +1,513 @@
+{
+"address": {
+"pos": "v.",
+"en": "to deal with or try to solve a problem",
+"zh": "處理；解決（問題）"
+},
+"advocate for": {
+"w": "advocate",
+"pos": "phr.",
+"en": "a person who publicly supports an idea or cause",
+"zh": "擁護者；倡導者"
+},
+"analogous to": {
+"w": "analogous",
+"pos": "phr.",
+"en": "similar to something in some way, so the two can be compared",
+"zh": "類似於；可類比於"
+},
+"analyzing": {
+"pos": "v.",
+"en": "examining something carefully to understand it",
+"zh": "分析"
+},
+"annotate": {
+"pos": "v.",
+"en": "to add notes or comments to a text or picture",
+"zh": "註解；加註"
+},
+"anticipated": {
+"pos": "v.",
+"en": "expected or predicted that something would happen",
+"zh": "預期；預料"
+},
+"assembled": {
+"pos": "v.",
+"en": "gathered together or put the parts of something together",
+"zh": "聚集；組裝"
+},
+"atypical": {
+"pos": "adj.",
+"en": "not usual or typical; different from what is normal",
+"zh": "非典型的；不尋常的"
+},
+"beneficiary of": {
+"w": "beneficiary",
+"pos": "phr.",
+"en": "a person or thing that receives help or an advantage from something",
+"zh": "受益者"
+},
+"bolster": {
+"pos": "v.",
+"en": "to support or strengthen something, such as a claim",
+"zh": "支持；加強"
+},
+"borrowed from": {
+"w": "borrowed",
+"pos": "phr.",
+"en": "taken from another source and used",
+"zh": "借自；取自"
+},
+"buttress": {
+"pos": "v.",
+"en": "to support or strengthen an argument or claim",
+"zh": "支持；鞏固（論點、主張）"
+},
+"challenged": {
+"pos": "v.",
+"en": "questioned whether something is true or right",
+"zh": "質疑；挑戰"
+},
+"champion of": {
+"w": "champion",
+"pos": "phr.",
+"en": "a person who strongly supports and fights for a cause",
+"zh": "擁護者；捍衛者"
+},
+"choosing": {
+"pos": "v.",
+"en": "picking one thing from several possibilities",
+"zh": "選擇"
+},
+"circumvent": {
+"pos": "v.",
+"en": "to find a way around a problem or rule",
+"zh": "規避；繞過"
+},
+"collected": {
+"pos": "v.",
+"en": "gathered things together; obtained",
+"zh": "收集；採集"
+},
+"comparable to": {
+"w": "comparable",
+"pos": "phr.",
+"en": "similar enough in size, amount, or quality to be compared",
+"zh": "與……相當；可與……相比"
+},
+"conceptualize": {
+"pos": "v.",
+"en": "to form an idea of something in your mind",
+"zh": "構想；使概念化"
+},
+"consistent with": {
+"w": "consistent",
+"pos": "phr.",
+"en": "in agreement with; matching",
+"zh": "與……一致"
+},
+"created": {
+"pos": "v.",
+"en": "made something new",
+"zh": "創造；製作"
+},
+"creating": {
+"pos": "v.",
+"en": "making something new",
+"zh": "創造；製作"
+},
+"critic of": {
+"w": "critic",
+"pos": "phr.",
+"en": "a person who disapproves of or criticizes something",
+"zh": "批評者"
+},
+"deciding": {
+"pos": "v.",
+"en": "making a choice after thinking",
+"zh": "決定"
+},
+"defender of": {
+"w": "defender",
+"pos": "phr.",
+"en": "a person who protects or argues in support of something",
+"zh": "捍衛者；辯護者"
+},
+"define": {
+"pos": "v.",
+"en": "to explain the exact meaning of something",
+"zh": "定義；界定"
+},
+"denied": {
+"pos": "v.",
+"en": "said that something is not true; refused to accept",
+"zh": "否認；拒絕"
+},
+"deny": {
+"pos": "v.",
+"en": "to say that something is not true",
+"zh": "否認"
+},
+"denying": {
+"pos": "v.",
+"en": "saying that something is not true",
+"zh": "否認"
+},
+"derived from": {
+"w": "derived",
+"pos": "phr.",
+"en": "coming from or developed from a source",
+"zh": "源自；衍生自"
+},
+"describe": {
+"pos": "v.",
+"en": "to say what something is like",
+"zh": "描述"
+},
+"detecting": {
+"pos": "v.",
+"en": "noticing or discovering something that is hard to see",
+"zh": "偵測；察覺"
+},
+"devised": {
+"pos": "v.",
+"en": "planned or invented a new method or system",
+"zh": "設計；發明"
+},
+"disengage": {
+"pos": "v.",
+"en": "to separate from or stop being involved in something",
+"zh": "脫離；退出"
+},
+"dismiss": {
+"pos": "v.",
+"en": "to decide something is not important or worth considering",
+"zh": "不予理會；否定"
+},
+"distraction for": {
+"w": "distraction",
+"pos": "phr.",
+"en": "something that takes attention away (used incorrectly here with \"for\")",
+"zh": "使人分心的事物"
+},
+"distraction from": {
+"w": "distraction",
+"pos": "phr.",
+"en": "something that takes your attention away from something else",
+"zh": "使人從……分心的事物"
+},
+"document": {
+"pos": "v.",
+"en": "to record information in writing, photos, etc.",
+"zh": "記錄"
+},
+"equivalent to": {
+"w": "equivalent",
+"pos": "phr.",
+"en": "equal in value, amount, or meaning",
+"zh": "等同於；相當於"
+},
+"estimated": {
+"pos": "v.",
+"en": "guessed an amount or value based on information",
+"zh": "估計"
+},
+"examining": {
+"pos": "v.",
+"en": "looking at something carefully",
+"zh": "檢查；仔細觀察"
+},
+"exceptional": {
+"pos": "adj.",
+"en": "very unusual; much better or different than normal",
+"zh": "例外的；非凡的"
+},
+"forecast": {
+"pos": "v.",
+"en": "to predict what will happen in the future",
+"zh": "預測"
+},
+"generated": {
+"pos": "v.",
+"en": "produced or created",
+"zh": "產生；生成"
+},
+"ignore": {
+"pos": "v.",
+"en": "to pay no attention to something",
+"zh": "忽視"
+},
+"ignored": {
+"pos": "v.",
+"en": "paid no attention to something",
+"zh": "忽視"
+},
+"illustrate": {
+"pos": "v.",
+"en": "to explain or show something with examples or pictures",
+"zh": "說明；圖解"
+},
+"illustrated": {
+"pos": "v.",
+"en": "explained with examples or drew pictures for",
+"zh": "說明；繪製插圖"
+},
+"imitate": {
+"pos": "v.",
+"en": "to copy the way someone or something does things",
+"zh": "模仿"
+},
+"imitated": {
+"pos": "v.",
+"en": "copied the way someone or something does things",
+"zh": "模仿"
+},
+"independent of": {
+"w": "independent",
+"pos": "phr.",
+"en": "not controlled by or connected to something",
+"zh": "獨立於；不受……影響"
+},
+"infallible": {
+"pos": "adj.",
+"en": "never wrong or never failing",
+"zh": "絕不出錯的"
+},
+"inferior to": {
+"w": "inferior",
+"pos": "phr.",
+"en": "not as good as something else",
+"zh": "次於；不如"
+},
+"inspecting": {
+"pos": "v.",
+"en": "looking at something closely to check it",
+"zh": "檢查；檢視"
+},
+"inventing": {
+"pos": "v.",
+"en": "creating something that did not exist before",
+"zh": "發明"
+},
+"lucrative": {
+"pos": "adj.",
+"en": "producing a lot of money; profitable",
+"zh": "有利可圖的；賺錢的"
+},
+"minimized": {
+"pos": "v.",
+"en": "made something as small as possible, or treated it as unimportant",
+"zh": "使減到最少；淡化"
+},
+"neglect": {
+"pos": "v.",
+"en": "to fail to give enough care or attention to something",
+"zh": "忽略；疏於照顧"
+},
+"obstacle to": {
+"w": "obstacle",
+"pos": "phr.",
+"en": "something that blocks progress",
+"zh": "……的障礙"
+},
+"obtained from": {
+"w": "obtained",
+"pos": "phr.",
+"en": "gotten or acquired from a source",
+"zh": "從……取得"
+},
+"overcome": {
+"pos": "v.",
+"en": "to succeed in dealing with a problem or difficulty",
+"zh": "克服"
+},
+"postponing": {
+"pos": "v.",
+"en": "delaying something until a later time",
+"zh": "延後；推遲"
+},
+"predicted": {
+"pos": "v.",
+"en": "said what would happen in the future",
+"zh": "預測"
+},
+"produced": {
+"pos": "v.",
+"en": "made or created something",
+"zh": "製造；產生"
+},
+"profitable": {
+"pos": "adj.",
+"en": "making money or a benefit",
+"zh": "有利潤的；有益的"
+},
+"projected": {
+"pos": "v.",
+"en": "estimated what a future amount or result will be",
+"zh": "預估；推算"
+},
+"proponent of": {
+"w": "proponent",
+"pos": "phr.",
+"en": "a person who supports an idea or plan",
+"zh": "支持者；擁護者"
+},
+"questioned": {
+"pos": "v.",
+"en": "expressed doubt about something",
+"zh": "質疑"
+},
+"rare": {
+"pos": "adj.",
+"en": "not happening or found very often",
+"zh": "罕見的；稀少的"
+},
+"reciprocate": {
+"pos": "v.",
+"en": "to do or feel the same thing in return",
+"zh": "回報；互惠"
+},
+"reinforce": {
+"pos": "v.",
+"en": "to make an idea, claim, or structure stronger",
+"zh": "強化；加強"
+},
+"repaired": {
+"pos": "v.",
+"en": "fixed something that was broken",
+"zh": "修理；修復"
+},
+"replaced": {
+"pos": "v.",
+"en": "put something new in the place of something else",
+"zh": "取代；更換"
+},
+"replicate": {
+"pos": "v.",
+"en": "to copy or repeat something exactly, such as an experiment",
+"zh": "複製；重現"
+},
+"resolve": {
+"pos": "v.",
+"en": "to find a solution to a problem",
+"zh": "解決"
+},
+"restored": {
+"pos": "v.",
+"en": "brought back to an earlier good condition",
+"zh": "修復；恢復"
+},
+"reviewing": {
+"pos": "v.",
+"en": "looking at or studying something again",
+"zh": "審查；複習"
+},
+"scrutinizing": {
+"pos": "v.",
+"en": "examining something very carefully and in detail",
+"zh": "仔細審查；詳細檢視"
+},
+"selecting": {
+"pos": "v.",
+"en": "carefully choosing something",
+"zh": "挑選"
+},
+"separate from": {
+"w": "separate",
+"pos": "phr.",
+"en": "not joined or connected to something",
+"zh": "與……分開的"
+},
+"similar to": {
+"w": "similar",
+"pos": "phr.",
+"en": "almost the same as something",
+"zh": "類似於"
+},
+"substantiate": {
+"pos": "v.",
+"en": "to provide evidence to prove that something is true",
+"zh": "證實"
+},
+"superior to": {
+"w": "superior",
+"pos": "phr.",
+"en": "better than something else",
+"zh": "優於"
+},
+"supplement to": {
+"w": "supplement",
+"pos": "phr.",
+"en": "something added to complete or improve something",
+"zh": "……的補充"
+},
+"support": {
+"pos": "v.",
+"en": "to help show that something is true; to back an idea",
+"zh": "支持；佐證"
+},
+"supporter of": {
+"w": "supporter",
+"pos": "phr.",
+"en": "a person who agrees with and helps an idea or group",
+"zh": "支持者"
+},
+"surmount": {
+"pos": "v.",
+"en": "to deal successfully with a difficulty",
+"zh": "克服；越過"
+},
+"surpassed by": {
+"w": "surpassed",
+"pos": "phr.",
+"en": "done better than or exceeded by",
+"zh": "被……超越"
+},
+"tedious": {
+"pos": "adj.",
+"en": "boring because it is long or repetitive",
+"zh": "冗長乏味的"
+},
+"uncommon": {
+"pos": "adj.",
+"en": "not happening or seen often",
+"zh": "不常見的"
+},
+"unrelated to": {
+"w": "unrelated",
+"pos": "phr.",
+"en": "not connected to something",
+"zh": "與……無關的"
+},
+"unusual": {
+"pos": "adj.",
+"en": "different from what is normal or expected",
+"zh": "不尋常的"
+},
+"validated": {
+"pos": "v.",
+"en": "proved that something is true or correct",
+"zh": "證實；驗證"
+},
+"weaker than": {
+"w": "weaker",
+"pos": "phr.",
+"en": "less strong than something else",
+"zh": "比……弱"
+},
+"withdraw": {
+"pos": "v.",
+"en": "to take back or remove; to pull out of something",
+"zh": "撤回；退出"
+},
+"worried": {
+"pos": "v.",
+"en": "felt anxious or troubled",
+"zh": "擔心"
+},
+"worsen": {
+"pos": "v.",
+"en": "to become or make something worse",
+"zh": "惡化；使變糟"
+}
+}

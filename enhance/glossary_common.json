@@ -3308,5 +3308,590 @@
   "pos": "adj.",
   "en": "delicate; easily affected",
   "zh": "敏感的；細緻的"
+ },
+ "physicist": {
+  "pos": "n.",
+  "en": "a scientist who studies physics",
+  "zh": "物理學家"
+ },
+ "invisible": {
+  "pos": "adj.",
+  "en": "impossible to see",
+  "zh": "看不見的；無形的"
+ },
+ "sophisticated": {
+  "pos": "adj.",
+  "en": "advanced and complex",
+  "zh": "精密的；複雜的"
+ },
+ "subatomic": {
+  "pos": "adj.",
+  "en": "smaller than an atom",
+  "zh": "次原子的"
+ },
+ "detectable": {
+  "pos": "adj.",
+  "en": "able to be noticed or measured",
+  "zh": "可偵測的"
+ },
+ "fossilized": {
+  "pos": "adj.",
+  "en": "preserved as a fossil in rock",
+  "zh": "化石化的"
+ },
+ "clavicle": {
+  "pos": "n.",
+  "en": "the collarbone",
+  "zh": "鎖骨"
+ },
+ "hominin": {
+  "pos": "n.",
+  "en": "a member of the group that includes humans and their extinct ancestors",
+  "zh": "人族（人類及其已滅絕祖先）"
+ },
+ "protagonist": {
+  "pos": "n.",
+  "en": "the main character in a story",
+  "zh": "主角"
+ },
+ "occupation": {
+  "pos": "n.",
+  "en": "a job or profession",
+  "zh": "職業"
+ },
+ "populate": {
+  "pos": "v.",
+  "en": "to fill a place or story with people or characters",
+  "zh": "居住於；使充滿（人物）"
+ },
+ "monarch": {
+  "pos": "n.",
+  "en": "a king or queen",
+  "zh": "君主"
+ },
+ "consequential": {
+  "pos": "adj.",
+  "en": "important; having significant results",
+  "zh": "重大的；影響深遠的"
+ },
+ "uneventful": {
+  "pos": "adj.",
+  "en": "without important or interesting happenings",
+  "zh": "平淡無奇的"
+ },
+ "trajectory": {
+  "pos": "n.",
+  "en": "the path or course of development over time",
+  "zh": "軌跡；發展歷程"
+ },
+ "legitimacy": {
+  "pos": "n.",
+  "en": "the quality of being lawful or accepted as rightful",
+  "zh": "正當性；合法性"
+ },
+ "corollary": {
+  "pos": "adj.",
+  "en": "naturally following from or accompanying something",
+  "zh": "伴隨的；必然的"
+ },
+ "throne": {
+  "pos": "n.",
+  "en": "the position of being a king or queen",
+  "zh": "王位"
+ },
+ "offspring": {
+  "pos": "n.",
+  "en": "an animal's or person's young",
+  "zh": "後代；子女"
+ },
+ "typically": {
+  "pos": "adv.",
+  "en": "usually; in most cases",
+  "zh": "通常；一般而言"
+ },
+ "recording": {
+  "pos": "n.",
+  "en": "sound or images stored so they can be played again",
+  "zh": "錄音；錄影"
+ },
+ "narrator": {
+  "pos": "n.",
+  "en": "the person who tells a story",
+  "zh": "敘述者"
+ },
+ "contrast": {
+  "pos": "v.",
+  "en": "to compare in order to show differences",
+  "zh": "對比；對照"
+ },
+ "attitude": {
+  "pos": "n.",
+  "en": "a way of thinking or feeling about something",
+  "zh": "態度"
+ },
+ "economic": {
+  "pos": "adj.",
+  "en": "related to money, trade, and industry",
+  "zh": "經濟的"
+ },
+ "derive": {
+  "pos": "v.",
+  "en": "to get or develop something from a source",
+  "zh": "取得；推導出"
+ },
+ "devotion": {
+  "pos": "n.",
+  "en": "great love, loyalty, or commitment",
+  "zh": "忠誠；摯愛"
+ },
+ "regret": {
+  "pos": "n.",
+  "en": "a feeling of sadness about something you did",
+  "zh": "懊悔；遺憾"
+ },
+ "elected": {
+  "pos": "adj.",
+  "en": "chosen by voting",
+  "zh": "經選舉產生的"
+ },
+ "groundbreaking": {
+  "pos": "adj.",
+  "en": "new and very important; pioneering",
+  "zh": "開創性的"
+ },
+ "census": {
+  "pos": "n.",
+  "en": "an official count of a population",
+  "zh": "人口普查"
+ },
+ "memoir": {
+  "pos": "n.",
+  "en": "a written account of one's own life and experiences",
+  "zh": "回憶錄"
+ },
+ "immigrant": {
+  "pos": "n.",
+  "en": "a person who comes to live in a new country",
+  "zh": "移民"
+ },
+ "explore": {
+  "pos": "v.",
+  "en": "to examine or discuss a subject in detail",
+  "zh": "探索；探討"
+ },
+ "canvas": {
+  "pos": "n.",
+  "en": "strong cloth used for painting on",
+  "zh": "畫布"
+ },
+ "frustrated": {
+  "pos": "adj.",
+  "en": "annoyed because you cannot change or achieve something",
+  "zh": "沮喪的；受挫的"
+ },
+ "specialize": {
+  "pos": "v.",
+  "en": "to focus on one particular area of work",
+  "zh": "專門從事"
+ },
+ "promotion": {
+  "pos": "n.",
+  "en": "activities that help make something known or popular",
+  "zh": "推廣；宣傳"
+ },
+ "hibernation": {
+  "pos": "n.",
+  "en": "a deep sleep some animals go into during winter",
+  "zh": "冬眠"
+ },
+ "isotope": {
+  "pos": "n.",
+  "en": "a form of an element with a different number of neutrons",
+  "zh": "同位素"
+ },
+ "oversee": {
+  "pos": "v.",
+  "en": "to watch and direct work to make sure it is done correctly",
+  "zh": "監督；主管"
+ },
+ "vegetated": {
+  "pos": "adj.",
+  "en": "covered with plants",
+  "zh": "長滿植物的"
+ },
+ "runoff": {
+  "pos": "n.",
+  "en": "rainwater that flows over the ground into streams or drains",
+  "zh": "逕流"
+ },
+ "geoscientist": {
+  "pos": "n.",
+  "en": "a scientist who studies the Earth",
+  "zh": "地球科學家"
+ },
+ "oceanic": {
+  "pos": "adj.",
+  "en": "relating to the ocean",
+  "zh": "海洋的"
+ },
+ "subduct": {
+  "pos": "v.",
+  "en": "(of a tectonic plate) to sink beneath another plate",
+  "zh": "隱沒（板塊下沉至另一板塊下）"
+ },
+ "continental": {
+  "pos": "adj.",
+  "en": "relating to a continent",
+  "zh": "大陸的"
+ },
+ "mantle": {
+  "pos": "n.",
+  "en": "the layer of the Earth between the crust and the core",
+  "zh": "地函"
+ },
+ "ignition": {
+  "pos": "n.",
+  "en": "the act of starting to burn or fire an engine",
+  "zh": "點火"
+ },
+ "downplay": {
+  "pos": "v.",
+  "en": "to make something seem less important than it is",
+  "zh": "淡化；輕描淡寫"
+ },
+ "acknowledge": {
+  "pos": "v.",
+  "en": "to accept or admit that something is true",
+  "zh": "承認"
+ },
+ "payload": {
+  "pos": "n.",
+  "en": "the cargo carried by a rocket or aircraft",
+  "zh": "酬載；有效載荷"
+ },
+ "contaminate": {
+  "pos": "v.",
+  "en": "to make something dirty or poisonous",
+  "zh": "汙染"
+ },
+ "landfill": {
+  "pos": "n.",
+  "en": "a place where waste is buried",
+  "zh": "垃圾掩埋場"
+ },
+ "detoxify": {
+  "pos": "v.",
+  "en": "to remove poisonous substances from",
+  "zh": "解毒；去除毒素"
+ },
+ "pollutant": {
+  "pos": "n.",
+  "en": "a substance that pollutes",
+  "zh": "汙染物"
+ },
+ "absorb": {
+  "pos": "v.",
+  "en": "to take in a substance",
+  "zh": "吸收"
+ },
+ "predictable": {
+  "pos": "adj.",
+  "en": "able to be known in advance",
+  "zh": "可預測的"
+ },
+ "permanent": {
+  "pos": "adj.",
+  "en": "lasting forever or for a very long time",
+  "zh": "永久的"
+ },
+ "astronomer": {
+  "pos": "n.",
+  "en": "a scientist who studies stars and planets",
+  "zh": "天文學家"
+ },
+ "temperature": {
+  "pos": "n.",
+  "en": "how hot or cold something is",
+  "zh": "溫度"
+ },
+ "classify": {
+  "pos": "v.",
+  "en": "to arrange in groups by type",
+  "zh": "分類"
+ },
+ "kleptoparasitism": {
+  "pos": "n.",
+  "en": "stealing food that another animal has caught",
+  "zh": "竊食寄生（搶奪他者獵物的行為）"
+ },
+ "trader": {
+  "pos": "n.",
+  "en": "a person who buys and sells goods",
+  "zh": "商人；貿易商"
+ },
+ "suspect": {
+  "pos": "v.",
+  "en": "to believe something is probably true",
+  "zh": "懷疑；猜想"
+ },
+ "granite": {
+  "pos": "n.",
+  "en": "a very hard gray or pink rock",
+  "zh": "花崗岩"
+ },
+ "detail": {
+  "pos": "v.",
+  "en": "to describe something fully",
+  "zh": "詳述"
+ },
+ "wiry": {
+  "pos": "adj.",
+  "en": "thin but strong",
+  "zh": "精瘦結實的"
+ },
+ "surpass": {
+  "pos": "v.",
+  "en": "to be greater or better than",
+  "zh": "超越"
+ },
+ "journalism": {
+  "pos": "n.",
+  "en": "the work of writing news for newspapers or other media",
+  "zh": "新聞業；新聞寫作"
+ },
+ "seismic": {
+  "pos": "adj.",
+  "en": "relating to earthquakes",
+  "zh": "地震的"
+ },
+ "magma": {
+  "pos": "n.",
+  "en": "hot liquid rock beneath the Earth's surface",
+  "zh": "岩漿"
+ },
+ "banker": {
+  "pos": "n.",
+  "en": "a person who owns or runs a bank",
+  "zh": "銀行家"
+ },
+ "upset": {
+  "pos": "adj.",
+  "en": "unhappy or worried",
+  "zh": "難過的；心煩的"
+ },
+ "surroundings": {
+  "pos": "n.",
+  "en": "the place and conditions around a person",
+  "zh": "周遭環境"
+ },
+ "secretary-general": {
+  "pos": "n.",
+  "en": "the chief administrator of an international organization",
+  "zh": "秘書長"
+ },
+ "polarize": {
+  "pos": "v.",
+  "en": "to divide into two opposing groups",
+  "zh": "兩極化"
+ },
+ "invent": {
+  "pos": "v.",
+  "en": "to create something that did not exist before",
+  "zh": "發明"
+ },
+ "instant": {
+  "pos": "adj.",
+  "en": "happening immediately",
+  "zh": "即時的；立即的"
+ },
+ "copyright": {
+  "pos": "v.",
+  "en": "to legally protect the right to copy a work",
+  "zh": "取得版權"
+ },
+ "permission": {
+  "pos": "n.",
+  "en": "official agreement to let someone do something",
+  "zh": "許可"
+ },
+ "prohibit": {
+  "pos": "v.",
+  "en": "to officially forbid",
+  "zh": "禁止"
+ },
+ "advertisement": {
+  "pos": "n.",
+  "en": "a notice promoting a product or service",
+  "zh": "廣告"
+ },
+ "revenue": {
+  "pos": "n.",
+  "en": "income, especially of a business",
+  "zh": "收入；營收"
+ },
+ "unique": {
+  "pos": "adj.",
+  "en": "being the only one of its kind",
+  "zh": "獨特的"
+ },
+ "theremin": {
+  "pos": "n.",
+  "en": "an electronic instrument played without touching it",
+  "zh": "特雷門琴"
+ },
+ "antenna": {
+  "pos": "n.",
+  "en": "a rod that sends or receives signals",
+  "zh": "天線"
+ },
+ "iconic": {
+  "pos": "adj.",
+  "en": "very famous and seen as a symbol of something",
+  "zh": "具代表性的；標誌性的"
+ },
+ "frenetic": {
+  "pos": "adj.",
+  "en": "fast and energetic in an uncontrolled way",
+  "zh": "狂熱的；瘋狂忙亂的"
+ },
+ "procession": {
+  "pos": "n.",
+  "en": "a series of things moving or following one after another",
+  "zh": "行列；一連串"
+ },
+ "impassively": {
+  "pos": "adv.",
+  "en": "without showing any emotion",
+  "zh": "面無表情地"
+ },
+ "ceramic": {
+  "pos": "adj.",
+  "en": "made of clay that has been fired",
+  "zh": "陶瓷的"
+ },
+ "vessel": {
+  "pos": "n.",
+  "en": "a container such as a pot or bowl",
+  "zh": "器皿；容器"
+ },
+ "smother": {
+  "pos": "v.",
+  "en": "to put out a fire by covering it",
+  "zh": "悶熄；覆蓋使熄滅"
+ },
+ "majoritarian": {
+  "pos": "adj.",
+  "en": "governed by the principle that the majority wins",
+  "zh": "多數決的"
+ },
+ "district": {
+  "pos": "n.",
+  "en": "an area of a country or city",
+  "zh": "選區；地區"
+ },
+ "external": {
+  "pos": "adj.",
+  "en": "on or from the outside",
+  "zh": "外部的"
+ },
+ "exoskeleton": {
+  "pos": "n.",
+  "en": "a hard outer covering that supports an animal's body",
+  "zh": "外骨骼"
+ },
+ "endoskeleton": {
+  "pos": "n.",
+  "en": "a skeleton inside the body",
+  "zh": "內骨骼"
+ },
+ "crustacean": {
+  "pos": "n.",
+  "en": "a sea animal with a hard shell, like a crab",
+  "zh": "甲殼類動物"
+ },
+ "incorrectly": {
+  "pos": "adv.",
+  "en": "in a way that is wrong",
+  "zh": "錯誤地"
+ },
+ "exception": {
+  "pos": "n.",
+  "en": "something that does not follow the general rule",
+  "zh": "例外"
+ },
+ "cautious": {
+  "pos": "adj.",
+  "en": "careful to avoid risks or mistakes",
+  "zh": "謹慎的"
+ },
+ "distinguish": {
+  "pos": "v.",
+  "en": "to recognize the difference between things",
+  "zh": "區分；辨別"
+ },
+ "pseudonym": {
+  "pos": "n.",
+  "en": "a false name used by an author",
+  "zh": "筆名"
+ },
+ "conceal": {
+  "pos": "v.",
+  "en": "to hide",
+  "zh": "隱藏"
+ },
+ "molten": {
+  "pos": "adj.",
+  "en": "melted by heat",
+  "zh": "熔化的"
+ },
+ "habitat": {
+  "pos": "n.",
+  "en": "the natural home of an animal or plant",
+  "zh": "棲息地"
+ },
+ "inherit": {
+  "pos": "v.",
+  "en": "to receive something from those who came before",
+  "zh": "繼承"
+ },
+ "lymphoid": {
+  "pos": "adj.",
+  "en": "relating to tissue that helps the immune system",
+  "zh": "淋巴的"
+ },
+ "ethicist": {
+  "pos": "n.",
+  "en": "an expert in moral principles",
+  "zh": "倫理學家"
+ },
+ "oxygenation": {
+  "pos": "n.",
+  "en": "the amount of oxygen present",
+  "zh": "含氧量；氧合"
+ },
+ "attempt": {
+  "pos": "v.",
+  "en": "to try to do something",
+  "zh": "嘗試；企圖"
+ },
+ "express": {
+  "pos": "v.",
+  "en": "to show a feeling or opinion in words or actions",
+  "zh": "表達"
+ },
+ "mixed": {
+  "pos": "adj.",
+  "en": "including different or opposite kinds of feelings or things",
+  "zh": "混雜的；矛盾的"
+ },
+ "organization": {
+  "pos": "n.",
+  "en": "a group of people working together for a shared purpose",
+  "zh": "組織；機構"
+ },
+ "story": {
+  "pos": "n.",
+  "en": "a description of events, real or imagined, told or written",
+  "zh": "故事；小說"
  }
 }

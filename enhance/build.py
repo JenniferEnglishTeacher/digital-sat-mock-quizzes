@@ -85,7 +85,12 @@ def link_words(text):
         attrs = ''
         if g:
             attrs = f' data-w="{html.escape(lem)}" data-pos="{html.escape(g.get("pos",""))}" data-en="{html.escape(g["en"])}" data-zh="{html.escape(g["zh"])}"'
-        esc = pat.sub(lambda m: f'<a class="dict" href="https://dictionary.cambridge.org/search/english-chinese-traditional/direct/?q={lem}" target="_blank" rel="noopener"{attrs}>{m.group(1)}</a>', esc, count=1)
+        segs = re.split(r'(<[^>]*>)', esc)  # substitute only in text, never inside an earlier link's attributes
+        for si, sg in enumerate(segs):
+            if sg.startswith('<') or not pat.search(sg): continue
+            segs[si] = pat.sub(lambda m: f'<a class="dict" href="https://dictionary.cambridge.org/search/english-chinese-traditional/direct/?q={lem}" target="_blank" rel="noopener"{attrs}>{m.group(1)}</a>', sg, count=1)
+            break
+        esc = ''.join(segs)
     return esc.replace('\n', '<br>')
 
 Q = []
@@ -107,6 +112,14 @@ for q in data:
             ent['body'] = re.sub(r'(' + re.escape(html.escape(ul)) + r')', r'<u>\1</u>', ent['body'], count=1)
         elif ul:
             ent['body'] = re.sub(r'(' + re.escape(html.escape(ul)) + r'.*?[.!?])(?=\s|<br>|$)', r'<u>\1</u>', ent['body'], count=1, flags=re.S)
+        if ul and '<u>' not in ent['body']:  # fallback: a dictionary link inside the span broke the HTML match; mark the plain text, then link
+            i = body_en.find(ul)
+            if i >= 0:
+                if orig[str(n)].get('underline_exact'): j = i + len(ul)
+                else:
+                    mo = re.compile(r'.*?[.!?](?=\s|$)', re.S).match(body_en, i + len(ul))
+                    j = mo.end() if mo else len(body_en)
+                ent['body'] = link_words(body_en[:i] + '\x01' + body_en[i:j] + '\x02' + body_en[j:]).replace('\x01', '<u>').replace('\x02', '</u>')
         if is_vocab:
             ent['defs'] = {k: vocab.get(v, {}) | {'word': vocab.get(v, {}).get('w', v)} for k, v in it['opts'].items()}
         return ent
