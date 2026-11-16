@@ -103,7 +103,9 @@ for q in data:
             'answer': answer, 'expl': expl, 'explZh': expl_zh,
         }
         ul = key.startswith('o') and orig[str(n)].get('underline')
-        if ul:
+        if ul and orig[str(n)].get('underline_exact'):  # underline only the given words (an underlined portion, not a whole sentence)
+            ent['body'] = re.sub(r'(' + re.escape(html.escape(ul)) + r')', r'<u>\1</u>', ent['body'], count=1)
+        elif ul:
             ent['body'] = re.sub(r'(' + re.escape(html.escape(ul)) + r'.*?[.!?])(?=\s|<br>|$)', r'<u>\1</u>', ent['body'], count=1, flags=re.S)
         if is_vocab:
             ent['defs'] = {k: vocab.get(v, {}) | {'word': vocab.get(v, {}).get('w', v)} for k, v in it['opts'].items()}

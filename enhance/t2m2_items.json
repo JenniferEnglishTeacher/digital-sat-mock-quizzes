@@ -1,0 +1,2189 @@
+{
+ "pref": {
+  "1": "Several years of field observations have complicated an earlier explanation of a natural phenomenon, and researchers now describe the situation with more caution than certainty. Their report compares preliminary measurements with older assumptions and emphasizes how much the interpretation depends on incomplete but suggestive evidence gathered across different seasons and locations. ",
+  "2": "A regional archive recently acquired letters, maps, and photographs that changed how historians understand a public project. Because the records were fragmentary, the scholars had to connect small pieces of evidence across several sources before describing the project's development, the people who shaped it, and the reasons its significance had been overlooked. ",
+  "3": "At a community arts center, a curator prepared an exhibition about creators whose work drew on scientific observation, local history, and collaboration. The exhibition notes explain how individual decisions, materials, audiences, and institutional settings shaped the meaning of each work over time rather than treating the finished objects as isolated achievements. ",
+  "4": "A city planning report compares several approaches to improving transportation, public health, and access to shared spaces. The report links individual examples to broader patterns, showing how policy choices can produce effects that are gradual, indirect, or difficult to measure immediately, especially when different neighborhoods experience the same policy in different ways. ",
+  "5": "In a laboratory study, researchers tracked a process over multiple stages and found that the outcome depended on timing, environment, and the interaction of several variables. Their summary presents the evidence carefully because a small change in wording would alter the precision of the claim and might make the conclusion sound broader than the data support. "
+ },
+ "items": {
+  "o1": {
+   "body": "The Mule Bone, a 1930 play written by Zora Neale Hurston and Langston Hughes, is perhaps the best-known of the few examples of _______ in literature. Most writers prefer working alone, and given that working together cost Hurston and Hughes their friendship, it is not hard to see why.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "characterization",
+    "B": "interpretation",
+    "C": "collaboration",
+    "D": "commercialization"
+   },
+   "filler": null
+  },
+  "1.1": {
+   "body": "The anthology was unusual because it grew out of genuine ______: three poets revised one another's drafts, debated the order of the poems, and signed the final preface together.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "isolation",
+    "B": "commercialization",
+    "C": "collaboration",
+    "D": "interpretation"
+   },
+   "filler": "1"
+  },
+  "1.2": {
+   "body": "The mural's complexity reflects a long period of ______ between the lead painter and neighborhood residents, who suggested images, corrected historical details, and helped choose the final colors.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "characterization",
+    "B": "cooperation",
+    "C": "competition",
+    "D": "withdrawal"
+   },
+   "filler": "2"
+  },
+  "1.3": {
+   "body": "Although the two scientists usually published independently, their study of coastal erosion required close ______ because one specialized in satellite mapping and the other in sediment chemistry.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "publicity",
+    "B": "commercialization",
+    "C": "interpretation",
+    "D": "partnership"
+   },
+   "filler": "3"
+  },
+  "1.4": {
+   "body": "The film was not the product of a single director's vision but of ______ among animators, musicians, historians, and language consultants.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "prediction",
+    "B": "controversy",
+    "C": "isolation",
+    "D": "teamwork"
+   },
+   "filler": "4"
+  },
+  "1.5": {
+   "body": "The architects described the library as a work of ______, since its final design combined ideas from engineers, local teachers, and students who would use the building.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "joint effort",
+    "B": "character study",
+    "C": "private ownership",
+    "D": "market research"
+   },
+   "filler": "5"
+  },
+  "o2": {
+   "body": "The process of mechanically recycling plastics is often considered _______ because of the environmental impact and the loss of material quality that often occurs. But chemist Takunda Chazovachii has helped develop a cleaner process of chemical recycling that converts superabsorbent polymers from diapers into a desirable reusable adhesive.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "resilient",
+    "B": "inadequate",
+    "C": "dynamic",
+    "D": "satisfactory"
+   },
+   "filler": null
+  },
+  "2.1": {
+   "body": "The first cleanup plan was judged ______ because it removed visible trash from the riverbanks but failed to address the industrial chemicals still entering the water upstream.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "dynamic",
+    "B": "satisfactory",
+    "C": "resilient",
+    "D": "inadequate"
+   },
+   "filler": "1"
+  },
+  "2.2": {
+   "body": "Although the museum's early catalog listed every object, scholars considered it ______ because it rarely included dates, materials, or information about where the objects had been found.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "satisfactory",
+    "B": "insufficient",
+    "C": "innovative",
+    "D": "durable"
+   },
+   "filler": "2"
+  },
+  "2.3": {
+   "body": "The town's emergency shelter system proved ______ during the storm: it had room for only half the residents who needed help and lacked supplies for medical care.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "convenient",
+    "B": "dynamic",
+    "C": "deficient",
+    "D": "resilient"
+   },
+   "filler": "3"
+  },
+  "2.4": {
+   "body": "The translation was ______ for advanced research because it conveyed the general plot but omitted the technical terms central to the original legal document.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "flexible",
+    "B": "unsatisfactory",
+    "C": "inventive",
+    "D": "popular"
+   },
+   "filler": "4"
+  },
+  "2.5": {
+   "body": "The researchers rejected the initial sample as ______; it included too few participants from rural communities to support conclusions about the entire region.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "inadequate",
+    "B": "representative",
+    "C": "resilient",
+    "D": "precise"
+   },
+   "filler": "5"
+  },
+  "o3": {
+   "body": "Interruptions in the supply chain for microchips used in personal electronics have challenged an economist's assertion that retailers can expect robust growth in sales of those devices in the coming months. The delays are unlikely to _______ her projection entirely but will almost certainly extend its time frame.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "dispute",
+    "B": "withdraw",
+    "C": "underscore",
+    "D": "invalidate"
+   },
+   "filler": null
+  },
+  "3.1": {
+   "body": "New evidence may complicate the historian's timeline, but it does not ______ the central claim that the settlement was occupied continuously for several centuries.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "withdraw",
+    "B": "invalidate",
+    "C": "underscore",
+    "D": "dispute"
+   },
+   "filler": "1"
+  },
+  "3.2": {
+   "body": "The failed trial did not ______ the medical theory altogether; it showed only that the dosage used in the study was too low to produce a measurable effect.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "extend",
+    "B": "emphasize",
+    "C": "repeat",
+    "D": "nullify"
+   },
+   "filler": "2"
+  },
+  "3.3": {
+   "body": "The archaeologists expected the new radiocarbon dates to refine their interpretation, not to ______ it, since the dates still fell within the broader period they had proposed.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "disprove",
+    "B": "revise",
+    "C": "support",
+    "D": "confirm"
+   },
+   "filler": "3"
+  },
+  "3.4": {
+   "body": "The discovery of one mislabeled specimen was embarrassing, but it did not ______ the entire classification system, which was supported by hundreds of correctly identified examples.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "clarify",
+    "B": "undermine",
+    "C": "preserve",
+    "D": "underscore"
+   },
+   "filler": "4"
+  },
+  "3.5": {
+   "body": "The unexpected survey results forced economists to adjust the forecast's timing, but the results did not ______ the forecast's basic assumption that demand would eventually increase.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "withdraw",
+    "B": "summarize",
+    "C": "invalidate",
+    "D": "emphasize"
+   },
+   "filler": "5"
+  },
+  "o4": {
+   "body": "For her 2021 art installation Anthem, Wu Tsang joined forces with singer and composer Beverly Glenn-Copeland to produce a piece that critics found truly _______: they praised Tsang for creatively transforming a museum rotunda into a dynamic exhibit by projecting filmed images of Glenn-Copeland onto a massive 84-foot curtain and filling the space with the sounds of his and other voices singing.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "restrained",
+    "B": "inventive",
+    "C": "inexplicable",
+    "D": "mystifying"
+   },
+   "filler": null
+  },
+  "4.1": {
+   "body": "The director's staging of the ancient play was widely described as ______ because it used mirrors, live video, and overlapping voices to make a familiar story feel newly urgent.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "routine",
+    "B": "inexplicable",
+    "C": "restrained",
+    "D": "inventive"
+   },
+   "filler": "1"
+  },
+  "4.2": {
+   "body": "The chef's menu was ______, combining traditional fermentation techniques with unexpected ingredients such as pine needles, seaweed, and roasted fruit skins.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "ordinary",
+    "B": "innovative",
+    "C": "restrained",
+    "D": "mystifying"
+   },
+   "filler": "2"
+  },
+  "4.3": {
+   "body": "Critics praised the architect's ______ solution to the narrow site: rather than building upward in a simple tower, she arranged classrooms around a series of shared terraces.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "imaginative",
+    "B": "minor",
+    "C": "predictable",
+    "D": "inexplicable"
+   },
+   "filler": "3"
+  },
+  "4.4": {
+   "body": "The museum installation was ______, turning visitors' shadows into projected constellations that changed as people moved through the room.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "original",
+    "B": "restrained",
+    "C": "incomplete",
+    "D": "traditional"
+   },
+   "filler": "4"
+  },
+  "4.5": {
+   "body": "The composer was admired for her ______ use of everyday sounds, transforming subway brakes, footsteps, and market calls into the rhythmic basis of a symphony.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "cautious",
+    "B": "inexplicable",
+    "C": "creative",
+    "D": "literal"
+   },
+   "filler": "5"
+  },
+  "o5": {
+   "body": "Some scientists have suggested that mammals in the Mesozoic era were not a very _______ group, but paleontologist Zhe-Xi Luo's research suggests that early mammals living in the shadow of dinosaurs weren't all ground-dwelling insectivores. Fossils of various plant-eating mammals have been found in China, including species like Vilevolodon diplomylos, which Luo says could glide like a flying squirrel.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "predatory",
+    "B": "obscure",
+    "C": "diverse",
+    "D": "localized"
+   },
+   "filler": null
+  },
+  "5.1": {
+   "body": "The island's insects were once thought to be a fairly uniform group, but recent surveys show that they are remarkably ______, including burrowing species, pollinators, and predators adapted to high winds.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "predatory",
+    "B": "obscure",
+    "C": "diverse",
+    "D": "localized"
+   },
+   "filler": "1"
+  },
+  "5.2": {
+   "body": "The archive demonstrates that early radio audiences were ______: letters came not only from urban listeners but also from farmers, factory workers, teachers, and recent immigrants.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "predatory",
+    "B": "localized",
+    "C": "varied",
+    "D": "hidden"
+   },
+   "filler": "2"
+  },
+  "5.3": {
+   "body": "The region's pottery styles were more ______ than scholars had assumed, ranging from plain cooking vessels to elaborately painted ceremonial bowls.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "localized",
+    "B": "obscure",
+    "C": "fragile",
+    "D": "heterogeneous"
+   },
+   "filler": "3"
+  },
+  "5.4": {
+   "body": "The fossil site revealed a ______ community of ancient mammals, including gliding, swimming, burrowing, and plant-eating species.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "diverse",
+    "B": "minor",
+    "C": "obscure",
+    "D": "localized"
+   },
+   "filler": "4"
+  },
+  "5.5": {
+   "body": "The professor rejected the idea that the movement was ideologically narrow, pointing to its ______ membership of labor organizers, artists, clergy, students, and small-business owners.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "predatory",
+    "B": "wide-ranging",
+    "C": "obscure",
+    "D": "localized"
+   },
+   "filler": "5"
+  },
+  "o6": {
+   "body": "The following text is adapted from Gwendolyn Bennett's 1926 poem 'Street Lamps in Early Spring.'\n\nNight wears a garment\nAll velvet soft, all violet blue...\nAnd over her face she draws a veil\nAs shimmering fine as floating dew...\nAnd here and there\nIn the black of her hair\nThe subtle hands of Night\nMove slowly with their gem-starred light.",
+   "stem": "Which choice best describes the overall structure of the text?",
+   "opts": {
+    "A": "It presents alternating descriptions of night in a rural area and in a city.",
+    "B": "It sketches an image of nightfall, then an image of sunrise.",
+    "C": "It makes an extended comparison of night to a human being.",
+    "D": "It portrays how night changes from one season of the year to the next."
+   },
+   "filler": null
+  },
+  "6.1": {
+   "body": "In a short story excerpt, an elderly musician waits beside an open window while a younger relative returns from the garden with flowers. The narration lingers on the evening light, the prepared room, and the small signs that a long-anticipated visitor is about to arrive.",
+   "stem": "Which choice best describes the structure or function of the text?",
+   "opts": {
+    "A": "To portray a setting and mood as characters prepare for an arrival",
+    "B": "To explain why music has lost its importance",
+    "C": "To argue that the characters should leave the house",
+    "D": "To summarize a conflict between two relatives"
+   },
+   "filler": "1"
+  },
+  "6.2": {
+   "body": "A poem describes a speaker standing at the edge of a harbor as ships depart at dawn. Rather than narrating a completed journey, the poem emphasizes mist, movement, and the speaker's awareness that the travelers are entering uncertain but promising conditions.",
+   "stem": "Which choice best describes the structure or function of the text?",
+   "opts": {
+    "A": "To present an atmosphere of departure and possibility",
+    "B": "To compare several forms of transportation",
+    "C": "To criticize sailors for taking unnecessary risks",
+    "D": "To list the technical features of a harbor"
+   },
+   "filler": "2"
+  },
+  "6.3": {
+   "body": "A novel excerpt shows a crowded kitchen before a festival meal. The narrator notes the polished bowls, the careful arrangement of chairs, and the way family members pause whenever footsteps sound outside, waiting for a guest who has not visited for many years.",
+   "stem": "Which choice best describes the structure or function of the text?",
+   "opts": {
+    "A": "To explain why the family dislikes visitors",
+    "B": "To depict preparations that reveal anticipation within a family",
+    "C": "To contrast rural and urban customs",
+    "D": "To describe a completed celebration from beginning to end"
+   },
+   "filler": "3"
+  },
+  "6.4": {
+   "body": "A passage from a memoir describes a teacher unlocking a classroom before sunrise, straightening notebooks, and listening as students gather in the hallway. The text does not yet present the lesson itself; instead, it highlights the quiet rituals that precede it.",
+   "stem": "Which choice best describes the structure or function of the text?",
+   "opts": {
+    "A": "To recount a student's entire academic career",
+    "B": "To evaluate the quality of a school's curriculum",
+    "C": "To argue that early classes should be canceled",
+    "D": "To describe the moments before a significant daily activity begins"
+   },
+   "filler": "4"
+  },
+  "6.5": {
+   "body": "A literary passage presents a garden after rain: wet paths, bright leaves, and a bench set beneath a tree. A character pauses there with a letter in hand, and the description makes the setting feel calm but expectant.",
+   "stem": "Which choice best describes the structure or function of the text?",
+   "opts": {
+    "A": "To give instructions for maintaining a garden",
+    "B": "To reveal the full contents of a letter",
+    "C": "To establish a reflective mood before a character acts",
+    "D": "To compare two different seasons"
+   },
+   "filler": "5"
+  },
+  "o7": {
+   "body": "According to historian Vicki L. Ruiz, Mexican American women made crucial contributions to the labor movement during World War II. At the time, food processing companies entered into contracts to supply United States armed forces with canned goods. Increased production quotas conferred greater bargaining power on the companies' employees, many of whom were Mexican American women: employees insisted on more favorable benefits, and employers, who were anxious to fulfill the contracts, complied. Thus, labor activism became a platform for Mexican American women to assert their agency.",
+   "stem": "Which choice best describes the function of the underlined portion in the text as a whole?",
+   "opts": {
+    "A": "It elaborates on a claim about labor relations in a particular industry made earlier in the text.",
+    "B": "It offers an example of a trend in the World War II-era economy discussed earlier in the text.",
+    "C": "It notes a possible exception to the historical narrative of labor activism sketched earlier in the text.",
+    "D": "It provides further details about the identities of the workers discussed earlier in the text."
+   },
+   "filler": null
+  },
+  "7.1": {
+   "body": "A science text first explains that a comet's surface changes whenever it passes close to the Sun. The second sentence notes that researchers cannot predict those changes well because the comet's interior structure remains poorly understood. The final sentence describes a study that tested whether radar could solve the problem but found that the signal did not penetrate deeply enough.",
+   "stem": "Which choice best describes the structure or function of the text?",
+   "opts": {
+    "A": "It states the study's final conclusion.",
+    "B": "It offers evidence that radar is always reliable.",
+    "C": "It describes how other researchers criticized the work.",
+    "D": "It identifies the uncertainty that motivated the study."
+   },
+   "filler": "1"
+  },
+  "7.2": {
+   "body": "An archaeology passage begins by saying that a settlement clearly traded with distant regions. The next sentence explains that the route used for this exchange is still unknown because nearby roads have left almost no physical trace. The passage then discusses a team that looked for chemical signatures in pottery but reached only tentative conclusions.",
+   "stem": "Which choice best describes the structure or function of the text?",
+   "opts": {
+    "A": "It contradicts the claim made in the first sentence.",
+    "B": "It shifts the discussion away from archaeology.",
+    "C": "It summarizes the team's strongest result.",
+    "D": "It defines the problem the later investigation attempts to address."
+   },
+   "filler": "2"
+  },
+  "7.3": {
+   "body": "A biology text states that a plant species can survive long droughts. The following sentence explains that scientists remain uncertain about which cellular mechanism allows this survival. The rest of the text describes an experiment that eliminated one possible mechanism.",
+   "stem": "Which choice best describes the structure or function of the text?",
+   "opts": {
+    "A": "It introduces a gap in knowledge that the experiment examines.",
+    "B": "It lists the materials used in the experiment.",
+    "C": "It proves that drought has no effect on plants.",
+    "D": "It gives a historical overview of plant classification."
+   },
+   "filler": "3"
+  },
+  "7.4": {
+   "body": "A literary analysis begins by noting that a novel's ending has often been described as optimistic. The second sentence observes that this interpretation is difficult to sustain because the final chapter contains several images of confinement. The rest of the paragraph explains how those images complicate earlier readings.",
+   "stem": "Which choice best describes the structure or function of the text?",
+   "opts": {
+    "A": "It provides biographical information about the novelist.",
+    "B": "It raises a difficulty with a common interpretation.",
+    "C": "It introduces an unrelated theme.",
+    "D": "It summarizes the novel's publication history."
+   },
+   "filler": "4"
+  },
+  "7.5": {
+   "body": "A technology passage first says that autonomous underwater vehicles can map the ocean floor. The next sentence explains that they often fail in narrow caves, where GPS signals are absent and currents are unpredictable. The final sentence describes engineers testing a new guidance system for those conditions.",
+   "stem": "Which choice best describes the structure or function of the text?",
+   "opts": {
+    "A": "It announces that the technology is already flawless.",
+    "B": "It compares underwater vehicles with aircraft.",
+    "C": "It explains the limitation that the new system is meant to address.",
+    "D": "It gives a personal anecdote about engineers."
+   },
+   "filler": "5"
+  },
+  "o8": {
+   "body": "The following text is adapted from Zora Neale Hurston's 1921 short story 'John Redding Goes to Sea.' John is a child who lives in a town in the woods.\n\nPerhaps ten-year-old John was puzzling to the folk there in the Florida woods for he was an imaginative child and fond of day-dreams. The St. John River flowed a scarce three hundred feet from his back door. On its banks at this point grow numerous palms, luxuriant magnolias and bay trees. On the bosom of the stream float millions of delicately colored hyacinths. [John Redding] loved to wander down to the water's edge, and, casting in dry twigs, watch them sail away down stream to Jacksonville, the sea, the wide world and [he] wanted to follow them.",
+   "stem": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+   "opts": {
+    "A": "It provides an extended description of a location that John likes to visit.",
+    "B": "It reveals that some residents of John's town are confused by his behavior.",
+    "C": "It illustrates the uniqueness of John's imagination compared to the imaginations of other children.",
+    "D": "It suggests that John longs to experience a larger life outside the Florida woods."
+   },
+   "filler": null
+  },
+  "8.1": {
+   "body": "A science text first explains that a comet's surface changes whenever it passes close to the Sun. The second sentence notes that researchers cannot predict those changes well because the comet's interior structure remains poorly understood. The final sentence describes a study that tested whether radar could solve the problem but found that the signal did not penetrate deeply enough.",
+   "stem": "Which choice best describes the structure or function of the text?",
+   "opts": {
+    "A": "It offers evidence that radar is always reliable.",
+    "B": "It states the study's final conclusion.",
+    "C": "It describes how other researchers criticized the work.",
+    "D": "It identifies the uncertainty that motivated the study."
+   },
+   "filler": "1"
+  },
+  "8.2": {
+   "body": "An archaeology passage begins by saying that a settlement clearly traded with distant regions. The next sentence explains that the route used for this exchange is still unknown because nearby roads have left almost no physical trace. The passage then discusses a team that looked for chemical signatures in pottery but reached only tentative conclusions.",
+   "stem": "Which choice best describes the structure or function of the text?",
+   "opts": {
+    "A": "It defines the problem the later investigation attempts to address.",
+    "B": "It contradicts the claim made in the first sentence.",
+    "C": "It summarizes the team's strongest result.",
+    "D": "It shifts the discussion away from archaeology."
+   },
+   "filler": "2"
+  },
+  "8.3": {
+   "body": "A biology text states that a plant species can survive long droughts. The following sentence explains that scientists remain uncertain about which cellular mechanism allows this survival. The rest of the text describes an experiment that eliminated one possible mechanism.",
+   "stem": "Which choice best describes the structure or function of the text?",
+   "opts": {
+    "A": "It proves that drought has no effect on plants.",
+    "B": "It gives a historical overview of plant classification.",
+    "C": "It introduces a gap in knowledge that the experiment examines.",
+    "D": "It lists the materials used in the experiment."
+   },
+   "filler": "3"
+  },
+  "8.4": {
+   "body": "A literary analysis begins by noting that a novel's ending has often been described as optimistic. The second sentence observes that this interpretation is difficult to sustain because the final chapter contains several images of confinement. The rest of the paragraph explains how those images complicate earlier readings.",
+   "stem": "Which choice best describes the structure or function of the text?",
+   "opts": {
+    "A": "It provides biographical information about the novelist.",
+    "B": "It raises a difficulty with a common interpretation.",
+    "C": "It introduces an unrelated theme.",
+    "D": "It summarizes the novel's publication history."
+   },
+   "filler": "4"
+  },
+  "8.5": {
+   "body": "A technology passage first says that autonomous underwater vehicles can map the ocean floor. The next sentence explains that they often fail in narrow caves, where GPS signals are absent and currents are unpredictable. The final sentence describes engineers testing a new guidance system for those conditions.",
+   "stem": "Which choice best describes the structure or function of the text?",
+   "opts": {
+    "A": "It announces that the technology is already flawless.",
+    "B": "It explains the limitation that the new system is meant to address.",
+    "C": "It compares underwater vehicles with aircraft.",
+    "D": "It gives a personal anecdote about engineers."
+   },
+   "filler": "5"
+  },
+  "o9": {
+   "body": "The following text is adapted from Oscar Wilde's 1891 novel The Picture of Dorian Gray. Dorian Gray is taking his first look at a portrait that Hallward has painted of him.\n\nDorian passed listlessly in front of his picture and turned towards it. When he saw it he drew back, and his cheeks flushed for a moment with pleasure. A look of joy came into his eyes, as if he had recognized himself for the first time. He stood there motionless and in wonder, dimly conscious that Hallward was speaking to him, but not catching the meaning of his words. The sense of his own beauty came on him like a revelation. He had never felt it before.\n\nAccording to the text, what is true about Dorian?",
+   "stem": null,
+   "opts": {
+    "A": "He wants to know Hallward's opinion of the portrait.",
+    "B": "He is delighted by what he sees in the portrait.",
+    "C": "He prefers portraits to other types of paintings.",
+    "D": "He is uncertain of Hallward's talent as an artist."
+   },
+   "filler": null
+  },
+  "9.1": {
+   "body": "A nineteenth-century novel describes a young woman who is only eighteen but regularly advises older relatives because she remains calm when others react impulsively. The narrator stresses that her affection is sincere, yet she can restrain her emotions when judgment is needed.\n\nAccording to the text, which choice is best supported?",
+   "stem": null,
+   "opts": {
+    "A": "She shows unusual maturity and self-command.",
+    "B": "She lacks affection for her family.",
+    "C": "She refuses to give advice to others.",
+    "D": "She is admired mainly for her wealth."
+   },
+   "filler": "1"
+  },
+  "9.2": {
+   "body": "In a memoir, a child observes that her grandmother rarely speaks during family disputes, but when she finally offers a suggestion, everyone in the room accepts it. The narrator explains that the grandmother's authority comes from patience rather than force.\n\nAccording to the text, which choice is best supported?",
+   "stem": null,
+   "opts": {
+    "A": "The grandmother avoids family matters entirely.",
+    "B": "The grandmother's influence is quiet but substantial.",
+    "C": "The narrator thinks patience is useless.",
+    "D": "The family ignores the grandmother's opinions."
+   },
+   "filler": "2"
+  },
+  "9.3": {
+   "body": "A story describes a clerk who notices tiny errors in ledgers that others have already approved. Although his coworkers sometimes find his caution irritating, the narrator says that the business survives because of his exactness.\n\nAccording to the text, which choice is best supported?",
+   "stem": null,
+   "opts": {
+    "A": "The business fails because of excessive caution.",
+    "B": "The clerk intentionally creates errors.",
+    "C": "The clerk's carefulness is valuable despite being inconvenient.",
+    "D": "The coworkers are more accurate than the clerk."
+   },
+   "filler": "3"
+  },
+  "9.4": {
+   "body": "A passage states that a village leader listens to every speaker before making decisions, even when the answer seems obvious. The narrator suggests that this habit slows meetings but prevents resentment among people who might otherwise feel dismissed.\n\nAccording to the text, which choice is best supported?",
+   "stem": null,
+   "opts": {
+    "A": "The leader is unable to reach conclusions.",
+    "B": "The leader makes decisions without hearing others.",
+    "C": "The leader dislikes public meetings.",
+    "D": "The leader values inclusive deliberation."
+   },
+   "filler": "4"
+  },
+  "9.5": {
+   "body": "In an excerpt, a scientist is described as generous with students but uncompromising about evidence. She encourages speculation in early discussions, yet she will not publish a claim until every measurement has been checked.\n\nAccording to the text, which choice is best supported?",
+   "stem": null,
+   "opts": {
+    "A": "She combines intellectual openness with rigorous standards.",
+    "B": "She publishes claims before testing them.",
+    "C": "She rejects all imaginative thinking.",
+    "D": "She avoids working with students."
+   },
+   "filler": "5"
+  },
+  "o10": {
+   "body": "Economists Kerwin Kofi Charles and Melvin Stephens Jr. investigated factors that influence voter turnout in the United States. Using survey data about whether respondents voted and how knowledgeable they are about politics, Charles and Stephens claim that likelihood of voting is driven partly by voters' confidence in evaluating candidates. In the graph, at each point on a political orientation scale from strong Democrat/liberal to strong Republican/conservative, high-information voters have a higher probability of voting than low-information voters.",
+   "stem": "Which choice best describes data in the graph that support Charles and Stephens's claim?",
+   "opts": {
+    "A": "At each point on the political orientation scale, high-information voters were more likely than low-information voters to vote.",
+    "B": "Only low-information voters who identify as independents had a voting probability below 50%.",
+    "C": "The closer that low-information voters are to the ends of the political orientation scale, the more likely they were to vote.",
+    "D": "High-information voters were more likely to identify as strong Democrats or strong Republicans than low-information voters were."
+   },
+   "filler": null
+  },
+  "10.1": {
+   "body": "A student claims that a historian treats a revolutionary leader more as a national emblem than as a practical policymaker. Which quotation would best illustrate that claim?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "'The leader signed several decrees during his first month in office.'",
+    "B": "'The leader's symbolic role in the birth of the nation matters more than the brief and uneven record of his administration.'",
+    "C": "'The leader's speeches are preserved in several archives.'",
+    "D": "'The administration faced economic challenges from the beginning.'"
+   },
+   "filler": "1"
+  },
+  "10.2": {
+   "body": "A graph shows that female farmers made up 64% of vegetable growers in the southern region but less than 35% of grain growers in the northern and central regions. Which statement best uses the graph to support a claim about regional crop patterns?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "The southern region was included in the survey.",
+    "B": "Some farmers grew vegetables, while others grew grain.",
+    "C": "Women formed a majority of southern vegetable growers but not of northern or central grain growers.",
+    "D": "The graph contains information about three regions."
+   },
+   "filler": "2"
+  },
+  "10.3": {
+   "body": "Astronomers claim that rocky planets never contain more iron than their host stars. Which finding would most directly weaken the claim?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "Several rocky planets are found to contain a substantially higher proportion of iron than the stars they orbit.",
+    "B": "The method used to study stars requires a telescope.",
+    "C": "One rocky planet has a thin atmosphere.",
+    "D": "Some stars contain hydrogen and helium."
+   },
+   "filler": "3"
+  },
+  "10.4": {
+   "body": "A folklorist argues that a tradition developed through recent cultural exchange rather than being merely imported unchanged from a distant country. Which finding would best support the argument?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "Some songs use a meter also found in older European poetry.",
+    "B": "Several ballads include local historical events and blended musical forms that arose after different communities came into sustained contact.",
+    "C": "The tradition is studied by scholars in several countries.",
+    "D": "Many performers learned songs from relatives."
+   },
+   "filler": "4"
+  },
+  "10.5": {
+   "body": "A table shows that the number of trained volunteers rose from 18 to 46 after a community program began, while the number in a comparable town without the program stayed near 20. Which conclusion is best supported?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "The program took place in a community.",
+    "B": "The table includes more than one year.",
+    "C": "Both towns had some volunteers.",
+    "D": "The program was associated with a clear increase in trained volunteers compared with the town without the program."
+   },
+   "filler": "5"
+  },
+  "o11": {
+   "body": "To investigate the effect of lizard predation on spider populations, a student placed spiders in two enclosures, one with lizards and one without, and tracked the number of spiders for 30 days. The student concluded that the reduction in spider population count in the enclosure with lizards by day 30 was entirely attributable to the presence of the lizards. The graph shows that the spider population also substantially declined in the enclosure without lizards by day 30.",
+   "stem": "Which choice best describes data from the graph that weaken the student's conclusion?",
+   "opts": {
+    "A": "The spider population count was the same in both enclosures on day 1.",
+    "B": "The spider population count also substantially declined by day 30 in the enclosure without lizards.",
+    "C": "The largest decline in spider population count in the enclosure with lizards occurred from day 1 to day 10.",
+    "D": "The spider population count on day 30 was lower in the enclosure with lizards than in the enclosure without lizards."
+   },
+   "filler": null
+  },
+  "11.1": {
+   "body": "A student claims that a historian treats a revolutionary leader more as a national emblem than as a practical policymaker. Which quotation would best illustrate that claim?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "'The leader signed several decrees during his first month in office.'",
+    "B": "'The leader's symbolic role in the birth of the nation matters more than the brief and uneven record of his administration.'",
+    "C": "'The leader's speeches are preserved in several archives.'",
+    "D": "'The administration faced economic challenges from the beginning.'"
+   },
+   "filler": "1"
+  },
+  "11.2": {
+   "body": "A graph shows that female farmers made up 64% of vegetable growers in the southern region but less than 35% of grain growers in the northern and central regions. Which statement best uses the graph to support a claim about regional crop patterns?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "The southern region was included in the survey.",
+    "B": "Some farmers grew vegetables, while others grew grain.",
+    "C": "Women formed a majority of southern vegetable growers but not of northern or central grain growers.",
+    "D": "The graph contains information about three regions."
+   },
+   "filler": "2"
+  },
+  "11.3": {
+   "body": "Astronomers claim that rocky planets never contain more iron than their host stars. Which finding would most directly weaken the claim?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "Some stars contain hydrogen and helium.",
+    "B": "One rocky planet has a thin atmosphere.",
+    "C": "The method used to study stars requires a telescope.",
+    "D": "Several rocky planets are found to contain a substantially higher proportion of iron than the stars they orbit."
+   },
+   "filler": "3"
+  },
+  "11.4": {
+   "body": "A folklorist argues that a tradition developed through recent cultural exchange rather than being merely imported unchanged from a distant country. Which finding would best support the argument?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "Several ballads include local historical events and blended musical forms that arose after different communities came into sustained contact.",
+    "B": "The tradition is studied by scholars in several countries.",
+    "C": "Some songs use a meter also found in older European poetry.",
+    "D": "Many performers learned songs from relatives."
+   },
+   "filler": "4"
+  },
+  "11.5": {
+   "body": "A table shows that the number of trained volunteers rose from 18 to 46 after a community program began, while the number in a comparable town without the program stayed near 20. Which conclusion is best supported?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "The program took place in a community.",
+    "B": "The table includes more than one year.",
+    "C": "Both towns had some volunteers.",
+    "D": "The program was associated with a clear increase in trained volunteers compared with the town without the program."
+   },
+   "filler": "5"
+  },
+  "o12": {
+   "body": "Archaeologist Petra Vaiglova, anthropologist Xinyi Liu, and colleagues investigated domestication of farm animals in China during the Bronze Age. By analyzing bones of sheep, goats, and cattle, the team determined that wild plants made up the bulk of sheep's and goats' diets, while cattle's diet consisted largely of millet, a crop cultivated by humans. The team concluded that cattle were likely raised closer to human settlements, whereas sheep and goats were allowed to roam farther away.\n\nWhich finding, if true, would most strongly support the team's conclusion?",
+   "stem": null,
+   "opts": {
+    "A": "Analysis of the animal bones showed that the cattle's diet also consisted of wheat, which humans widely cultivated in China during the Bronze Age.",
+    "B": "Further investigation of sheep and goat bones revealed that their diets consisted of small portions of millet as well.",
+    "C": "Cattle's diets generally require larger amounts of food and a greater variety of nutrients than do sheep's and goats' diets.",
+    "D": "The diets of sheep, goats, and cattle were found to vary based on what the farmers in each Bronze Age settlement could grow."
+   },
+   "filler": null
+  },
+  "12.1": {
+   "body": "A student claims that a historian treats a revolutionary leader more as a national emblem than as a practical policymaker. Which quotation would best illustrate that claim?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "'The leader signed several decrees during his first month in office.'",
+    "B": "'The administration faced economic challenges from the beginning.'",
+    "C": "'The leader's symbolic role in the birth of the nation matters more than the brief and uneven record of his administration.'",
+    "D": "'The leader's speeches are preserved in several archives.'"
+   },
+   "filler": "1"
+  },
+  "12.2": {
+   "body": "A graph shows that female farmers made up 64% of vegetable growers in the southern region but less than 35% of grain growers in the northern and central regions. Which statement best uses the graph to support a claim about regional crop patterns?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "The southern region was included in the survey.",
+    "B": "Women formed a majority of southern vegetable growers but not of northern or central grain growers.",
+    "C": "Some farmers grew vegetables, while others grew grain.",
+    "D": "The graph contains information about three regions."
+   },
+   "filler": "2"
+  },
+  "12.3": {
+   "body": "Astronomers claim that rocky planets never contain more iron than their host stars. Which finding would most directly weaken the claim?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "Several rocky planets are found to contain a substantially higher proportion of iron than the stars they orbit.",
+    "B": "Some stars contain hydrogen and helium.",
+    "C": "One rocky planet has a thin atmosphere.",
+    "D": "The method used to study stars requires a telescope."
+   },
+   "filler": "3"
+  },
+  "12.4": {
+   "body": "A folklorist argues that a tradition developed through recent cultural exchange rather than being merely imported unchanged from a distant country. Which finding would best support the argument?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "Some songs use a meter also found in older European poetry.",
+    "B": "The tradition is studied by scholars in several countries.",
+    "C": "Several ballads include local historical events and blended musical forms that arose after different communities came into sustained contact.",
+    "D": "Many performers learned songs from relatives."
+   },
+   "filler": "4"
+  },
+  "12.5": {
+   "body": "A table shows that the number of trained volunteers rose from 18 to 46 after a community program began, while the number in a comparable town without the program stayed near 20. Which conclusion is best supported?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "Both towns had some volunteers.",
+    "B": "The table includes more than one year.",
+    "C": "The program took place in a community.",
+    "D": "The program was associated with a clear increase in trained volunteers compared with the town without the program."
+   },
+   "filler": "5"
+  },
+  "o13": {
+   "body": "Mosasaurs were large marine reptiles that lived in the Late Cretaceous period. Celina Suarez, Alberto Perez-Huerta, and T. Lynn Harrell Jr. examined oxygen-18 isotopes in mosasaur tooth enamel to calculate likely body temperatures and determined that mosasaurs were endothermic. They claim that endothermy would have enabled mosasaurs to include relatively cold polar waters in their range.\n\nWhich finding, if true, would most directly support Suarez, Perez-Huerta, and Harrell's claim?",
+   "stem": null,
+   "opts": {
+    "A": "Mosasaurs' likely body temperatures are easier to determine from tooth enamel oxygen-18 isotope data than the body temperatures of nonendothermic Late Cretaceous marine reptiles are.",
+    "B": "Fossils of both mosasaurs and nonendothermic marine reptiles have been found in roughly equal numbers in regions known to be near the poles during the Late Cretaceous, though in lower concentrations than elsewhere.",
+    "C": "Several mosasaur fossils have been found in regions known to be near the poles during the Late Cretaceous, while relatively few fossils of nonendothermic marine reptiles have been found in those locations.",
+    "D": "During the Late Cretaceous, seawater temperatures were likely higher throughout mosasaurs' range, including near the poles, than seawater temperatures at those same latitudes are today."
+   },
+   "filler": null
+  },
+  "13.1": {
+   "body": "A student claims that a historian treats a revolutionary leader more as a national emblem than as a practical policymaker. Which quotation would best illustrate that claim?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "'The leader's speeches are preserved in several archives.'",
+    "B": "'The leader signed several decrees during his first month in office.'",
+    "C": "'The administration faced economic challenges from the beginning.'",
+    "D": "'The leader's symbolic role in the birth of the nation matters more than the brief and uneven record of his administration.'"
+   },
+   "filler": "1"
+  },
+  "13.2": {
+   "body": "A graph shows that female farmers made up 64% of vegetable growers in the southern region but less than 35% of grain growers in the northern and central regions. Which statement best uses the graph to support a claim about regional crop patterns?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "The southern region was included in the survey.",
+    "B": "The graph contains information about three regions.",
+    "C": "Some farmers grew vegetables, while others grew grain.",
+    "D": "Women formed a majority of southern vegetable growers but not of northern or central grain growers."
+   },
+   "filler": "2"
+  },
+  "13.3": {
+   "body": "Astronomers claim that rocky planets never contain more iron than their host stars. Which finding would most directly weaken the claim?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "Some stars contain hydrogen and helium.",
+    "B": "One rocky planet has a thin atmosphere.",
+    "C": "Several rocky planets are found to contain a substantially higher proportion of iron than the stars they orbit.",
+    "D": "The method used to study stars requires a telescope."
+   },
+   "filler": "3"
+  },
+  "13.4": {
+   "body": "A folklorist argues that a tradition developed through recent cultural exchange rather than being merely imported unchanged from a distant country. Which finding would best support the argument?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "Several ballads include local historical events and blended musical forms that arose after different communities came into sustained contact.",
+    "B": "Some songs use a meter also found in older European poetry.",
+    "C": "The tradition is studied by scholars in several countries.",
+    "D": "Many performers learned songs from relatives."
+   },
+   "filler": "4"
+  },
+  "13.5": {
+   "body": "A table shows that the number of trained volunteers rose from 18 to 46 after a community program began, while the number in a comparable town without the program stayed near 20. Which conclusion is best supported?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "Both towns had some volunteers.",
+    "B": "The program was associated with a clear increase in trained volunteers compared with the town without the program.",
+    "C": "The program took place in a community.",
+    "D": "The table includes more than one year."
+   },
+   "filler": "5"
+  },
+  "o14": {
+   "body": "Researchers hypothesized that a decline in the population of dusky sharks near the mid-Atlantic coast of North America led to a decline in the population of eastern oysters in the region. Dusky sharks do not typically consume eastern oysters but do consume cownose rays, which are the main predators of the oysters.\n\nWhich finding, if true, would most directly support the researchers' hypothesis?",
+   "stem": null,
+   "opts": {
+    "A": "Declines in the regional abundance of dusky sharks' prey other than cownose rays are associated with regional declines in dusky shark abundance.",
+    "B": "Eastern oyster abundance tends to be greater in areas with both dusky sharks and cownose rays than in areas with only dusky sharks.",
+    "C": "Consumption of eastern oysters by cownose rays in the region substantially increased before the regional decline in dusky shark abundance began.",
+    "D": "Cownose rays have increased in regional abundance as dusky sharks have decreased in regional abundance."
+   },
+   "filler": null
+  },
+  "14.1": {
+   "body": "A student claims that a historian treats a revolutionary leader more as a national emblem than as a practical policymaker. Which quotation would best illustrate that claim?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "'The leader's symbolic role in the birth of the nation matters more than the brief and uneven record of his administration.'",
+    "B": "'The administration faced economic challenges from the beginning.'",
+    "C": "'The leader's speeches are preserved in several archives.'",
+    "D": "'The leader signed several decrees during his first month in office.'"
+   },
+   "filler": "1"
+  },
+  "14.2": {
+   "body": "A graph shows that female farmers made up 64% of vegetable growers in the southern region but less than 35% of grain growers in the northern and central regions. Which statement best uses the graph to support a claim about regional crop patterns?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "The graph contains information about three regions.",
+    "B": "Some farmers grew vegetables, while others grew grain.",
+    "C": "Women formed a majority of southern vegetable growers but not of northern or central grain growers.",
+    "D": "The southern region was included in the survey."
+   },
+   "filler": "2"
+  },
+  "14.3": {
+   "body": "Astronomers claim that rocky planets never contain more iron than their host stars. Which finding would most directly weaken the claim?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "Some stars contain hydrogen and helium.",
+    "B": "One rocky planet has a thin atmosphere.",
+    "C": "Several rocky planets are found to contain a substantially higher proportion of iron than the stars they orbit.",
+    "D": "The method used to study stars requires a telescope."
+   },
+   "filler": "3"
+  },
+  "14.4": {
+   "body": "A folklorist argues that a tradition developed through recent cultural exchange rather than being merely imported unchanged from a distant country. Which finding would best support the argument?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "Many performers learned songs from relatives.",
+    "B": "The tradition is studied by scholars in several countries.",
+    "C": "Some songs use a meter also found in older European poetry.",
+    "D": "Several ballads include local historical events and blended musical forms that arose after different communities came into sustained contact."
+   },
+   "filler": "4"
+  },
+  "14.5": {
+   "body": "A table shows that the number of trained volunteers rose from 18 to 46 after a community program began, while the number in a comparable town without the program stayed near 20. Which conclusion is best supported?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "The table includes more than one year.",
+    "B": "The program was associated with a clear increase in trained volunteers compared with the town without the program.",
+    "C": "The program took place in a community.",
+    "D": "Both towns had some volunteers."
+   },
+   "filler": "5"
+  },
+  "o15": {
+   "body": "Political scientists who favor the traditional view of voter behavior claim that voting in an election does not change a voter's attitude toward the candidates in that election. Ebonya Washington and Sendhil Mullainathan tested this claim by comparing subjects who had just become old enough to vote with otherwise similar subjects who were slightly too young to vote. They compared attitudes toward the winning candidate two years after each election.\n\nWhich finding from Washington and Mullainathan's study, if true, would most directly weaken the traditional view?",
+   "stem": null,
+   "opts": {
+    "A": "Subjects' attitudes toward the winning candidate two years after a given election were strongly predicted by subjects' general political orientation, regardless of whether subjects were old enough to vote.",
+    "B": "Subjects who were not old enough to vote in a given election held significantly more positive attitudes towards the winning candidate two years later than they held at the time of the election.",
+    "C": "Subjects who voted in a given election held significantly more polarized attitudes toward the winning candidate two years later than did subjects who were not old enough to vote in that election.",
+    "D": "Two years after a given election, subjects who voted and subjects who were not old enough to vote were significantly more likely to express negative attitudes than positive attitudes toward the winning candidate in that election."
+   },
+   "filler": null
+  },
+  "15.1": {
+   "body": "A student claims that a historian treats a revolutionary leader more as a national emblem than as a practical policymaker. Which quotation would best illustrate that claim?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "'The leader's speeches are preserved in several archives.'",
+    "B": "'The leader's symbolic role in the birth of the nation matters more than the brief and uneven record of his administration.'",
+    "C": "'The leader signed several decrees during his first month in office.'",
+    "D": "'The administration faced economic challenges from the beginning.'"
+   },
+   "filler": "1"
+  },
+  "15.2": {
+   "body": "A graph shows that female farmers made up 64% of vegetable growers in the southern region but less than 35% of grain growers in the northern and central regions. Which statement best uses the graph to support a claim about regional crop patterns?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "Some farmers grew vegetables, while others grew grain.",
+    "B": "Women formed a majority of southern vegetable growers but not of northern or central grain growers.",
+    "C": "The southern region was included in the survey.",
+    "D": "The graph contains information about three regions."
+   },
+   "filler": "2"
+  },
+  "15.3": {
+   "body": "Astronomers claim that rocky planets never contain more iron than their host stars. Which finding would most directly weaken the claim?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "The method used to study stars requires a telescope.",
+    "B": "Some stars contain hydrogen and helium.",
+    "C": "One rocky planet has a thin atmosphere.",
+    "D": "Several rocky planets are found to contain a substantially higher proportion of iron than the stars they orbit."
+   },
+   "filler": "3"
+  },
+  "15.4": {
+   "body": "A folklorist argues that a tradition developed through recent cultural exchange rather than being merely imported unchanged from a distant country. Which finding would best support the argument?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "Several ballads include local historical events and blended musical forms that arose after different communities came into sustained contact.",
+    "B": "The tradition is studied by scholars in several countries.",
+    "C": "Some songs use a meter also found in older European poetry.",
+    "D": "Many performers learned songs from relatives."
+   },
+   "filler": "4"
+  },
+  "15.5": {
+   "body": "A table shows that the number of trained volunteers rose from 18 to 46 after a community program began, while the number in a comparable town without the program stayed near 20. Which conclusion is best supported?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "The table includes more than one year.",
+    "B": "Both towns had some volunteers.",
+    "C": "The program was associated with a clear increase in trained volunteers compared with the town without the program.",
+    "D": "The program took place in a community."
+   },
+   "filler": "5"
+  },
+  "o16": {
+   "body": "Perovskite solar cells convert light into electricity efficiently, but a limitation concerns their electron transport layer (ETL). Often the ETL is applied through spin coating, but such ETLs are fairly inefficient. Andre Taylor and colleagues tested a spray coating method for applying the ETL and concluded that spray coating holds promise for improving the power conversion efficiency of ETLs in perovskite solar cells. The graph shows that the lowest performing ETL applied through spray coating had a higher power conversion efficiency than the highest performing ETL applied through spin coating.",
+   "stem": "Which choice best describes data from the graph that support Taylor and colleagues' conclusion?",
+   "opts": {
+    "A": "Both the ETL applied through spin coating and the ETL applied through spray coating showed a power conversion efficiency greater than 10% at their lowest performing thickness.",
+    "B": "The lowest performing ETL applied through spray coating had a higher power conversion efficiency than the highest performing ETL applied through spin coating.",
+    "C": "The highest performing ETL applied through spray coating showed a power conversion efficiency of approximately 13%, while the highest performing ETL applied through spin coating showed a power conversion efficiency of approximately 11%.",
+    "D": "There was a substantial difference in power conversion efficiency between the lowest and highest performing ETLs applied through spray coating."
+   },
+   "filler": null
+  },
+  "16.1": {
+   "body": "A student claims that a historian treats a revolutionary leader more as a national emblem than as a practical policymaker. Which quotation would best illustrate that claim?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "'The administration faced economic challenges from the beginning.'",
+    "B": "'The leader's symbolic role in the birth of the nation matters more than the brief and uneven record of his administration.'",
+    "C": "'The leader's speeches are preserved in several archives.'",
+    "D": "'The leader signed several decrees during his first month in office.'"
+   },
+   "filler": "1"
+  },
+  "16.2": {
+   "body": "A graph shows that female farmers made up 64% of vegetable growers in the southern region but less than 35% of grain growers in the northern and central regions. Which statement best uses the graph to support a claim about regional crop patterns?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "Women formed a majority of southern vegetable growers but not of northern or central grain growers.",
+    "B": "The graph contains information about three regions.",
+    "C": "Some farmers grew vegetables, while others grew grain.",
+    "D": "The southern region was included in the survey."
+   },
+   "filler": "2"
+  },
+  "16.3": {
+   "body": "Astronomers claim that rocky planets never contain more iron than their host stars. Which finding would most directly weaken the claim?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "Some stars contain hydrogen and helium.",
+    "B": "One rocky planet has a thin atmosphere.",
+    "C": "The method used to study stars requires a telescope.",
+    "D": "Several rocky planets are found to contain a substantially higher proportion of iron than the stars they orbit."
+   },
+   "filler": "3"
+  },
+  "16.4": {
+   "body": "A folklorist argues that a tradition developed through recent cultural exchange rather than being merely imported unchanged from a distant country. Which finding would best support the argument?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "The tradition is studied by scholars in several countries.",
+    "B": "Some songs use a meter also found in older European poetry.",
+    "C": "Several ballads include local historical events and blended musical forms that arose after different communities came into sustained contact.",
+    "D": "Many performers learned songs from relatives."
+   },
+   "filler": "4"
+  },
+  "16.5": {
+   "body": "A table shows that the number of trained volunteers rose from 18 to 46 after a community program began, while the number in a comparable town without the program stayed near 20. Which conclusion is best supported?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "The program took place in a community.",
+    "B": "The program was associated with a clear increase in trained volunteers compared with the town without the program.",
+    "C": "Both towns had some volunteers.",
+    "D": "The table includes more than one year."
+   },
+   "filler": "5"
+  },
+  "o17": {
+   "body": "While attending school in New York City in the 1980s, Okwui Enwezor encountered few works by African artists in exhibitions, despite New York's reputation as a place to view contemporary art from around the world. An arts journalist claims that later in his career as a curator and art historian, Enwezor sought to remedy this deficiency not by focusing solely on modern African artists but by showing how their work fits into the larger context of global modern art and art history.\n\nWhich finding, if true, would most directly support the journalist's claim?",
+   "stem": null,
+   "opts": {
+    "A": "As curator of the Haus der Kunst in Munich, Enwezor organized a retrospective of Ghanaian sculptor El Anatsui's work, one of the largest art exhibitions devoted to a Black artist in Europe's history.",
+    "B": "In Postwar: Art Between the Pacific and the Atlantic, 1945-1965, Enwezor and Katy Siegel brought works by African artists such as Malangatana Ngwenya together with pieces by major figures from other countries, like Andy Warhol and David Siqueiros.",
+    "C": "Enwezor's exhibition The Short Century: Independence and Liberation Movements in Africa, 1945-1994 showed how African independence movements influenced work by African artists of the period.",
+    "D": "Enwezor organized In/sight: African Photographers, 1940 to the Present to demonstrate the broad range of ways African artists approached photography."
+   },
+   "filler": null
+  },
+  "17.1": {
+   "body": "A student claims that a historian treats a revolutionary leader more as a national emblem than as a practical policymaker. Which quotation would best illustrate that claim?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "'The leader's speeches are preserved in several archives.'",
+    "B": "'The administration faced economic challenges from the beginning.'",
+    "C": "'The leader signed several decrees during his first month in office.'",
+    "D": "'The leader's symbolic role in the birth of the nation matters more than the brief and uneven record of his administration.'"
+   },
+   "filler": "1"
+  },
+  "17.2": {
+   "body": "A graph shows that female farmers made up 64% of vegetable growers in the southern region but less than 35% of grain growers in the northern and central regions. Which statement best uses the graph to support a claim about regional crop patterns?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "Some farmers grew vegetables, while others grew grain.",
+    "B": "The graph contains information about three regions.",
+    "C": "Women formed a majority of southern vegetable growers but not of northern or central grain growers.",
+    "D": "The southern region was included in the survey."
+   },
+   "filler": "2"
+  },
+  "17.3": {
+   "body": "Astronomers claim that rocky planets never contain more iron than their host stars. Which finding would most directly weaken the claim?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "Several rocky planets are found to contain a substantially higher proportion of iron than the stars they orbit.",
+    "B": "The method used to study stars requires a telescope.",
+    "C": "Some stars contain hydrogen and helium.",
+    "D": "One rocky planet has a thin atmosphere."
+   },
+   "filler": "3"
+  },
+  "17.4": {
+   "body": "A folklorist argues that a tradition developed through recent cultural exchange rather than being merely imported unchanged from a distant country. Which finding would best support the argument?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "The tradition is studied by scholars in several countries.",
+    "B": "Several ballads include local historical events and blended musical forms that arose after different communities came into sustained contact.",
+    "C": "Many performers learned songs from relatives.",
+    "D": "Some songs use a meter also found in older European poetry."
+   },
+   "filler": "4"
+  },
+  "17.5": {
+   "body": "A table shows that the number of trained volunteers rose from 18 to 46 after a community program began, while the number in a comparable town without the program stayed near 20. Which conclusion is best supported?",
+   "stem": "Which choice most effectively uses evidence to support, illustrate, or weaken the claim?",
+   "opts": {
+    "A": "The table includes more than one year.",
+    "B": "The program took place in a community.",
+    "C": "Both towns had some volunteers.",
+    "D": "The program was associated with a clear increase in trained volunteers compared with the town without the program."
+   },
+   "filler": "5"
+  },
+  "o18": {
+   "body": "For thousands of years, people in the Americas _______ the bottle gourd, a large bitter fruit with a thick rind, to make bottles, other types of containers, and even musical instruments. Oddly, there is no evidence that any type of bottle gourd is native to the Western Hemisphere.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "to use",
+    "B": "have used",
+    "C": "having used",
+    "D": "using"
+   },
+   "filler": null
+  },
+  "18.1": {
+   "body": "For centuries, coastal communities ______ tidal pools as natural storage areas for shellfish gathered during low tide.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "using",
+    "B": "to use",
+    "C": "have used",
+    "D": "having used"
+   },
+   "filler": "1"
+  },
+  "18.2": {
+   "body": "Many designers seek ever more realistic digital effects, ______ some deliberately preserve the flat colors and blocky shapes of early computer games.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "effects but",
+    "B": "effects",
+    "C": "effects,",
+    "D": "effects, but"
+   },
+   "filler": "2"
+  },
+  "18.3": {
+   "body": "In 1984, the engineer recommended a cheaper material for the casing. She also ______ a simpler locking mechanism.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "proposed",
+    "B": "had proposed",
+    "C": "was proposing",
+    "D": "proposes"
+   },
+   "filler": "3"
+  },
+  "18.4": {
+   "body": "The artist studied entomology, the science of ______ hundreds of drawings of beetles and butterflies while traveling through South America.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "insects, producing",
+    "B": "insects producing",
+    "C": "insects; producing",
+    "D": "insects. Producing"
+   },
+   "filler": "4"
+  },
+  "18.5": {
+   "body": "In interpreting the poems of Sor Juana, ______ have sometimes overlooked her engagement with scientific debates of her era.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "the focus of many critics has been her religious imagery; they",
+    "B": "many critics have focused on her religious imagery but",
+    "C": "her religious imagery has been the focus of many critics, who",
+    "D": "there are many critics who focused on her religious imagery, but they"
+   },
+   "filler": "5"
+  },
+  "o19": {
+   "body": "While many video game creators strive to make their graphics ever more _______ others look to the past, developing titles with visuals inspired by the '8-bit' games of the 1980s and 1990s.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "lifelike but",
+    "B": "lifelike",
+    "C": "lifelike,",
+    "D": "lifelike, but"
+   },
+   "filler": null
+  },
+  "19.1": {
+   "body": "For centuries, coastal communities ______ tidal pools as natural storage areas for shellfish gathered during low tide.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "have used",
+    "B": "using",
+    "C": "to use",
+    "D": "having used"
+   },
+   "filler": "1"
+  },
+  "19.2": {
+   "body": "Many designers seek ever more realistic digital effects, ______ some deliberately preserve the flat colors and blocky shapes of early computer games.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "effects but",
+    "B": "effects,",
+    "C": "effects, but",
+    "D": "effects"
+   },
+   "filler": "2"
+  },
+  "19.3": {
+   "body": "In 1984, the engineer recommended a cheaper material for the casing. She also ______ a simpler locking mechanism.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "had proposed",
+    "B": "proposed",
+    "C": "proposes",
+    "D": "was proposing"
+   },
+   "filler": "3"
+  },
+  "19.4": {
+   "body": "The artist studied entomology, the science of ______ hundreds of drawings of beetles and butterflies while traveling through South America.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "insects producing",
+    "B": "insects; producing",
+    "C": "insects. Producing",
+    "D": "insects, producing"
+   },
+   "filler": "4"
+  },
+  "19.5": {
+   "body": "In interpreting the poems of Sor Juana, ______ have sometimes overlooked her engagement with scientific debates of her era.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "there are many critics who focused on her religious imagery, but they",
+    "B": "the focus of many critics has been her religious imagery; they",
+    "C": "her religious imagery has been the focus of many critics, who",
+    "D": "many critics have focused on her religious imagery but"
+   },
+   "filler": "5"
+  },
+  "o20": {
+   "body": "In the 1950s, Joseph McVicker was struggling to keep his business afloat when his sister-in-law Kay Zufall advised him to repurpose the company's product, a nontoxic, clay-like substance for removing soot from wallpaper, as a modeling putty for kids. In addition, Zufall _______ selling the product under a child-friendly name: Play-Doh.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "suggested",
+    "B": "suggests",
+    "C": "had suggested",
+    "D": "was suggesting"
+   },
+   "filler": null
+  },
+  "20.1": {
+   "body": "For centuries, coastal communities ______ tidal pools as natural storage areas for shellfish gathered during low tide.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "using",
+    "B": "having used",
+    "C": "to use",
+    "D": "have used"
+   },
+   "filler": "1"
+  },
+  "20.2": {
+   "body": "Many designers seek ever more realistic digital effects, ______ some deliberately preserve the flat colors and blocky shapes of early computer games.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "effects,",
+    "B": "effects but",
+    "C": "effects, but",
+    "D": "effects"
+   },
+   "filler": "2"
+  },
+  "20.3": {
+   "body": "In 1984, the engineer recommended a cheaper material for the casing. She also ______ a simpler locking mechanism.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "was proposing",
+    "B": "proposed",
+    "C": "proposes",
+    "D": "had proposed"
+   },
+   "filler": "3"
+  },
+  "20.4": {
+   "body": "The artist studied entomology, the science of ______ hundreds of drawings of beetles and butterflies while traveling through South America.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "insects, producing",
+    "B": "insects. Producing",
+    "C": "insects producing",
+    "D": "insects; producing"
+   },
+   "filler": "4"
+  },
+  "20.5": {
+   "body": "In interpreting the poems of Sor Juana, ______ have sometimes overlooked her engagement with scientific debates of her era.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "there are many critics who focused on her religious imagery, but they",
+    "B": "the focus of many critics has been her religious imagery; they",
+    "C": "her religious imagery has been the focus of many critics, who",
+    "D": "many critics have focused on her religious imagery but"
+   },
+   "filler": "5"
+  },
+  "o21": {
+   "body": "Beatrix Potter is perhaps best known for writing and illustrating children's books such as The Tale of Peter Rabbit (1902), but she also dedicated herself to mycology, the study of _______ more than 350 paintings of the fungal species she observed in nature and submitting her research on spore germination to the Linnean Society of London.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "fungi; producing",
+    "B": "fungi. Producing",
+    "C": "fungi producing",
+    "D": "fungi, producing"
+   },
+   "filler": null
+  },
+  "21.1": {
+   "body": "For centuries, coastal communities ______ tidal pools as natural storage areas for shellfish gathered during low tide.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "having used",
+    "B": "to use",
+    "C": "have used",
+    "D": "using"
+   },
+   "filler": "1"
+  },
+  "21.2": {
+   "body": "Many designers seek ever more realistic digital effects, ______ some deliberately preserve the flat colors and blocky shapes of early computer games.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "effects, but",
+    "B": "effects,",
+    "C": "effects but",
+    "D": "effects"
+   },
+   "filler": "2"
+  },
+  "21.3": {
+   "body": "In 1984, the engineer recommended a cheaper material for the casing. She also ______ a simpler locking mechanism.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "proposes",
+    "B": "was proposing",
+    "C": "had proposed",
+    "D": "proposed"
+   },
+   "filler": "3"
+  },
+  "21.4": {
+   "body": "The artist studied entomology, the science of ______ hundreds of drawings of beetles and butterflies while traveling through South America.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "insects. Producing",
+    "B": "insects, producing",
+    "C": "insects; producing",
+    "D": "insects producing"
+   },
+   "filler": "4"
+  },
+  "21.5": {
+   "body": "In interpreting the poems of Sor Juana, ______ have sometimes overlooked her engagement with scientific debates of her era.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "the focus of many critics has been her religious imagery; they",
+    "B": "there are many critics who focused on her religious imagery, but they",
+    "C": "her religious imagery has been the focus of many critics, who",
+    "D": "many critics have focused on her religious imagery but"
+   },
+   "filler": "5"
+  },
+  "o22": {
+   "body": "In assessing the films of Japanese director Akira Kurosawa, _______ have missed his equally deep engagement with Japanese artistic traditions such as Noh theater.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "many critics have focused on Kurosawa's use of Western literary sources but",
+    "B": "Kurosawa's use of Western literary sources has been the focus of many critics, who",
+    "C": "there are many critics who have focused on Kurosawa's use of Western literary sources, but they",
+    "D": "the focus of many critics has been on Kurosawa's use of Western literary sources; they"
+   },
+   "filler": null
+  },
+  "22.1": {
+   "body": "For centuries, coastal communities ______ tidal pools as natural storage areas for shellfish gathered during low tide.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "using",
+    "B": "have used",
+    "C": "to use",
+    "D": "having used"
+   },
+   "filler": "1"
+  },
+  "22.2": {
+   "body": "Many designers seek ever more realistic digital effects, ______ some deliberately preserve the flat colors and blocky shapes of early computer games.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "effects but",
+    "B": "effects",
+    "C": "effects, but",
+    "D": "effects,"
+   },
+   "filler": "2"
+  },
+  "22.3": {
+   "body": "In 1984, the engineer recommended a cheaper material for the casing. She also ______ a simpler locking mechanism.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "proposes",
+    "B": "was proposing",
+    "C": "proposed",
+    "D": "had proposed"
+   },
+   "filler": "3"
+  },
+  "22.4": {
+   "body": "The artist studied entomology, the science of ______ hundreds of drawings of beetles and butterflies while traveling through South America.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "insects producing",
+    "B": "insects; producing",
+    "C": "insects. Producing",
+    "D": "insects, producing"
+   },
+   "filler": "4"
+  },
+  "22.5": {
+   "body": "In interpreting the poems of Sor Juana, ______ have sometimes overlooked her engagement with scientific debates of her era.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "many critics have focused on her religious imagery but",
+    "B": "there are many critics who focused on her religious imagery, but they",
+    "C": "the focus of many critics has been her religious imagery; they",
+    "D": "her religious imagery has been the focus of many critics, who"
+   },
+   "filler": "5"
+  },
+  "o23": {
+   "body": "Joshua Hinson, director of the Chickasaw Nation's language revitalization program, helped produce the world's first Indigenous-language instructional app, Chickasaw _______ Chickasaw TV, in 2010; and a Rosetta Stone language course in Chickasaw, in 2015.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "Basic; in 2009, an online television network;",
+    "B": "Basic; in 2009, an online television network,",
+    "C": "Basic, in 2009; an online television network,",
+    "D": "Basic, in 2009, an online television network,"
+   },
+   "filler": null
+  },
+  "23.1": {
+   "body": "For centuries, coastal communities ______ tidal pools as natural storage areas for shellfish gathered during low tide.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "having used",
+    "B": "to use",
+    "C": "using",
+    "D": "have used"
+   },
+   "filler": "1"
+  },
+  "23.2": {
+   "body": "Many designers seek ever more realistic digital effects, ______ some deliberately preserve the flat colors and blocky shapes of early computer games.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "effects",
+    "B": "effects,",
+    "C": "effects, but",
+    "D": "effects but"
+   },
+   "filler": "2"
+  },
+  "23.3": {
+   "body": "In 1984, the engineer recommended a cheaper material for the casing. She also ______ a simpler locking mechanism.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "proposed",
+    "B": "had proposed",
+    "C": "was proposing",
+    "D": "proposes"
+   },
+   "filler": "3"
+  },
+  "23.4": {
+   "body": "The artist studied entomology, the science of ______ hundreds of drawings of beetles and butterflies while traveling through South America.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "insects; producing",
+    "B": "insects, producing",
+    "C": "insects producing",
+    "D": "insects. Producing"
+   },
+   "filler": "4"
+  },
+  "23.5": {
+   "body": "In interpreting the poems of Sor Juana, ______ have sometimes overlooked her engagement with scientific debates of her era.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "many critics have focused on her religious imagery but",
+    "B": "there are many critics who focused on her religious imagery, but they",
+    "C": "her religious imagery has been the focus of many critics, who",
+    "D": "the focus of many critics has been her religious imagery; they"
+   },
+   "filler": "5"
+  },
+  "o24": {
+   "body": "The forty-seven geothermal springs of Arkansas' Hot Springs National Park are sourced via natural groundwater recharge, in which rainwater percolates downward through the earth-in this case, the porous rocks of the hills around Hot _______ collect in a subterranean basin.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "Springs to",
+    "B": "Springs: to",
+    "C": "Springs-to",
+    "D": "Springs, to"
+   },
+   "filler": null
+  },
+  "24.1": {
+   "body": "For centuries, coastal communities ______ tidal pools as natural storage areas for shellfish gathered during low tide.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "to use",
+    "B": "having used",
+    "C": "using",
+    "D": "have used"
+   },
+   "filler": "1"
+  },
+  "24.2": {
+   "body": "Many designers seek ever more realistic digital effects, ______ some deliberately preserve the flat colors and blocky shapes of early computer games.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "effects but",
+    "B": "effects",
+    "C": "effects, but",
+    "D": "effects,"
+   },
+   "filler": "2"
+  },
+  "24.3": {
+   "body": "In 1984, the engineer recommended a cheaper material for the casing. She also ______ a simpler locking mechanism.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "was proposing",
+    "B": "proposes",
+    "C": "proposed",
+    "D": "had proposed"
+   },
+   "filler": "3"
+  },
+  "24.4": {
+   "body": "The artist studied entomology, the science of ______ hundreds of drawings of beetles and butterflies while traveling through South America.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "insects; producing",
+    "B": "insects, producing",
+    "C": "insects producing",
+    "D": "insects. Producing"
+   },
+   "filler": "4"
+  },
+  "24.5": {
+   "body": "In interpreting the poems of Sor Juana, ______ have sometimes overlooked her engagement with scientific debates of her era.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "many critics have focused on her religious imagery but",
+    "B": "there are many critics who focused on her religious imagery, but they",
+    "C": "her religious imagery has been the focus of many critics, who",
+    "D": "the focus of many critics has been her religious imagery; they"
+   },
+   "filler": "5"
+  },
+  "o25": {
+   "body": "Over twenty years ago, in a landmark experiment in the psychology of choice, professor Sheena Iyengar set up a jam-tasting booth at a grocery store. The number of jams available for tasting _______ some shoppers had twenty-four different options, others only six. Interestingly, the shoppers with fewer jams to choose from purchased more jam.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "varied:",
+    "B": "varied,",
+    "C": "varied, while",
+    "D": "varied while"
+   },
+   "filler": null
+  },
+  "25.1": {
+   "body": "For centuries, coastal communities ______ tidal pools as natural storage areas for shellfish gathered during low tide.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "have used",
+    "B": "to use",
+    "C": "using",
+    "D": "having used"
+   },
+   "filler": "1"
+  },
+  "25.2": {
+   "body": "Many designers seek ever more realistic digital effects, ______ some deliberately preserve the flat colors and blocky shapes of early computer games.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "effects,",
+    "B": "effects, but",
+    "C": "effects but",
+    "D": "effects"
+   },
+   "filler": "2"
+  },
+  "25.3": {
+   "body": "In 1984, the engineer recommended a cheaper material for the casing. She also ______ a simpler locking mechanism.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "had proposed",
+    "B": "was proposing",
+    "C": "proposes",
+    "D": "proposed"
+   },
+   "filler": "3"
+  },
+  "25.4": {
+   "body": "The artist studied entomology, the science of ______ hundreds of drawings of beetles and butterflies while traveling through South America.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "insects. Producing",
+    "B": "insects; producing",
+    "C": "insects, producing",
+    "D": "insects producing"
+   },
+   "filler": "4"
+  },
+  "25.5": {
+   "body": "In interpreting the poems of Sor Juana, ______ have sometimes overlooked her engagement with scientific debates of her era.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "many critics have focused on her religious imagery but",
+    "B": "there are many critics who focused on her religious imagery, but they",
+    "C": "the focus of many critics has been her religious imagery; they",
+    "D": "her religious imagery has been the focus of many critics, who"
+   },
+   "filler": "5"
+  },
+  "o26": {
+   "body": "Nigerian author Buchi Emecheta's celebrated literary oeuvre includes The Joys of Motherhood, a novel about the changing roles of women in 1950s _______ a television play about the private struggles of a newlywed couple in Nigeria; and Head Above Water, her autobiography.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "Lagos, A Kind of Marriage,",
+    "B": "Lagos; A Kind of Marriage,",
+    "C": "Lagos, A Kind of Marriage:",
+    "D": "Lagos; A Kind of Marriage"
+   },
+   "filler": null
+  },
+  "26.1": {
+   "body": "For centuries, coastal communities ______ tidal pools as natural storage areas for shellfish gathered during low tide.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "using",
+    "B": "have used",
+    "C": "having used",
+    "D": "to use"
+   },
+   "filler": "1"
+  },
+  "26.2": {
+   "body": "Many designers seek ever more realistic digital effects, ______ some deliberately preserve the flat colors and blocky shapes of early computer games.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "effects but",
+    "B": "effects",
+    "C": "effects, but",
+    "D": "effects,"
+   },
+   "filler": "2"
+  },
+  "26.3": {
+   "body": "In 1984, the engineer recommended a cheaper material for the casing. She also ______ a simpler locking mechanism.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "had proposed",
+    "B": "was proposing",
+    "C": "proposes",
+    "D": "proposed"
+   },
+   "filler": "3"
+  },
+  "26.4": {
+   "body": "The artist studied entomology, the science of ______ hundreds of drawings of beetles and butterflies while traveling through South America.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "insects, producing",
+    "B": "insects. Producing",
+    "C": "insects; producing",
+    "D": "insects producing"
+   },
+   "filler": "4"
+  },
+  "26.5": {
+   "body": "In interpreting the poems of Sor Juana, ______ have sometimes overlooked her engagement with scientific debates of her era.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "the focus of many critics has been her religious imagery; they",
+    "B": "many critics have focused on her religious imagery but",
+    "C": "her religious imagery has been the focus of many critics, who",
+    "D": "there are many critics who focused on her religious imagery, but they"
+   },
+   "filler": "5"
+  },
+  "o27": {
+   "body": "Chimamanda Ngozi Adichie's 2013 novel Americanah chronicles the divergent experiences of Ifemelu and Obinze, a young Nigerian couple, after high school. Ifemelu moves to the United States to attend a prestigious university. _______ Obinze travels to London, hoping to start a career there. However, frustrated with the lack of opportunities, he soon returns to Nigeria.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Meanwhile,",
+    "B": "Nevertheless,",
+    "C": "Secondly,",
+    "D": "In fact,"
+   },
+   "filler": null
+  },
+  "27.1": {
+   "body": "The composer had achieved success in Vienna, where audiences praised his chamber works and critics followed his premieres closely. ______, he felt that his musical imagination depended on returning to the folk songs of his rural birthplace.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Furthermore,",
+    "B": "Still,",
+    "C": "Therefore,",
+    "D": "For example,"
+   },
+   "filler": "1"
+  },
+  "27.2": {
+   "body": "The research station offered modern laboratories, reliable funding, and access to advanced equipment. ______, several scientists preferred the older field site because it allowed them to observe the animals in their natural habitat.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Consequently,",
+    "B": "Indeed,",
+    "C": "Nevertheless,",
+    "D": "Similarly,"
+   },
+   "filler": "2"
+  },
+  "27.3": {
+   "body": "The poet's early career seemed firmly rooted in London: she published there, taught there, and joined several literary circles there. ______, she repeatedly wrote that her artistic future lay in returning to the Caribbean.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Yet,",
+    "B": "In addition,",
+    "C": "For instance,",
+    "D": "As a result,"
+   },
+   "filler": "3"
+  },
+  "27.4": {
+   "body": "The architect's office was thriving in the capital, with commissions from banks, theaters, and universities. ______, she left to design schools in the small coastal towns where she had grown up.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Likewise,",
+    "B": "Indeed,",
+    "C": "Therefore,",
+    "D": "Even so,"
+   },
+   "filler": "4"
+  },
+  "27.5": {
+   "body": "The actor was receiving major roles in New York and had just won a national award. ______, he decided to move back to his hometown to establish a community theater.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "For example,",
+    "B": "Accordingly,",
+    "C": "Similarly,",
+    "D": "Still,"
+   },
+   "filler": "5"
+  },
+  "o28": {
+   "body": "Organisms have evolved a number of surprising adaptations to ensure their survival in adverse conditions. Tadpole shrimp (Triops longicaudatus) embryos, _______ can pause development for over ten years during extended periods of drought.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "in contrast,",
+    "B": "for example,",
+    "C": "meanwhile,",
+    "D": "consequently,"
+   },
+   "filler": null
+  },
+  "28.1": {
+   "body": "The resin hardens when exposed to air, forming a waterproof layer over the damaged bark. ______, the tree can seal small wounds before insects or fungi enter.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "As a result,",
+    "B": "However,",
+    "C": "For example,",
+    "D": "Similarly,"
+   },
+   "filler": "1"
+  },
+  "28.2": {
+   "body": "The new coating reflects most incoming sunlight rather than absorbing it. ______, roofs treated with the coating remain cooler during summer afternoons.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Nevertheless,",
+    "B": "In contrast,",
+    "C": "Consequently,",
+    "D": "For instance,"
+   },
+   "filler": "2"
+  },
+  "28.3": {
+   "body": "The archive converted its handwritten index into a searchable database. ______, researchers can now locate many letters in minutes rather than days.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Likewise,",
+    "B": "Still,",
+    "C": "Therefore,",
+    "D": "Instead,"
+   },
+   "filler": "3"
+  },
+  "28.4": {
+   "body": "The bridge's sensors transmit stress data continuously to engineers. ______, maintenance teams can identify developing problems before visible cracks appear.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Similarly,",
+    "B": "For example,",
+    "C": "However,",
+    "D": "Thus,"
+   },
+   "filler": "4"
+  },
+  "28.5": {
+   "body": "The shells contain tiny chambers that trap air and reduce heat transfer. ______, the animals can remain active in environments where unprotected tissues would overheat.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Nevertheless,",
+    "B": "As a result,",
+    "C": "In other words,",
+    "D": "By contrast,"
+   },
+   "filler": "5"
+  },
+  "o29": {
+   "body": "In 1933, the Twentieth Amendment to the US Constitution was ratified. The amendment mandates that presidential inaugurations be held on January 20, approximately ten weeks after the November election. _______ this amendment requires newly elected US senators and representatives to be sworn into their respective offices on January 3.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Instead,",
+    "B": "For instance,",
+    "C": "Specifically,",
+    "D": "In addition,"
+   },
+   "filler": null
+  },
+  "29.1": {
+   "body": "The composer had achieved success in Vienna, where audiences praised his chamber works and critics followed his premieres closely. ______, he felt that his musical imagination depended on returning to the folk songs of his rural birthplace.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Still,",
+    "B": "Furthermore,",
+    "C": "Therefore,",
+    "D": "For example,"
+   },
+   "filler": "1"
+  },
+  "29.2": {
+   "body": "The research station offered modern laboratories, reliable funding, and access to advanced equipment. ______, several scientists preferred the older field site because it allowed them to observe the animals in their natural habitat.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Indeed,",
+    "B": "Nevertheless,",
+    "C": "Similarly,",
+    "D": "Consequently,"
+   },
+   "filler": "2"
+  },
+  "29.3": {
+   "body": "The poet's early career seemed firmly rooted in London: she published there, taught there, and joined several literary circles there. ______, she repeatedly wrote that her artistic future lay in returning to the Caribbean.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "As a result,",
+    "B": "In addition,",
+    "C": "For instance,",
+    "D": "Yet,"
+   },
+   "filler": "3"
+  },
+  "29.4": {
+   "body": "The architect's office was thriving in the capital, with commissions from banks, theaters, and universities. ______, she left to design schools in the small coastal towns where she had grown up.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Indeed,",
+    "B": "Therefore,",
+    "C": "Even so,",
+    "D": "Likewise,"
+   },
+   "filler": "4"
+  },
+  "29.5": {
+   "body": "The actor was receiving major roles in New York and had just won a national award. ______, he decided to move back to his hometown to establish a community theater.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Still,",
+    "B": "Similarly,",
+    "C": "Accordingly,",
+    "D": "For example,"
+   },
+   "filler": "5"
+  },
+  "o30": {
+   "body": "In her poetry collection Thomas and Beulah, Rita Dove interweaves the titular characters' personal stories with broader historical narratives. She places Thomas's journey from the American South to the Midwest in the early 1900s within the larger context of the Great Migration. _______ Dove sets events from Beulah's personal life against the backdrop of the US Civil Rights Movement.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Specifically,",
+    "B": "Thus,",
+    "C": "Regardless,",
+    "D": "Similarly,"
+   },
+   "filler": null
+  },
+  "30.1": {
+   "body": "During the campaign, volunteers in Boston organized public lectures to raise funds. ______, volunteers in Providence held neighborhood concerts whose ticket sales supported the same cause.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "To conclude,",
+    "B": "In other words,",
+    "C": "Nevertheless,",
+    "D": "Similarly,"
+   },
+   "filler": "1"
+  },
+  "30.2": {
+   "body": "In Chicago, reformers printed pamphlets explaining the proposed law. ______, activists in Detroit distributed illustrated cards summarizing the law's major provisions.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "By contrast,",
+    "B": "Instead,",
+    "C": "Likewise,",
+    "D": "However,"
+   },
+   "filler": "2"
+  },
+  "30.3": {
+   "body": "At the northern campus, students collected books for the new library. ______, at the southern campus, student groups gathered maps, journals, and laboratory manuals for the same project.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Similarly,",
+    "B": "Nevertheless,",
+    "C": "Therefore,",
+    "D": "To conclude,"
+   },
+   "filler": "3"
+  },
+  "30.4": {
+   "body": "In one district, residents planted trees along the main road to support the beautification plan. ______, residents in a neighboring district created small gardens beside public buildings.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "In other words,",
+    "B": "Likewise,",
+    "C": "Consequently,",
+    "D": "However,"
+   },
+   "filler": "4"
+  },
+  "30.5": {
+   "body": "The first group of volunteers translated health notices into Spanish and Vietnamese. ______, another group recorded audio versions of the same notices for residents with limited vision.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Similarly,",
+    "B": "Still,",
+    "C": "To conclude,",
+    "D": "Therefore,"
+   },
+   "filler": "5"
+  },
+  "o31": {
+   "body": "While researching a topic, a student has taken notes: the Philadelphia and Lancaster Turnpike was a road built between 1792 and 1794; it was the first private turnpike in the United States; it connected Philadelphia and Lancaster in Pennsylvania; it was sixty-two miles long.\n\nThe student wants to emphasize the distance covered by the Philadelphia and Lancaster Turnpike. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "stem": null,
+   "opts": {
+    "A": "The sixty-two-mile-long Philadelphia and Lancaster Turnpike connected the Pennsylvania cities of Philadelphia and Lancaster.",
+    "B": "The Philadelphia and Lancaster Turnpike was the first private turnpike in the United States.",
+    "C": "The Philadelphia and Lancaster Turnpike, which connected two Pennsylvania cities, was built between 1792 and 1794.",
+    "D": "A historic Pennsylvania road, the Philadelphia and Lancaster Turnpike was completed in 1794."
+   },
+   "filler": null
+  },
+  "31.1": {
+   "body": "Notes: A mountain road connects Valley City and Pine Harbor; the road is 74 miles long; it was completed in 1912; the student wants to emphasize distance.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The road passes through a mountain region.",
+    "B": "Valley City and Pine Harbor are connected by a road.",
+    "C": "The 74-mile mountain road connects Valley City and Pine Harbor.",
+    "D": "The road was completed in 1912."
+   },
+   "filler": "1"
+  },
+  "31.2": {
+   "body": "Notes: The Coastal Causeway links Northport and East Island; it measures 18 miles; construction ended in 1965; the goal is to emphasize distance.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The Coastal Causeway spans 18 miles between Northport and East Island.",
+    "B": "The Coastal Causeway was completed in 1965.",
+    "C": "East Island is connected to Northport.",
+    "D": "Causeways can cross water or wetlands."
+   },
+   "filler": "2"
+  },
+  "31.3": {
+   "body": "Notes: A historic canal connected Milltown and Lake Junction; it ran for 42 miles; it opened in 1821; the goal is to emphasize distance.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The canal connected two communities.",
+    "B": "Milltown and Lake Junction were connected by water.",
+    "C": "The canal opened in 1821.",
+    "D": "The historic canal covered 42 miles between Milltown and Lake Junction."
+   },
+   "filler": "3"
+  },
+  "31.4": {
+   "body": "Notes: A rail line connected two mining towns; it was 96 kilometers long; it operated by 1908; the goal is to emphasize distance.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The line operated by 1908.",
+    "B": "The rail line served mining towns.",
+    "C": "The rail line stretched 96 kilometers between the two mining towns.",
+    "D": "The towns were connected by rail."
+   },
+   "filler": "4"
+  },
+  "31.5": {
+   "body": "Notes: A desert trail linked two trading posts; it was 53 miles long; merchants used it in the 1880s; the goal is to emphasize distance.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The two trading posts were linked.",
+    "B": "The 53-mile desert trail linked two trading posts used by merchants in the 1880s.",
+    "C": "Merchants used the trail in the 1880s.",
+    "D": "The trail crossed desert terrain."
+   },
+   "filler": "5"
+  },
+  "o32": {
+   "body": "While researching a topic, a student has taken notes: most, but not all, of the Moon's oxygen comes from the Sun via solar wind; cosmochemist Kentaro Terada wondered if some unaccounted-for oxygen could be coming from Earth; in 2008 he analyzed data from the Japanese satellite Kaguya; based on the data, Terada confirmed that Earth is sending oxygen to the Moon.\n\nThe student wants to emphasize the aim of the research study. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "stem": null,
+   "opts": {
+    "A": "As it orbited the Moon, the Kaguya satellite collected data that was later analyzed by cosmochemist Kentaro Terada.",
+    "B": "Before 2008, Kentaro Terada wondered if the Moon was receiving some of its oxygen from Earth.",
+    "C": "Cosmochemist Kentaro Terada set out to determine whether some of the Moon's oxygen was coming from Earth.",
+    "D": "Kentaro Terada's study determined that Earth is sending a small amount of oxygen to the Moon."
+   },
+   "filler": null
+  },
+  "32.1": {
+   "body": "Notes: A geologist wondered whether unusual sand on a beach came from a distant volcanic island; she compared mineral samples from both places; the goal is to emphasize the study aim.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The geologist set out to determine whether unusual beach sand came from a distant volcanic island.",
+    "B": "The geologist compared mineral samples from a beach and a volcanic island.",
+    "C": "The study used mineral comparison.",
+    "D": "The volcanic island contained unusual minerals."
+   },
+   "filler": "1"
+  },
+  "32.2": {
+   "body": "Notes: A biologist wondered whether city moths were adapting to artificial light; she tracked moth behavior near lamps; the goal is to emphasize the study aim.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The study examined moths.",
+    "B": "The biologist tracked moth behavior near lamps.",
+    "C": "Before collecting data, the biologist asked whether city moths were adapting to artificial light.",
+    "D": "Artificial light can affect insects."
+   },
+   "filler": "2"
+  },
+  "32.3": {
+   "body": "Notes: A historian suspected that a manuscript's ink came from two workshops; he analyzed chemical traces in the ink; the goal is to emphasize the study aim.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The manuscript contained several pages.",
+    "B": "Chemical traces can identify ink sources.",
+    "C": "The historian sought to determine whether the manuscript's ink came from two different workshops.",
+    "D": "The historian analyzed ink."
+   },
+   "filler": "3"
+  },
+  "32.4": {
+   "body": "Notes: An astronomer wondered whether dust around a star came from a recent collision; she studied infrared data; the goal is to emphasize the study aim.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "A collision can create dust.",
+    "B": "The astronomer set out to determine whether the star's dust came from a recent collision.",
+    "C": "Dust can surround young stars.",
+    "D": "The astronomer used infrared data."
+   },
+   "filler": "4"
+  },
+  "32.5": {
+   "body": "Notes: A linguist wondered whether two dialects shared a recent source; she compared pronunciation patterns; the goal is to emphasize the study aim.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The dialects may have been related.",
+    "B": "The linguist studied two dialects.",
+    "C": "Pronunciation can differ across dialects.",
+    "D": "The linguist investigated whether the two dialects shared a recent source by comparing pronunciation patterns."
+   },
+   "filler": "5"
+  },
+  "o33": {
+   "body": "While researching a topic, a student has taken notes: ducklings expend up to 62.8% less energy when swimming in a line behind their mother than when swimming alone; naval architect Zhiming Yuan used computer simulations to study the effect of the mother duck's wake; the study revealed that ducklings are pushed forward by the wake's waves; Yuan determined this push reduces wave drag on ducklings by 158%.\n\nThe student wants to present the study and its methodology. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "stem": null,
+   "opts": {
+    "A": "A study revealed that ducklings, which expend up to 62.8% less energy when swimming in a line behind their mother, also experience 158% less drag.",
+    "B": "Seeking to understand how ducklings swimming in a line behind their mother save energy, Zhiming Yuan used computer simulations to study the effect of the mother duck's wake.",
+    "C": "Zhiming Yuan studied the physics behind the fact that by being pushed in a forward direction by waves, ducklings save energy.",
+    "D": "Naval architect Zhiming Yuan discovered that ducklings are pushed in a forward direction by the waves of their mother's wake, reducing the effect of drag by 158%."
+   },
+   "filler": null
+  },
+  "33.1": {
+   "body": "Notes: Researchers wanted to know why young fish save energy when swimming behind adults; they used water-tank simulations; the goal is to present the study and methodology.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "A study found that young fish can save energy near adults.",
+    "B": "To investigate why young fish save energy behind adults, researchers used water-tank simulations to model the adults' wake.",
+    "C": "Fish sometimes swim in groups.",
+    "D": "The researchers studied adult fish."
+   },
+   "filler": "1"
+  },
+  "33.2": {
+   "body": "Notes: Scientists investigated how cyclists reduce air resistance when riding in a line; they used wind-tunnel tests; the goal is to present the study and methodology.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Scientists used wind-tunnel tests to study how cyclists reduce air resistance when riding in a line.",
+    "B": "Cyclists can reduce air resistance in groups.",
+    "C": "Wind tunnels are used in engineering.",
+    "D": "The study involved cyclists."
+   },
+   "filler": "2"
+  },
+  "33.3": {
+   "body": "Notes: Engineers studied why seeds travel farther in rotating flight; they used computer models of airflow; the goal is to present the study and methodology.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Seeds may travel by wind.",
+    "B": "Computer models are useful in engineering.",
+    "C": "Engineers used computer airflow models to study why rotating flight allows some seeds to travel farther.",
+    "D": "The study examined seed movement."
+   },
+   "filler": "3"
+  },
+  "33.4": {
+   "body": "Notes: A team examined how penguins conserve heat in huddles; they used thermal imaging; the goal is to present the study and methodology.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The team studied penguins in cold conditions.",
+    "B": "Thermal imaging detects heat.",
+    "C": "Penguins sometimes form huddles.",
+    "D": "To examine how penguins conserve heat in huddles, the team used thermal imaging."
+   },
+   "filler": "4"
+  },
+  "33.5": {
+   "body": "Notes: Researchers studied how leaves shed rainwater quickly; they used high-speed video; the goal is to present the study and methodology.",
+   "stem": "Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The study concerned plant surfaces.",
+    "B": "Researchers used high-speed video to study how leaves shed rainwater quickly.",
+    "C": "High-speed video can capture fast motion.",
+    "D": "Leaves are often exposed to rain."
+   },
+   "filler": "5"
+  }
+ }
+}

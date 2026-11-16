@@ -1983,5 +1983,300 @@
   "pos": "adj.",
   "en": "very important; central to a result",
   "zh": "關鍵的；舉足輕重的"
+ },
+ "literature": {
+  "pos": "n.",
+  "en": "written works such as novels, poems, and plays",
+  "zh": "文學；文學作品"
+ },
+ "friendship": {
+  "pos": "n.",
+  "en": "a relationship between friends",
+  "zh": "友誼"
+ },
+ "prefer": {
+  "pos": "v.",
+  "en": "to like one thing more than another",
+  "zh": "偏好；比較喜歡"
+ },
+ "assertion": {
+  "pos": "n.",
+  "en": "a statement that someone says is true",
+  "zh": "主張；斷言"
+ },
+ "robust": {
+  "pos": "adj.",
+  "en": "strong and healthy; strong enough to last",
+  "zh": "強勁的；穩健的"
+ },
+ "paleontologist": {
+  "pos": "n.",
+  "en": "a scientist who studies fossils and ancient life",
+  "zh": "古生物學家"
+ },
+ "insectivore": {
+  "pos": "n.",
+  "en": "an animal that eats insects",
+  "zh": "食蟲動物"
+ },
+ "squirrel": {
+  "pos": "n.",
+  "en": "a small animal with a long bushy tail that lives in trees",
+  "zh": "松鼠"
+ },
+ "glide": {
+  "pos": "v.",
+  "en": "to move smoothly through the air without flapping wings",
+  "zh": "滑翔；滑行"
+ },
+ "garment": {
+  "pos": "n.",
+  "en": "a piece of clothing",
+  "zh": "衣服；服裝"
+ },
+ "velvet": {
+  "pos": "n.",
+  "en": "a soft cloth with a thick smooth surface",
+  "zh": "絲絨；天鵝絨"
+ },
+ "shimmer": {
+  "pos": "v.",
+  "en": "to shine with a soft, unsteady light",
+  "zh": "閃爍；發出微光"
+ },
+ "turnout": {
+  "pos": "n.",
+  "en": "the number of people who take part in an event such as an election",
+  "zh": "投票率；出席人數"
+ },
+ "likelihood": {
+  "pos": "n.",
+  "en": "the chance that something will happen",
+  "zh": "可能性"
+ },
+ "orientation": {
+  "pos": "n.",
+  "en": "a person's basic beliefs or attitudes",
+  "zh": "傾向；取向"
+ },
+ "probability": {
+  "pos": "n.",
+  "en": "how likely it is that something will happen",
+  "zh": "機率；可能性"
+ },
+ "gourd": {
+  "pos": "n.",
+  "en": "a large fruit with a hard skin, often dried and used as a container",
+  "zh": "葫蘆；葫蘆科果實"
+ },
+ "container": {
+  "pos": "n.",
+  "en": "an object such as a box or bottle used for holding things",
+  "zh": "容器"
+ },
+ "instrument": {
+  "pos": "n.",
+  "en": "an object used for producing music",
+  "zh": "樂器；器具"
+ },
+ "graphics": {
+  "pos": "n.",
+  "en": "pictures and images, especially those produced by a computer",
+  "zh": "圖像；（電腦）畫面"
+ },
+ "strive": {
+  "pos": "v.",
+  "en": "to try very hard to achieve something",
+  "zh": "努力；力求"
+ },
+ "visual": {
+  "pos": "n.",
+  "en": "an image or picture used to show or explain something",
+  "zh": "視覺效果；影像"
+ },
+ "afloat": {
+  "pos": "adj.",
+  "en": "(of a business) having enough money to continue operating",
+  "zh": "（企業）維持運作的；不倒閉的"
+ },
+ "repurpose": {
+  "pos": "v.",
+  "en": "to use something for a different purpose",
+  "zh": "改作他用；重新利用"
+ },
+ "substance": {
+  "pos": "n.",
+  "en": "a particular kind of material",
+  "zh": "物質"
+ },
+ "nontoxic": {
+  "pos": "adj.",
+  "en": "not poisonous",
+  "zh": "無毒的"
+ },
+ "mycology": {
+  "pos": "n.",
+  "en": "the scientific study of fungi",
+  "zh": "真菌學"
+ },
+ "germination": {
+  "pos": "n.",
+  "en": "the process of a seed or spore beginning to grow",
+  "zh": "發芽；萌發"
+ },
+ "spore": {
+  "pos": "n.",
+  "en": "a tiny cell produced by fungi and some plants that can grow into a new organism",
+  "zh": "孢子"
+ },
+ "fungal": {
+  "pos": "adj.",
+  "en": "relating to fungi",
+  "zh": "真菌的"
+ },
+ "assess": {
+  "pos": "v.",
+  "en": "to judge the quality or value of something",
+  "zh": "評估；評價"
+ },
+ "engagement": {
+  "pos": "n.",
+  "en": "the act of being involved with something",
+  "zh": "參與；投入"
+ },
+ "tradition": {
+  "pos": "n.",
+  "en": "a custom or belief passed down over many years",
+  "zh": "傳統"
+ },
+ "revitalization": {
+  "pos": "n.",
+  "en": "the process of giving new life or energy to something",
+  "zh": "復興；振興"
+ },
+ "instructional": {
+  "pos": "adj.",
+  "en": "used for teaching",
+  "zh": "教學的；教學用的"
+ },
+ "language": {
+  "pos": "n.",
+  "en": "a system of communication used by a particular group of people",
+  "zh": "語言"
+ },
+ "geothermal": {
+  "pos": "adj.",
+  "en": "relating to the heat inside the Earth",
+  "zh": "地熱的"
+ },
+ "groundwater": {
+  "pos": "n.",
+  "en": "water that is under the ground, in soil or rocks",
+  "zh": "地下水"
+ },
+ "recharge": {
+  "pos": "n.",
+  "en": "the process of refilling something, such as underground water",
+  "zh": "補注；補充"
+ },
+ "percolate": {
+  "pos": "v.",
+  "en": "to pass slowly through a material with small holes",
+  "zh": "滲透；過濾"
+ },
+ "porous": {
+  "pos": "adj.",
+  "en": "having many small holes that let liquid or air pass through",
+  "zh": "多孔的；可滲透的"
+ },
+ "subterranean": {
+  "pos": "adj.",
+  "en": "under the ground",
+  "zh": "地下的"
+ },
+ "landmark": {
+  "pos": "adj.",
+  "en": "very important; marking a turning point",
+  "zh": "具里程碑意義的"
+ },
+ "psychology": {
+  "pos": "n.",
+  "en": "the scientific study of the mind and behavior",
+  "zh": "心理學"
+ },
+ "purchase": {
+  "pos": "v.",
+  "en": "to buy something",
+  "zh": "購買"
+ },
+ "oeuvre": {
+  "pos": "n.",
+  "en": "all the works of a writer or artist",
+  "zh": "（作家或藝術家的）全部作品"
+ },
+ "autobiography": {
+  "pos": "n.",
+  "en": "a book about a person's life written by that person",
+  "zh": "自傳"
+ },
+ "newlywed": {
+  "pos": "adj.",
+  "en": "recently married",
+  "zh": "新婚的"
+ },
+ "celebrate": {
+  "pos": "v.",
+  "en": "to praise someone or something publicly",
+  "zh": "讚揚；頌揚"
+ },
+ "chronicle": {
+  "pos": "v.",
+  "en": "to record events in the order they happened",
+  "zh": "記錄；記述"
+ },
+ "divergent": {
+  "pos": "adj.",
+  "en": "developing in different directions; different",
+  "zh": "分歧的；不同的"
+ },
+ "prestigious": {
+  "pos": "adj.",
+  "en": "respected and admired as very important or of high quality",
+  "zh": "有名望的；聲望高的"
+ },
+ "ratify": {
+  "pos": "v.",
+  "en": "to officially approve a law or agreement",
+  "zh": "批准；正式認可"
+ },
+ "amendment": {
+  "pos": "n.",
+  "en": "a change made to a law or constitution",
+  "zh": "修正案；修訂"
+ },
+ "mandate": {
+  "pos": "v.",
+  "en": "to officially require something",
+  "zh": "規定；強制要求"
+ },
+ "inauguration": {
+  "pos": "n.",
+  "en": "a ceremony at which a new leader officially begins a job",
+  "zh": "就職典禮"
+ },
+ "interweave": {
+  "pos": "v.",
+  "en": "to combine closely together",
+  "zh": "交織；使交錯"
+ },
+ "titular": {
+  "pos": "adj.",
+  "en": "named in the title of a work",
+  "zh": "作品名稱中所提的；書名的"
+ },
+ "backdrop": {
+  "pos": "n.",
+  "en": "the background or conditions in which events happen",
+  "zh": "背景"
  }
 }

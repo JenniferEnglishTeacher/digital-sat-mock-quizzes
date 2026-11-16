@@ -1,0 +1,357 @@
+{
+ "cautious": {
+  "pos": "adj.",
+  "en": "careful to avoid risks or mistakes",
+  "zh": "謹慎的；小心的"
+ },
+ "character study": {
+  "pos": "n.",
+  "en": "a work or analysis that focuses closely on one person's personality",
+  "zh": "人物研究；人物刻畫作品"
+ },
+ "characterization": {
+  "pos": "n.",
+  "en": "the way a writer creates and describes characters",
+  "zh": "人物塑造；性格描寫"
+ },
+ "clarify": {
+  "pos": "v.",
+  "en": "to make something easier to understand",
+  "zh": "澄清；闡明"
+ },
+ "collaboration": {
+  "pos": "n.",
+  "en": "the act of working together with others to create or achieve something",
+  "zh": "合作；協作"
+ },
+ "commercialization": {
+  "pos": "n.",
+  "en": "the process of managing something mainly to make money",
+  "zh": "商業化"
+ },
+ "competition": {
+  "pos": "n.",
+  "en": "a situation in which people try to be more successful than others",
+  "zh": "競爭"
+ },
+ "confirm": {
+  "pos": "v.",
+  "en": "to show or state that something is true",
+  "zh": "證實；確認"
+ },
+ "controversy": {
+  "pos": "n.",
+  "en": "a lot of public disagreement about something",
+  "zh": "爭議；爭論"
+ },
+ "convenient": {
+  "pos": "adj.",
+  "en": "easy to use or suitable for your needs",
+  "zh": "方便的；合宜的"
+ },
+ "cooperation": {
+  "pos": "n.",
+  "en": "the act of working together toward a shared goal",
+  "zh": "合作；協力"
+ },
+ "creative": {
+  "pos": "adj.",
+  "en": "producing or using new and original ideas",
+  "zh": "有創意的；有創造力的"
+ },
+ "deficient": {
+  "pos": "adj.",
+  "en": "not having enough of something; not good enough",
+  "zh": "不足的；有缺陷的"
+ },
+ "disprove": {
+  "pos": "v.",
+  "en": "to show that something is false",
+  "zh": "證明…是錯的；反駁"
+ },
+ "dispute": {
+  "pos": "v.",
+  "en": "to say that something is not correct or true",
+  "zh": "對…提出異議；質疑"
+ },
+ "diverse": {
+  "pos": "adj.",
+  "en": "including many different types of people or things",
+  "zh": "多樣的；各式各樣的"
+ },
+ "durable": {
+  "pos": "adj.",
+  "en": "able to last a long time without breaking or wearing out",
+  "zh": "耐用的；持久的"
+ },
+ "dynamic": {
+  "pos": "adj.",
+  "en": "full of energy, activity, or change",
+  "zh": "充滿活力的；動態的"
+ },
+ "emphasize": {
+  "pos": "v.",
+  "en": "to show that something is especially important",
+  "zh": "強調"
+ },
+ "extend": {
+  "pos": "v.",
+  "en": "to make something last longer or reach farther",
+  "zh": "延長；擴展"
+ },
+ "flexible": {
+  "pos": "adj.",
+  "en": "able to change or bend easily",
+  "zh": "有彈性的；靈活的"
+ },
+ "fragile": {
+  "pos": "adj.",
+  "en": "easily broken or damaged",
+  "zh": "脆弱的；易碎的"
+ },
+ "heterogeneous": {
+  "pos": "adj.",
+  "en": "made up of parts or members that are very different from one another",
+  "zh": "異質的；由不同成分組成的"
+ },
+ "hidden": {
+  "pos": "adj.",
+  "en": "kept out of sight; not easily seen",
+  "zh": "隱藏的；隱蔽的"
+ },
+ "imaginative": {
+  "pos": "adj.",
+  "en": "having or showing new and interesting ideas",
+  "zh": "富有想像力的"
+ },
+ "inadequate": {
+  "pos": "adj.",
+  "en": "not good enough or not enough for a purpose",
+  "zh": "不充分的；不夠好的"
+ },
+ "incomplete": {
+  "pos": "adj.",
+  "en": "missing some parts; not finished",
+  "zh": "不完整的；未完成的"
+ },
+ "inexplicable": {
+  "pos": "adj.",
+  "en": "impossible to explain or understand",
+  "zh": "無法解釋的；費解的"
+ },
+ "innovative": {
+  "pos": "adj.",
+  "en": "using new methods or ideas",
+  "zh": "創新的"
+ },
+ "insufficient": {
+  "pos": "adj.",
+  "en": "not enough for a particular purpose",
+  "zh": "不足的；不夠的"
+ },
+ "interpretation": {
+  "pos": "n.",
+  "en": "an explanation of the meaning of something",
+  "zh": "詮釋；解讀"
+ },
+ "invalidate": {
+  "pos": "v.",
+  "en": "to show that an idea or argument is wrong or no longer valid",
+  "zh": "使無效；證明…不成立"
+ },
+ "inventive": {
+  "pos": "adj.",
+  "en": "good at thinking of new and original ideas",
+  "zh": "有創造力的；別出心裁的"
+ },
+ "isolation": {
+  "pos": "n.",
+  "en": "the state of being alone or separated from others",
+  "zh": "孤立；隔離"
+ },
+ "joint effort": {
+  "pos": "n.",
+  "en": "work that two or more people do together",
+  "zh": "共同努力；合力"
+ },
+ "literal": {
+  "pos": "adj.",
+  "en": "following the most basic, exact meaning of words",
+  "zh": "字面上的；照字面的"
+ },
+ "localized": {
+  "pos": "adj.",
+  "en": "limited to one small area",
+  "zh": "局部的；限於某地的"
+ },
+ "market research": {
+  "pos": "n.",
+  "en": "the study of what customers want and buy",
+  "zh": "市場調查；市場研究"
+ },
+ "minor": {
+  "pos": "adj.",
+  "en": "small or not very important",
+  "zh": "次要的；較小的；不重要的"
+ },
+ "mystifying": {
+  "pos": "adj.",
+  "en": "very difficult to understand or explain",
+  "zh": "令人困惑的；神祕難解的"
+ },
+ "nullify": {
+  "pos": "v.",
+  "en": "to make something have no effect or value",
+  "zh": "使無效；抵銷"
+ },
+ "obscure": {
+  "pos": "adj.",
+  "en": "not well known; or difficult to understand",
+  "zh": "晦澀的；鮮為人知的"
+ },
+ "ordinary": {
+  "pos": "adj.",
+  "en": "normal and not special",
+  "zh": "普通的；平常的"
+ },
+ "original": {
+  "pos": "adj.",
+  "en": "new and different; not copied",
+  "zh": "原創的；新穎的；原本的"
+ },
+ "partnership": {
+  "pos": "n.",
+  "en": "a relationship in which people work together",
+  "zh": "合夥；合作關係"
+ },
+ "popular": {
+  "pos": "adj.",
+  "en": "liked or enjoyed by many people",
+  "zh": "受歡迎的；流行的"
+ },
+ "precise": {
+  "pos": "adj.",
+  "en": "exact and accurate",
+  "zh": "精確的；準確的"
+ },
+ "predatory": {
+  "pos": "adj.",
+  "en": "living by killing and eating other animals",
+  "zh": "掠食性的；捕食其他動物的"
+ },
+ "predictable": {
+  "pos": "adj.",
+  "en": "happening in a way that can be expected",
+  "zh": "可預測的；意料之中的"
+ },
+ "prediction": {
+  "pos": "n.",
+  "en": "a statement about what will happen in the future",
+  "zh": "預測；預言"
+ },
+ "preserve": {
+  "pos": "v.",
+  "en": "to keep something in its original state or protect it from harm",
+  "zh": "保存；維護"
+ },
+ "private ownership": {
+  "pos": "n.",
+  "en": "the state of being owned by a person or company rather than the government",
+  "zh": "私人所有權；私有制"
+ },
+ "publicity": {
+  "pos": "n.",
+  "en": "attention given to someone or something by the media",
+  "zh": "宣傳；曝光度"
+ },
+ "repeat": {
+  "pos": "v.",
+  "en": "to say or do something again",
+  "zh": "重複"
+ },
+ "representative": {
+  "pos": "adj.",
+  "en": "typical of a larger group",
+  "zh": "具代表性的；典型的"
+ },
+ "resilient": {
+  "pos": "adj.",
+  "en": "able to recover quickly from difficulty or damage",
+  "zh": "有韌性的；能迅速恢復的"
+ },
+ "restrained": {
+  "pos": "adj.",
+  "en": "calm and controlled; not showing strong feelings or bold effects",
+  "zh": "克制的；低調的；拘謹的"
+ },
+ "revise": {
+  "pos": "v.",
+  "en": "to change something in order to improve or correct it",
+  "zh": "修訂；修改"
+ },
+ "routine": {
+  "pos": "adj.",
+  "en": "ordinary and done regularly; not special",
+  "zh": "例行的；平常的"
+ },
+ "satisfactory": {
+  "pos": "adj.",
+  "en": "good enough for a particular need",
+  "zh": "令人滿意的；符合要求的"
+ },
+ "summarize": {
+  "pos": "v.",
+  "en": "to give a short statement of the main points",
+  "zh": "摘要；總結"
+ },
+ "support": {
+  "pos": "v.",
+  "en": "to show that an idea or claim is likely to be true",
+  "zh": "支持；證實"
+ },
+ "teamwork": {
+  "pos": "n.",
+  "en": "the activity of working well together as a group",
+  "zh": "團隊合作"
+ },
+ "traditional": {
+  "pos": "adj.",
+  "en": "following ways of doing things that have existed for a long time",
+  "zh": "傳統的"
+ },
+ "undermine": {
+  "pos": "v.",
+  "en": "to gradually make something weaker or less effective",
+  "zh": "削弱；破壞"
+ },
+ "underscore": {
+  "pos": "v.",
+  "en": "to emphasize or show that something is important",
+  "zh": "強調；突顯"
+ },
+ "unsatisfactory": {
+  "pos": "adj.",
+  "en": "not good enough",
+  "zh": "不令人滿意的；不合格的"
+ },
+ "varied": {
+  "pos": "adj.",
+  "en": "including many different types",
+  "zh": "各式各樣的；多變的"
+ },
+ "wide-ranging": {
+  "pos": "adj.",
+  "en": "covering many different subjects or types",
+  "zh": "範圍廣泛的；多方面的"
+ },
+ "withdraw": {
+  "pos": "v.",
+  "en": "to take back something you said or offered",
+  "zh": "撤回；撤銷"
+ },
+ "withdrawal": {
+  "pos": "n.",
+  "en": "the act of leaving or no longer taking part",
+  "zh": "退出；撤離"
+ }
+}
