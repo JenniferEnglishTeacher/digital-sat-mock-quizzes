@@ -1,0 +1,312 @@
+{
+ "avoid": {
+  "pos": "v.",
+  "en": "to keep away from or stop something from happening",
+  "zh": "避免；避開"
+ },
+ "describe": {
+  "pos": "v.",
+  "en": "to say what something is like",
+  "zh": "描述"
+ },
+ "estimate": {
+  "pos": "v.",
+  "en": "to guess an amount or value based on information",
+  "zh": "估計"
+ },
+ "predict": {
+  "pos": "v.",
+  "en": "to say what will happen in the future",
+  "zh": "預測"
+ },
+ "imitate": {
+  "pos": "v.",
+  "en": "to copy the way something is done",
+  "zh": "模仿"
+ },
+ "indifference to": {
+  "pos": "n. phr.",
+  "en": "a lack of interest in or concern about something",
+  "zh": "對……漠不關心"
+ },
+ "enthusiasm for": {
+  "pos": "n. phr.",
+  "en": "strong interest in and excitement about something",
+  "zh": "對……的熱忱"
+ },
+ "concern about": {
+  "pos": "n. phr.",
+  "en": "worry about something",
+  "zh": "對……的擔憂"
+ },
+ "surprise at": {
+  "pos": "n. phr.",
+  "en": "a feeling caused by something unexpected",
+  "zh": "對……感到驚訝"
+ },
+ "fascination with": {
+  "pos": "n. phr.",
+  "en": "a very strong interest in something",
+  "zh": "對……的著迷"
+ },
+ "anxiety about": {
+  "pos": "n. phr.",
+  "en": "a feeling of worry or nervousness about something",
+  "zh": "對……的焦慮"
+ },
+ "distance from": {
+  "pos": "n. phr.",
+  "en": "emotional separation or lack of closeness to something",
+  "zh": "與……的疏離"
+ },
+ "avoidance of": {
+  "pos": "n. phr.",
+  "en": "the act of staying away from something on purpose",
+  "zh": "對……的迴避"
+ },
+ "resistance to": {
+  "pos": "n. phr.",
+  "en": "refusal to accept or be affected by something",
+  "zh": "對……的抗拒"
+ },
+ "separation from": {
+  "pos": "n. phr.",
+  "en": "the state of being apart from something",
+  "zh": "與……的分離"
+ },
+ "impartial": {
+  "pos": "adj.",
+  "en": "not favoring one side over another; fair",
+  "zh": "公正的；不偏袒的"
+ },
+ "offhand": {
+  "pos": "adj.",
+  "en": "done without much thought or care; casual",
+  "zh": "隨便的；漫不經心的"
+ },
+ "persistent": {
+  "pos": "adj.",
+  "en": "continuing firmly despite difficulty; lasting a long time",
+  "zh": "堅持不懈的；持續的"
+ },
+ "mandatory": {
+  "pos": "adj.",
+  "en": "required by law or rule; compulsory",
+  "zh": "強制的；義務的"
+ },
+ "casual": {
+  "pos": "adj.",
+  "en": "relaxed and informal; not planned or required",
+  "zh": "隨意的；非正式的；不經意的"
+ },
+ "sustained": {
+  "pos": "adj.",
+  "en": "continuing for a long time without stopping",
+  "zh": "持續的；持久的"
+ },
+ "Destroying": {
+  "pos": "v.",
+  "en": "damaging something so badly that it no longer exists or works",
+  "zh": "摧毀；毀壞"
+ },
+ "Finishing": {
+  "pos": "v.",
+  "en": "bringing something to an end by doing the last part of it",
+  "zh": "完成；結束"
+ },
+ "Advertising": {
+  "pos": "v.",
+  "en": "telling the public about something to make people want it",
+  "zh": "宣傳；為…打廣告"
+ },
+ "Rejecting": {
+  "pos": "v.",
+  "en": "refusing to accept or use something",
+  "zh": "拒絕；否決"
+ },
+ "circulating": {
+  "pos": "v.",
+  "en": "passing something around so that many people see it",
+  "zh": "傳閱；散布"
+ },
+ "completing": {
+  "pos": "v.",
+  "en": "finishing something so that it is whole or done",
+  "zh": "完成"
+ },
+ "shortening": {
+  "pos": "v.",
+  "en": "making something shorter",
+  "zh": "縮短；刪減"
+ },
+ "publicizing": {
+  "pos": "v.",
+  "en": "making something widely known to the public",
+  "zh": "宣傳；公開"
+ },
+ "erasing": {
+  "pos": "v.",
+  "en": "removing something completely so it can no longer be seen",
+  "zh": "抹去；擦除"
+ },
+ "finalizing": {
+  "pos": "v.",
+  "en": "putting the last details on something so it is complete and settled",
+  "zh": "定稿；最後完成"
+ },
+ "concluding": {
+  "pos": "v.",
+  "en": "bringing something to an end",
+  "zh": "結束；完成"
+ },
+ "criticizing": {
+  "pos": "v.",
+  "en": "saying what is wrong with someone or something",
+  "zh": "批評"
+ },
+ "discarding": {
+  "pos": "v.",
+  "en": "throwing something away because it is not wanted",
+  "zh": "丟棄"
+ },
+ "misreading": {
+  "pos": "v.",
+  "en": "reading or understanding something incorrectly",
+  "zh": "誤讀；誤解"
+ },
+ "misplacing": {
+  "pos": "v.",
+  "en": "putting something somewhere and then being unable to find it",
+  "zh": "放錯地方；弄丟"
+ },
+ "guess": {
+  "pos": "v.",
+  "en": "to give an answer without being sure it is correct",
+  "zh": "猜測"
+ },
+ "provide": {
+  "pos": "v.",
+  "en": "to give someone something that they need",
+  "zh": "提供；供給"
+ },
+ "supply": {
+  "pos": "v.",
+  "en": "to give someone something they need or want, often regularly",
+  "zh": "供應；提供"
+ },
+ "furnish": {
+  "pos": "v.",
+  "en": "to supply or provide something that is needed",
+  "zh": "提供；供應"
+ },
+ "procure": {
+  "pos": "v.",
+  "en": "to get or obtain something, often with effort",
+  "zh": "取得；獲得"
+ },
+ "provision": {
+  "pos": "v.",
+  "en": "to supply someone with food or other necessary things",
+  "zh": "供給（食物或必需品）"
+ },
+ "confusion over": {
+  "pos": "n. phr.",
+  "en": "a feeling of not understanding something clearly",
+  "zh": "對……的困惑"
+ },
+ "distrust of": {
+  "pos": "n. phr.",
+  "en": "a feeling that someone or something cannot be trusted",
+  "zh": "對……的不信任"
+ },
+ "zeal for": {
+  "pos": "n. phr.",
+  "en": "great energy and eagerness for a cause or activity",
+  "zh": "對……的熱忱"
+ },
+ "passion for": {
+  "pos": "n. phr.",
+  "en": "a very strong liking for or love of something",
+  "zh": "對……的熱愛"
+ },
+ "ardor for": {
+  "pos": "n. phr.",
+  "en": "strong, eager feeling of enthusiasm for something",
+  "zh": "對……的熱情"
+ },
+ "indicated by": {
+  "pos": "v. phr.",
+  "en": "shown or pointed out by",
+  "zh": "由……顯示；由……指出"
+ },
+ "handmade from": {
+  "pos": "adj. phr.",
+  "en": "made by hand, not by machine, using a particular material",
+  "zh": "用……手工製成的"
+ },
+ "represented by": {
+  "pos": "v. phr.",
+  "en": "shown, stood for, or symbolized by",
+  "zh": "由……代表；以……表現"
+ },
+ "collected with": {
+  "pos": "v. phr.",
+  "en": "gathered together along with",
+  "zh": "與……一起收集"
+ },
+ "crafted from": {
+  "pos": "adj. phr.",
+  "en": "made skillfully by hand out of a particular material",
+  "zh": "用……精心製作的"
+ },
+ "fashioned from": {
+  "pos": "adj. phr.",
+  "en": "made or shaped out of a particular material",
+  "zh": "用……製成的"
+ },
+ "assembled from": {
+  "pos": "adj. phr.",
+  "en": "put together out of separate parts or materials",
+  "zh": "由……組裝而成的"
+ },
+ "formed from": {
+  "pos": "adj. phr.",
+  "en": "made or shaped out of a particular material",
+  "zh": "由……形成的"
+ },
+ "tenacious": {
+  "pos": "adj.",
+  "en": "holding firmly to a goal and not giving up easily",
+  "zh": "堅持不懈的；頑強的"
+ },
+ "unrelenting": {
+  "pos": "adj.",
+  "en": "continuing without becoming weaker or stopping",
+  "zh": "不懈的；不鬆懈的"
+ },
+ "steadfast": {
+  "pos": "adj.",
+  "en": "firm and steady in purpose; not changing",
+  "zh": "堅定不移的"
+ },
+ "finishing": {
+  "pos": "v.",
+  "en": "bringing something to an end by doing the last part of it",
+  "zh": "完成；結束"
+ },
+ "advertising": {
+  "pos": "v.",
+  "en": "telling the public about something to make people want it",
+  "zh": "宣傳；為…打廣告"
+ },
+ "rejecting": {
+  "pos": "v.",
+  "en": "refusing to accept or use something",
+  "zh": "拒絕；否決"
+ },
+ "destroying": {
+  "pos": "v.",
+  "en": "damaging something so badly that it no longer exists or works",
+  "zh": "摧毀；毀壞"
+ }
+}

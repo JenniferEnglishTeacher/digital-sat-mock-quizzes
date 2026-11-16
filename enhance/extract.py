@@ -1,13 +1,17 @@
 import json,re,os,sys
 test,mod=sys.argv[1],sys.argv[2]
-d=json.load(open(f'practice_test_{test}_module_{mod}_data.json'))
+def _ci(name):  # Test 10 files are capitalized (Practice_Test_10_...); match case-insensitively, keep the real filename
+  for f in os.listdir('.'):
+    if f.lower()==name: return f
+  return name
+d=json.load(open(_ci(f'practice_test_{test}_module_{mod}_data.json')))
 STEMS=["Which choice completes the text with the most logical and precise word or phrase?","Which choice best states the main purpose of the text?","Which choice best describes the function of the underlined sentence in the text as a whole?","Which choice most directly supports the claim or hypothesis?","Which choice most effectively uses or describes data from the table?","Which choice most logically completes the text?","Which choice completes the text so that it conforms to the conventions of Standard English?","Which choice completes the text with the most logical transition?","Which choice most effectively uses relevant information from the notes to accomplish this goal?"]
 groups={}
 for q in d:
   for m in q['generated']: groups.setdefault(m['id'].split('.')[1],[]).append(m['text'])
 pref={}
 for k,texts in groups.items():
-  p=os.path.commonprefix(texts); p=p[:p.rfind('. ')+2]; pref[k]=p
+  p=os.path.commonprefix(texts); p=p[:p.rfind('. ')+2] if '. ' in p else ''; pref[k]=p  # no full shared sentence -> no filler (avoid a 1-letter prefix)
 # modules translated before the stem fallback existed keep their original string indexing
 FALLBACK=not os.path.exists(f'enhance/zh_opts_t{test}m{mod}_a.json')
 def split(text, filler=''):

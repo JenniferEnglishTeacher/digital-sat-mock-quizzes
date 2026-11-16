@@ -4,13 +4,17 @@ usage: python3 enhance/build.py <test> <module>
 needs: practice_test_T_module_M_data.json, enhance/tTmM_items.json, tTmM_sents.json,
        tTmM_strings.json, zh_sents_tTmM_*.json, zh_opts_tTmM_*.json, vocab_tTmM.json, orig_tTmM.json
 """
-import json, re, sys, glob, html
+import json, re, sys, glob, html, os
 sys.path.insert(0, 'enhance')
 from sentences import sents as split_sents
 
 T, M = sys.argv[1], sys.argv[2]
 tag = f't{T}m{M}'
-data = json.load(open(f'practice_test_{T}_module_{M}_data.json'))
+def _ci(name):  # Test 10 files are capitalized (Practice_Test_10_...); match case-insensitively, keep the real filename
+    for f in os.listdir('.'):
+        if f.lower() == name: return f
+    return name
+data = json.load(open(_ci(f'practice_test_{T}_module_{M}_data.json')))
 I = json.load(open(f'enhance/{tag}_items.json'))
 items, pref = I['items'], I['pref']
 sents_list = json.load(open(f'enhance/{tag}_sents.json'))
@@ -138,6 +142,6 @@ page = open('enhance/template.html').read()
 page = page.replace('__TITLE__', title).replace('__SLUG__', slug).replace('__SOURCE__', f'Digital SAT Practice Test {T}, Module {M}')
 page = page.replace('__NCONCEPTS__', str(len(data))).replace('__NITEMS__', str(len(Q)))
 page = page.replace('__DATA__', json.dumps(Q, ensure_ascii=False).replace('</', '<\\/'))
-out = f'practice_test_{T}_module_{M}_mock_quiz.html'
+out = _ci(f'practice_test_{T}_module_{M}_mock_quiz.html')
 open(out, 'w').write(page)
 print('wrote', out, len(page), 'bytes;', len(Q), 'items')

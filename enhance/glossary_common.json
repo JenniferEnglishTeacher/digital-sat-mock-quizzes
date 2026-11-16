@@ -5313,5 +5313,35 @@
   "pos": "n.",
   "en": "serious discussion or debate",
   "zh": "論述；討論"
+ },
+ "predatory": {
+  "pos": "adj.",
+  "en": "living by killing and eating other animals",
+  "zh": "掠食性的；捕食的"
+ },
+ "consume": {
+  "pos": "v.",
+  "en": "to eat, drink, or use up something",
+  "zh": "吃；喝；消耗"
+ },
+ "differ": {
+  "pos": "v.",
+  "en": "to be not the same as something else",
+  "zh": "不同；相異"
+ },
+ "correlate": {
+  "pos": "v.",
+  "en": "to have a connection in which one thing changes along with another",
+  "zh": "相關；有關聯"
+ },
+ "negatively": {
+  "pos": "adv.",
+  "en": "in a way that shows an opposite or harmful relationship",
+  "zh": "負面地；呈負相關地"
+ },
+ "directly": {
+  "pos": "adv.",
+  "en": "without anything or anyone in between",
+  "zh": "直接地"
  }
 }
