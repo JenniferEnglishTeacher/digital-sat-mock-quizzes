@@ -5343,5 +5343,55 @@
   "pos": "adv.",
   "en": "without anything or anyone in between",
   "zh": "直接地"
+ },
+ "socialize": {
+  "pos": "v.",
+  "en": "to spend time talking and being friendly with other people",
+  "zh": "交際；與人往來"
+ },
+ "excited": {
+  "pos": "adj.",
+  "en": "feeling very happy and eager about something",
+  "zh": "興奮的"
+ },
+ "scared": {
+  "pos": "adj.",
+  "en": "feeling afraid",
+  "zh": "害怕的"
+ },
+ "arrive": {
+  "pos": "v.",
+  "en": "to reach a place at the end of a journey",
+  "zh": "抵達；到達"
+ },
+ "emotional": {
+  "pos": "adj.",
+  "en": "relating to feelings",
+  "zh": "情感的；情緒的"
+ },
+ "depiction": {
+  "pos": "n.",
+  "en": "the way someone or something is shown in art or writing",
+  "zh": "描繪；描寫"
+ },
+ "sculptural": {
+  "pos": "adj.",
+  "en": "relating to sculpture or having the qualities of a sculpture",
+  "zh": "雕塑的"
+ },
+ "director": {
+  "pos": "n.",
+  "en": "the person who controls how a film or play is made",
+  "zh": "導演；主任"
+ },
+ "accept": {
+  "pos": "v.",
+  "en": "to take something that is offered, such as an award",
+  "zh": "接受；領受"
+ },
+ "history": {
+  "pos": "n.",
+  "en": "the study or record of past events",
+  "zh": "歷史"
  }
 }
