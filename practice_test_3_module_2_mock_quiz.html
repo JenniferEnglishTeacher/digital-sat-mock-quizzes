@@ -74,6 +74,15 @@
     .panel table { width:100%; border-collapse:collapse; font-size:.95rem; }
     .panel th, .panel td { border-bottom:1px solid var(--line); padding:6px 8px; text-align:left; vertical-align:top; }
     .empty { color:var(--muted); }
+    .mocktoggle { display:flex; gap:10px; align-items:center; flex-wrap:wrap; padding:12px 22px; background:#f8fafc; border-bottom:1px solid #e7edf4; }
+    .mockBtn { border:1px dashed var(--accent); background:white; color:var(--accent); padding:8px 14px; border-radius:7px; cursor:pointer; font-weight:700; font-size:.95rem; font-family:inherit; }
+    .mockBtn:hover { background:#e8f1f9; }
+    .mockBtn[aria-expanded="true"] { border-style:solid; background:#e8f1f9; }
+    .mockhint { color:var(--muted); font-size:.9rem; }
+    .mocktoggle.ready { background:#edf8f3; }
+    .mocktoggle.ready .mockhint { color:var(--good); font-weight:700; }
+    .mockwrap { display:none; }
+    .mockwrap.show { display:block; }
     @media print { .toolbar, .rowbtns { display:none; } }
   </style>
 </head>
@@ -157,6 +166,22 @@
         </article>`;
     }
 
+    function mockLabel(open, n) { return `${open ? '▾ Hide' : '▸ Show'} mock Q 1–${n} 模擬題`; }
+    function setMocks(btn, open) {
+      const w = btn.parentElement.nextElementSibling; w.classList.toggle('show', open);
+      btn.setAttribute('aria-expanded', open); btn.textContent = mockLabel(open, btn.dataset.n);
+    }
+    function revealItem(id) {
+      const el = document.getElementById(id); if (!el) return;
+      const w = el.closest('.mockwrap');
+      if (w && !w.classList.contains('show')) setMocks(w.previousElementSibling.querySelector('.mockBtn'), true);
+      el.scrollIntoView({ block: 'start' });
+    }
+    document.addEventListener('click', e => {
+      const a = e.target.closest('a[href^="#item-"]'); if (!a) return;
+      e.preventDefault(); revealItem(a.getAttribute('href').slice(1)); history.replaceState(null, '', a.getAttribute('href'));
+    });
+
     function render() {
       const wrong = loadWrong();
       answered = {};
@@ -173,12 +198,22 @@
       quiz.innerHTML = [...groups.entries()].map(([n, g]) => `
         <section class="card">
           <div class="card-head"><h2>Question ${n}</h2><div class="concept">${esc(g.concept)}</div></div>
-          ${g.items.map(q => itemHtml(q, wrong)).join('')}
+          ${(() => {
+            const o = g.items.filter(q => q.id.startsWith('o')), m = g.items.filter(q => !q.id.startsWith('o'));
+            if (!o.length || !m.length) return g.items.map(q => itemHtml(q, wrong)).join('');
+            const open = retest;
+            return o.map(q => itemHtml(q, wrong)).join('') +
+              `<div class="mocktoggle"><button type="button" class="mockBtn" data-n="${m.length}" aria-expanded="${open}">${mockLabel(open, m.length)}</button>
+                <span class="mockhint">先作答原題，再選擇練習模擬題或直接做下一題 · Answer the original first, then try the mocks or move on.</span></div>
+              <div class="mockwrap${open ? ' show' : ''}">${m.map(q => itemHtml(q, wrong)).join('')}</div>`;
+          })()}
         </section>`).join('');
       updateCount();
     }
 
     quiz.addEventListener('click', e => {
+      const mb = e.target.closest('.mockBtn');
+      if (mb) { setMocks(mb, mb.getAttribute('aria-expanded') !== 'true'); return; }
       const art = e.target.closest('.mock'); if (!art) return;
       const q = byId[art.dataset.id];
       if (e.target.closest('.speakBody')) { speak(q.bodyPlain + ' ' + (q.stem || '')); return; }
@@ -197,6 +232,7 @@
       tr.querySelectorAll('.word').forEach(w => w.classList.toggle('ok', w.dataset.l === ans));
       if (q.vocab) speak(q.opts[ans]);
       answered[q.id] = { picked, ok };
+      if (q.id.startsWith('o')) { const t = art.nextElementSibling; if (t && t.classList.contains('mocktoggle')) { t.classList.add('ready'); t.querySelector('.mockhint').textContent = ok ? '✓ 答對了！可練習模擬題，或直接做下一題。Try the mocks or go on.' : '建議展開模擬題加強練習 · Recommended: practise the mock questions.'; } }
       const wrong = loadWrong();
       if (!ok) {
         const prev = wrong[q.id] || { count: 0 };
@@ -277,6 +313,7 @@
     });
     if ('speechSynthesis' in window) speechSynthesis.getVoices();
     render();
+    if (location.hash.startsWith('#item-')) revealItem(location.hash.slice(1));
   </script>
 <script src="https://jenniferenglishteacher.github.io/SAT-learning-and-quiz-combined-sources/assets/sat-word-links.js?v=20261118a" defer></script>
 </body>
