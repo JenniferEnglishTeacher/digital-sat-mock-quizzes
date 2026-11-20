@@ -14,3 +14,7 @@ Pipeline for a new module:
 Page features: interactive originals + mocks, Chinese translation of passage/stem/options shown on answer,
 clickable vocabulary cards with TTS + EN/中 definitions, ≥3 Cambridge English–繁中 dictionary links per passage,
 錯題本 (wrong questions saved in localStorage) with retest mode and .txt/.csv download.
+
+Non-numbered mock tests (`SPECIAL` in extract.py / build.py): use `cram` or `princeton` as the test id,
+e.g. `python3 enhance/build.py princeton 1` -> `princeton_digital_sat_module_1_mock_quiz.html`
+from `princeton_digital_sat_module_1_data.json`. Mock items may mark an underlined portion inline with `<u>…</u>`.

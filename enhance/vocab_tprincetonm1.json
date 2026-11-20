@@ -1,0 +1,201 @@
+{
+"a hazardous": {
+"pos": "adj.",
+"en": "dangerous; likely to cause harm",
+"zh": "危險的",
+"w": "hazardous"
+},
+"hazardous": {
+"pos": "adj.",
+"en": "dangerous; likely to cause harm",
+"zh": "危險的"
+},
+"a mountainous": {
+"pos": "adj.",
+"en": "having many mountains",
+"zh": "多山的",
+"w": "mountainous"
+},
+"mountainous": {
+"pos": "adj.",
+"en": "having many mountains",
+"zh": "多山的"
+},
+"a remote": {
+"pos": "adj.",
+"en": "far away from towns and people",
+"zh": "偏遠的",
+"w": "remote"
+},
+"remote": {
+"pos": "adj.",
+"en": "far away from towns and people",
+"zh": "偏遠的"
+},
+"an active": {
+"pos": "adj.",
+"en": "(of a volcano) able to erupt; still doing things",
+"zh": "活躍的；活的（火山）",
+"w": "active"
+},
+"active": {
+"pos": "adj.",
+"en": "(of a volcano) able to erupt; still doing things",
+"zh": "活躍的；活的（火山）"
+},
+"aggregated": {
+"pos": "v.",
+"en": "to collect or gather into one group or amount",
+"zh": "彙集；聚集",
+"w": "aggregate"
+},
+"aggregates": {
+"pos": "v.",
+"en": "to collect or gather into one group or amount",
+"zh": "彙集；聚集",
+"w": "aggregate"
+},
+"bustling": {
+"pos": "adj.",
+"en": "full of busy activity and people",
+"zh": "熱鬧的；繁忙的"
+},
+"characteristics": {
+"pos": "n.",
+"en": "a typical quality or feature",
+"zh": "特徵；特性",
+"w": "characteristic"
+},
+"characterized": {
+"pos": "v.",
+"en": "to describe the typical qualities of",
+"zh": "描述……的特徵；形容為",
+"w": "characterize"
+},
+"collaborated": {
+"pos": "v.",
+"en": "to work together with others",
+"zh": "合作",
+"w": "collaborate"
+},
+"collaborates": {
+"pos": "v.",
+"en": "to work together with others",
+"zh": "合作",
+"w": "collaborate"
+},
+"contextualize": {
+"pos": "v.",
+"en": "to place something in its background situation to explain it",
+"zh": "把……置於背景脈絡中"
+},
+"corroborate": {
+"pos": "v.",
+"en": "to support or confirm with evidence",
+"zh": "證實；佐證"
+},
+"deserted": {
+"pos": "adj.",
+"en": "empty; with no people",
+"zh": "荒涼的；無人的"
+},
+"discreet": {
+"pos": "adj.",
+"en": "careful not to attract attention",
+"zh": "謹慎低調的"
+},
+"dissipated": {
+"pos": "v.",
+"en": "to gradually disappear or spread out",
+"zh": "消散",
+"w": "dissipate"
+},
+"dissipates": {
+"pos": "v.",
+"en": "to gradually disappear or spread out",
+"zh": "消散",
+"w": "dissipate"
+},
+"eccentric": {
+"pos": "adj.",
+"en": "strange or unusual in behavior",
+"zh": "古怪的"
+},
+"efficacy": {
+"pos": "n.",
+"en": "the ability to produce the desired result",
+"zh": "功效；效力"
+},
+"elided": {
+"pos": "v.",
+"en": "to leave out or omit",
+"zh": "省略",
+"w": "elide"
+},
+"evinced": {
+"pos": "v.",
+"en": "to clearly show a feeling or quality",
+"zh": "表現出；顯示出",
+"w": "evince"
+},
+"exonerate": {
+"pos": "v.",
+"en": "to officially show that someone is not guilty",
+"zh": "證明……無罪"
+},
+"formal": {
+"pos": "adj.",
+"en": "following official rules and customs",
+"zh": "正式的"
+},
+"gauged": {
+"pos": "v.",
+"en": "to measure or judge something",
+"zh": "測量；判斷",
+"w": "gauge"
+},
+"obscure": {
+"pos": "adj.",
+"en": "not well known",
+"zh": "鮮為人知的；冷門的"
+},
+"percolated": {
+"pos": "v.",
+"en": "(of liquid) to pass slowly through something",
+"zh": "滲透；過濾",
+"w": "percolate"
+},
+"percolates": {
+"pos": "v.",
+"en": "(of liquid) to pass slowly through something",
+"zh": "滲透；過濾",
+"w": "percolate"
+},
+"postulate": {
+"pos": "v.",
+"en": "to suggest something as true as a basis for reasoning",
+"zh": "假定；提出假設"
+},
+"prospects": {
+"pos": "n.",
+"en": "the chances of future success",
+"zh": "前景；展望",
+"w": "prospect"
+},
+"repercussions": {
+"pos": "n.",
+"en": "a bad effect or result of an action",
+"zh": "不良後果；影響",
+"w": "repercussion"
+},
+"traditional": {
+"pos": "adj.",
+"en": "following customs that have existed for a long time",
+"zh": "傳統的"
+},
+"unpredictable": {
+"pos": "adj.",
+"en": "not able to be known in advance",
+"zh": "難以預測的"
+}
+}

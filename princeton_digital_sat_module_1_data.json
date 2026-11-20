@@ -1,0 +1,1001 @@
+[
+ {
+  "n": 1,
+  "concept": "Words in Context: choose an adjective meaning \"far from people\" that explains a low risk to human life.",
+  "original": "The Chilean volcano Calabozos is located in _______ area. Therefore, the risk of loss of human life in the event of an eruption is minimal.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) a hazardous\nB) an active\nC) a mountainous\nD) a remote",
+  "generated": [
+   {
+    "id": "1.1",
+    "text": "The research station sits in _______ valley more than 200 kilometers from the nearest town. As a result, scientists there must fly in all of their supplies.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) a hazardous\nB) an active\nC) a mountainous\nD) a remote",
+    "answer": "D",
+    "explanation": "A volcano far from towns poses little danger to people, so \"remote\" fits."
+   },
+   {
+    "id": "1.2",
+    "text": "Hikers are warned to stay on marked trails because the crater rim is _______ area: loose rocks often fall without warning, and pockets of toxic gas collect in low spots.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) a hazardous\nB) an active\nC) a mountainous\nD) a remote",
+    "answer": "A",
+    "explanation": "Rockfalls and toxic gas make the area dangerous, which is the meaning of \"hazardous.\""
+   },
+   {
+    "id": "1.3",
+    "text": "Because Mount Etna has erupted three times in the past decade and still releases steam almost daily, geologists classify it as _______ volcano that requires constant monitoring.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) a hazardous\nB) an active\nC) a mountainous\nD) a remote",
+    "answer": "B",
+    "explanation": "A volcano that has erupted three times recently and is still releasing steam is \"active.\""
+   },
+   {
+    "id": "1.4",
+    "text": "Bhutan is _______ country: steep peaks cover most of its land, and many villages can be reached only by crossing passes higher than 4,000 meters.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) a hazardous\nB) an active\nC) a mountainous\nD) a remote",
+    "answer": "C",
+    "explanation": "Steep peaks and high passes describe land full of mountains, so \"mountainous\" fits."
+   },
+   {
+    "id": "1.5",
+    "text": "Tristan da Cunha is often called the world's most _______ inhabited island; its roughly 250 residents live about 2,400 kilometers from the nearest mainland, and a supply ship visits only about once a month.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) hazardous\nB) active\nC) mountainous\nD) remote",
+    "answer": "D",
+    "explanation": "An island that a supply ship visits only once a month is far from other places, or \"remote.\""
+   }
+  ]
+ },
+ {
+  "n": 2,
+  "concept": "Words in Context: choose an adjective meaning \"based on long-held customs\" for performances that preserve old songs.",
+  "original": "The intergenerational Bulgarian female choir group Bistritsa Babi has been working to preserve customary songs and dances from the Shopluk region of the country since 1939. Through these _______ performances, members of Bistritsa Babi hope to keep this centuries-old ritual of expression alive. In 2005, the group was added to the UNESCO List of Intangible Cultural Heritage for Eastern Europe.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) traditional\nB) obscure\nC) discreet\nD) eccentric",
+  "generated": [
+   {
+    "id": "2.1",
+    "text": "The Hawaiian dancers learn hula chants that have been passed down orally for generations. By performing these _______ chants, they help keep the islands' history alive.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) traditional\nB) obscure\nC) discreet\nD) eccentric",
+    "answer": "A",
+    "explanation": "Songs passed down for generations are based on long-held customs, so \"traditional\" fits."
+   },
+   {
+    "id": "2.2",
+    "text": "For nearly a century, the works of composer Florence Price were so _______ that even trained musicians rarely knew her name; only after a collection of her manuscripts was found in an abandoned house in 2009 did orchestras begin performing them.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) traditional\nB) obscure\nC) discreet\nD) eccentric",
+    "answer": "B",
+    "explanation": "A composer whose works were almost forgotten and rarely heard was \"obscure\" (little known)."
+   },
+   {
+    "id": "2.3",
+    "text": "Museum guards are trained to be _______: they watch visitors closely but move quietly and speak softly so that no one feels watched while viewing the art.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) traditional\nB) obscure\nC) discreet\nD) eccentric",
+    "answer": "C",
+    "explanation": "Speaking quietly so others do not notice describes \"discreet\" behavior."
+   },
+   {
+    "id": "2.4",
+    "text": "The inventor was known for his _______ habits: he wore a velvet cape to the laboratory every day and carried a stuffed owl that he claimed helped him think.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) traditional\nB) obscure\nC) discreet\nD) eccentric",
+    "answer": "D",
+    "explanation": "Wearing a cape and carrying a stuffed owl are strange, unusual habits, so \"eccentric\" fits."
+   },
+   {
+    "id": "2.5",
+    "text": "At the annual festival in Oaxaca, cooks prepare mole using _______ methods, grinding chiles and spices by hand on stone slabs just as their ancestors did centuries ago.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) traditional\nB) obscure\nC) discreet\nD) eccentric",
+    "answer": "A",
+    "explanation": "Dishes made exactly as they were centuries ago follow long-held customs: \"traditional.\""
+   }
+  ]
+ },
+ {
+  "n": 3,
+  "concept": "Words in Context: choose an adjective meaning \"full of busy activity\" for a crowded square at night.",
+  "original": "Located in the old city of Marrakesh, Jemaa el-Fnaa, the main square, is a marketplace and vibrant hub for residents and visitors alike. During the day, snake charmers and stalls selling beverages fill the square, while at night the _______ center is filled with throngs of people coming to hear storytellers tell traditional fables, watch the performances of magicians, and browse multiple booths offering herbal medicines. As the night goes on, dozens of food vendors set up their stalls to feed the crowds.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) formal\nB) bustling\nC) unpredictable\nD) deserted",
+  "generated": [
+   {
+    "id": "3.1",
+    "text": "On weekend mornings, the _______ fish market is packed with shoppers, and vendors shout prices over the noise of ice being shoveled onto the counters.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) formal\nB) bustling\nC) unpredictable\nD) deserted",
+    "answer": "B",
+    "explanation": "Crowds of shoppers and loud vendors describe a place full of activity: \"bustling.\""
+   },
+   {
+    "id": "3.2",
+    "text": "When the mine closed in 1965, families left the town one by one. Today, its _______ streets are lined with empty houses, and only tumbleweeds move through the old main square.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) formal\nB) bustling\nC) unpredictable\nD) deserted",
+    "answer": "D",
+    "explanation": "After the factory closed and everyone left, the streets were empty, or \"deserted.\""
+   },
+   {
+    "id": "3.3",
+    "text": "Guests at the state dinner must follow a strict dress code, sit in assigned seats, and wait for the host to begin each course. The _______ event follows customs that have barely changed in a hundred years.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) formal\nB) bustling\nC) unpredictable\nD) deserted",
+    "answer": "A",
+    "explanation": "Strict dress codes and assigned seats describe an event that follows set rules: \"formal.\""
+   },
+   {
+    "id": "3.4",
+    "text": "Climbers on the peak must carry rain gear and extra layers because the weather there is _______: sunny skies can turn into a hailstorm in less than an hour.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) formal\nB) bustling\nC) unpredictable\nD) deserted",
+    "answer": "C",
+    "explanation": "Weather that can change from sunshine to hail within an hour cannot be predicted: \"unpredictable.\""
+   },
+   {
+    "id": "3.5",
+    "text": "Built in 1913, Grand Central Terminal is still one of the most _______ places in New York City, with roughly 750,000 people hurrying through its halls each day.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) formal\nB) bustling\nC) unpredictable\nD) deserted",
+    "answer": "B",
+    "explanation": "Thousands of travelers and constant announcements describe a very busy station: \"bustling.\""
+   }
+  ]
+ },
+ {
+  "n": 4,
+  "concept": "Words in Context: choose a noun meaning \"negative results or consequences\" of a medical procedure.",
+  "original": "When developing the procedure for LASIK eye surgery, inventor Gholam A. Peyman faced many obstacles in trying to create a way to use lasers on the delicate tissues within the eye without causing pain or scarring. Through many experiments, he was able to gather that using a flap of tissue instead of performing surgery on the surface of the cornea could greatly reduce the incidence of _______ of the procedure. Peyman was able to secure patents in the US for his ideas and furthered his research to help the field of ophthalmology.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) characteristics\nB) prospects\nC) efficacy\nD) repercussions",
+  "generated": [
+   {
+    "id": "4.1",
+    "text": "When the factory suddenly closed, the _______ were felt across the whole town: hundreds of workers lost their jobs, and many nearby shops soon went out of business.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) characteristics\nB) prospects\nC) efficacy\nD) repercussions",
+    "answer": "D",
+    "explanation": "Job losses and higher prices are bad results that follow the decision, so \"repercussions\" fits."
+   },
+   {
+    "id": "4.2",
+    "text": "Before the new vaccine was approved, large clinical trials measured its _______; the results showed that it prevented serious illness in about 90 percent of the people who received it.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) characteristics\nB) prospects\nC) efficacy\nD) repercussions",
+    "answer": "C",
+    "explanation": "The trials showed how well the vaccine works, which is its \"efficacy.\""
+   },
+   {
+    "id": "4.3",
+    "text": "Biologists identify the new frog species by its distinctive _______, including bright blue toes, a pointed snout, and a call that sounds like a ringing bell.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) characteristics\nB) prospects\nC) efficacy\nD) repercussions",
+    "answer": "A",
+    "explanation": "Features such as color and body shape are the typical qualities, or \"characteristics,\" of a species."
+   },
+   {
+    "id": "4.4",
+    "text": "With demand for electric cars rising and several new factories planned, economists say the region's job _______ have never looked brighter.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) characteristics\nB) prospects\nC) efficacy\nD) repercussions",
+    "answer": "B",
+    "explanation": "Rising demand and new investment suggest good chances of future success: \"prospects.\""
+   },
+   {
+    "id": "4.5",
+    "text": "Engineers warned that cutting the safety budget could have serious _______, and within two years the bridge needed emergency repairs that cost ten times the amount that had been saved.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) characteristics\nB) prospects\nC) efficacy\nD) repercussions",
+    "answer": "D",
+    "explanation": "Ignoring the warnings led to serious harmful results: \"repercussions.\""
+   }
+  ]
+ },
+ {
+  "n": 5,
+  "concept": "Words in Context: choose a verb meaning \"collected together\" for rainwater gathered in a container.",
+  "original": "The process of rainwater harvesting includes gathering and reserving rainwater instead of allowing it to trickle away. When it rains, water is collected from an awning or roof and _______ in a large vessel like a well or reservoir where it can drain back to the ground water source for things like domestic and livestock use.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) aggregated\nB) dissipated\nC) percolated\nD) collaborated",
+  "generated": [
+   {
+    "id": "5.1",
+    "text": "Researchers _______ data from 120 hospitals into a single database, allowing them to study patterns that no individual hospital's records could reveal.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) aggregated\nB) dissipated\nC) percolated\nD) collaborated",
+    "answer": "A",
+    "explanation": "Data from many hospitals is gathered into one large set, which means \"aggregated.\""
+   },
+   {
+    "id": "5.2",
+    "text": "By late morning, the thick fog that had covered the harbor had _______, and the fishing boats could finally leave the dock.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) aggregated\nB) dissipated\nC) percolated\nD) collaborated",
+    "answer": "B",
+    "explanation": "The fog gradually disappeared as the sun warmed the air: \"dissipated.\""
+   },
+   {
+    "id": "5.3",
+    "text": "After a heavy rain, water _______ slowly through layers of sand and gravel, which filter out impurities before it reaches the underground aquifer.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) aggregated\nB) dissipated\nC) percolated\nD) collaborated",
+    "answer": "C",
+    "explanation": "Water that slowly passes down through layers of sand and gravel \"percolates.\""
+   },
+   {
+    "id": "5.4",
+    "text": "Chemists from Japan and Brazil _______ on the project for six years, sharing samples and data before publishing their findings together in 2021.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) aggregated\nB) dissipated\nC) percolated\nD) collaborated",
+    "answer": "D",
+    "explanation": "Two scientists who worked together on a project \"collaborated.\""
+   },
+   {
+    "id": "5.5",
+    "text": "The website does not write its own movie reviews; instead, it _______ hundreds of critics' ratings into a single score that readers can check at a glance.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) aggregates\nB) dissipates\nC) percolates\nD) collaborates",
+    "answer": "A",
+    "explanation": "The app gathers reviews from many sites into one score, i.e., it \"aggregates\" them."
+   }
+  ]
+ },
+ {
+  "n": 6,
+  "concept": "Words in Context: choose a verb meaning \"confirm with evidence\" for scientists proving a predicted particle exists.",
+  "original": "In 2012, thousands of scientists working at the Large Hadron Collider in Switzerland were finally able to _______ the existence of the long-predicted Higgs boson particle, first theorized as necessary in order to explain the mass of a fundamental particle by Peter Higgs and François Englert in 1964. These scientists confirmed a pattern of decay products that could be explained only by the Higgs boson particle.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) corroborate\nB) exonerate\nC) contextualize\nD) postulate",
+  "generated": [
+   {
+    "id": "6.1",
+    "text": "Security camera footage was able to _______ the witness's account, showing the car running the red light exactly as she had described.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) corroborate\nB) exonerate\nC) contextualize\nD) postulate",
+    "answer": "A",
+    "explanation": "Video footage that supports the witness's account confirms it: \"corroborate.\""
+   },
+   {
+    "id": "6.2",
+    "text": "After spending twelve years in prison, the man was finally released when new DNA evidence helped _______ him of the crime.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) corroborate\nB) exonerate\nC) contextualize\nD) postulate",
+    "answer": "B",
+    "explanation": "New DNA evidence cleared the man of the crime, which is the meaning of \"exonerate.\""
+   },
+   {
+    "id": "6.3",
+    "text": "To help students understand why the 1863 speech was so powerful, the teacher first worked to _______ it by describing the state of the war and the mood of the country at the time.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) corroborate\nB) exonerate\nC) contextualize\nD) postulate",
+    "answer": "C",
+    "explanation": "Explaining the political situation around the speech places it in its context: \"contextualize.\""
+   },
+   {
+    "id": "6.4",
+    "text": "Before any telescope had detected it, astronomers began to _______ the existence of a ninth planet, arguing that its gravity could explain the strange orbits of several distant objects.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) corroborate\nB) exonerate\nC) contextualize\nD) postulate",
+    "answer": "D",
+    "explanation": "Proposing that a planet exists before anyone has seen it is to \"postulate\" it."
+   },
+   {
+    "id": "6.5",
+    "text": "A second study, conducted independently in Canada, helped _______ the original findings by showing the same drop in heart disease among people who walked thirty minutes a day.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) corroborate\nB) exonerate\nC) contextualize\nD) postulate",
+    "answer": "A",
+    "explanation": "A second independent study that found the same result confirms the first: \"corroborate.\""
+   }
+  ]
+ },
+ {
+  "n": 7,
+  "concept": "Words in Context: choose a verb meaning \"clearly showed\" a quality through actions.",
+  "original": "A highly influential leader of the US civil rights movement, Martin Luther King Jr. _______ his commitment to nonviolent resistance by organizing and directing numerous peaceful protests and sit-ins across the United States in the 1960s: his actions revealed his unwavering dedication to advancing the cause of civil rights without resorting to violence.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) characterized\nB) evinced\nC) elided\nD) gauged",
+  "generated": [
+   {
+    "id": "7.1",
+    "text": "Firefighter Ana Ruiz _______ remarkable courage when she entered the burning building three times to carry out trapped residents.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) characterized\nB) evinced\nC) elided\nD) gauged",
+    "answer": "B",
+    "explanation": "Her actions clearly showed her courage, so \"evinced\" (displayed) fits."
+   },
+   {
+    "id": "7.2",
+    "text": "To keep the documentary under ninety minutes, the editor _______ several long interviews, leaving out details that did not move the story forward.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) characterized\nB) evinced\nC) elided\nD) gauged",
+    "answer": "C",
+    "explanation": "The editor left out the boring parts, which means \"elided\" (omitted)."
+   },
+   {
+    "id": "7.3",
+    "text": "Before the launch, engineers carefully _______ the wind speed at several altitudes to make sure conditions were safe.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) characterized\nB) evinced\nC) elided\nD) gauged",
+    "answer": "D",
+    "explanation": "Using instruments to measure wind speed is to \"gauge\" it."
+   },
+   {
+    "id": "7.4",
+    "text": "The art critic _______ Georgia O'Keeffe's flower paintings as bold and intimate, noting their enormous size and close focus on petals.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) characterized\nB) evinced\nC) elided\nD) gauged",
+    "answer": "A",
+    "explanation": "The critic described the paintings' typical qualities, so \"characterized\" fits."
+   },
+   {
+    "id": "7.5",
+    "text": "The poet _______ his deep dedication to his craft by writing at least one page every single day for more than fifty years, even while traveling or ill.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) characterized\nB) evinced\nC) elided\nD) gauged",
+    "answer": "B",
+    "explanation": "Writing every day for fifty years clearly showed his dedication: \"evinced.\""
+   }
+  ]
+ },
+ {
+  "n": 8,
+  "concept": "Text Structure and Purpose: identify the function of an underlined sentence that describes an experiment's design.",
+  "original": "An experiment headed by University of Wisconsin psychologist Sohad Murrar provides compelling evidence that individuals feel more inclusive toward other groups when they are informed that pro-diversity attitudes and behaviors are extremely popular among their peers. Students were presented with either a neutrally messaged poster or a poster that displayed fellow students of diverse ethnic backgrounds, a statement about valuing diversity, and statistics indicating their fellow students’ strong support for the statement. The study found that students were more likely to embrace inclusive statements and reject racist statements even weeks after they were exposed to the pro-diversity poster.\n\nWhich choice best describes the function of the underlined sentence in the text as a whole?\n\nA) To analyze the implications of the results of the experiment\nB) To demonstrate the difficulty of assessing individuals’ views on inclusivity and racism\nC) To highlight a specific instance in which the findings of the experiment were confirmed\nD) To describe certain aspects of the design and methodology of the experiment",
+  "generated": [
+   {
+    "id": "8.1",
+    "text": "Psychologist Lena Hart studied whether music helps people remember words. <u>Participants memorized a list of 30 words while listening either to calm piano music or to no music at all.</u> Those who heard the music recalled about 20 percent more words a day later.\n\nWhich choice best describes the function of the underlined sentence in the text as a whole?\n\nA) To explain why music improves memory\nB) To present a criticism of Hart's conclusion\nC) To describe the result of the experiment\nD) To describe how the experiment was set up",
+    "answer": "D",
+    "explanation": "The underlined sentence explains what participants were asked to do, i.e., how the study was set up."
+   },
+   {
+    "id": "8.2",
+    "text": "Ecologist Ravi Menon wondered whether city lights affect when birds sing. He recorded robins in both dark parks and brightly lit streets for a full spring. <u>Robins near streetlights began singing nearly two hours earlier each morning than robins in dark parks.</u> Menon suggests artificial light may confuse the birds' internal clocks.\n\nWhich choice best describes the function of the underlined sentence in the text as a whole?\n\nA) To describe the methods Menon used to record birdsong\nB) To introduce a question that Menon later abandons\nC) To present the main finding of Menon's study\nD) To explain why robins prefer dark parks",
+    "answer": "C",
+    "explanation": "The underlined sentence reports what the researchers found."
+   },
+   {
+    "id": "8.3",
+    "text": "In a study of 400 teenagers, researchers found that those who ate breakfast scored higher on morning math quizzes. <u>The researchers suggest that a steady supply of energy may help the brain focus during early classes.</u> They plan to test this idea with a larger group next year.\n\nWhich choice best describes the function of the underlined sentence in the text as a whole?\n\nA) To offer a possible explanation for the study's results\nB) To describe how the teenagers were chosen for the study\nC) To point out a flaw in the study's design\nD) To give an example of a typical breakfast eaten by participants",
+    "answer": "A",
+    "explanation": "The underlined sentence offers a possible meaning of the results."
+   },
+   {
+    "id": "8.4",
+    "text": "Botanist Mei Lin tested whether talking to plants affects their growth. <u>She divided 60 tomato plants into two groups, playing recordings of human voices to one group for an hour each day and keeping the other group in silence.</u> After eight weeks, the two groups were almost the same height.\n\nWhich choice best describes the function of the underlined sentence in the text as a whole?\n\nA) To explain why the plants grew to the same height\nB) To suggest that Lin's experiment should be repeated\nC) To present a surprising finding about tomato plants\nD) To describe the procedure Lin followed in her experiment",
+    "answer": "D",
+    "explanation": "It explains what each group of plants received—the design of the experiment."
+   },
+   {
+    "id": "8.5",
+    "text": "Some animals use tools in surprisingly clever ways. <u>Sea otters, for example, float on their backs and crack open clams by smashing them against rocks balanced on their chests.</u> Such behavior shows that tool use is not limited to primates.\n\nWhich choice best describes the function of the underlined sentence in the text as a whole?\n\nA) To introduce a claim that the rest of the text disputes\nB) To provide a specific example supporting the text's opening claim\nC) To explain how scientists first discovered tool use in animals\nD) To describe the design of a study on sea otters",
+    "answer": "B",
+    "explanation": "The underlined sentence gives a specific example supporting the general claim in the first sentence."
+   }
+  ]
+ },
+ {
+  "n": 9,
+  "concept": "Command of Evidence (Quantitative): use data from a graph to complete a claim about a relationship.",
+  "original": "Rock Pigeons Observed and Restaurants Within One Kilometer (approximate values read from the lines of best fit; table recreated because the original graph is unavailable)\nRestaurants within 1 km | Rock pigeons observed (spring) | Rock pigeons observed (winter)\n10 | about 4 | about 3\n30 | about 12 | about 6\nUrbanization invariably results in a decrease in overall species diversity and abundance, though certain species seem to preternaturally thrive in city environments. Columba livia, the rock pigeon, is thought to be well-suited to survival in urbanized environments because of the anthropogenic food sources supplied in the form of refuse from restaurants. Thus, researchers Jeffrey A. Brown, Susannah B. Lerman, and colleagues hypothesized that the number of nearby restaurants might be a predictor of the abundance of rock pigeons in the area. They visited 57 sites during spring and winter for three years and logged the number of restaurants and the number of rock pigeons in the vicinity. Looking at the lines of best fit for the scatterplot of the compiled data, the researchers concluded that there is indeed a relationship between proximity to restaurants and abundance of rock pigeons and that this relationship was especially strong in the spring, noting that _______.\n\nWhich choice completes the text with the most logical and precise word or phrase?\n\nA) around ten rock pigeons were observed at a site with three restaurants within one kilometer, while around thirty rock pigeons were observed at a site with six restaurants within one kilometer.\nB) around three rock pigeons were observed at a site with ten restaurants within one kilometer, while around six rock pigeons were observed at a site with thirty restaurants within one kilometer.\nC) fewer than five rock pigeons were observed at a site with ten restaurants within one kilometer, while more than ten rock pigeons were observed at a site with thirty restaurants within one kilometer.\nD) fewer than ten rock pigeons were observed at a site with five restaurants within one kilometer, while more than thirty rock pigeons were observed at a site with ten restaurants within one kilometer.",
+  "generated": [
+   {
+    "id": "9.1",
+    "text": "Number of Litter Bins and Pieces of Litter Found in Three Parks\nPark | Litter bins | Pieces of litter found per week\nOak Park | 3 | 410\nPine Park | 7 | 220\nElm Park | 12 | 95\nCity planners wanted to know whether adding litter bins reduces littering. They counted bins and litter in three parks and concluded that parks with more bins tend to have less litter, noting that _______\n\nWhich choice most effectively uses data from the table to complete the statement?\n\nA) Oak Park had 410 bins and only 3 pieces of litter per week.\nB) Elm Park, with 12 bins, had 95 pieces of litter per week, while Oak Park, with 3 bins, had 410.\nC) Pine Park had more bins and more litter than Elm Park.\nD) all three parks had about the same amount of litter each week.",
+    "answer": "B",
+    "explanation": "The table shows more litter bins went with less litter, and Elm Park (12 bins) had far less litter than Oak Park (3 bins)."
+   },
+   {
+    "id": "9.2",
+    "text": "Average Daily Temperature and Ice Cream Sales at a Beach Stand\nMonth | Average temperature (°C) | Cones sold per day\nApril | 18 | 60\nJune | 26 | 180\nAugust | 31 | 290\nThe owner of a beach ice cream stand concluded that warmer weather leads to higher sales, noting that _______\n\nWhich choice most effectively uses data from the table to complete the statement?\n\nA) sales rose from 60 cones per day in April, when it averaged 18°C, to 290 cones per day in August, when it averaged 31°C.\nB) the stand sold 180 cones per day in April and 60 in June.\nC) the coolest month, August, had the highest sales.\nD) temperature stayed about the same from April to August.",
+    "answer": "A",
+    "explanation": "The data show sales rising as temperature rises, matching choice A."
+   },
+   {
+    "id": "9.3",
+    "text": "Hours of Sleep and Average Test Score for Three Groups of Students\nGroup | Average hours of sleep | Average test score\nGroup 1 | 5 | 68\nGroup 2 | 7 | 79\nGroup 3 | 9 | 86\nA researcher concluded that students who sleep more tend to earn higher test scores, noting that _______\n\nWhich choice most effectively uses data from the table to complete the statement?\n\nA) Group 1 slept the most and scored the highest.\nB) all three groups scored about 79.\nC) Group 3, which averaged 9 hours of sleep, scored 86, while Group 1, which averaged 5 hours, scored 68.\nD) Group 2 slept 9 hours and scored 68.",
+    "answer": "C",
+    "explanation": "Only C correctly reports that students who slept more scored higher."
+   },
+   {
+    "id": "9.4",
+    "text": "Bee Visits per Hour in Two Types of Fields\nField type | Spring | Summer\nWildflower field | 140 | 210\nLawn | 15 | 20\nEcologists concluded that bees strongly prefer wildflower fields, especially in summer, noting that _______\n\nWhich choice most effectively uses data from the table to complete the statement?\n\nA) lawns received more visits than wildflower fields in summer.\nB) wildflower fields received 15 visits per hour in spring.\nC) bee visits to lawns doubled from spring to summer.\nD) wildflower fields received 210 visits per hour in summer, compared with only 20 for lawns.",
+    "answer": "D",
+    "explanation": "D shows bees visiting far more often in the wildflower field, supporting the conclusion."
+   },
+   {
+    "id": "9.5",
+    "text": "Tree Cover and Afternoon Street Temperature on Four Streets\nStreet | Tree cover (%) | Afternoon temperature (°C)\nStreet A | 5 | 38\nStreet B | 20 | 35\nStreet C | 40 | 32\nStreet D | 60 | 29\nUrban scientists concluded that streets with more tree cover tend to be cooler, noting that _______\n\nWhich choice most effectively uses data from the table to complete the statement?\n\nA) Street A had 38% tree cover and a temperature of 5°C.\nB) Street D, with 60% tree cover, was 29°C, while Street A, with 5% tree cover, was 38°C.\nC) Street B was the warmest street.\nD) temperatures were the same on every street.",
+    "answer": "B",
+    "explanation": "B correctly reads the table: more trees, lower street temperature."
+   }
+  ]
+ },
+ {
+  "n": 10,
+  "concept": "Central Ideas and Details: identify the main idea of a text describing a scientist's evidence for a controversial theory.",
+  "original": "Chandra Wickramasinghe, director of the University of Buckingham’s Centre for Astrobiology, is an influential proponent of the controversial theory of panspermia, which suggests that life on Earth originated from microorganisms that were carried to our planet by comets or other celestial bodies. Wickramasinghe has argued for panspermia using several sources of scientific data including the detection of living microorganisms at extremely high altitudes in Earth’s atmosphere and the confirmation of complex organic molecules in interstellar dust and comets.\n\nWhich choice best describes the main idea of the text?\n\nA) Wickramasinghe’s theory of panspermia is far too controversial to be accepted by other astrobiologists.\nB) Wickramasinghe has presented evidence that life on Earth may in fact come from somewhere beyond Earth.\nC) The preponderance of available scientific data strongly supports Wickramasinghe’s theory of panspermia.\nD) If microorganisms can survive at extremely high altitudes in Earth’s atmosphere, then they can also survive space travel.",
+  "generated": [
+   {
+    "id": "10.1",
+    "text": "Historian Birgitta Wallace has long argued that Norse explorers reached North America about 500 years before Columbus. She points to the remains of Viking-style buildings at L'Anse aux Meadows in Canada and to iron nails and a bronze pin found at the site that match Norse designs.\n\nWhich choice best describes the main idea of the text?\n\nA) Wallace's theory is too unusual to be accepted by other historians.\nB) Wallace has presented evidence that Norse explorers reached North America before Columbus.\nC) Columbus was the first European to build structures in North America.\nD) Iron nails were invented in Canada by the Norse.",
+    "answer": "B",
+    "explanation": "The text says the historian has presented evidence that the Vikings reached North America first."
+   },
+   {
+    "id": "10.2",
+    "text": "Researcher Kun Guo has proposed that dogs can recognize human emotions. In his experiments, dogs looked longer at faces whose expressions matched the tone of a voice they heard—happy faces with happy voices, angry faces with angry voices—suggesting that they connect what they see with what they hear.\n\nWhich choice best describes the main idea of the text?\n\nA) Dogs prefer happy faces to angry faces.\nB) Guo has proven that dogs feel the same emotions as humans.\nC) Guo has found evidence that dogs may be able to recognize human emotions.\nD) Dogs cannot tell the difference between human voices.",
+    "answer": "C",
+    "explanation": "The text presents the researcher's evidence that dogs read human faces."
+   },
+   {
+    "id": "10.3",
+    "text": "Biologist Sylvia Medeiros argues that octopuses may experience something like dreaming. She recorded octopuses during sleep and found brief \"active\" periods in which their skin flashed through colors and patterns similar to those they show while awake and hunting.\n\nWhich choice best describes the main idea of the text?\n\nA) Medeiros has reported observations suggesting that octopuses may dream.\nB) Octopuses change color only when they are hunting.\nC) Medeiros believes octopuses never sleep.\nD) Most scientists already agree that all animals dream.",
+    "answer": "A",
+    "explanation": "The main idea is that the scientist offers evidence that octopuses dream."
+   },
+   {
+    "id": "10.4",
+    "text": "Linguist Johanna Nichols holds the controversial view that some languages are much older than scholars usually assume. She supports this claim by comparing grammar patterns that appear in languages spoken on different continents, patterns she believes could have survived for tens of thousands of years.\n\nWhich choice best describes the main idea of the text?\n\nA) All languages share exactly the same grammar.\nB) Nichols's view has been rejected by every linguist.\nC) Grammar patterns can change completely within a few years.\nD) Nichols uses grammar comparisons to support her view that some languages are very old.",
+    "answer": "D",
+    "explanation": "The text describes evidence the linguist uses to support a debated claim."
+   },
+   {
+    "id": "10.5",
+    "text": "Planetary geologist Nathalie Cabrol has argued that Mars was once covered by lakes and rivers. She cites rounded pebbles photographed by rovers—stones that are usually shaped by flowing water—and layers of rock that resemble dried lakebeds on Earth.\n\nWhich choice best describes the main idea of the text?\n\nA) Rovers have found living organisms in Martian lakes.\nB) Cabrol has presented evidence that liquid water once flowed on Mars.\nC) Mars is covered by lakes and rivers today.\nD) Rounded pebbles can form only on Earth.",
+    "answer": "B",
+    "explanation": "The geologist has offered evidence that Mars once had large amounts of water."
+   }
+  ]
+ },
+ {
+  "n": 11,
+  "concept": "Command of Evidence (Textual): choose the finding that would most directly strengthen a proposed explanation.",
+  "original": "C. difficile is a bacterium that causes an inflammation of the colon that can be life-threatening. The metabolic processes by which C. difficile takes advantage of a host’s inflammatory process to increase toxin production are not well understood. Previously, higher levels of sorbitol (a sugar alcohol) were found to be released by the immune system during inflammation from toxin production. Thus, a team of researchers decided to investigate sorbitol metabolism in C. difficile and its effect on toxin production in mice. In the study, mice with C. difficile that ingested sorbitol were found to have lower levels of toxin production than mice that did not ingest sorbitol. One possible explanation is that metabolizing sorbitol prevents C. difficile from producing toxins.\n\nWhich finding, if true, would most directly strengthen the potential explanation?\n\nA) C. difficile lacks the enzyme that metabolizes sorbitol and thus reduces its production of toxins when sorbitol is ingested.\nB) C. difficile metabolizes sorbitol at a faster rate than it does other naturally occurring sugar alcohols.\nC) Low levels of sorbitol reduce inflammation in mice and prevent toxin production.\nD) Mice naturally produce sorbitol in their intestines and do not contract C. difficile.",
+  "generated": [
+   {
+    "id": "11.1",
+    "text": "Loggerhead sea turtles return to the beach where they hatched after years at sea. One possible explanation is that the turtles use Earth's magnetic field to find their way home.\n\nWhich finding, if true, would most directly strengthen the potential explanation?\n\nA) Turtles fitted with small magnets that disrupt their magnetic sense have much more difficulty finding their home beach.\nB) Loggerhead turtles can live for more than 60 years.\nC) Many turtles return to beaches with warm sand.\nD) Turtles swim faster in warm water than in cold water.",
+    "answer": "A",
+    "explanation": "If sea turtles that cannot sense magnetic fields get lost, that directly supports the idea that they navigate by magnetism."
+   },
+   {
+    "id": "11.2",
+    "text": "Mimosa plants fold their leaves when touched. Researchers suspect that a gene called MS1 allows the plant to fold its leaves.\n\nWhich finding, if true, would most directly strengthen the researchers' suspicion?\n\nA) Mimosa plants grow best in bright sunlight.\nB) Mimosa leaves are smaller than the leaves of most other plants.\nC) Mimosa plants in which the MS1 gene has been switched off do not fold their leaves when touched.\nD) Mimosa plants were first described by scientists in the 1700s.",
+    "answer": "C",
+    "explanation": "If plants without the gene cannot close their leaves, the gene likely causes the closing."
+   },
+   {
+    "id": "11.3",
+    "text": "Bats can catch insects in total darkness. One possible explanation is that bats locate insects by listening to echoes of their own calls.\n\nWhich finding, if true, would most directly strengthen the potential explanation?\n\nA) Bats sleep during the day in caves.\nB) Bats whose ears are temporarily plugged catch far fewer insects in the dark.\nC) Some bats eat fruit instead of insects.\nD) Insects are more active on warm nights.",
+    "answer": "B",
+    "explanation": "If bats without access to sound cannot catch insects, they likely rely on echolocation to hunt."
+   },
+   {
+    "id": "11.4",
+    "text": "In one experiment, ants fed sugar water containing caffeine found their way to food more quickly. Scientists proposed that caffeine improves ants' ability to learn routes.\n\nWhich finding, if true, would most directly strengthen the scientists' proposal?\n\nA) Ants prefer sugar water to plain water.\nB) Caffeine is found naturally in some flowers.\nC) Ants fed caffeine sleep less than other ants.\nD) Ants fed caffeine remember the location of food for longer than ants fed plain sugar water.",
+    "answer": "D",
+    "explanation": "If ants given caffeine learn routes faster, caffeine likely improves their learning."
+   },
+   {
+    "id": "11.5",
+    "text": "Young zebra finches sing songs that closely match those of adult birds around them. One possible explanation is that the young birds learn their songs by imitating adults.\n\nWhich finding, if true, would most directly strengthen the potential explanation?\n\nA) Zebra finches raised without ever hearing adult birds sing songs that sound very different from normal finch songs.\nB) Adult zebra finches sing mostly in the morning.\nC) Zebra finches live in large groups in Australia.\nD) Female zebra finches do not sing.",
+    "answer": "A",
+    "explanation": "If birds raised without hearing adults cannot sing the song, they likely learn it from adults."
+   }
+  ]
+ },
+ {
+  "n": 12,
+  "concept": "Inferences: draw a logical conclusion from new evidence that challenges a common belief.",
+  "original": "Scholars generally agree that amputations were dangerous and deadly prior to 10,000 years ago due to a lack of proper surgical tools and techniques. The earliest evidence of a successful limb-removal surgery was a 7,000-year-old skeleton found in France that had an amputation above the elbow. Recently, archeologists uncovered a 31,000-year-old skeleton with an amputated leg in Indonesia. Analysis of the early stone age skeleton shows that the amputation occurred when the man was just a child and lacked any evidence of infection. Thus, _______\n\nWhich choice most logically completes the text?\n\nA) early stone age people must have had doctors who performed these successful amputations.\nB) life as an amputee must have been difficult for early stone age people without access to postoperational care.\nC) there is insufficient evidence to support that most amputations performed prior to 10,000 years ago were deadly.\nD) early stone age people prior to 10,000 years ago may have been more advanced than was previously acknowledged.",
+  "generated": [
+   {
+    "id": "12.1",
+    "text": "Historians long believed that large stone bridges could not be built in the region before the Roman era. Recently, however, archaeologists found a 2,800-year-old stone arch bridge that is still strong enough to support people today. Thus, _______\n\nWhich choice most logically completes the text?\n\nA) all bridges in the region must have been built by the Romans.\nB) the bridge was probably built in the last century.\nC) stone bridges are less durable than wooden ones.\nD) people in the region before the Roman era may have had more advanced building skills than historians thought.",
+    "answer": "D",
+    "explanation": "Evidence of skilled early bridge-building suggests these people were more advanced than believed."
+   },
+   {
+    "id": "12.2",
+    "text": "Many researchers thought that people began treating dogs as companions only about 4,000 years ago. But archaeologists recently found a 9,000-year-old grave in which a dog had been carefully buried beside its owner, along with a carved bone toy. Thus, _______\n\nWhich choice most logically completes the text?\n\nA) dogs were not domesticated until 4,000 years ago.\nB) people may have treated dogs as companions much earlier than many researchers believed.\nC) carved bone toys were common in all ancient graves.\nD) the dog must have belonged to a wealthy family.",
+    "answer": "B",
+    "explanation": "A 9,000-year-old dog burial shows dogs were companions earlier than thought."
+   },
+   {
+    "id": "12.3",
+    "text": "Scientists once assumed that people did not make pottery until they began farming, about 10,000 years ago. However, fragments of cooking pots found in a cave in China have been dated to about 20,000 years ago. Thus, _______\n\nWhich choice most logically completes the text?\n\nA) farming began 20,000 years ago in China.\nB) the fragments are probably not really pottery.\nC) people may have made pottery long before they began farming.\nD) pottery was invented only in China.",
+    "answer": "C",
+    "explanation": "Healthy, working pottery from 20,000 years ago shows pottery existed before farming."
+   },
+   {
+    "id": "12.4",
+    "text": "Botanists once believed that flowering plants first appeared about 80 million years ago. Recently, researchers found a perfectly preserved flower sealed in amber that is about 100 million years old. Thus, _______\n\nWhich choice most logically completes the text?\n\nA) flowering plants may have existed earlier than botanists once believed.\nB) amber can preserve only flowers, not insects.\nC) flowering plants disappeared 100 million years ago.\nD) the flower must be a modern species.",
+    "answer": "A",
+    "explanation": "Flowers sealed in amber 100 million years old suggest flowering plants are older than assumed."
+   },
+   {
+    "id": "12.5",
+    "text": "Scholars generally believed that brain surgery in ancient Peru almost always killed the patient. Yet many 2,000-year-old skulls from the region show holes drilled by surgeons with fully healed edges, meaning the patients lived for years afterward. Thus, _______\n\nWhich choice most logically completes the text?\n\nA) ancient Peruvians never performed surgery.\nB) all patients who had surgery died within days.\nC) the holes were most likely caused by accidents.\nD) ancient Peruvian surgeons may have been more successful than scholars believed.",
+    "answer": "D",
+    "explanation": "Healed skull surgery shows early surgeons were more skilled than thought."
+   }
+  ]
+ },
+ {
+  "n": 13,
+  "concept": "Inferences: complete a text by following the logic of a stated premise about rational choice.",
+  "original": "In game theory, the prisoner’s dilemma is a thought experiment in which two people who are isolated from each other each have the choice to betray the other. An individual who betrays the other person will experience a personal benefit; however, if both players choose to betray each other then they will both experience a worse punishment than if neither betrays the other. Game theorists generally agree that the choice to cooperate (that is, refusing to betray the other person) is irrational, as it defies one’s self-interest; therefore, these game theorists suggest that _______\n\nWhich choice most logically completes the text?\n\nA) it is more rational for one to betray the other participant.\nB) both individuals should cooperate, as their punishment will be reduced.\nC) people always act in their own self-interest, as it is the rational choice.\nD) the thought experiment likely has limited relevance in everyday life.",
+  "generated": [
+   {
+    "id": "13.1",
+    "text": "Economists who study commuting assume that people act rationally by choosing the cheapest way to travel. A monthly bus pass costs $60, while driving costs about $250 a month. Therefore, these economists would predict that _______\n\nWhich choice most logically completes the text?\n\nA) a rational commuter would choose to take the bus.\nB) most commuters will choose to drive.\nC) bus passes will soon cost more than driving.\nD) commuters never think about cost.",
+    "answer": "A",
+    "explanation": "If saving money is the rational choice and the bus is cheaper, economists would say taking the bus is more rational."
+   },
+   {
+    "id": "13.2",
+    "text": "Ecologists using optimal foraging theory assume that animals choose feeding sites where they can eat while facing the least danger. Site A has more food but is often visited by hawks; Site B has slightly less food and no predators. Therefore, these ecologists would predict that _______\n\nWhich choice most logically completes the text?\n\nA) the animals will avoid both sites.\nB) hawks will stop visiting Site A.\nC) the animals will feed mainly at Site B.\nD) the animals will feed only at night.",
+    "answer": "C",
+    "explanation": "If animals always pick the safest food source and site A has predators, they should choose site B."
+   },
+   {
+    "id": "13.3",
+    "text": "Marketing researchers assume that shoppers try to get the most value for their money. A small box of cereal costs $4 for 300 grams, while a large box costs $6 for 600 grams. Therefore, the researchers would expect that _______\n\nWhich choice most logically completes the text?\n\nA) shoppers will buy the small box because it costs less in total.\nB) value-seeking shoppers will tend to buy the large box.\nC) shoppers will stop buying cereal.\nD) the store will raise the price of the small box.",
+    "answer": "B",
+    "explanation": "If shoppers maximize value, they will buy the larger box with the lower price per unit."
+   },
+   {
+    "id": "13.4",
+    "text": "Some game theorists argue that players who fear losing will always choose the option with a guaranteed reward over a risky option with a higher possible reward. In a game, a player may take $50 for certain or flip a coin to win $120 or nothing. These theorists would therefore predict that a player who fears losing will _______\n\nWhich choice most logically completes the text?\n\nA) flip the coin.\nB) refuse both options.\nC) ask for $120 for certain.\nD) take the guaranteed $50.",
+    "answer": "D",
+    "explanation": "If the theory says players choose the safest move, it predicts the player will choose the guaranteed reward."
+   },
+   {
+    "id": "13.5",
+    "text": "Economists assume that companies seek the highest possible profit. A bakery can sell its bread in Town X for a profit of $2 per loaf or in Town Y for a profit of $5 per loaf, with the same number of customers in each. These economists would therefore expect the bakery to _______\n\nWhich choice most logically completes the text?\n\nA) focus on selling its bread in Town Y.\nB) focus on selling its bread in Town X.\nC) stop making bread.\nD) charge the same price in both towns regardless of profit.",
+    "answer": "A",
+    "explanation": "If firms always maximize profit and the second market is more profitable, they should enter it."
+   }
+  ]
+ },
+ {
+  "n": 14,
+  "concept": "Standard English Conventions: choose the correct possessive determiner (its vs. it's/their/they're).",
+  "original": "Karni Mata Temple is a Hindu temple located in the town of Deshnoke in India. The temple is dedicated to Karni Mata and is an important pilgrimage site. Numerous rats, known as kaba and considered holy, live in Karni Mata Temple, earning the temple _______ nickname, “Temple of Rats.”\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) it’s\nB) its\nC) their\nD) they’re",
+  "generated": [
+   {
+    "id": "14.1",
+    "text": "Every spring, thousands of visitors come to see the cherry trees along the river in Hirosaki, Japan. The pink petals that fall into the water give the festival _______ famous nickname, \"the river of flowers.\"\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) its\nB) their\nC) it's\nD) they're",
+    "answer": "A",
+    "explanation": "The festival (singular) owns the name, so the singular possessive \"its\" is correct."
+   },
+   {
+    "id": "14.2",
+    "text": "Emperor penguins huddle together during Antarctic winters. By constantly shifting positions, the penguins share the warmth, and each bird takes a turn in the center of the group, protecting _______ body from the freezing wind.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) they're\nB) its\nC) it's\nD) their",
+    "answer": "D",
+    "explanation": "\"Penguins\" is plural, so the plural possessive \"their\" is needed."
+   },
+   {
+    "id": "14.3",
+    "text": "Lake Malawi is one of the largest lakes in Africa, and _______ home to more than 700 species of cichlid fish, more than any other lake in the world.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) its\nB) they're\nC) it's\nD) their",
+    "answer": "C",
+    "explanation": "\"It's\" means \"it is\" here: \"it is home to more than 400 species.\""
+   },
+   {
+    "id": "14.4",
+    "text": "The Golden Gate Bridge is not actually gold. Engineers chose _______ famous red-orange color, called \"International Orange,\" because it stands out clearly in San Francisco's frequent fog.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) its\nB) they're\nC) their\nD) it's",
+    "answer": "A",
+    "explanation": "The bridge (singular) owns the color, so \"its\" is correct."
+   },
+   {
+    "id": "14.5",
+    "text": "Tardigrades are tiny animals less than a millimeter long, yet _______ able to survive boiling water, extreme cold, and even the vacuum of outer space.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) its\nB) it's\nC) they're\nD) their",
+    "answer": "C",
+    "explanation": "\"They're\" means \"they are\": \"they are able to survive.\""
+   }
+  ]
+ },
+ {
+  "n": 15,
+  "concept": "Standard English Conventions (Boundaries): use a comma after an introductory phrase before the main clause's subject.",
+  "original": "In addition to her research into the effects of hormones, ultraviolet light, and chemotherapy agents on cell _______, Jewel Plummer Cobb served as dean at Connecticut College and Rutgers University and as president of California State University, Fullerton, where she led many projects expanding the school’s facilities.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) division: biologist\nB) division. Biologist\nC) division biologist\nD) division, biologist",
+  "generated": [
+   {
+    "id": "15.1",
+    "text": "After seeing a streetcar driver struggle to clear snow from his window during a trip to New York _______ inventor Mary Anderson designed the first windshield wiper in 1903.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) City: inventor\nB) City. Inventor\nC) City inventor\nD) City, inventor",
+    "answer": "D",
+    "explanation": "An introductory phrase is followed by a comma before the subject \"inventor Mary Anderson.\""
+   },
+   {
+    "id": "15.2",
+    "text": "Besides discovering more than thirty new species of deep-sea fish during her _______ Sylvia Earle led the first team of women aquanauts to live underwater for two weeks.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) career. Oceanographer\nB) career: oceanographer\nC) career, oceanographer\nD) career oceanographer",
+    "answer": "C",
+    "explanation": "The long introductory phrase ends with a comma before the main clause begins."
+   },
+   {
+    "id": "15.3",
+    "text": "Known for experimental dishes such as foams, gels, and \"spherified\" olives that burst in the _______ chef Ferran Adrià changed how many people think about cooking.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) mouth. Chef\nB) mouth chef\nC) mouth: chef\nD) mouth, chef",
+    "answer": "D",
+    "explanation": "A comma separates the introductory prepositional phrase from the subject \"chef Ferran Adrià.\""
+   },
+   {
+    "id": "15.4",
+    "text": "In addition to designing more than 300 buildings across five continents during her _______ architect Zaha Hadid became the first woman to win the Pritzker Prize.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) lifetime: architect\nB) lifetime. Architect\nC) lifetime, architect\nD) lifetime architect",
+    "answer": "C",
+    "explanation": "The introductory phrase ends with a comma; a period or colon would leave a fragment."
+   },
+   {
+    "id": "15.5",
+    "text": "While working at NASA's Jet Propulsion Laboratory on new cooling systems for spacecraft _______ engineer Lonnie Johnson accidentally invented the Super Soaker water gun.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) engines engineer\nB) engines: engineer\nC) engines. Engineer\nD) engines, engineer",
+    "answer": "D",
+    "explanation": "The introductory phrase must be followed by a comma before the subject \"engineer Lonnie Johnson.\""
+   }
+  ]
+ },
+ {
+  "n": 16,
+  "concept": "Standard English Conventions (Boundaries): use a colon to introduce a list after a complete clause.",
+  "original": "Poetra Asantewa is a performer from Ghana who combines three elements to create her _______ lyrics incorporating social issues, vocalization evoking different emotions, and rhythms using soulful elements.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) pieces\nB) pieces,\nC) pieces:\nD) pieces;",
+  "generated": [
+   {
+    "id": "16.1",
+    "text": "Traditional Korean kimchi is made from three main _______ napa cabbage, chili powder, and fermented fish sauce.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) ingredients;\nB) ingredients\nC) ingredients,\nD) ingredients:",
+    "answer": "D",
+    "explanation": "A complete clause (\"...three ingredients\") introduces the list that follows, so a colon is correct."
+   },
+   {
+    "id": "16.2",
+    "text": "Astronauts must master several skills before their first _______ spacewalking, operating the robotic arm, and speaking basic Russian.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) mission\nB) mission:\nC) mission;\nD) mission,",
+    "answer": "B",
+    "explanation": "The colon introduces the list of skills after the complete clause."
+   },
+   {
+    "id": "16.3",
+    "text": "The pentathlon at the ancient Olympic Games tested athletes in five _______ running, jumping, wrestling, and throwing both the discus and the javelin.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) events\nB) events,\nC) events:\nD) events;",
+    "answer": "C",
+    "explanation": "A colon follows an independent clause to introduce a list of the three elements."
+   },
+   {
+    "id": "16.4",
+    "text": "The new city park was designed with two _______ reducing summer heat and giving residents a quiet place to relax.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) goals;\nB) goals:\nC) goals,\nD) goals",
+    "answer": "B",
+    "explanation": "The clause before the blank is complete, and the list explains \"two goals,\" so a colon fits."
+   },
+   {
+    "id": "16.5",
+    "text": "Builder Wang Shu's Ningbo History Museum is covered with recycled _______ old roof tiles, bricks, and stones collected from demolished villages.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) materials,\nB) materials:\nC) materials\nD) materials;",
+    "answer": "B",
+    "explanation": "A colon after the complete clause introduces the list of materials."
+   }
+  ]
+ },
+ {
+  "n": 17,
+  "concept": "Standard English Conventions (Modifiers): place the person being described right after an introductory modifier.",
+  "original": "Compared to other Ukrainian scientists and mathematicians, _______ she has worked with differential equations, partial differential equations, and integrable systems in Dnipro, Cyprus, and Kyiv.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) there is a wide range of fields and Ukrainian cities that Olena Vaneeva has worked in:\nB) many Ukrainian cities and fields have been home to Olena Vaneeva:\nC) the range of fields and Ukrainian cities that Olena Vaneeva has worked in is very wide:\nD) Olena Vaneeva has worked in a wide range of fields and Ukrainian cities:",
+  "generated": [
+   {
+    "id": "17.1",
+    "text": "Compared to other Mexican painters of her time, _______ she painted more than fifty self-portraits during her life.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) many self-portraits were created by Frida Kahlo:\nB) there are many self-portraits that Frida Kahlo created:\nC) the number of self-portraits Frida Kahlo created is very large:\nD) Frida Kahlo created an unusually large number of self-portraits:",
+    "answer": "D",
+    "explanation": "\"Compared to other painters\" must modify Frida Kahlo, so her name must come right after the comma."
+   },
+   {
+    "id": "17.2",
+    "text": "Trained as a chemist at Columbia University, _______ her research showed how cholesterol can block arteries.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) there were important discoveries about heart health by Marie Maynard Daly:\nB) important discoveries about heart health were made by Marie Maynard Daly:\nC) heart health was the subject of Marie Maynard Daly's important discoveries:\nD) Marie Maynard Daly made important discoveries about heart health:",
+    "answer": "D",
+    "explanation": "The modifier \"Trained as a chemist\" describes Marie Maynard Daly, so she must be the subject."
+   },
+   {
+    "id": "17.3",
+    "text": "Unlike most early American aviators, _______ she had to travel to France to earn her pilot's license in 1921.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) Bessie Coleman could not find a flight school in the United States that would accept her:\nB) a pilot's license was not available to Bessie Coleman in the United States:\nC) the United States did not allow Bessie Coleman to train as a pilot:\nD) flight schools in the United States would not accept Bessie Coleman:",
+    "answer": "A",
+    "explanation": "\"Unlike most early aviators\" must modify Bessie Coleman, so she must follow the comma."
+   },
+   {
+    "id": "17.4",
+    "text": "Born in a small village in Kenya, _______ she founded the Green Belt Movement, which has planted more than 50 million trees.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) there was environmental activism throughout Wangari Maathai's life:\nB) the life's work of Wangari Maathai was environmental activism:\nC) Wangari Maathai devoted her life to environmental activism:\nD) environmental activism became the life's work of Wangari Maathai:",
+    "answer": "C",
+    "explanation": "The modifier \"Born in a small village in Kenya\" must describe Wangari Maathai, the subject."
+   },
+   {
+    "id": "17.5",
+    "text": "A self-taught engineer from ancient China, _______ he built a chariot with gears that kept a small figure always pointing south.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) the machines of Ma Jun were very clever:\nB) Ma Jun designed many clever machines:\nC) many clever machines were designed by Ma Jun:\nD) there were many clever machines designed by Ma Jun:",
+    "answer": "B",
+    "explanation": "\"A self-taught engineer\" describes Ma Jun, so his name must come directly after the comma."
+   }
+  ]
+ },
+ {
+  "n": 18,
+  "concept": "Standard English Conventions (Boundaries): no comma before an essential (restrictive) \"that\" clause.",
+  "original": "Astronaut William Anders was a member of the Apollo 8 mission, the first human spaceflight to reach the Moon and orbit it. During the mission, Anders took a photo of Earth rising above the lunar surface, an _______ was later named Earthrise.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) image, that\nB) image\nC) image that\nD) image,",
+  "generated": [
+   {
+    "id": "18.1",
+    "text": "In 1888, Louis Le Prince filmed a two-second scene of people walking in a garden in Leeds, a short _______ is now considered the oldest surviving motion picture.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) clip\nB) clip,\nC) clip that\nD) clip, that",
+    "answer": "C",
+    "explanation": "\"that later became famous\" is essential and begins with \"that,\" so no comma is used."
+   },
+   {
+    "id": "18.2",
+    "text": "Chemist Stephanie Kwolek was trying to create a lightweight material for car tires when she discovered a strong _______ is now used in bulletproof vests: Kevlar.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) fiber, that\nB) fiber,\nC) fiber\nD) fiber that",
+    "answer": "D",
+    "explanation": "A restrictive \"that\" clause follows its noun directly, with no comma."
+   },
+   {
+    "id": "18.3",
+    "text": "In 1847, astronomer Maria Mitchell spotted a faint _______ was later named \"Miss Mitchell's Comet\" in her honor.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) comet\nB) comet, that\nC) comet,\nD) comet that",
+    "answer": "D",
+    "explanation": "\"that she later named...\" identifies which comet, so no comma comes before \"that.\""
+   },
+   {
+    "id": "18.4",
+    "text": "Archaeologists in Egypt uncovered a 4,500-year-old _______ contains the oldest known written records of building the Great Pyramid.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) papyrus, that\nB) papyrus,\nC) papyrus\nD) papyrus that",
+    "answer": "D",
+    "explanation": "The \"that\" clause is essential and needs \"that\" to work; no comma is used."
+   },
+   {
+    "id": "18.5",
+    "text": "Engineer Hedy Lamarr co-invented a radio _______ helped make modern Wi-Fi and Bluetooth possible.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) system that\nB) system\nC) system, that\nD) system,",
+    "answer": "A",
+    "explanation": "No comma before a restrictive \"that\" clause; the clause needs \"that\" as its subject."
+   }
+  ]
+ },
+ {
+  "n": 19,
+  "concept": "Standard English Conventions: use the simple past tense for a completed past event.",
+  "original": "French philosopher Denis Diderot was the chief editor of the Encyclopédie, which was completed by 1772. Motivated by the principles of the Enlightenment, the writers of the Encyclopédie _______ to compile all of the world’s knowledge in a single resource available to the ordinary person.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) attempted\nB) are attempting\nC) will attempt\nD) attempt",
+  "generated": [
+   {
+    "id": "19.1",
+    "text": "Gustave Eiffel's company built the Eiffel Tower for the 1889 World's Fair in Paris. Engineers Maurice Koechlin and Émile Nouguier _______ the tower's basic shape in 1884.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) designed\nB) design\nC) are designing\nD) will design",
+    "answer": "A",
+    "explanation": "The building was completed in 1889, a finished past event, so past tense \"designed\" fits."
+   },
+   {
+    "id": "19.2",
+    "text": "Ferdinand Magellan's expedition set sail from Spain in 1519 with five ships. Only one ship, the Victoria, _______ the first trip around the world when it returned in 1522.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) completes\nB) is completing\nC) completed\nD) will complete",
+    "answer": "C",
+    "explanation": "The voyage ended in 1522, so the simple past \"completed\" is correct."
+   },
+   {
+    "id": "19.3",
+    "text": "On July 20, 1969, the Apollo 11 lunar module landed on the Moon. A few hours later, astronauts Neil Armstrong and Buzz Aldrin _______ on its surface for the first time.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) are walking\nB) walk\nC) walked\nD) will walk",
+    "answer": "C",
+    "explanation": "The text describes events of 1969, so the past tense \"walked\" is needed."
+   },
+   {
+    "id": "19.4",
+    "text": "James Watson and Francis Crick built their famous model of DNA using X-ray images made by Rosalind Franklin. In 1953, they _______ their description of the double helix in the journal Nature.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) will publish\nB) are publishing\nC) publish\nD) published",
+    "answer": "D",
+    "explanation": "\"In 1953\" signals a completed past action, so \"published\" is correct."
+   },
+   {
+    "id": "19.5",
+    "text": "Murasaki Shikibu lived in Japan about a thousand years ago and wrote The Tale of Genji, often called the world's first novel. In her diary, she also _______ detailed observations of life at the royal court.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) recorded\nB) is recording\nC) records\nD) will record",
+    "answer": "A",
+    "explanation": "The surrounding verbs (\"lived,\" \"wrote\") are past tense and the event is finished, so \"recorded\" fits."
+   }
+  ]
+ },
+ {
+  "n": 20,
+  "concept": "Standard English Conventions (Boundaries): join two independent clauses with a semicolon before a conjunctive adverb.",
+  "original": "As one of the most prominent French astrophysicists, Françoise Combes has contributed to research about how galaxies form and _______ she has studied the composition of galaxies and how they interact with each other.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) evolve; additionally,\nB) evolve additionally\nC) evolve, additionally,\nD) evolve, additionally;",
+  "generated": [
+   {
+    "id": "20.1",
+    "text": "Biologist Jane Goodall spent decades studying chimpanzees in Tanzania's Gombe forest and discovered that they make _______ she showed that chimpanzees have distinct personalities.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) tools, moreover,\nB) tools; moreover,\nC) tools, moreover;\nD) tools moreover",
+    "answer": "B",
+    "explanation": "Two complete sentences are joined by a semicolon before \"moreover,\" which is followed by a comma."
+   },
+   {
+    "id": "20.2",
+    "text": "The Atacama Desert in Chile is one of the driest places on Earth, with some areas receiving almost no _______ more than a million people live in the region.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) rain, however;\nB) rain; however,\nC) rain however\nD) rain, however,",
+    "answer": "B",
+    "explanation": "The semicolon separates the two independent clauses; a comma follows \"however.\""
+   },
+   {
+    "id": "20.3",
+    "text": "Honeybees pollinate about one-third of the crops that people _______ the decline of bee populations worries many farmers.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) eat, therefore,\nB) eat, therefore;\nC) eat therefore\nD) eat; therefore,",
+    "answer": "D",
+    "explanation": "A semicolon joins the clauses; \"therefore\" takes a comma after it."
+   },
+   {
+    "id": "20.4",
+    "text": "Some musical instruments are made from unexpected _______ the Paraguayan Landfill Harmonic orchestra plays violins built from old oil cans and forks.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) materials; for example,\nB) materials, for example,\nC) materials for example\nD) materials, for example;",
+    "answer": "A",
+    "explanation": "Two independent clauses need a semicolon before the conjunctive adverb \"for example.\""
+   },
+   {
+    "id": "20.5",
+    "text": "Physicist Chien-Shiung Wu disproved a basic law of physics known as the conservation of _______ she helped develop methods for enriching uranium.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) parity, in addition;\nB) parity in addition\nC) parity; in addition,\nD) parity, in addition,",
+    "answer": "C",
+    "explanation": "Semicolon between the clauses, then \"in addition\" followed by a comma."
+   }
+  ]
+ },
+ {
+  "n": 21,
+  "concept": "Standard English Conventions (Boundaries): use semicolons to separate list items that already contain commas.",
+  "original": "American avant-garde jazz composer and guitarist Mary Halvorson’s musical discography includes Dragon’s Head, an album created with bassist John Hébert and drummer Ches _______ a solo album; and Away with You, which featured pedal steel player Susan Alcorn, cellist Tomeka Reid, and saxophonist Ingrid Laubrock.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) Smith; Meltframe,\nB) Smith; Meltframe\nC) Smith, Meltframe,\nD) Smith, Meltframe:",
+  "generated": [
+   {
+    "id": "21.1",
+    "text": "Musician Esperanza Spalding's albums include Emily's D+Evolution, which was produced with Tony _______ a live recording; and Songwrights Apothecary Lab, which explores music as healing.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) Visconti, Live at the Wiltern,\nB) Visconti; Live at the Wiltern\nC) Visconti; Live at the Wiltern,\nD) Visconti, Live at the Wiltern:",
+    "answer": "C",
+    "explanation": "Because items include internal commas, semicolons separate the items: \"...Vincent; Night Shift, ...\""
+   },
+   {
+    "id": "21.2",
+    "text": "The tour visited three cities in Morocco: Fez, known for its ancient _______ a desert city famous for its red walls; and Chefchaouen, where nearly every building is painted blue.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) medina, Marrakesh:\nB) medina, Marrakesh,\nC) medina; Marrakesh,\nD) medina; Marrakesh",
+    "answer": "C",
+    "explanation": "Semicolons separate items in a complex list; a comma sets off the description \"a desert city.\""
+   },
+   {
+    "id": "21.3",
+    "text": "Author Jhumpa Lahiri's books include Interpreter of Maladies, a story collection that won the Pulitzer _______ a novel; and In Other Words, a memoir written in Italian.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) Prize; The Lowland,\nB) Prize; The Lowland\nC) Prize, The Lowland,\nD) Prize, The Lowland:",
+    "answer": "A",
+    "explanation": "The list items contain commas, so semicolons separate them, and a comma follows \"Rome\" before its description."
+   },
+   {
+    "id": "21.4",
+    "text": "The exhibit honors three scientists: Lise Meitner, who helped explain nuclear _______ a two-time Nobel Prize winner; and Rosalind Franklin, whose images revealed DNA's structure.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) fission; Marie Curie\nB) fission, Marie Curie,\nC) fission, Marie Curie:\nD) fission; Marie Curie,",
+    "answer": "D",
+    "explanation": "Use a semicolon between list items and a comma between \"Curie\" and her description."
+   },
+   {
+    "id": "21.5",
+    "text": "The marathon champion trained in three places: Iten, a high-altitude town in western _______ the capital; and Boulder, Colorado, where she spent each summer.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\n\nA) Kenya, Nairobi:\nB) Kenya; Nairobi\nC) Kenya; Nairobi,\nD) Kenya, Nairobi,",
+    "answer": "C",
+    "explanation": "A semicolon separates the first and second items; a comma separates \"Nairobi\" from its description."
+   }
+  ]
+ },
+ {
+  "n": 22,
+  "concept": "Transitions: choose a transition that shows a result or consequence.",
+  "original": "Mice were studied in an experiment focused on the relationship between room temperature and cancer growth. Cooler room temperatures were found to stimulate fat cells that eradicate the sugar molecules that sustain cancer cells. _______ the cancer cells started to die off in the mice exposed to cooler room temperatures.\n\nWhich choice completes the text with the most logical transition?\n\nA) Consequently,\nB) For example,\nC) However,\nD) In comparison,",
+  "generated": [
+   {
+    "id": "22.1",
+    "text": "In 1912, a dam was built across the Elwha River in Washington State, blocking salmon from reaching their spawning grounds upstream. _______ the river's salmon population fell by more than 90 percent.\n\nWhich choice completes the text with the most logical transition?\n\nA) However,\nB) In comparison,\nC) For example,\nD) Consequently,",
+    "answer": "D",
+    "explanation": "The dam blocked the salmon's route, which caused their numbers to fall: a result."
+   },
+   {
+    "id": "22.2",
+    "text": "By the 1930s, gray wolves had been hunted out of Yellowstone National Park. With no predators to control them, elk herds grew rapidly. _______ the elk ate so many young willow trees that riverbanks began to erode.\n\nWhich choice completes the text with the most logical transition?\n\nA) Similarly,\nB) For instance,\nC) Nevertheless,\nD) As a result,",
+    "answer": "D",
+    "explanation": "Losing the wolves led to too many elk: a consequence."
+   },
+   {
+    "id": "22.3",
+    "text": "Monarch caterpillars feed only on milkweed, a plant that contains bitter toxins. The toxins remain in the butterflies' bodies after they mature. _______ most birds avoid eating monarchs.\n\nWhich choice completes the text with the most logical transition?\n\nA) Meanwhile,\nB) In contrast,\nC) Therefore,\nD) For example,",
+    "answer": "C",
+    "explanation": "The plant's poison is the cause; birds avoiding the butterflies is the result."
+   },
+   {
+    "id": "22.4",
+    "text": "More than a meter of snow fell on the city in a single night, and many roads were buried. _______ schools and offices remained closed for three days.\n\nWhich choice completes the text with the most logical transition?\n\nA) Still,\nB) Similarly,\nC) Consequently,\nD) Specifically,",
+    "answer": "C",
+    "explanation": "The heavy snow caused the closures: a result."
+   },
+   {
+    "id": "22.5",
+    "text": "Farmers in the region began rotating corn with beans, which return nitrogen to the soil. _______ corn harvests in the area increased by nearly a third within five years.\n\nWhich choice completes the text with the most logical transition?\n\nA) In other words,\nB) As a result,\nC) For example,\nD) However,",
+    "answer": "B",
+    "explanation": "Crop rotation restored the soil, which led to higher yields: a result."
+   }
+  ]
+ },
+ {
+  "n": 23,
+  "concept": "Rhetorical Synthesis: use notes to emphasize how a character changes over time.",
+  "original": "While researching a topic, a student has taken the following notes:\nSatyajit Ray was an Indian filmmaker.\nHe is well-known for The Apu Trilogy.\nThe first film in the trilogy, Pather Panchali, is about the childhood of a small Bengali boy named Apu.\nThe second film, Aparajito, depicts Apu in his adolescence and his relationship to both his mother and their home.\nIn Apur Sansar, the third film, adult Apu marries Aparna and has a son, Kajal.\n\nThe student wants to emphasize how Apu changed throughout the trilogy. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) Apu went from being a child in Pather Panchali to an adult with his own family in Apur Sansar.\nB) Satyajit Ray, an Indian filmmaker, made The Apu Trilogy about a boy named Apu.\nC) The three films of The Apu Trilogy are Pather Panchali, Aparajito, and Apur Sansar.\nD) The character Apu grew up in Bengal and eventually marries and has a son.",
+  "generated": [
+   {
+    "id": "23.1",
+    "text": "While researching a topic, a student has taken the following notes:\n- Ursula K. Le Guin wrote the Earthsea series.\n- In A Wizard of Earthsea, Ged is a proud, reckless young student of magic.\n- In The Farthest Shore, Ged has become Archmage, the wisest wizard in Earthsea.\n- The series was published between 1968 and 2001.\n\nThe student wants to emphasize how Ged changed across the series. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) Ged goes from a proud, reckless student in A Wizard of Earthsea to the wise Archmage in The Farthest Shore.\nB) Ursula K. Le Guin wrote the Earthsea series between 1968 and 2001.\nC) A Wizard of Earthsea and The Farthest Shore are both part of the Earthsea series.\nD) Ged is a character created by Ursula K. Le Guin.",
+    "answer": "A",
+    "explanation": "Choice A traces Ged's change from a reckless boy to a wise archmage."
+   },
+   {
+    "id": "23.2",
+    "text": "While researching a topic, a student has taken the following notes:\n- The Ballad of Mulan is a Chinese folk poem.\n- At the start, Mulan is a young woman weaving at home.\n- She takes her father's place in the army.\n- By the end, she is a celebrated general offered a high government post.\n\nThe student wants to emphasize how Mulan changes in the poem. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) The Ballad of Mulan is a Chinese folk poem about a young woman.\nB) Mulan takes her father's place in the army.\nC) Mulan begins the poem weaving at home and ends it as a celebrated general offered a high government post.\nD) The Ballad of Mulan describes army life in ancient China.",
+    "answer": "C",
+    "explanation": "Choice C shows Mulan's change from a farm girl to an honored general."
+   },
+   {
+    "id": "23.3",
+    "text": "While researching a topic, a student has taken the following notes:\n- Charles Dickens published A Christmas Carol in 1843.\n- At the beginning, Ebenezer Scrooge is a greedy, cold-hearted businessman.\n- He is visited by three spirits.\n- By the end, Scrooge is generous and kind to his employee's family.\n\nThe student wants to emphasize how Scrooge changes during the story. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) A Christmas Carol was published by Charles Dickens in 1843.\nB) Scrooge transforms from a greedy, cold-hearted businessman into a generous, kind man.\nC) In A Christmas Carol, Scrooge is visited by three spirits.\nD) Charles Dickens wrote about a businessman named Ebenezer Scrooge.",
+    "answer": "B",
+    "explanation": "Choice B shows Scrooge's transformation from greedy to generous."
+   },
+   {
+    "id": "23.4",
+    "text": "While researching a topic, a student has taken the following notes:\n- Great Expectations is a novel by Charles Dickens.\n- At the start, Pip is a poor orphan living with his sister in the marshes.\n- He receives money from a mysterious benefactor.\n- Later, Pip lives as a gentleman in London.\n\nThe student wants to emphasize how Pip's life changes. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) Great Expectations is a novel by Charles Dickens.\nB) Pip receives money from a mysterious benefactor.\nC) Pip lives with his sister in the marshes.\nD) Pip goes from being a poor orphan in the marshes to living as a gentleman in London.",
+    "answer": "D",
+    "explanation": "Choice D shows Pip's change from a poor orphan to a gentleman in London."
+   },
+   {
+    "id": "23.5",
+    "text": "While researching a topic, a student has taken the following notes:\n- J.K. Rowling wrote a series of seven novels about Harry Potter.\n- In the first book, Harry is a lonely boy who sleeps in a cupboard under the stairs.\n- In the last book, Harry leads the fight against Lord Voldemort.\n- The first book was published in 1997.\n\nThe student wants to emphasize how Harry changes over the series. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) Harry changes from a lonely boy sleeping in a cupboard in the first book to the leader of the fight against Voldemort in the last.\nB) J.K. Rowling's first Harry Potter book was published in 1997.\nC) The Harry Potter series includes seven novels.\nD) Harry Potter is a character created by J.K. Rowling.",
+    "answer": "A",
+    "explanation": "Choice A traces Harry's change from neglected boy to confident leader."
+   }
+  ]
+ },
+ {
+  "n": 24,
+  "concept": "Rhetorical Synthesis: use notes to emphasize a group's abilities.",
+  "original": "While researching a topic, a student has taken the following notes:\nHaenyeo are female divers on Jeju Island, a Korean province.\nHaenyeo earn money by harvesting mollusks and shellfish, such as abalone, sea urchins, and oysters.\nThey dive without the use of oxygen masks and tanks.\nThey can hold their breath for over three minutes.\nThey can dive up to 30 meters below the surface of the water.\nJellyfish, sharks, and poor weather are different dangers they face while diving.\n\nThe student wants to emphasize the abilities of haenyeo. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) Haenyeo are female divers on Jeju Island who harvest shellfish.\nB) While diving, haenyeo contend with jellyfish, sharks, and poor weather.\nC) Haenyeo earn money by selling abalone, sea urchins, and oysters, which they harvest by diving without oxygen masks and tanks.\nD) Haenyeo can dive 30 meters below the surface and hold their breath for over three minutes.",
+  "generated": [
+   {
+    "id": "24.1",
+    "text": "While researching a topic, a student has taken the following notes:\n- Sherpas are an ethnic group from the mountains of Nepal.\n- Many work as guides on Mount Everest.\n- Some can climb above 8,000 meters without extra oxygen.\n- They can carry loads of 30 kilograms at high altitude.\n- Avalanches are a major danger they face.\n\nThe student wants to emphasize the abilities of Sherpas. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) Sherpas are an ethnic group from Nepal who often work on Mount Everest.\nB) Avalanches are a major danger for Sherpa guides.\nC) Some Sherpas can climb above 8,000 meters without extra oxygen and carry 30-kilogram loads at high altitude.\nD) Many Sherpas work as guides in the mountains of Nepal.",
+    "answer": "C",
+    "explanation": "Choice C lists what the Sherpas can do: climb without extra oxygen and carry heavy loads at altitude."
+   },
+   {
+    "id": "24.2",
+    "text": "While researching a topic, a student has taken the following notes:\n- The Bajau are a sea-dwelling people of Southeast Asia.\n- They fish using wooden spears.\n- Some can dive to depths of 70 meters.\n- They can stay underwater for up to five minutes.\n- Many live in houses built on stilts over the water.\n\nThe student wants to emphasize the abilities of the Bajau. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) The Bajau, a people of Southeast Asia, live in houses on stilts.\nB) Some Bajau divers can reach depths of 70 meters and stay underwater for up to five minutes.\nC) The Bajau fish using wooden spears.\nD) Many Bajau live in Southeast Asia.",
+    "answer": "B",
+    "explanation": "Choice B highlights what the Bajau can do underwater."
+   },
+   {
+    "id": "24.3",
+    "text": "While researching a topic, a student has taken the following notes:\n- The Rarámuri (Tarahumara) live in the Copper Canyon region of Mexico.\n- They traditionally wear thin sandals called huaraches.\n- Some can run more than 150 kilometers without stopping.\n- They run on steep, rocky mountain trails.\n- Drought is a challenge for their farms.\n\nThe student wants to emphasize the abilities of Rarámuri runners. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) The Rarámuri live in the Copper Canyon region of Mexico.\nB) Drought makes farming difficult for the Rarámuri.\nC) Rarámuri runners traditionally wear thin sandals called huaraches.\nD) Some Rarámuri runners can cover more than 150 kilometers on steep, rocky trails without stopping.",
+    "answer": "D",
+    "explanation": "Choice D states the impressive skills of the Tarahumara runners."
+   },
+   {
+    "id": "24.4",
+    "text": "While researching a topic, a student has taken the following notes:\n- Kazakh eagle hunters live in western Mongolia.\n- They train golden eagles from young chicks.\n- Their eagles can catch foxes on command.\n- Hunters ride horses in temperatures as low as −40°C.\n- The tradition is at least 1,000 years old.\n\nThe student wants to emphasize the abilities of Kazakh eagle hunters. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) Kazakh eagle hunters can train golden eagles from chicks to catch foxes on command, riding in temperatures as low as −40°C.\nB) Kazakh eagle hunters live in western Mongolia.\nC) Eagle hunting is a tradition at least 1,000 years old.\nD) Golden eagles are used by hunters in Mongolia.",
+    "answer": "A",
+    "explanation": "Choice A emphasizes the eagle hunters' skill in training and hunting with eagles."
+   },
+   {
+    "id": "24.5",
+    "text": "While researching a topic, a student has taken the following notes:\n- Polynesian navigators sailed across the Pacific Ocean.\n- They used canoes made of wood and coconut fiber.\n- They could find islands thousands of kilometers away without instruments.\n- They read stars, ocean swells, and bird flight paths to navigate.\n- Storms were a constant danger.\n\nThe student wants to emphasize the abilities of Polynesian navigators. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) Polynesian navigators sailed canoes made of wood and coconut fiber.\nB) Storms were a constant danger for Polynesian navigators.\nC) Reading stars, swells, and bird flight paths, Polynesian navigators could find islands thousands of kilometers away without instruments.\nD) Polynesian navigators sailed across the Pacific Ocean.",
+    "answer": "C",
+    "explanation": "Choice C focuses on the navigators' remarkable skills."
+   }
+  ]
+ },
+ {
+  "n": 25,
+  "concept": "Rhetorical Synthesis: present a building's history to an audience already familiar with its current owner.",
+  "original": "While researching a topic, a student has taken the following notes:\nHeliconian Hall was built in 1876 as the Olivet Congregational Church.\nHeliconian Hall is in the Yorkville neighborhood of Toronto.\nThe Heliconian Club purchased and renamed Heliconian Hall in 1923.\nThe Heliconian Club’s membership includes women professional artists.\nHeliconian Hall hosts music, art, dance, drama, and literature events.\n\nThe student wants to describe the history of Heliconian Hall to an audience familiar with the Heliconian Club. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) Heliconian Hall was purchased in 1923 by the Heliconian Club, an organization which includes women professional artists.\nB) Heliconian Hall, located in the Yorkville neighborhood of Toronto, hosts music, art, dance, drama, and literature events.\nC) Heliconian Hall, formerly known as the Olivet Congregational Church, is in the Yorkville neighborhood of Toronto.\nD) Heliconian Hall, built as the Olivet Congregational Church in 1876, was purchased and renamed by the Heliconian Club in 1923.",
+  "generated": [
+   {
+    "id": "25.1",
+    "text": "While researching a topic, a student has taken the following notes:\n- The Carnegie Room was built in 1902 as the Merchant's Bank.\n- It is in the old town of Pittsburgh.\n- The City Poetry Society bought and renamed it in 1965.\n- The society's members include local poets.\n- The building hosts readings and writing workshops.\n\nThe student wants to describe the history of the Carnegie Room to an audience familiar with the City Poetry Society. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) The Carnegie Room was bought in 1965 by the City Poetry Society, a group that includes local poets.\nB) The Carnegie Room, in Pittsburgh's old town, hosts readings and writing workshops.\nC) The Carnegie Room, formerly the Merchant's Bank, is in Pittsburgh's old town.\nD) The Carnegie Room, built as the Merchant's Bank in 1902, was bought and renamed by the City Poetry Society in 1965.",
+    "answer": "D",
+    "explanation": "The audience already knows the society, so D focuses on the building's history (built as a bank, bought and renamed)."
+   },
+   {
+    "id": "25.2",
+    "text": "While researching a topic, a student has taken the following notes:\n- Harbor Hall was built in 1890 as a fish market.\n- It is located near the port in Halifax.\n- The Halifax Youth Orchestra bought the building in 1978.\n- The orchestra trains young musicians aged 10–18.\n- Harbor Hall hosts concerts every weekend.\n\nThe student wants to describe the history of Harbor Hall to an audience familiar with the Halifax Youth Orchestra. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) The Halifax Youth Orchestra, which trains musicians aged 10–18, owns Harbor Hall.\nB) Built in 1890 as a fish market, Harbor Hall was purchased by the Halifax Youth Orchestra in 1978.\nC) Harbor Hall, near the port in Halifax, hosts concerts every weekend.\nD) Harbor Hall is located near the port in Halifax.",
+    "answer": "B",
+    "explanation": "The audience knows the orchestra, so B gives the hall's history without explaining the orchestra."
+   },
+   {
+    "id": "25.3",
+    "text": "While researching a topic, a student has taken the following notes:\n- The Maple Room was built in 1911 as a train station.\n- It is in the village of Elora, Ontario.\n- The Elora Chess Club bought and renamed it in 1984.\n- The club's members include several national champions.\n- The building hosts weekly tournaments.\n\nThe student wants to describe the history of the Maple Room to an audience familiar with the Elora Chess Club. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) The Elora Chess Club, whose members include national champions, hosts weekly tournaments.\nB) The Maple Room is in the village of Elora, Ontario.\nC) Originally built as a train station in 1911, the Maple Room was bought and renamed by the Elora Chess Club in 1984.\nD) The Maple Room hosts weekly chess tournaments in Elora.",
+    "answer": "C",
+    "explanation": "C gives the building's history (built as a train station, bought by the club) without explaining the club."
+   },
+   {
+    "id": "25.4",
+    "text": "While researching a topic, a student has taken the following notes:\n- The Lantern House was built in 1925 as a silent-movie cinema.\n- It stands on King Street in Charleston.\n- The Lowcountry Players theater company bought it in 1991.\n- The company performs plays by Southern writers.\n- The Lantern House seats 300 people.\n\nThe student wants to describe the history of the Lantern House to an audience familiar with the Lowcountry Players. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) The Lantern House, built as a silent-movie cinema in 1925, was bought by the Lowcountry Players in 1991.\nB) The Lowcountry Players, a theater company, performs plays by Southern writers.\nC) The Lantern House seats 300 people on King Street in Charleston.\nD) The Lowcountry Players perform at a theater on King Street.",
+    "answer": "A",
+    "explanation": "A focuses on the building's history for readers who already know the theater company."
+   },
+   {
+    "id": "25.5",
+    "text": "While researching a topic, a student has taken the following notes:\n- Willow Cottage was built in 1870 as a schoolhouse.\n- It is in Stow-on-the-Wold, England.\n- The Cotswold Garden Club bought and restored it in 2002.\n- The club's members grow rare roses.\n- Willow Cottage holds flower shows each June.\n\nThe student wants to describe the history of Willow Cottage to an audience familiar with the Cotswold Garden Club. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) The Cotswold Garden Club, whose members grow rare roses, holds flower shows each June.\nB) Willow Cottage is in Stow-on-the-Wold, England.\nC) Willow Cottage holds flower shows each June.\nD) Willow Cottage, built as a schoolhouse in 1870, was bought and restored by the Cotswold Garden Club in 2002.",
+    "answer": "D",
+    "explanation": "D gives the history of the building and assumes the audience knows the garden club."
+   }
+  ]
+ },
+ {
+  "n": 26,
+  "concept": "Rhetorical Synthesis: introduce a person and a specific work to a new audience.",
+  "original": "While researching a topic, a student has taken the following notes:\nEvan Adams is an Indigenous Canadian actor.\nHe is well-known for his role as Thomas in the film Smoke Signals.\nThe film was released in 1998.\nIt is about two friends, Thomas and Victor, and their complicated relationships with Victor’s father, Arnold.\nAdams is also known for his role as Seymour in The Business of Fancydancing (2002).\n\nThe student wants to introduce Evan Adams and his role in Smoke Signals to a new audience. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) Evan Adams, an Indigenous Canadian actor, has starred as Thomas in Smoke Signals and Seymour in The Business of Fancydancing.\nB) Smoke Signals, released in 1998, explores the complicated relationships of friends Thomas and Victor.\nC) Evan Adams starred in the film Smoke Signals before he starred in The Business of Fancydancing.\nD) Indigenous Canadian actor Evan Adams starred as Thomas in the 1998 film Smoke Signals, which depicts two friends, Thomas and Victor, and their complicated relationships with Victor’s father, Arnold.",
+  "generated": [
+   {
+    "id": "26.1",
+    "text": "While researching a topic, a student has taken the following notes:\n- Maya Lin is a Chinese American architect and artist.\n- She designed the Vietnam Veterans Memorial in Washington, D.C.\n- She won the design competition in 1981 while still a college student.\n- The memorial is a black granite wall listing more than 58,000 names.\n- She also designed the Civil Rights Memorial in Alabama.\n\nThe student wants to introduce Maya Lin and her design of the Vietnam Veterans Memorial to a new audience. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) Maya Lin designed both the Vietnam Veterans Memorial and the Civil Rights Memorial.\nB) Chinese American architect Maya Lin designed the Vietnam Veterans Memorial, a black granite wall listing more than 58,000 names, while she was still a college student.\nC) The Vietnam Veterans Memorial lists more than 58,000 names.\nD) Maya Lin won a design competition in 1981.",
+    "answer": "B",
+    "explanation": "For a new audience, B identifies who Lin is and explains her role in the memorial."
+   },
+   {
+    "id": "26.2",
+    "text": "While researching a topic, a student has taken the following notes:\n- Ke Huy Quan is a Vietnamese American actor.\n- As a child, he played Short Round in Indiana Jones and the Temple of Doom (1984).\n- He later played Waymond Wang in Everything Everywhere All at Once (2022).\n- The film follows a family that travels across different universes.\n- He won an Academy Award for the role.\n\nThe student wants to introduce Ke Huy Quan and his role in Everything Everywhere All at Once to a new audience. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) Ke Huy Quan played Short Round and Waymond Wang.\nB) Everything Everywhere All at Once follows a family that travels across universes.\nC) Ke Huy Quan acted in a film in 1984 and another in 2022.\nD) Vietnamese American actor Ke Huy Quan won an Academy Award for playing Waymond Wang in Everything Everywhere All at Once (2022), a film about a family that travels across different universes.",
+    "answer": "D",
+    "explanation": "D introduces who Ho is and explains her role in the film in a way a new audience would understand."
+   },
+   {
+    "id": "26.3",
+    "text": "While researching a topic, a student has taken the following notes:\n- Chinua Achebe was a Nigerian novelist.\n- He wrote Things Fall Apart (1958).\n- The novel tells the story of Okonkwo, a leader in an Igbo village.\n- It shows how British colonization changed village life.\n- Achebe also wrote poetry and essays.\n\nThe student wants to introduce Chinua Achebe and Things Fall Apart to a new audience. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) Nigerian novelist Chinua Achebe wrote Things Fall Apart (1958), which follows Okonkwo, an Igbo village leader, as British colonization changes village life.\nB) Things Fall Apart was published in 1958.\nC) Chinua Achebe wrote novels, poetry, and essays.\nD) Okonkwo is a leader in an Igbo village.",
+    "answer": "A",
+    "explanation": "A introduces the author and the novel with enough context for new readers."
+   },
+   {
+    "id": "26.4",
+    "text": "While researching a topic, a student has taken the following notes:\n- Yo-Yo Ma is an American cellist.\n- He founded the Silkroad Ensemble in 1998.\n- The ensemble brings together musicians from more than 20 countries.\n- It performs music inspired by cultures along the ancient Silk Road.\n- Ma has won 19 Grammy Awards.\n\nThe student wants to introduce Yo-Yo Ma and his role in the Silkroad Ensemble to a new audience. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) Yo-Yo Ma has won 19 Grammy Awards.\nB) The Silkroad Ensemble includes musicians from more than 20 countries.\nC) American cellist Yo-Yo Ma founded the Silkroad Ensemble in 1998, bringing together musicians from more than 20 countries to play music inspired by the ancient Silk Road.\nD) Yo-Yo Ma founded an ensemble in 1998.",
+    "answer": "C",
+    "explanation": "C explains who Ma is and her role in the album, with context for a new audience."
+   },
+   {
+    "id": "26.5",
+    "text": "While researching a topic, a student has taken the following notes:\n- Hayao Miyazaki is a Japanese animator and director.\n- He co-founded Studio Ghibli in 1985.\n- He directed Spirited Away (2001).\n- The film tells of a girl who must work in a spirit world bathhouse to save her parents.\n- It won the Academy Award for Best Animated Feature.\n\nThe student wants to introduce Hayao Miyazaki and his film Spirited Away to a new audience. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) Hayao Miyazaki co-founded Studio Ghibli in 1985.\nB) Japanese director Hayao Miyazaki made Spirited Away (2001), an award-winning animated film about a girl who works in a spirit world bathhouse to save her parents.\nC) Spirited Away won the Academy Award for Best Animated Feature.\nD) Hayao Miyazaki directed a film in 2001.",
+    "answer": "B",
+    "explanation": "B introduces the director and the film clearly for an unfamiliar audience."
+   }
+  ]
+ },
+ {
+  "n": 27,
+  "concept": "Rhetorical Synthesis: highlight a similarity between two works that used the same real-world model.",
+  "original": "While researching a topic, a student has taken the following notes:\nMarie Byrd Land is an unclaimed region of Antarctica.\nConstruction of Byrd Station in Marie Byrd Land was begun in 1956 by the US.\nByrd Station was abandoned in 1972.\nJohn Carpenter used Byrd Station as a model for an Antarctic station in crisis for his movie The Thing.\nJames Rollins used Byrd Station as a model for an Antarctic station in crisis for his novel The 6th Extinction.\n\nThe student wants to highlight a similarity between fictional depictions of a real-world location. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) Both John Carpenter’s movie The Thing and James Rollins’s novel The 6th Extinction used Byrd Station as a model for an Antarctic station in crisis.\nB) In 1956, the US began construction of Byrd Station in Marie Byrd Land, an unclaimed region of Antarctica.\nC) Abandoned in 1972, Byrd Station was the model for an Antarctic station in crisis in John Carpenter’s The Thing.\nD) John Carpenter used Byrd Station as a model for an Antarctic station in crisis for his movie The Thing; however, James Rollins used Byrd Station as a model for an Antarctic station in crisis for his novel The 6th Extinction.",
+  "generated": [
+   {
+    "id": "27.1",
+    "text": "While researching a topic, a student has taken the following notes:\n- Neuschwanstein Castle is in Bavaria, Germany.\n- It was built in the 1800s for King Ludwig II.\n- Walt Disney used it as a model for Sleeping Beauty Castle at Disneyland.\n- The animated film Frozen also drew on castles in this style.\n- The video game Castle Quest used Neuschwanstein as a model for its royal palace.\n\nThe student wants to highlight a similarity between Disneyland's Sleeping Beauty Castle and the palace in Castle Quest. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) Both Disneyland's Sleeping Beauty Castle and the royal palace in Castle Quest were modeled on Neuschwanstein Castle.\nB) Neuschwanstein Castle was built in the 1800s for King Ludwig II.\nC) Neuschwanstein Castle is located in Bavaria, Germany.\nD) Walt Disney used Neuschwanstein as a model; however, the makers of Castle Quest used it too.",
+    "answer": "A",
+    "explanation": "A states what both works have in common: both were inspired by the same castle."
+   },
+   {
+    "id": "27.2",
+    "text": "While researching a topic, a student has taken the following notes:\n- Monroeville is a small town in Alabama.\n- Harper Lee grew up there.\n- To Kill a Mockingbird is set in Maycomb, a fictional town based on Monroeville.\n- Truman Capote also grew up in Monroeville.\n- Capote's novel Other Voices, Other Rooms includes a town based on Monroeville.\n\nThe student wants to highlight a similarity between To Kill a Mockingbird and Other Voices, Other Rooms. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) Harper Lee and Truman Capote grew up in Alabama.\nB) Monroeville is a small town in Alabama.\nC) Both To Kill a Mockingbird and Other Voices, Other Rooms feature fictional towns based on Monroeville, Alabama.\nD) To Kill a Mockingbird is set in Maycomb; however, Other Voices, Other Rooms includes a town based on Monroeville.",
+    "answer": "C",
+    "explanation": "C directly states the shared feature: both novels are set in the same real town."
+   },
+   {
+    "id": "27.3",
+    "text": "While researching a topic, a student has taken the following notes:\n- Skellig Michael is a rocky island off the coast of Ireland.\n- Monks built stone huts there more than 1,000 years ago.\n- Star Wars: The Force Awakens filmed scenes on the island.\n- Star Wars: The Last Jedi also filmed scenes there.\n- The island is a UNESCO World Heritage Site.\n\nThe student wants to highlight a similarity between The Force Awakens and The Last Jedi. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) Skellig Michael is a UNESCO World Heritage Site off the coast of Ireland.\nB) Both The Force Awakens and The Last Jedi filmed scenes on Skellig Michael, a rocky island off the coast of Ireland.\nC) Monks built stone huts on Skellig Michael more than 1,000 years ago.\nD) The Force Awakens filmed on Skellig Michael; in contrast, The Last Jedi also filmed there.",
+    "answer": "B",
+    "explanation": "B uses \"both\" to highlight that the two films used the same island as a model."
+   },
+   {
+    "id": "27.4",
+    "text": "While researching a topic, a student has taken the following notes:\n- The Titanic was a British passenger ship that sank in 1912.\n- More than 1,500 people died.\n- James Cameron's film Titanic (1997) recreated the ship in detail.\n- Clive Cussler's novel Raise the Titanic! (1976) imagines the ship being lifted from the ocean floor.\n- The wreck was found in 1985.\n\nThe student wants to highlight a similarity between Cameron's film and Cussler's novel. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) The Titanic sank in 1912, and more than 1,500 people died.\nB) The wreck of the Titanic was found in 1985.\nC) James Cameron's Titanic was released in 1997.\nD) Both James Cameron's film Titanic and Clive Cussler's novel Raise the Titanic! are based on the real ship that sank in 1912.",
+    "answer": "D",
+    "explanation": "D clearly states what the two works share: the same real ship as a model."
+   },
+   {
+    "id": "27.5",
+    "text": "While researching a topic, a student has taken the following notes:\n- Christ Church is a college of Oxford University.\n- Its dining hall was built in the 1500s.\n- The Harry Potter films used the hall as a model for Hogwarts' Great Hall.\n- The video game Spellbound Academy also used the hall as a model for its school dining room.\n- Christ Church has more than 600 students.\n\nThe student wants to highlight a similarity between depictions of fictional schools in two works. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n\nA) Both the Harry Potter films and the video game Spellbound Academy used Christ Church's dining hall as a model for a school dining hall.\nB) Christ Church's dining hall was built in the 1500s.\nC) Christ Church is a college of Oxford University with more than 600 students.\nD) The Harry Potter films used Christ Church's dining hall as a model; however, Spellbound Academy used it as a model too.",
+    "answer": "A",
+    "explanation": "A uses \"both\" to show the shared model for the two fictional schools."
+   }
+  ]
+ }
+]

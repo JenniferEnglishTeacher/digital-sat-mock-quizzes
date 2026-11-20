@@ -1,0 +1,172 @@
+{
+"Carry": {
+"pos": "v.",
+"en": "to move something from one place to another",
+"zh": "搬運；攜帶",
+"w": "carry"
+},
+"Carry away": {
+"pos": "phr.",
+"en": "to take something to another place",
+"zh": "帶走",
+"w": "carry away"
+},
+"Distribute": {
+"pos": "v.",
+"en": "to give out to many people",
+"zh": "分發；分配",
+"w": "distribute"
+},
+"Emphasize": {
+"pos": "v.",
+"en": "to make something more noticeable or important",
+"zh": "強調；突顯",
+"w": "emphasize"
+},
+"Encourage": {
+"pos": "v.",
+"en": "to give support or confidence",
+"zh": "鼓勵",
+"w": "encourage"
+},
+"Introduce": {
+"pos": "v.",
+"en": "to bring in something new",
+"zh": "引進；介紹",
+"w": "introduce"
+},
+"Publish": {
+"pos": "v.",
+"en": "to make something available to the public",
+"zh": "出版；發布",
+"w": "publish"
+},
+"Release": {
+"pos": "v.",
+"en": "to make a new product available",
+"zh": "推出；發行",
+"w": "release"
+},
+"Remove": {
+"pos": "v.",
+"en": "to take away",
+"zh": "移除",
+"w": "remove"
+},
+"Reveal": {
+"pos": "v.",
+"en": "to show something that was hidden",
+"zh": "揭示；顯露",
+"w": "reveal"
+},
+"Transport": {
+"pos": "v.",
+"en": "to carry from one place to another",
+"zh": "運送",
+"w": "transport"
+},
+"agenda": {
+"pos": "n.",
+"en": "a list of things to be discussed at a meeting",
+"zh": "議程"
+},
+"collaborated on": {
+"pos": "phr.",
+"en": "to work together on something",
+"zh": "在……上合作",
+"w": "collaborate on"
+},
+"confidence": {
+"pos": "n.",
+"en": "a feeling of being sure of yourself",
+"zh": "信心；自信"
+},
+"devastation": {
+"pos": "n.",
+"en": "great damage or destruction",
+"zh": "嚴重破壞；浩劫"
+},
+"dismiss": {
+"pos": "v.",
+"en": "to reject an idea as not worth considering",
+"zh": "駁斥；不予理會"
+},
+"disproportionately": {
+"pos": "adv.",
+"en": "to a much greater degree than others",
+"zh": "不成比例地；過度地"
+},
+"distraction": {
+"pos": "n.",
+"en": "something that takes your attention away",
+"zh": "使人分心的事物"
+},
+"essentially": {
+"pos": "adv.",
+"en": "basically; in the most important ways",
+"zh": "本質上；基本上"
+},
+"exclusively": {
+"pos": "adv.",
+"en": "only; not including anything else",
+"zh": "唯一地；專門地"
+},
+"illustrate": {
+"pos": "v.",
+"en": "to explain or show with pictures or examples",
+"zh": "說明；以圖解釋"
+},
+"initially": {
+"pos": "adv.",
+"en": "at first; at the beginning",
+"zh": "起初；最初"
+},
+"intention": {
+"pos": "n.",
+"en": "something you plan to do",
+"zh": "意圖；打算"
+},
+"invested with": {
+"pos": "phr.",
+"en": "to give official power or authority to",
+"zh": "授予（權力）",
+"w": "invest with"
+},
+"learned from": {
+"pos": "phr.",
+"en": "to gain knowledge or skill by studying something",
+"zh": "向……學習",
+"w": "learn from"
+},
+"plotted against": {
+"pos": "phr.",
+"en": "to secretly plan to harm someone",
+"zh": "密謀反對",
+"w": "plot against"
+},
+"prolongation": {
+"pos": "n.",
+"en": "the act of making something last longer",
+"zh": "延長"
+},
+"promote": {
+"pos": "v.",
+"en": "to encourage or support something",
+"zh": "推廣；促進"
+},
+"technique": {
+"pos": "n.",
+"en": "a particular way of doing something",
+"zh": "技巧；方法"
+},
+"transmission": {
+"pos": "n.",
+"en": "the act of passing something from one to another",
+"zh": "傳遞；傳播"
+},
+"trivialize": {
+"pos": "v.",
+"en": "to make something seem less important than it is",
+"zh": "輕視；使顯得微不足道"
+}
+}

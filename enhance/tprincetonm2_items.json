@@ -1,0 +1,1793 @@
+{
+ "pref": {
+  "1": "",
+  "2": "",
+  "3": "",
+  "4": "",
+  "5": ""
+ },
+ "items": {
+  "o1": {
+   "body": "During World War II, hundreds of scientists, including many prominent physicists such as Robert Oppenheimer, _______ the Manhattan Project, pooling their efforts and expertise in order to develop the first bombs that successfully exploited the tremendous power of nuclear energy.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "collaborated on",
+    "B": "invested with",
+    "C": "plotted against",
+    "D": "learned from"
+   },
+   "filler": null
+  },
+  "1.1": {
+   "body": "Engineers from fifteen countries _______ the International Space Station, sharing designs and building separate modules that were later connected in orbit.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "collaborated on",
+    "B": "invested with",
+    "C": "plotted against",
+    "D": "learned from"
+   },
+   "filler": "1"
+  },
+  "1.2": {
+   "body": "As a young painter, Vincent van Gogh copied dozens of works by Jean-François Millet, carefully studying how the older artist painted farmers in the fields. Van Gogh clearly _______ Millet's paintings, and similar scenes appear throughout his later work.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "collaborated on",
+    "B": "invested with",
+    "C": "plotted against",
+    "D": "learned from"
+   },
+   "filler": "2"
+  },
+  "1.3": {
+   "body": "Historians believe that several Roman senators secretly _______ Julius Caesar for months, meeting in private homes to plan the attack that took place on March 15, 44 BCE.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "collaborated on",
+    "B": "invested with",
+    "C": "plotted against",
+    "D": "learned from"
+   },
+   "filler": "3"
+  },
+  "1.4": {
+   "body": "When she became the country's first female chief justice, Beverley McLachlin was _______ the authority to lead Canada's highest court and shape its decisions for nearly two decades.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "collaborated on",
+    "B": "invested with",
+    "C": "plotted against",
+    "D": "learned from"
+   },
+   "filler": "4"
+  },
+  "1.5": {
+   "body": "Authors Neil Gaiman and Terry Pratchett _______ the novel Good Omens, mailing floppy disks back and forth and calling each other almost every day to plan the story.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "collaborated on",
+    "B": "invested with",
+    "C": "plotted against",
+    "D": "learned from"
+   },
+   "filler": "5"
+  },
+  "o2": {
+   "body": "Advising farmers on how to prevent the disruption of soil due to plowing, experts in agriculture have recommended the method of no-till farming. This _______ allows for soil to remain settled while seeds are planted, unlike traditional practices in which the soil is disturbed in order for new crops to be grown, thus making sowing easier to manage. Through no-till farming, agriculturalists are able to grow new batches with very little labor or equipment required.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "intention",
+    "B": "agenda",
+    "C": "distraction",
+    "D": "technique"
+   },
+   "filler": null
+  },
+  "2.1": {
+   "body": "Maple syrup producers use a careful _______ to collect sap: they drill a small hole in the tree, insert a spout, and let the sap drip slowly into a bucket without harming the tree.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "intention",
+    "B": "agenda",
+    "C": "distraction",
+    "D": "technique"
+   },
+   "filler": "1"
+  },
+  "2.2": {
+   "body": "The company announced its _______ to replace all of its delivery trucks with electric vehicles by 2030, though it has not yet said how it will pay for the change.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "intention",
+    "B": "agenda",
+    "C": "distraction",
+    "D": "technique"
+   },
+   "filler": "2"
+  },
+  "2.3": {
+   "body": "The first item on the city council's _______ for Tuesday's meeting is the proposal to build a new public library; budget questions will be discussed afterward.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "intention",
+    "B": "agenda",
+    "C": "distraction",
+    "D": "technique"
+   },
+   "filler": "3"
+  },
+  "2.4": {
+   "body": "Researchers found that a phone simply sitting on a desk can be a _______: students whose phones were in view scored lower on memory tests than students whose phones were in another room.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "intention",
+    "B": "agenda",
+    "C": "distraction",
+    "D": "technique"
+   },
+   "filler": "4"
+  },
+  "2.5": {
+   "body": "Japanese swordsmiths developed a _______ of folding and hammering steel many times, which removed impurities and made their blades both strong and flexible.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "intention",
+    "B": "agenda",
+    "C": "distraction",
+    "D": "technique"
+   },
+   "filler": "5"
+  },
+  "o3": {
+   "body": "Ethologists and beekeepers use the phrase “waggle dance” to describe the movement a bee makes in order to communicate with other bees in the colony about the location of resources. This silent _______ of information among the bees allows them to pass on knowledge of how close or far away a source is and what direction it is in. The source being broadcasted can be a site for possible nesting or an opportunity for sustenance.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "transmission",
+    "B": "confidence",
+    "C": "prolongation",
+    "D": "devastation"
+   },
+   "filler": null
+  },
+  "3.1": {
+   "body": "Humpback whales sing complex songs that can travel hundreds of kilometers underwater. Scientists believe this long-distance _______ of sound helps whales locate one another across the open ocean.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "transmission",
+    "B": "confidence",
+    "C": "prolongation",
+    "D": "devastation"
+   },
+   "filler": "1"
+  },
+  "3.2": {
+   "body": "After winning her first three competitions, the young pianist performed with new _______, playing the most difficult passages without hesitation.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "transmission",
+    "B": "confidence",
+    "C": "prolongation",
+    "D": "devastation"
+   },
+   "filler": "2"
+  },
+  "3.3": {
+   "body": "Warmer autumns in Canada have led to the _______ of the growing season, allowing some farmers to harvest their crops up to two weeks later than they did in the 1980s.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "transmission",
+    "B": "confidence",
+    "C": "prolongation",
+    "D": "devastation"
+   },
+   "filler": "3"
+  },
+  "3.4": {
+   "body": "When Hurricane Maria struck Puerto Rico in 2017, the _______ was enormous: the storm destroyed thousands of homes and left most of the island without electricity for months.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "transmission",
+    "B": "confidence",
+    "C": "prolongation",
+    "D": "devastation"
+   },
+   "filler": "4"
+  },
+  "3.5": {
+   "body": "In many Indigenous communities, elders tell traditional stories to children around the fire. This oral _______ of knowledge has preserved history and values for hundreds of years.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "transmission",
+    "B": "confidence",
+    "C": "prolongation",
+    "D": "devastation"
+   },
+   "filler": "5"
+  },
+  "o4": {
+   "body": "Chronic hepatitis B (CHB) can _______ affect Asian Americans and Pacific Islanders (AAPIs), who are not affected by most other major hepatitis strains. While everyone should be screened for hepatitis viruses, AAPIs are strongly encouraged to get tested and treated for chronic hepatitis B.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "disproportionately",
+    "B": "exclusively",
+    "C": "essentially",
+    "D": "initially"
+   },
+   "filler": null
+  },
+  "4.1": {
+   "body": "Rising food prices _______ affect low-income families, who spend a much larger share of their budgets on groceries than wealthier families do.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "disproportionately",
+    "B": "exclusively",
+    "C": "essentially",
+    "D": "initially"
+   },
+   "filler": "1"
+  },
+  "4.2": {
+   "body": "The kākāpō, a large flightless parrot, now lives _______ on a few small islands off the coast of New Zealand; it is found nowhere else in the world.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "disproportionately",
+    "B": "exclusively",
+    "C": "essentially",
+    "D": "initially"
+   },
+   "filler": "2"
+  },
+  "4.3": {
+   "body": "The internet was _______ designed to let a small group of military researchers share data; only decades later did it become a tool used by billions of people.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "disproportionately",
+    "B": "exclusively",
+    "C": "essentially",
+    "D": "initially"
+   },
+   "filler": "3"
+  },
+  "4.4": {
+   "body": "Although they are sold under different brand names, the two medicines are _______ the same: both contain the same active ingredient in the same amount.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "disproportionately",
+    "B": "exclusively",
+    "C": "essentially",
+    "D": "initially"
+   },
+   "filler": "4"
+  },
+  "4.5": {
+   "body": "Extreme heat waves _______ harm elderly people, who make up only about 15 percent of the population but account for more than half of heat-related hospital visits.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "disproportionately",
+    "B": "exclusively",
+    "C": "essentially",
+    "D": "initially"
+   },
+   "filler": "5"
+  },
+  "o5": {
+   "body": "There are countless stories of people whose hair turns white overnight from fright in a condition called canities subita, also known as Marie Antoinette syndrome. Scientists _______ this as historical fiction and explain that visible hair is dead material that can be changed by undergoing a chemical drying process, but not by experiencing a great shock.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "trivialize",
+    "B": "illustrate",
+    "C": "dismiss",
+    "D": "promote"
+   },
+   "filler": null
+  },
+  "5.1": {
+   "body": "Many people believe that goldfish have only a three-second memory, but researchers _______ this idea as a myth, pointing to experiments in which goldfish remembered feeding signals for months.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "trivialize",
+    "B": "illustrate",
+    "C": "dismiss",
+    "D": "promote"
+   },
+   "filler": "1"
+  },
+  "5.2": {
+   "body": "To help students understand how blood moves through the body, the textbook uses colorful diagrams to _______ each stage of the heart's pumping cycle.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "trivialize",
+    "B": "illustrate",
+    "C": "dismiss",
+    "D": "promote"
+   },
+   "filler": "2"
+  },
+  "5.3": {
+   "body": "The city launched a summer campaign to _______ reading among children, offering free books and prizes to students who read at least ten books.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "trivialize",
+    "B": "illustrate",
+    "C": "dismiss",
+    "D": "promote"
+   },
+   "filler": "3"
+  },
+  "5.4": {
+   "body": "Doctors warn that people should not _______ sleep problems by treating them as a minor annoyance; long-term sleep loss is linked to heart disease and memory problems.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "trivialize",
+    "B": "illustrate",
+    "C": "dismiss",
+    "D": "promote"
+   },
+   "filler": "4"
+  },
+  "5.5": {
+   "body": "A popular story claims that Marie Antoinette said \"Let them eat cake,\" but most historians _______ the tale as fiction, noting that the phrase appeared in print before she ever arrived in France.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "trivialize",
+    "B": "illustrate",
+    "C": "dismiss",
+    "D": "promote"
+   },
+   "filler": "5"
+  },
+  "o6": {
+   "body": "The following text is adapted from Honoré de Balzac’s 1829 novel The Chouans. Marie, an aristocrat, is tidying a room and speaking to Francine, her maid.\nShe began to arrange the silk and muslin curtains which draped the window, making them intercept the light and produce in the room a voluptuous chiaroscuro.\n“Francine,” she said, “take away those knick-knacks on the mantelpiece; leave only the clock and the two Dresden vases. I’ll fill those vases myself with the flowers Corentin brought me. Take out the chairs, I want only this sofa and a fauteuil. Then sweep the carpet, so as to bring out the colors, and put wax candles in the sconces and on the mantel.”",
+   "stem": "As used in the text, what does the phrase “bring out” most nearly mean?",
+   "opts": {
+    "A": "Distribute",
+    "B": "Transport",
+    "C": "Introduce",
+    "D": "Emphasize"
+   },
+   "filler": null
+  },
+  "6.1": {
+   "body": "The following text is adapted from a short story.\nThe gallery owner moved the lamp closer to the painting. \"There,\" she said. \"This light will bring out the gold in the sunset and the deep blue of the sea.\"",
+   "stem": "As used in the text, what does the phrase \"bring out\" most nearly mean?",
+   "opts": {
+    "A": "Distribute",
+    "B": "Transport",
+    "C": "Introduce",
+    "D": "Emphasize"
+   },
+   "filler": "1"
+  },
+  "6.2": {
+   "body": "The following text is adapted from a novel.\nAt exactly eight o'clock, the cook rang the bell. \"Bring out the soup first,\" she told the young waiter, \"and carry the plates carefully—the bowls are very full.\"",
+   "stem": "As used in the text, what does the phrase \"bring out\" most nearly mean?",
+   "opts": {
+    "A": "Emphasize",
+    "B": "Transport",
+    "C": "Reveal",
+    "D": "Encourage"
+   },
+   "filler": "2"
+  },
+  "6.3": {
+   "body": "The following text is adapted from a memoir.\nMr. Okafor saw that Daniel was shy but loved to draw. He asked Daniel to design the class poster, hoping the project would bring out the quiet boy's hidden talent.",
+   "stem": "As used in the text, what does the phrase \"bring out\" most nearly mean?",
+   "opts": {
+    "A": "Carry away",
+    "B": "Publish",
+    "C": "Reveal",
+    "D": "Remove"
+   },
+   "filler": "3"
+  },
+  "6.4": {
+   "body": "The following text is adapted from a news story.\nThe small company plans to bring out a new version of its solar-powered lamp next spring, with a brighter bulb and a battery that lasts twice as long.",
+   "stem": "As used in the text, what does the phrase \"bring out\" most nearly mean?",
+   "opts": {
+    "A": "Release",
+    "B": "Emphasize",
+    "C": "Carry",
+    "D": "Reveal"
+   },
+   "filler": "4"
+  },
+  "6.5": {
+   "body": "The following text is adapted from a cookbook.\n\"Add a pinch of salt to the caramel,\" the chef advised. \"It may seem strange, but the salt will bring out the sweetness of the sugar and make the flavor richer.\"",
+   "stem": "As used in the text, what does the phrase \"bring out\" most nearly mean?",
+   "opts": {
+    "A": "Remove",
+    "B": "Transport",
+    "C": "Publish",
+    "D": "Emphasize"
+   },
+   "filler": "5"
+  },
+  "o7": {
+   "body": "The following text is adapted from Jane Austen’s 1811 novel Sense and Sensibility. Elinor Dashwood is in her cottage speaking with her Uncle Edward and her younger sister Marianne.\n“I have frequently detected myself in such kind of mistakes,” said Elinor, “in a total misapprehension of character in some point or other: fancying people so much more gay or grave, or ingenious or stupid than they really are, and I can hardly tell why or in what the deception originated. Sometimes one is guided by what they say of themselves, and very frequently by what other people say of them, without giving oneself time to deliberate and judge.”",
+   "stem": "Which choice best describes the overall structure of the text?",
+   "opts": {
+    "A": "The speaker describes how someone can be deceived by the impressions of others and then promises to be more careful in the future.",
+    "B": "The speaker relates her misgivings of the character of another individual and then rationalizes her mistaken perception.",
+    "C": "The speaker considers the duplicity of human nature and then issues a warning about the misconceptions of personal opinion.",
+    "D": "The speaker describes a type of error and then reveals the sources of information that lead to such errors."
+   },
+   "filler": null
+  },
+  "7.1": {
+   "body": "The following text is adapted from a novel.\n\"I often misjudge how long a task will take,\" said Clara. \"I imagine I can finish a letter in an hour, and it takes the whole afternoon. I think the trouble comes from remembering only my best days, and from listening to friends who always seem to work faster than I do.\"",
+   "stem": "Which choice best describes the overall structure of the text?",
+   "opts": {
+    "A": "The speaker describes a talent and then explains how she developed it.",
+    "B": "The speaker criticizes her friends and then apologizes to them.",
+    "C": "The speaker recalls a happy day and then compares it to an unhappy one.",
+    "D": "The speaker describes a type of error and then identifies what causes it."
+   },
+   "filler": "1"
+  },
+  "7.2": {
+   "body": "The following text is adapted from a short story.\nThe storm arrived just after noon. The sky turned green, rain fell sideways, and the old oak in the yard lost two of its largest branches. By evening, Mara had given up on her journey to the city and decided to wait another week.",
+   "stem": "Which choice best describes the overall structure of the text?",
+   "opts": {
+    "A": "It describes a natural event and then reveals how the event affected a character's plans.",
+    "B": "It presents a character's wish and then explains why it came true.",
+    "C": "It compares two storms and then explains which was worse.",
+    "D": "It describes a city and then explains why a character dislikes it."
+   },
+   "filler": "2"
+  },
+  "7.3": {
+   "body": "The following text is adapted from an essay.\nI have always believed that small kindnesses matter most. My neighbor once shoveled my sidewalk without being asked. A stranger once paid for my bus fare when I had forgotten my wallet. Such moments stayed with me far longer than any grand gesture.",
+   "stem": "Which choice best describes the overall structure of the text?",
+   "opts": {
+    "A": "It tells a story and then questions whether it really happened.",
+    "B": "It describes a problem and then proposes a solution.",
+    "C": "It states a belief and then gives examples that support it.",
+    "D": "It presents two opinions and then rejects both."
+   },
+   "filler": "3"
+  },
+  "7.4": {
+   "body": "The following text is adapted from a play.\n\"I have been unfair to you, Thomas,\" said his sister. \"I laughed at your plans without even listening to them. From now on, I will hear you out before I judge.\"",
+   "stem": "Which choice best describes the overall structure of the text?",
+   "opts": {
+    "A": "The speaker describes her brother's plans in detail and then praises them.",
+    "B": "The speaker admits a fault and then promises to behave differently.",
+    "C": "The speaker asks a question and then answers it herself.",
+    "D": "The speaker recalls a childhood memory and then explains its meaning."
+   },
+   "filler": "4"
+  },
+  "7.5": {
+   "body": "The following text is adapted from a novel.\nWhen I first met Mr. Harlow, I thought him cold and proud; he barely nodded when we were introduced. Only months later did I learn that he had been grieving the loss of his brother that very week.",
+   "stem": "Which choice best describes the overall structure of the text?",
+   "opts": {
+    "A": "It describes a friendship and then explains why it ended.",
+    "B": "It praises a character and then criticizes him.",
+    "C": "It presents a mystery and then leaves it unsolved.",
+    "D": "It describes a first impression and then reveals information showing it was mistaken."
+   },
+   "filler": "5"
+  },
+  "o8": {
+   "body": "In order to combat the effects of human life on the planet’s climate, many environmental and governmental establishments lay the foundation for forests in localities that previously did not have woodland areas, also known as afforestation. To begin the operation, potential sites are first surveyed in order to select regions with the best factors in terms of aspects such as vegetation, amount of human activity, weather, and soil quality. Once a site has been selected, the land must then be developed for planting. After the land has been prepared, trees can be planted with different methods of seeding, depending on the site and soil present.",
+   "stem": "Which choice best describes the overall structure of the text?",
+   "opts": {
+    "A": "It presents a solution to a widespread issue, then elaborates on why the issue should be solved.",
+    "B": "It defines a strategy, then lists the reasons why the strategy is useful.",
+    "C": "It examines an effective practice, then argues that the practice has negative consequences.",
+    "D": "It introduces a process, then explains the steps taken in executing that process."
+   },
+   "filler": null
+  },
+  "8.1": {
+   "body": "Traditional Japanese washi paper is made through a careful process. First, workers strip the inner bark from mulberry shrubs and soak it in water. Next, they boil and beat the fibers until they become soft. Finally, the pulp is spread on screens and left to dry in the sun.",
+   "stem": "Which choice best describes the overall structure of the text?",
+   "opts": {
+    "A": "It presents a problem and then offers a solution.",
+    "B": "It compares two types of paper and then chooses the better one.",
+    "C": "It describes a tradition and then argues that it should end.",
+    "D": "It introduces a process and then explains the steps involved."
+   },
+   "filler": "1"
+  },
+  "8.2": {
+   "body": "Rising ocean temperatures are causing coral reefs to lose the algae that give them color and food, a process called bleaching. To fight this, some scientists are breeding \"super corals\" that can survive in warmer water and planting them on damaged reefs.",
+   "stem": "Which choice best describes the overall structure of the text?",
+   "opts": {
+    "A": "It explains a problem and then describes an effort to address it.",
+    "B": "It describes a process and then lists its steps.",
+    "C": "It presents a theory and then disproves it.",
+    "D": "It compares two reefs and then explains their differences."
+   },
+   "filler": "2"
+  },
+  "8.3": {
+   "body": "A palindrome is a word or phrase that reads the same forward and backward. Simple examples include \"level\" and \"radar,\" while longer ones include the famous sentence \"A man, a plan, a canal: Panama.\"",
+   "stem": "Which choice best describes the overall structure of the text?",
+   "opts": {
+    "A": "It tells the history of a word and then explains its spelling.",
+    "B": "It defines a term and then provides examples of it.",
+    "C": "It presents a rule and then lists exceptions.",
+    "D": "It describes a problem and then offers a solution."
+   },
+   "filler": "3"
+  },
+  "8.4": {
+   "body": "Many people believe that bulls are angered by the color red. In fact, bulls are partly color-blind and cannot see red clearly. Experiments show that they charge at a moving cloth of any color; it is the movement, not the color, that provokes them.",
+   "stem": "Which choice best describes the overall structure of the text?",
+   "opts": {
+    "A": "It lists the steps of a process.",
+    "B": "It compares two animals and then explains their similarities.",
+    "C": "It presents a common belief and then gives evidence that it is false.",
+    "D": "It defines a scientific term and then gives examples."
+   },
+   "filler": "4"
+  },
+  "8.5": {
+   "body": "Turning cacao beans into chocolate takes several stages. Farmers first ferment the beans for about a week to develop flavor. The beans are then dried, roasted, and cracked open. Finally, the inner nibs are ground into a paste and mixed with sugar.",
+   "stem": "Which choice best describes the overall structure of the text?",
+   "opts": {
+    "A": "It explains why chocolate is popular and then lists its health benefits.",
+    "B": "It compares two kinds of chocolate and then recommends one.",
+    "C": "It describes a problem in chocolate production and then offers a solution.",
+    "D": "It introduces a process and then explains the steps taken to complete it."
+   },
+   "filler": "5"
+  },
+  "o9": {
+   "body": "Text 1\nA recent series of psychological studies that included subjects from different parts of the world looked at the effects that nostalgia, the feeling and experience of thinking about one’s own past, has on psychological well-being. The results of the studies demonstrated a relationship between nostalgia and authenticity, one’s sense of being aligned with one’s true self. A greater sense of authenticity was found to correlate with greater measurements of all aspects of psychological well-being.\nText 2\nWhile there has been some demonstration that nostalgia is associated with mental health benefits, it is important to remember that there are different types of nostalgia and that some can be highly destructive. A recent study performed by psychologists David B. Newman, Arthur A. Stone, and Norbert Schwarz found that conscious acts of extreme nostalgia have positive effects, while smaller and momentary, more unconscious nostalgic experiences can result in negative mental health effects, such as neuroticism.",
+   "stem": "Based on the texts, what would Newman, Stone, and Schwarz (Text 2) say about the results of the studies discussed in Text 1?",
+   "opts": {
+    "A": "They are completely consistent with the results of other studies on the subject.",
+    "B": "They are from studies that fail to differentiate between different types of nostalgia and so provide an incomplete picture of nostalgia’s impact on mental health.",
+    "C": "They provide empirical evidence for a hypothesis long untested but assumed to be true.",
+    "D": "They suggest a possible new direction for future research but provide no definitive resolutions."
+   },
+   "filler": null
+  },
+  "9.1": {
+   "body": "Text 1\nA recent set of studies found that teenagers who spend more time on screens tend to report lower happiness. The researchers concluded that screen time harms young people's well-being.\nText 2\nNot all screen time is the same. A study by psychologists Amy Orben and Andrew Przybylski found that video calls with friends and creative activities, such as making music, were linked to better mood, while endless scrolling through social media was linked to worse mood.",
+   "stem": "Based on the texts, what would Orben and Przybylski (Text 2) most likely say about the studies discussed in Text 1?",
+   "opts": {
+    "A": "They confirm that all screen time is harmful.",
+    "B": "They fail to distinguish between different kinds of screen time and so give an incomplete picture.",
+    "C": "They prove that screens improve happiness.",
+    "D": "They are identical to the studies in Text 2."
+   },
+   "filler": "1"
+  },
+  "9.2": {
+   "body": "Text 1\nSeveral nutrition studies in the 1980s found that people who ate more fat were more likely to develop heart disease. Based on these results, many experts advised everyone to eat less fat.\nText 2\nResearcher Walter Willett has shown that the type of fat matters. Fats from olive oil, nuts, and fish appear to protect the heart, while trans fats found in some processed foods greatly increase risk.",
+   "stem": "Based on the texts, how would Willett (Text 2) most likely respond to the studies discussed in Text 1?",
+   "opts": {
+    "A": "By agreeing that people should avoid all types of fat",
+    "B": "By arguing that heart disease has no connection to diet",
+    "C": "By suggesting that the studies overlooked important differences between types of fat",
+    "D": "By claiming that the studies used too many participants"
+   },
+   "filler": "2"
+  },
+  "9.3": {
+   "body": "Text 1\nA review of several studies found that students who did more homework earned higher test scores. The reviewers concluded that all students benefit from more homework.\nText 2\nEducation researcher Harris Cooper found that the link between homework and achievement is strong for high school students but almost nonexistent for elementary school students.",
+   "stem": "Based on the texts, how would Cooper (Text 2) most likely respond to the conclusion in Text 1?",
+   "opts": {
+    "A": "By noting that the benefit of homework depends on students' age",
+    "B": "By agreeing that every student benefits equally from homework",
+    "C": "By arguing that homework lowers test scores for all students",
+    "D": "By suggesting that the studies in Text 1 measured sleep instead of homework"
+   },
+   "filler": "3"
+  },
+  "9.4": {
+   "body": "Text 1\nMany studies have linked stress to poor health, including heart disease and weakened immunity. Based on this research, health campaigns often urge people to avoid stress whenever possible.\nText 2\nPsychologist Kelly McGonigal argues that stress is not always harmful. Short-term stress, such as the nervousness before a race, can improve focus and performance, while long-lasting stress with no relief is what damages health.",
+   "stem": "Based on the texts, how would McGonigal (Text 2) most likely respond to the advice in Text 1?",
+   "opts": {
+    "A": "By agreeing that all stress should be avoided",
+    "B": "By claiming that stress has no effect on health",
+    "C": "By arguing that only physical stress matters",
+    "D": "By pointing out that the advice ignores differences between short-term and long-term stress"
+   },
+   "filler": "4"
+  },
+  "9.5": {
+   "body": "Text 1\nStudies of bilingual children have found that they perform better on tests of attention than children who speak one language. Researchers concluded that learning a second language improves attention.\nText 2\nLinguist Ellen Bialystok notes that the benefits appear mainly in children who use both languages every day. Children who learned a second language but rarely use it show little advantage.",
+   "stem": "Based on the texts, how would Bialystok (Text 2) most likely respond to the conclusion in Text 1?",
+   "opts": {
+    "A": "By arguing that bilingual children have worse attention than other children",
+    "B": "By noting that the conclusion overlooks how often children actually use both languages",
+    "C": "By agreeing that any exposure to a second language improves attention",
+    "D": "By claiming that attention cannot be measured"
+   },
+   "filler": "5"
+  },
+  "o10": {
+   "body": "Percentage of Participants Who Selected the High-Added-Sugar Fruit Drink, by Front-of-Package Condition (table recreated because the original graph is unavailable)\nPackaging condition | Selected high-added-sugar drink (%)\nClaim and imagery (control) | 45\nNo claim | 40\nNo imagery | 43\nNo claim or imagery | 37\nPercentage of juice disclosed | 44\nWarning | 30\nAdded sugar in teaspoons | 35\nThe packaging of many fruit drinks contains health-related claims and imagery that can sometimes be misleading to parents who purchase such drinks for their children. To assess the impact of the front of packaging on consumers’ purchasing decisions, nutrition researchers Aviva A. Musicus, Christina A. Roberto, and Alyssa J. Moran conducted a study wherein participants were shown fruit drinks with high amounts of sugar added with seven different conditions of packaging: with claim and imagery (control), no claim, no imagery, no claim or imagery, disclosure of percentage of juice, a warning, and disclosure of amount of added sugar in teaspoons.\nAt the end of the study, the researchers concluded that the presence of warnings and absence of claims and imagery may reduce likelihood of purchase, whereas disclosure of percentage of juice may have very little impact.",
+   "stem": "Which choice most effectively uses data from the graph to support the researchers’ conclusion?",
+   "opts": {
+    "A": "The percentage of participants who selected the high-added sugar fruit drink was highest when a warning was placed on the front of the packaging.",
+    "B": "The percentage of participants who selected the high-added sugar fruit drink when the percentage of juice was disclosed on the front of the packaging was comparable to the percentage who selected the drink in the control group.",
+    "C": "The absence of the claim had the same impact as did the absence of imagery from the front of the packaging.",
+    "D": "When the front of packaging disclosed the amount of added sugar in teaspoons, participants were more likely to select a low-added sugar fruit drink than a high-added sugar fruit drink."
+   },
+   "filler": null
+  },
+  "10.1": {
+   "body": "Percentage of Shoppers Choosing a Sugary Cereal Under Four Label Conditions\nLabel condition | Shoppers choosing the cereal (%)\nNo label (control) | 48\nCalorie count label | 46\nWarning label | 29\nCartoon mascot removed | 37\nResearchers concluded that warning labels and removing cartoon mascots may reduce purchases, whereas calorie labels may have very little effect.",
+   "stem": "Which choice most effectively uses data from the table to support the researchers' conclusion?",
+   "opts": {
+    "A": "The percentage of shoppers choosing the cereal was highest when a warning label was shown.",
+    "B": "The percentage of shoppers choosing the cereal with a calorie count label (46%) was close to the percentage in the control condition (48%).",
+    "C": "Removing the cartoon mascot had the same effect as adding a warning label.",
+    "D": "More shoppers chose the cereal with a warning label than with no label."
+   },
+   "filler": "1"
+  },
+  "10.2": {
+   "body": "Average Afternoon Surface Temperature of Two Playgrounds (°C)\nMonth | Shaded playground | Unshaded playground\nJune | 31 | 47\nJuly | 33 | 51\nAugust | 32 | 49\nCity planners hypothesized that adding shade structures keeps playground surfaces cooler.",
+   "stem": "Which choice most effectively uses data from the table to support the planners' hypothesis?",
+   "opts": {
+    "A": "In July, the shaded playground averaged 33°C while the unshaded playground averaged 51°C.",
+    "B": "The unshaded playground was coolest in June.",
+    "C": "Both playgrounds were warmest in July.",
+    "D": "The shaded playground was 47°C in June."
+   },
+   "filler": "2"
+  },
+  "10.3": {
+   "body": "Average Reading Scores Before and After a New Reading Program\nSchool | Before program | After program\nNorth School | 62 | 78\nSouth School | 58 | 75\nEast School | 65 | 80\nResearchers concluded that the new reading program raised students' reading scores.",
+   "stem": "Which choice most effectively uses data from the table to support the researchers' conclusion?",
+   "opts": {
+    "A": "East School had the highest score before the program.",
+    "B": "South School had the lowest score both before and after the program.",
+    "C": "At all three schools, scores rose after the program, such as from 58 to 75 at South School.",
+    "D": "North School and East School had similar scores before the program."
+   },
+   "filler": "3"
+  },
+  "10.4": {
+   "body": "Average Commute Time Before and After a New Bridge Opened (minutes)\nRoute | Before bridge | After bridge\nRoute 1 | 52 | 31\nRoute 2 | 47 | 29\nRoute 3 | 40 | 38\nTransportation officials concluded that the new bridge greatly shortened commutes on Routes 1 and 2 but had little effect on Route 3.",
+   "stem": "Which choice most effectively uses data from the table to support the officials' conclusion?",
+   "opts": {
+    "A": "Route 3 had the shortest commute before the bridge opened.",
+    "B": "Route 1 had the longest commute after the bridge opened.",
+    "C": "Commute times on all three routes increased after the bridge opened.",
+    "D": "Commutes fell from 52 to 31 minutes on Route 1 and from 47 to 29 minutes on Route 2, but only from 40 to 38 minutes on Route 3."
+   },
+   "filler": "4"
+  },
+  "10.5": {
+   "body": "Average Number of Math Problems Solved in 20 Minutes\nCondition | Grade 7 | Grade 8\nSilence | 18 | 21\nBackground music | 17 | 21\nResearchers concluded that background music had little effect on how many problems students solved.",
+   "stem": "Which choice most effectively uses data from the table to support the researchers' conclusion?",
+   "opts": {
+    "A": "Grade 7 students solved 18 problems in silence and 17 with background music, and Grade 8 students solved 21 in both conditions.",
+    "B": "Grade 8 students solved more problems than Grade 7 students.",
+    "C": "Grade 7 students solved the fewest problems with background music.",
+    "D": "No student solved more than 21 problems."
+   },
+   "filler": "5"
+  },
+  "o11": {
+   "body": "“The Emerald Eyes” is an 1861 short story by Gustavo Adolfo Bécquer, originally written in Spanish. In the story, the protagonist, Fernando, is continually drawn to a Poplar fountain in an attempt to learn the identity of a mysterious woman with emerald eyes. Fernando’s friend Iñigo is worried and tries to warn him to stay away from the fountain when he says, _______",
+   "stem": "Which quotation from a translation of the “The Emerald Eyes” most effectively illustrates the claim?",
+   "opts": {
+    "A": "“Do you not see that [the stag] is going toward the fountain of the Poplars, and if he lives to reach it we must give him up for lost?”",
+    "B": "“I exposed myself to death under his horse’s hoofs to hold him back.”",
+    "C": "“You do not go to the mountains now preceded by the clamorous pack of hounds, nor does the blare of your horns awake the echoes.”",
+    "D": "“I conjure you by that which you love most on earth not to return to the fountain of the Poplars.”"
+   },
+   "filler": null
+  },
+  "11.1": {
+   "body": "In Louisa May Alcott's novel Little Women (1868), Meg worries that her sister Jo is working too hard at her writing and tries to warn her when she says, _______",
+   "stem": "Which quotation from Little Women most effectively illustrates the claim?",
+   "opts": {
+    "A": "\"Jo, your stories are getting better every week.\"",
+    "B": "\"I wish I could write half as well as you.\"",
+    "C": "\"The publisher will surely want your next story.\"",
+    "D": "\"Please stop before you make yourself ill, Jo; no story is worth your health.\""
+   },
+   "filler": "1"
+  },
+  "11.2": {
+   "body": "In a folktale, a young woodcutter wants to enter the Dark Forest to find a magic flower. His friend Ilse is afraid for him and tries to warn him when she says, _______",
+   "stem": "Which quotation from the folktale most effectively illustrates the claim?",
+   "opts": {
+    "A": "\"The flower is said to glow like the moon.\"",
+    "B": "\"Promise me you will not set foot in the Dark Forest; no one who enters it returns.\"",
+    "C": "\"I once saw a deer near the edge of the forest.\"",
+    "D": "\"Your axe is the sharpest in the village.\""
+   },
+   "filler": "2"
+  },
+  "11.3": {
+   "body": "In a short story, the narrator's grandmother takes great pride in her garden, as shown when she says, _______",
+   "stem": "Which quotation from the story most effectively illustrates the claim?",
+   "opts": {
+    "A": "\"No one in the county grows roses as fine as mine, and everyone who passes stops to admire them.\"",
+    "B": "\"The rain has been heavy this week.\"",
+    "C": "\"I bought these seeds at the market in town.\"",
+    "D": "\"Gardening makes my back ache terribly.\""
+   },
+   "filler": "3"
+  },
+  "11.4": {
+   "body": "In a retelling of the Odyssey, Odysseus's crew fears the Cyclops and tries to warn their captain when one sailor says, _______",
+   "stem": "Which quotation from the retelling most effectively illustrates the claim?",
+   "opts": {
+    "A": "\"The island has fresh water and plenty of goats.\"",
+    "B": "\"Our ship is the fastest on the sea.\"",
+    "C": "\"Captain, do not shout your name to the giant; if he learns who you are, his anger will follow us forever.\"",
+    "D": "\"I have never seen a cave so large.\""
+   },
+   "filler": "4"
+  },
+  "11.5": {
+   "body": "In a children's novel, the main character, Tomás, is afraid of the dark, as shown when he says, _______",
+   "stem": "Which quotation from the novel most effectively illustrates the claim?",
+   "opts": {
+    "A": "\"Tomorrow I will go to the beach with my cousins.\"",
+    "B": "\"My favorite food is my grandmother's soup.\"",
+    "C": "\"The stars look beautiful tonight.\"",
+    "D": "\"Please leave the hall light on; I can't sleep when the room is completely black.\""
+   },
+   "filler": "5"
+  },
+  "o12": {
+   "body": "Anthony Doerr won a Pulitzer Prize, among other literary awards, for his work in fiction novels, and his short stories have been anthologized in collections of American literature. In an essay about Doerr’s works, a student claims that Doerr uses children as his protagonists in order to create a story from an unbiased and hopeful perspective of humanity.",
+   "stem": "Which quotation from a literary critic best supports the student’s claim?",
+   "opts": {
+    "A": "“Doerr’s novels are influenced by the themes present in fables, thus presenting an ordeal through which the protagonist learns a lesson about life.”",
+    "B": "“Doerr prefers to have the protagonist’s story told through the eyes of a child who seeks to learn more about the world.”",
+    "C": "“Doerr’s novels often contain multiple story arcs or perspectives culminating in a universal truth.”",
+    "D": "“Doerr’s protagonists are often children who see the world with an open mind and contribute towards the betterment of humanity.”"
+   },
+   "filler": null
+  },
+  "12.1": {
+   "body": "A student claims that author E.B. White uses animal characters to show the value of kindness and friendship.",
+   "stem": "Which quotation from a literary critic best supports the student's claim?",
+   "opts": {
+    "A": "\"White's books are set mainly on farms in New England.\"",
+    "B": "\"White wrote for The New Yorker for many years.\"",
+    "C": "\"White's animal characters, such as Charlotte the spider, teach readers that true friendship means caring for others without expecting anything in return.\"",
+    "D": "\"White's stories are often read aloud in classrooms.\""
+   },
+   "filler": "1"
+  },
+  "12.2": {
+   "body": "A student claims that poet Emily Dickinson uses images from nature to express feelings of loneliness.",
+   "stem": "Which quotation from a literary critic best supports the student's claim?",
+   "opts": {
+    "A": "\"In Dickinson's poems, a single bird or a bare winter tree often stands for the speaker's sense of being alone.\"",
+    "B": "\"Dickinson wrote nearly 1,800 poems during her life.\"",
+    "C": "\"Dickinson rarely left her family home in Amherst.\"",
+    "D": "\"Dickinson's poems use unusual dashes and capital letters.\""
+   },
+   "filler": "2"
+  },
+  "12.3": {
+   "body": "A student claims that author Rick Riordan creates heroes who succeed by using their intelligence rather than their strength.",
+   "stem": "Which quotation from a literary critic best supports the student's claim?",
+   "opts": {
+    "A": "\"Riordan's novels are based on Greek mythology.\"",
+    "B": "\"Riordan was a middle school teacher before becoming a full-time writer.\"",
+    "C": "\"Riordan's books have sold millions of copies around the world.\"",
+    "D": "\"Again and again, Riordan's young heroes escape danger by solving riddles and outthinking monsters rather than by overpowering them.\""
+   },
+   "filler": "3"
+  },
+  "12.4": {
+   "body": "A student claims that author Lois Lowry's novels show characters finding hope even in very difficult situations.",
+   "stem": "Which quotation from a literary critic best supports the student's claim?",
+   "opts": {
+    "A": "\"Lowry has won the Newbery Medal twice.\"",
+    "B": "\"Even in the darkest moments of Lowry's novels, her young characters hold on to small signs of hope that carry them forward.\"",
+    "C": "\"Lowry's books are often taught in middle school.\"",
+    "D": "\"Lowry began writing after raising four children.\""
+   },
+   "filler": "4"
+  },
+  "12.5": {
+   "body": "A student claims that author Jason Reynolds presents the city itself as an important character that shapes the lives of his protagonists.",
+   "stem": "Which quotation from a literary critic best supports the student's claim?",
+   "opts": {
+    "A": "\"Reynolds writes in a style that often resembles poetry.\"",
+    "B": "\"Reynolds has written more than a dozen books for young readers.\"",
+    "C": "\"In Reynolds's novels, the neighborhood streets, corner stores, and elevators act almost like characters, shaping every choice his young protagonists make.\"",
+    "D": "\"Reynolds grew up in Washington, D.C.\""
+   },
+   "filler": "5"
+  },
+  "o13": {
+   "body": "Average Need Satisfaction and Mood Ratings (scale of 1 to 9) (table recreated because the original table is unavailable)\nCondition | Need satisfaction (reflexive) | Mood (reflexive) | Need satisfaction (reflective) | Mood (reflective)\nExcluded by human | 3.1 | 3.4 | 4.6 | 4.9\nExcluded by computer | 3.2 | 3.5 | 5.3 | 5.6\nIncluded by human | 6.8 | 6.9 | 6.9 | 7.0\nIncluded by computer | 6.7 | 6.8 | 6.8 | 6.9\nSocial exclusion can have a detrimental impact on an individual’s mental and emotional state. Psychologists Melissa Jauch, Selma Carolin Rudert, and Rainer Greifeneder hypothesized that individuals would experience equivalent effects of social exclusion regardless of whether the source of exclusion was human or computer. The researchers conducted a study in which subjects played a word riddle game. The subjects were grouped with other players who were computer-generated, though some subjects were told that they were playing with other humans. Throughout the game, the other players would either include the subjects or exclude them from participating. After the game, researchers measured the subjects’ need satisfaction (a psychological metric of the degree to which an individual’s basic needs are met) and mood on a scale of 1 to 9 immediately after the game (the reflexive stage) as well as after some time had passed (the reflective stage).",
+   "stem": "Which choice most effectively uses data from the table to support the researchers’ hypothesis?",
+   "opts": {
+    "A": "At the reflexive stage, subjects’ ratings in both mood and need satisfaction when excluded by a human were comparable to the corresponding ratings when excluded by a computer.",
+    "B": "Subjects reported higher mood and need satisfaction ratings when included than they did when excluded.",
+    "C": "When included by a human or a computer, subjects exhibited lower need satisfaction at the reflective stage than they did at the reflexive stage.",
+    "D": "Subjects experienced the highest mood rating when they believed they were socially included by a human."
+   },
+   "filler": null
+  },
+  "13.1": {
+   "body": "Average Trust Ratings (1 to 9) After Receiving Advice\nSource of advice | Correct advice | Incorrect advice\nHuman expert | 7.4 | 3.1\nRobot | 7.3 | 3.0\nResearchers hypothesized that people would trust advice from a robot just as much as advice from a human expert.",
+   "stem": "Which choice most effectively uses data from the table to support the researchers' hypothesis?",
+   "opts": {
+    "A": "After correct advice, trust ratings were 7.4 for the human expert and 7.3 for the robot.",
+    "B": "Trust ratings were higher after correct advice than after incorrect advice.",
+    "C": "The lowest rating was given to the robot after incorrect advice.",
+    "D": "The highest rating was given to the human expert after correct advice."
+   },
+   "filler": "1"
+  },
+  "13.2": {
+   "body": "Average Vocabulary Quiz Scores (out of 20)\nStudy method | Week 1 | Week 4\nPaper flashcards | 14 | 17\nApp flashcards | 14 | 16\nA teacher hypothesized that students would learn vocabulary equally well with paper flashcards and app flashcards.",
+   "stem": "Which choice most effectively uses data from the table to support the teacher's hypothesis?",
+   "opts": {
+    "A": "Scores rose for both groups between Week 1 and Week 4.",
+    "B": "The highest score in the table was 17.",
+    "C": "In Week 1, both the paper and the app groups averaged 14, and in Week 4 they averaged 17 and 16.",
+    "D": "Students in the app group scored lower in Week 4 than in Week 1."
+   },
+   "filler": "2"
+  },
+  "13.3": {
+   "body": "Average Height of Tomato Plants (cm) After Six Weeks\nFertilizer | Sunny garden | Shady garden\nOrganic | 82 | 61\nChemical | 81 | 60\nGardeners hypothesized that organic and chemical fertilizers would produce equal plant growth.",
+   "stem": "Which choice most effectively uses data from the table to support the gardeners' hypothesis?",
+   "opts": {
+    "A": "Plants grew taller in the sunny garden than in the shady garden.",
+    "B": "In the sunny garden, plants averaged 82 cm with organic fertilizer and 81 cm with chemical fertilizer.",
+    "C": "The shortest plants were in the shady garden.",
+    "D": "Plants given chemical fertilizer in the shady garden were 60 cm tall."
+   },
+   "filler": "3"
+  },
+  "13.4": {
+   "body": "Average Student Satisfaction Ratings (1 to 10)\nClass format | Beginning of term | End of term\nIn-person | 7.2 | 7.8\nOnline | 7.1 | 7.8\nA university hypothesized that students would be equally satisfied with online and in-person classes.",
+   "stem": "Which choice most effectively uses data from the table to support the hypothesis?",
+   "opts": {
+    "A": "Satisfaction increased in both formats during the term.",
+    "B": "The lowest rating was 7.1.",
+    "C": "In-person classes had a slightly higher rating at the beginning of the term.",
+    "D": "At the end of the term, in-person and online classes both received an average rating of 7.8."
+   },
+   "filler": "4"
+  },
+  "13.5": {
+   "body": "Average Stress Ratings (1 to 9) While Studying\nBackground noise | During study | 10 minutes after\nTraffic noise | 6.2 | 4.1\nConstruction noise | 6.3 | 4.0\nPsychologists hypothesized that traffic noise and construction noise would cause equal levels of stress.",
+   "stem": "Which choice most effectively uses data from the table to support the psychologists' hypothesis?",
+   "opts": {
+    "A": "During study, stress ratings were 6.2 for traffic noise and 6.3 for construction noise.",
+    "B": "Stress ratings dropped 10 minutes after studying for both types of noise.",
+    "C": "The lowest rating was 4.0.",
+    "D": "Construction noise produced the highest stress rating in the table."
+   },
+   "filler": "5"
+  },
+  "o14": {
+   "body": "It is commonly accepted that the Cretaceous–Paleogene extinction event some 66 million years ago was caused by an asteroid impact, believed to correspond to an impact crater in Chicxulub, Mexico, that dates to the same time and is the second-largest impact structure on Earth. Geologist Uisdean Nicholson discovered an undersea impact crater while reviewing seismic survey data and conducted a study that demonstrated that this crater also formed around 66 million years ago. Nicholson claims that the rock whose impact caused the formation of the undersea crater could have broken off from a parent asteroid that also caused the Chicxulub impact.",
+   "stem": "Which finding, if true, would most directly support Nicholson’s claim?",
+   "opts": {
+    "A": "The undersea impact would have caused major earthquakes and tsunamis, leading to significant damage to the planet.",
+    "B": "Some evidence points to a gradual Cretaceous–Paleogene extinction rather than a sudden one caused by an asteroid.",
+    "C": "Many species of marine animals, in addition to land animals, went extinct during the Cretaceous–Paleogene extinction.",
+    "D": "The undersea impact crater contains some of the same minerals not normally found on Earth that were also found at the Chicxulub impact site."
+   },
+   "filler": null
+  },
+  "14.1": {
+   "body": "Two meteorites were found 300 kilometers apart in the Sahara Desert. Geologist Amina Diallo claims that both rocks broke off from the same asteroid.",
+   "stem": "Which finding, if true, would most directly support Diallo's claim?",
+   "opts": {
+    "A": "Meteorites are found more easily in deserts than in forests.",
+    "B": "Both meteorites are heavier than most rocks of their size.",
+    "C": "The Sahara receives very little rain.",
+    "D": "Both meteorites contain the same rare mix of minerals that has never been found in any other meteorite."
+   },
+   "filler": "1"
+  },
+  "14.2": {
+   "body": "Wild horses live on two islands off the coast of North Carolina. Biologist Ken Lee claims that both groups descended from horses that escaped from the same Spanish shipwreck.",
+   "stem": "Which finding, if true, would most directly support Lee's claim?",
+   "opts": {
+    "A": "The horses on both islands eat mostly marsh grass.",
+    "B": "DNA tests show that horses on both islands share a rare genetic marker found in old Spanish horse breeds.",
+    "C": "The islands are often hit by hurricanes.",
+    "D": "Tourists like to photograph the horses on both islands."
+   },
+   "filler": "2"
+  },
+  "14.3": {
+   "body": "Pottery fragments have been found at two ancient villages 50 kilometers apart. Archaeologist Rosa Medina claims that all the pottery was made in a single workshop.",
+   "stem": "Which finding, if true, would most directly support Medina's claim?",
+   "opts": {
+    "A": "The clay in fragments from both villages has an identical chemical makeup that matches a single riverbank near one village.",
+    "B": "Both villages were abandoned around the same time.",
+    "C": "The fragments are mostly from cooking pots.",
+    "D": "The villages were connected by a footpath."
+   },
+   "filler": "3"
+  },
+  "14.4": {
+   "body": "Ash layers from about 74,000 years ago have been found in both India and Malaysia. Volcanologist Theo Grant claims that both layers came from the same eruption of Mount Toba.",
+   "stem": "Which finding, if true, would most directly support Grant's claim?",
+   "opts": {
+    "A": "Mount Toba is located in Indonesia.",
+    "B": "Ash layers are common in many parts of Asia.",
+    "C": "The ash from India and Malaysia has the same distinctive chemical fingerprint as rock samples taken from Mount Toba.",
+    "D": "The eruption of Mount Toba was very large."
+   },
+   "filler": "4"
+  },
+  "14.5": {
+   "body": "Two unsigned letters from the 1700s were found in different libraries. Historian Laila Haddad claims both were written by the same person.",
+   "stem": "Which finding, if true, would most directly support Haddad's claim?",
+   "opts": {
+    "A": "Both letters were written in English.",
+    "B": "Many letters from the 1700s are unsigned.",
+    "C": "Both libraries are in London.",
+    "D": "Both letters contain the same unusual spelling mistakes and the same distinctive way of forming the letter \"g.\""
+   },
+   "filler": "5"
+  },
+  "o15": {
+   "body": "In a study of neuronal sleeping patterns, researchers tracked the electrical waves (using EEG) and blood flow patterns (using fMRI) in participants while they slept. Researchers hypothesized that a correlation between electrical wave activity and blood flow patterns could indicate which regions of the brain, if any, fell asleep or awoke first. Like with previous studies, the researchers found that the thalamus, a region located near the center of the brain, had decreased blood flow patterns in association with increased electrical sleep waves in the early minutes of sleep activity. This suggests that _______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the thalamus is one of the first brain regions to fall asleep.",
+    "B": "increased blood flow patterns in association with decreased electrical sleep waves indicate a brain region that is asleep.",
+    "C": "the thalamus is the last brain region to fall asleep.",
+    "D": "humans may use only one hemisphere of the brain while asleep."
+   },
+   "filler": null
+  },
+  "15.1": {
+   "body": "Researchers recorded brain activity in volunteers as they fell asleep. Like earlier studies, they found that slow sleep waves appeared in the hippocampus before they appeared in most other brain regions. This suggests that _______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the hippocampus is one of the first brain regions to fall asleep.",
+    "B": "the hippocampus does not sleep at all.",
+    "C": "all brain regions fall asleep at exactly the same time.",
+    "D": "slow sleep waves indicate that a region is fully awake."
+   },
+   "filler": "1"
+  },
+  "15.2": {
+   "body": "Scientists measured muscle activity in runners after a marathon. They found that muscle activity in the legs dropped sharply within minutes, while activity in the arms and back dropped more slowly. This suggests that _______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the arms relax before the legs after a marathon.",
+    "B": "runners use only their legs during a marathon.",
+    "C": "the leg muscles are among the first to relax after a marathon.",
+    "D": "muscle activity increases after a marathon."
+   },
+   "filler": "2"
+  },
+  "15.3": {
+   "body": "Botanists photographed maple trees every day in autumn. They found that leaves at the top of each tree turned red about a week before leaves on the lower branches. This suggests that _______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "lower branches change color first.",
+    "B": "the top of the tree may respond to autumn conditions before the lower branches do.",
+    "C": "maple trees do not change color in autumn.",
+    "D": "all leaves change color on the same day."
+   },
+   "filler": "3"
+  },
+  "15.4": {
+   "body": "In a study of how people recognize faces, researchers found that blood flow increased in the visual cortex about 100 milliseconds before it increased in areas linked to memory. This suggests that _______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "memory areas activate before the visual cortex.",
+    "B": "the visual cortex is not involved in recognizing faces.",
+    "C": "blood flow does not change during face recognition.",
+    "D": "the visual cortex is activated before memory areas when people recognize faces."
+   },
+   "filler": "4"
+  },
+  "15.5": {
+   "body": "Using satellite images, scientists tracked a frozen lake each spring. They found that the ice near the shore melted about ten days before the ice in the center. This suggests that _______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the edges of the lake warm up before the center does.",
+    "B": "the center of the lake melts first.",
+    "C": "the lake never freezes completely.",
+    "D": "satellites cannot measure ice."
+   },
+   "filler": "5"
+  },
+  "o16": {
+   "body": "In order to avoid physical damage, a formula is used to calculate the maximum gross weight for a commercial vehicle traveling over a bridge. The Federal Bridge Gross Weight Formula takes into account not only the weight of the vehicle but also its number of axles (shafts for wheels) and the spacing between axles, given that a shorter vehicle with its weight concentrated in a smaller area could cause more damage than could a longer vehicle of the same weight whose mass is more dispersed. This suggests that, when comparing a two-axle vehicle to a four-axle vehicle, _______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the four-axle vehicle likely has a lower weight limit on a given bridge than does the two-axle vehicle.",
+    "B": "the vehicles likely have the same weight limit on a given bridge.",
+    "C": "the two-axle vehicle is unlikely to surpass the bridge’s weight limit, as it is smaller.",
+    "D": "the two-axle vehicle likely has a lower weight limit on a given bridge than does the four-axle vehicle."
+   },
+   "filler": null
+  },
+  "16.1": {
+   "body": "Builders know that a long wooden plank spreads weight across more supports than a short plank, so a short plank with the same load is more likely to bend or break. This suggests that, when comparing a 2-meter plank with a 4-meter plank resting on the same number of supports per meter, _______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the 4-meter plank likely has a lower weight limit.",
+    "B": "both planks likely have the same weight limit.",
+    "C": "the 2-meter plank cannot hold any weight.",
+    "D": "the 2-meter plank likely has a lower weight limit than the 4-meter plank."
+   },
+   "filler": "1"
+  },
+  "16.2": {
+   "body": "On soft sand, a wide tire spreads a bike's weight over a larger area, while a narrow tire concentrates it, causing the tire to sink. This suggests that, when comparing a bike with 5-centimeter tires to one with 10-centimeter tires on the same beach, _______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the bike with 10-centimeter tires will sink deeper.",
+    "B": "the bike with 5-centimeter tires will likely sink deeper.",
+    "C": "both bikes will sink to the same depth.",
+    "D": "neither bike can be ridden on sand."
+   },
+   "filler": "2"
+  },
+  "16.3": {
+   "body": "Snowshoes work by spreading a person's weight across a wide surface so that the person does not sink into deep snow. This suggests that, when comparing a hiker wearing snowshoes with a hiker of the same weight wearing ordinary boots, _______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the hiker wearing snowshoes will sink deeper.",
+    "B": "both hikers will sink to the same depth.",
+    "C": "the hiker wearing ordinary boots will likely sink deeper.",
+    "D": "neither hiker will be able to walk."
+   },
+   "filler": "3"
+  },
+  "16.4": {
+   "body": "Pressure equals force divided by area, so the same weight pressing on a smaller area creates more pressure. This suggests that, when comparing a person wearing narrow high heels with a person of the same weight wearing flat sneakers, _______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the high heels likely put more pressure on the floor.",
+    "B": "the sneakers likely put more pressure on the floor.",
+    "C": "both shoes put the same pressure on the floor.",
+    "D": "the person's weight changes depending on the shoes."
+   },
+   "filler": "4"
+  },
+  "16.5": {
+   "body": "Highway rules limit how much weight each axle of a truck may carry, because weight concentrated on fewer axles causes more damage to the road. This suggests that, when comparing a three-axle truck with a six-axle truck, _______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "the six-axle truck likely has a lower total weight limit.",
+    "B": "both trucks likely have the same total weight limit.",
+    "C": "the three-axle truck can never use the highway.",
+    "D": "the three-axle truck likely has a lower total weight limit than the six-axle truck."
+   },
+   "filler": "5"
+  },
+  "o17": {
+   "body": "A recent study looked at whether students who took photos of PowerPoint slides during lessons remembered the content. When students took a photo of the slides, they were able to better remember the information on those slides compared to slides _______ did not photograph.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "they",
+    "B": "one",
+    "C": "it",
+    "D": "we"
+   },
+   "filler": null
+  },
+  "17.1": {
+   "body": "A study examined whether volunteers who wrote notes by hand remembered more than those who typed. The volunteers remembered more of the lectures that _______ had written about by hand.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "it",
+    "B": "one",
+    "C": "they",
+    "D": "we"
+   },
+   "filler": "1"
+  },
+  "17.2": {
+   "body": "The museum began offering free evening hours in 2019. Since then, the number of teenagers visiting _______ on weeknights has nearly doubled.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "it",
+    "B": "us",
+    "C": "them",
+    "D": "one"
+   },
+   "filler": "2"
+  },
+  "17.3": {
+   "body": "When researchers tested the new water filter in rural villages, _______ found that it removed more than 99 percent of harmful bacteria.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "it",
+    "B": "they",
+    "C": "one",
+    "D": "we"
+   },
+   "filler": "3"
+  },
+  "17.4": {
+   "body": "Arctic terns travel from the Arctic to the Antarctic every year. Over its lifetime, each tern may fly a distance equal to three round trips to the Moon, using _______ strong, narrow wings to glide over the ocean.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "our",
+    "B": "its",
+    "C": "your",
+    "D": "their"
+   },
+   "filler": "4"
+  },
+  "17.5": {
+   "body": "A study of soccer players found that the players made fewer mistakes during matches when _______ had slept at least eight hours the night before.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "they",
+    "B": "it",
+    "C": "we",
+    "D": "one"
+   },
+   "filler": "5"
+  },
+  "o18": {
+   "body": "Soft drinks have become very popular in recent years, but consuming too many is associated with many diseases and intellectual deterioration. Scientists wanted to explore another question related to this topic: _______",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "does the consumption of soft drinks cause changes in mammal behavior?",
+    "B": "does the consumption of soft drinks cause changes in mammal behavior.",
+    "C": "the consumption of soft drinks causes changes in mammal behavior?",
+    "D": "the consumption of soft drinks causes changes in mammal behavior."
+   },
+   "filler": null
+  },
+  "18.1": {
+   "body": "Astronomers have discovered thousands of planets outside our solar system. Now they want to answer a bigger question: _______",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "any of these planets supports life?",
+    "B": "does any of these planets support life.",
+    "C": "does any of these planets support life?",
+    "D": "any of these planets supports life."
+   },
+   "filler": "1"
+  },
+  "18.2": {
+   "body": "Scientists know that plants grow toward light. Botanist Monica Gagliano asked a more surprising question: _______",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "can plants also respond to the sound of running water?",
+    "B": "can plants also respond to the sound of running water.",
+    "C": "plants can also respond to the sound of running water?",
+    "D": "plants can also respond to the sound of running water."
+   },
+   "filler": "2"
+  },
+  "18.3": {
+   "body": "Many cities have added bike lanes in recent years. Urban planners now want to know: _______",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "bike lanes actually reduce traffic accidents?",
+    "B": "bike lanes actually reduce traffic accidents.",
+    "C": "do bike lanes actually reduce traffic accidents?",
+    "D": "do bike lanes actually reduce traffic accidents."
+   },
+   "filler": "3"
+  },
+  "18.4": {
+   "body": "Glaciers in the Himalayas supply water to nearly two billion people. As temperatures rise, scientists face an urgent question: _______",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "will these glaciers still exist by the year 2100.",
+    "B": "will these glaciers still exist by the year 2100?",
+    "C": "these glaciers will still exist by the year 2100?",
+    "D": "these glaciers will still exist by the year 2100."
+   },
+   "filler": "4"
+  },
+  "18.5": {
+   "body": "Octopuses can open jars and escape from tanks. Biologists are now exploring a fascinating question: _______",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "do octopuses plan their actions in advance?",
+    "B": "octopuses plan their actions in advance?",
+    "C": "do octopuses plan their actions in advance.",
+    "D": "octopuses plan their actions in advance."
+   },
+   "filler": "5"
+  },
+  "o19": {
+   "body": "Heat islands are urban areas that, due to a high number of buildings and limited greenery, have a higher temperature compared to outlying areas. There are several strategies and technologies to counteract the higher temperatures of heat islands. For example, green roofs, which are rooftops covered in vegetation, reduce the temperatures of _______ cool pavements, which are made with materials that reflect solar energy, can lower the temperatures above the pavement surface and the surrounding air.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "roofs, while",
+    "B": "roofs; while",
+    "C": "roofs. While",
+    "D": "roofs: while"
+   },
+   "filler": null
+  },
+  "19.1": {
+   "body": "Two strategies help protect coral reefs. Marine parks limit fishing in certain _______ coral nurseries grow young corals that can be replanted on damaged reefs.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "areas. While",
+    "B": "areas, while",
+    "C": "areas: while",
+    "D": "areas; while"
+   },
+   "filler": "1"
+  },
+  "19.2": {
+   "body": "Some animals survive winter in different ways. Bears sleep for months in their _______ arctic foxes grow thick white fur and keep hunting in the snow.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "dens. While",
+    "B": "dens: while",
+    "C": "dens; while",
+    "D": "dens, while"
+   },
+   "filler": "2"
+  },
+  "19.3": {
+   "body": "Cities fight flooding in two main ways. Some build high walls along their _______ others create parks and wetlands that soak up extra water.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "rivers. While",
+    "B": "rivers: while",
+    "C": "rivers, while",
+    "D": "rivers; while"
+   },
+   "filler": "3"
+  },
+  "19.4": {
+   "body": "The two sisters had very different careers. Serena Williams became famous for her powerful _______ Venus Williams was known for her speed and long reach at the net.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "serve, while",
+    "B": "serve; while",
+    "C": "serve. While",
+    "D": "serve: while"
+   },
+   "filler": "4"
+  },
+  "19.5": {
+   "body": "Ancient Egyptians and Mesopotamians both developed writing systems. Egyptians wrote hieroglyphs on papyrus made from river _______ Mesopotamians pressed wedge-shaped marks into clay tablets.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "reeds, while",
+    "B": "reeds. While",
+    "C": "reeds: while",
+    "D": "reeds; while"
+   },
+   "filler": "5"
+  },
+  "o20": {
+   "body": "With a focus on public health, Abla Mehio Sibai is currently working at a university in Lebanon. She primarily focuses on the process of aging, especially in the context of different demographics, and _______ to research on noncontagious illnesses.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "contribute",
+    "B": "contributes",
+    "C": "are contributing",
+    "D": "have contributed"
+   },
+   "filler": null
+  },
+  "20.1": {
+   "body": "Dr. Lin Tan teaches marine biology at a university in Singapore. She mainly researches coral reefs, especially how they recover after storms, and _______ young scientists in diving techniques.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "have trained",
+    "B": "trains",
+    "C": "are training",
+    "D": "train"
+   },
+   "filler": "1"
+  },
+  "20.2": {
+   "body": "The new science museum in Taipei focuses on space exploration and _______ hands-on activities for children every weekend.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "offer",
+    "B": "offers",
+    "C": "are offering",
+    "D": "have offered"
+   },
+   "filler": "2"
+  },
+  "20.3": {
+   "body": "The author lives in a small village in Kenya and _______ novels about the lives of farmers in her region.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "are writing",
+    "B": "have written",
+    "C": "writes",
+    "D": "write"
+   },
+   "filler": "3"
+  },
+  "20.4": {
+   "body": "Designed by students in Seoul, the robot scans each piece of trash and _______ it into the correct recycling bin.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "have sorted",
+    "B": "sorts",
+    "C": "sort",
+    "D": "are sorting"
+   },
+   "filler": "4"
+  },
+  "20.5": {
+   "body": "The organization trains volunteers to teach adults how to read and _______ free books to families in need.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "provides",
+    "B": "provide",
+    "C": "are providing",
+    "D": "have provided"
+   },
+   "filler": "5"
+  },
+  "o21": {
+   "body": "Bribery is recognized as a problem in India by local and international organizations. In response to this problem, 5th Pillar, a non-governmental organization, printed a zero-rupee _______ imitation banknote that resembles real money and is covered in anti-corruption slogans.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "note. An",
+    "B": "note, an",
+    "C": "note an",
+    "D": "note; an"
+   },
+   "filler": null
+  },
+  "21.1": {
+   "body": "To encourage people to talk with strangers, artists in Copenhagen built the Happy _______ circular seat that forces everyone to face one another.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "Bench; a",
+    "B": "Bench, a",
+    "C": "Bench a",
+    "D": "Bench. A"
+   },
+   "filler": "1"
+  },
+  "21.2": {
+   "body": "To help farmers plan their harvests, engineers in Kenya created FarmDrive, a mobile _______ app that gives small farmers access to loans based on their crop records.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "service. An",
+    "B": "service; an",
+    "C": "service, an",
+    "D": "service an"
+   },
+   "filler": "2"
+  },
+  "21.3": {
+   "body": "To clean plastic from the ocean, the Dutch nonprofit The Ocean Cleanup designed the _______ floating barrier that collects trash as currents push it along.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "Interceptor, a",
+    "B": "Interceptor a",
+    "C": "Interceptor; a",
+    "D": "Interceptor. A"
+   },
+   "filler": "3"
+  },
+  "21.4": {
+   "body": "To honor the women who built ships during World War II, the city of Richmond, California, created the Rosie the Riveter _______ walkway shaped like the hull of a ship.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "Memorial. A",
+    "B": "Memorial; a",
+    "C": "Memorial a",
+    "D": "Memorial, a"
+   },
+   "filler": "4"
+  },
+  "21.5": {
+   "body": "To bring books to remote villages in Colombia, teacher Luis Soriano created the _______ traveling library carried on the backs of two donkeys.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "Biblioburro. A",
+    "B": "Biblioburro a",
+    "C": "Biblioburro; a",
+    "D": "Biblioburro, a"
+   },
+   "filler": "5"
+  },
+  "o22": {
+   "body": "Scientists wanted to learn how verbal statements can alter someone’s visual interpretation of a situation. Participants were shown an image of 100 colored dots alongside a written hint and asked to identify the dominant color. When the hint accurately identified the dominant color, participants self-identified as more confident and _______ quicker response times.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "exhibit",
+    "B": "exhibits",
+    "C": "exhibiting",
+    "D": "exhibited"
+   },
+   "filler": null
+  },
+  "22.1": {
+   "body": "In a study on color and mood, participants looked at rooms painted in different colors. In blue rooms, participants reported feeling calmer and _______ lower heart rates.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "showing",
+    "B": "show",
+    "C": "showed",
+    "D": "shows"
+   },
+   "filler": "1"
+  },
+  "22.2": {
+   "body": "When students listened to classical music during the test, they solved more problems correctly and _______ the test faster.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "finished",
+    "B": "finishing",
+    "C": "finishes",
+    "D": "finish"
+   },
+   "filler": "2"
+  },
+  "22.3": {
+   "body": "In the experiment, tomato plants given extra calcium grew taller and _______ more fruit than plants without it.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "produce",
+    "B": "produces",
+    "C": "producing",
+    "D": "produced"
+   },
+   "filler": "3"
+  },
+  "22.4": {
+   "body": "During the camping study, families without phones slept more deeply and _______ up feeling more rested.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "wake",
+    "B": "wakes",
+    "C": "woke",
+    "D": "waking"
+   },
+   "filler": "4"
+  },
+  "22.5": {
+   "body": "When the store moved fruit to the front entrance, shoppers chose healthier snacks and _______ less money on candy.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "spent",
+    "B": "spending",
+    "C": "spend",
+    "D": "spends"
+   },
+   "filler": "5"
+  },
+  "o23": {
+   "body": "Quantum computers rely on entangled building blocks to perform computational calculations. Scientists are attempting to find a new source for these building _______ photons, or small quanta of light, emitted by an atom.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "blocks, such as:",
+    "B": "blocks",
+    "C": "blocks,",
+    "D": "blocks:"
+   },
+   "filler": null
+  },
+  "23.1": {
+   "body": "Solar panels need a material that turns sunlight into electricity. Most panels today rely on one main _______ silicon, a common element found in sand.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "material",
+    "B": "material, such as:",
+    "C": "material:",
+    "D": "material,"
+   },
+   "filler": "1"
+  },
+  "23.2": {
+   "body": "Mapping the ocean floor requires a special tool. Most modern surveys use one main _______ sonar, which sends sound waves to the seabed and measures the echoes.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "instrument,",
+    "B": "instrument, such as:",
+    "C": "instrument",
+    "D": "instrument:"
+   },
+   "filler": "2"
+  },
+  "23.3": {
+   "body": "Bakers in Naples say that great pizza depends on one key _______ dough that rises slowly for at least a full day.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "ingredient",
+    "B": "ingredient:",
+    "C": "ingredient,",
+    "D": "ingredient, such as:"
+   },
+   "filler": "3"
+  },
+  "23.4": {
+   "body": "Many Olympic swimmers share one surprising _______ they practice holding their breath for several minutes while sitting still.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "habit",
+    "B": "habit,",
+    "C": "habit, such as:",
+    "D": "habit:"
+   },
+   "filler": "4"
+  },
+  "23.5": {
+   "body": "Scientists are developing batteries for electric cars that rely on a new energy _______ sodium, which is far more common and cheaper than lithium.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "source, such as:",
+    "B": "source,",
+    "C": "source",
+    "D": "source:"
+   },
+   "filler": "5"
+  },
+  "o24": {
+   "body": "Suzan Shown Harjo initially worked to write poems and produce news shows advocating for equal rights for Native Americans. _______ she moved to Washington, D.C., and served as Congressional Liaison for Indian Affairs for President Jimmy Carter while continuing to produce powerful pieces.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "As a rule,",
+    "B": "Despite this,",
+    "C": "Conversely,",
+    "D": "After some time,"
+   },
+   "filler": null
+  },
+  "24.1": {
+   "body": "Wangari Maathai first worked as a researcher and professor of veterinary anatomy in Nairobi. _______ she founded the Green Belt Movement, which went on to plant millions of trees across Kenya.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Conversely,",
+    "B": "Despite this,",
+    "C": "As a rule,",
+    "D": "After some time,"
+   },
+   "filler": "1"
+  },
+  "24.2": {
+   "body": "Bessie Coleman first worked as a manicurist in Chicago while saving money for flight lessons. _______ she became the first African American woman to earn an international pilot's license.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "In contrast,",
+    "B": "For example,",
+    "C": "Later,",
+    "D": "Similarly,"
+   },
+   "filler": "2"
+  },
+  "24.3": {
+   "body": "Satoshi Tajiri spent his childhood collecting insects in the fields near his home in Japan. _______ he turned his love of collecting into a video game: Pokémon.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Years later,",
+    "B": "Likewise,",
+    "C": "On the contrary,",
+    "D": "For instance,"
+   },
+   "filler": "3"
+  },
+  "24.4": {
+   "body": "Ruth Bader Ginsburg began her career teaching law at Rutgers University. _______ she was appointed to the US Supreme Court, where she served for 27 years.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Therefore,",
+    "B": "Eventually,",
+    "C": "In other words,",
+    "D": "Similarly,"
+   },
+   "filler": "4"
+  },
+  "24.5": {
+   "body": "Jackie Chan trained in Peking opera as a child, learning acrobatics and martial arts. _______ he began working as a stuntman in Hong Kong films.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "In contrast,",
+    "B": "As a young adult,",
+    "C": "For example,",
+    "D": "Instead,"
+   },
+   "filler": "5"
+  },
+  "o25": {
+   "body": "Scientists studied how electrical stimulation to the brain affected honeybees’ ability to steer while flying. They were able to determine the parameters for honeybee flight and develop strategies to manipulate it. _______ scientists hope to use a similar technique to control the flight of miniature drones that will perform a variety of tasks for the military and other industries.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "In contrast,",
+    "B": "Eventually,",
+    "C": "On one hand,",
+    "D": "Specifically,"
+   },
+   "filler": null
+  },
+  "25.1": {
+   "body": "Engineers studied how geckos stick to walls using millions of tiny hairs on their feet. They were able to copy the structure in a lab. _______ engineers hope to use similar materials to build robots that can climb buildings.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Specifically,",
+    "B": "Eventually,",
+    "C": "On one hand,",
+    "D": "In contrast,"
+   },
+   "filler": "1"
+  },
+  "25.2": {
+   "body": "Researchers grew new heart tissue from stem cells in mice and found that it helped damaged hearts recover. _______ they hope to use the same method to treat people after heart attacks.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "For example,",
+    "B": "Someday,",
+    "C": "Similarly,",
+    "D": "In other words,"
+   },
+   "filler": "2"
+  },
+  "25.3": {
+   "body": "Scientists developed a bacteria-based concrete that seals its own cracks in the lab. _______ they hope it will be used to build bridges that repair themselves.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Meanwhile,",
+    "B": "For instance,",
+    "C": "Eventually,",
+    "D": "Instead,"
+   },
+   "filler": "3"
+  },
+  "25.4": {
+   "body": "Botanists bred a type of rice that grows well in salty water. _______ they hope farmers in coastal areas affected by rising seas will be able to plant it.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "In the future,",
+    "B": "In contrast,",
+    "C": "Similarly,",
+    "D": "For example,"
+   },
+   "filler": "4"
+  },
+  "25.5": {
+   "body": "Scientists have learned how to produce spider silk using genetically modified bacteria. _______ they hope to use the strong, light material to make artificial tendons for patients.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Eventually,",
+    "B": "Specifically,",
+    "C": "On the contrary,",
+    "D": "Likewise,"
+   },
+   "filler": "5"
+  },
+  "o26": {
+   "body": "In order to study an abrupt increase in global mean lower stratosphere temperatures, scientists used a time-specific analysis of wildfires in Australia. They determined that the wildfires are the source of this abrupt increase in temperature. _______ reducing the number of wildfires in Australia may help return the temperature to a normal value.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "On the other hand,",
+    "B": "Meanwhile,",
+    "C": "Instead,",
+    "D": "Therefore,"
+   },
+   "filler": null
+  },
+  "26.1": {
+   "body": "Researchers studied air pollution in a large city and found that car exhaust produced most of the harmful particles. _______ reducing the number of cars in the city center may greatly improve air quality.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Therefore,",
+    "B": "On the other hand,",
+    "C": "Instead,",
+    "D": "Meanwhile,"
+   },
+   "filler": "1"
+  },
+  "26.2": {
+   "body": "A hospital study found that nurses made the most errors at the end of long, twelve-hour night shifts. _______ shorter shifts may help reduce medical errors.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "In contrast,",
+    "B": "Thus,",
+    "C": "For example,",
+    "D": "Meanwhile,"
+   },
+   "filler": "2"
+  },
+  "26.3": {
+   "body": "Ecologists found that an invasive vine was blocking sunlight and killing young trees in the forest. _______ removing the vine could allow the forest to recover.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "However,",
+    "B": "Instead,",
+    "C": "Consequently,",
+    "D": "Similarly,"
+   },
+   "filler": "3"
+  },
+  "26.4": {
+   "body": "Scientists determined that fertilizer washing off nearby farms was causing harmful algae blooms in the lake. _______ reducing fertilizer runoff may help keep the lake healthy.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Meanwhile,",
+    "B": "In addition,",
+    "C": "Therefore,",
+    "D": "For instance,"
+   },
+   "filler": "4"
+  },
+  "26.5": {
+   "body": "Researchers found that loud construction noise was causing high stress levels among students in nearby schools. _______ building sound barriers around construction sites may help students concentrate.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "In contrast,",
+    "B": "On the other hand,",
+    "C": "Thus,",
+    "D": "Similarly,"
+   },
+   "filler": "5"
+  },
+  "o27": {
+   "body": "Ed Yost designed the first modern hot air balloon with an in-flight heating system after working with General Mills on the company’s research balloons. The first piloted hot air balloon was designed in France, but it heated the air on the ground and came with a large risk of explosion. _______ Yost’s balloon design involved heating the fuel in the air and was much safer.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Ultimately,",
+    "B": "On the other hand,",
+    "C": "Otherwise,",
+    "D": "Despite this fact,"
+   },
+   "filler": null
+  },
+  "27.1": {
+   "body": "Early miners used open-flame lamps that could ignite underground gases and cause explosions. _______ the safety lamp invented by Humphry Davy in 1815 surrounded the flame with wire mesh and greatly reduced this danger.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Otherwise,",
+    "B": "By contrast,",
+    "C": "Ultimately,",
+    "D": "Despite this fact,"
+   },
+   "filler": "1"
+  },
+  "27.2": {
+   "body": "Paper maps must be updated by hand and quickly become outdated. _______ GPS navigation apps update automatically and show changes in traffic in real time.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Otherwise,",
+    "B": "Ultimately,",
+    "C": "For instance,",
+    "D": "On the other hand,"
+   },
+   "filler": "2"
+  },
+  "27.3": {
+   "body": "Coal-burning power plants release large amounts of carbon dioxide into the air. _______ geothermal plants use heat from underground and release almost no greenhouse gases.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "In contrast,",
+    "B": "For example,",
+    "C": "Similarly,",
+    "D": "As a result,"
+   },
+   "filler": "3"
+  },
+  "27.4": {
+   "body": "Early bicycles called \"penny-farthings\" had a huge front wheel and were difficult and dangerous to ride. _______ the \"safety bicycle\" of the 1880s had two equal-sized wheels and a chain, making it easy for almost anyone to ride.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "On the other hand,",
+    "B": "Likewise,",
+    "C": "Ultimately,",
+    "D": "Therefore,"
+   },
+   "filler": "4"
+  },
+  "27.5": {
+   "body": "Traditional plastic bags can take hundreds of years to break down in a landfill. _______ bags made from seaweed-based materials dissolve in water within a few weeks.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "By contrast,",
+    "B": "Therefore,",
+    "C": "For example,",
+    "D": "Similarly,"
+   },
+   "filler": "5"
+  }
+ }
+}

@@ -132,6 +132,10 @@ for q in data:
                     mo = re.compile(r'.*?[.!?](?=\s|$)', re.S).match(body_en, i + len(ul))
                     j = mo.end() if mo else len(body_en)
                 ent['body'] = link_words(body_en[:i] + '\x01' + body_en[i:j] + '\x02' + body_en[j:]).replace('\x01', '<u>').replace('\x02', '</u>')
+        if '<u>' in body_en:  # mock items may mark their underlined portion inline with <u>...</u>
+            ent['body'] = ent['body'].replace('&lt;u&gt;', '<u>').replace('&lt;/u&gt;', '</u>')
+            ent['bodyPlain'] = body_en.replace('<u>', '').replace('</u>', '')
+            ent['bodyZh'] = ent['bodyZh'].replace('<u>', '').replace('</u>', '')
         if is_vocab:
             ent['defs'] = {k: vocab.get(v, {}) | {'word': vocab.get(v, {}).get('w', v)} for k, v in it['opts'].items()}
         return ent
