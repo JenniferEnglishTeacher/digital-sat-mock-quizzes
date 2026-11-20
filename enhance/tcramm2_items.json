@@ -1,0 +1,1595 @@
+{
+ "pref": {
+  "1": "",
+  "2": "",
+  "3": "",
+  "4": "",
+  "5": ""
+ },
+ "items": {
+  "o1": {
+   "body": "The War of 1812 has ______ place in historical memory in Britain, partly because it is overshadowed by the much larger concurrent conflict against Napoleonic France and partly because it essentially maintained the geopolitical status quo for Britain: the country neither gained nor lost significant territory or position as a result of its participation in the war.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "a tenuous",
+    "B": "an enduring",
+    "C": "a contentious",
+    "D": "a conspicuous"
+   },
+   "filler": null
+  },
+  "1.1": {
+   "body": "The 1904 city referendum has ______ place in local memory, partly because it is overshadowed by the far larger municipal reforms passed the following decade and partly because it essentially changed nothing about how the city was governed: the vote neither expanded nor restricted any existing office's authority.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "a tenuous",
+    "B": "an enduring",
+    "C": "a contentious",
+    "D": "a conspicuous"
+   },
+   "filler": "1"
+  },
+  "1.2": {
+   "body": "The minor treaty of 1873 has ______ place in diplomatic history, partly because it is overshadowed by the much larger peace settlement signed only two years later and partly because it essentially preserved the prewar borders: neither side gained nor ceded any meaningful territory as a result.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "a tenuous",
+    "B": "an enduring",
+    "C": "a contentious",
+    "D": "a conspicuous"
+   },
+   "filler": "2"
+  },
+  "1.3": {
+   "body": "The band's 1998 farewell tour has ______ place in music history, partly because it is overshadowed by the group's far more celebrated reunion a decade later and partly because it essentially changed nothing about the band's standing: their record sales and public profile remained about the same afterward.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "a tenuous",
+    "B": "an enduring",
+    "C": "a contentious",
+    "D": "a conspicuous"
+   },
+   "filler": "3"
+  },
+  "1.4": {
+   "body": "The 1962 merger between the two small shipping companies has ______ place in business history, partly because it is overshadowed by the much larger industry consolidation that followed in the 1970s and partly because it essentially preserved each company's original routes: neither firm expanded nor lost any of its existing shipping lanes.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "a tenuous",
+    "B": "an enduring",
+    "C": "a contentious",
+    "D": "a conspicuous"
+   },
+   "filler": "4"
+  },
+  "1.5": {
+   "body": "The senator's first term has ______ place in the state's political history, partly because it is overshadowed by the far more consequential term that followed and partly because it essentially maintained the legislative status quo: no major law was passed or repealed as a result of her time in office.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "a tenuous",
+    "B": "an enduring",
+    "C": "a contentious",
+    "D": "a conspicuous"
+   },
+   "filler": "5"
+  },
+  "o2": {
+   "body": "In 1891, design artist William Morris cofounded the Kelmscott Press, which printed editions of books using preindustrial methods. Historians argue that Morris's repudiation of industrialization is ______ the Kelmscott editions' use of handmade materials and intricate ornamentation reminiscent of medieval manuscripts; these meticulously handcrafted elements exemplify the artistry involved.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "insensible to",
+    "B": "manifest in",
+    "C": "scrutinized by",
+    "D": "complicated by"
+   },
+   "filler": null
+  },
+  "2.1": {
+   "body": "In 1925, architect Elin Karlsson designed a house entirely without electrical wiring. Historians argue that Karlsson's rejection of modern conveniences is ______ the house's reliance on skylights, thick stone walls, and hand-cranked ventilation shafts; these deliberately old-fashioned elements exemplify her design philosophy.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "insensible to",
+    "B": "manifest in",
+    "C": "scrutinized by",
+    "D": "complicated by"
+   },
+   "filler": "1"
+  },
+  "2.2": {
+   "body": "In 1978, chef Antoine Rousseau opened a restaurant that refused to use any imported ingredients. Critics argue that Rousseau's rejection of global trade is ______ the menu's exclusive reliance on produce grown within fifty kilometers of the restaurant; these locally sourced dishes exemplify his culinary philosophy.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "insensible to",
+    "B": "manifest in",
+    "C": "scrutinized by",
+    "D": "complicated by"
+   },
+   "filler": "2"
+  },
+  "2.3": {
+   "body": "In 1932, typographer Ilse Brandt designed a typeface intended to reject the ornate lettering styles then popular in advertising. Design historians argue that Brandt's rejection of decorative excess is ______ the typeface's stark, uniform strokes and complete absence of serifs; these austere features exemplify her design principles.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "insensible to",
+    "B": "manifest in",
+    "C": "scrutinized by",
+    "D": "complicated by"
+   },
+   "filler": "3"
+  },
+  "2.4": {
+   "body": "In 1955, urban planner Rafael Duarte proposed a neighborhood built entirely around pedestrian paths rather than roads. Planning historians argue that Duarte's rejection of car-centered design is ______ the neighborhood's narrow walkways and complete absence of parking lots; these deliberate choices exemplify his planning philosophy.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "insensible to",
+    "B": "manifest in",
+    "C": "scrutinized by",
+    "D": "complicated by"
+   },
+   "filler": "4"
+  },
+  "2.5": {
+   "body": "In 1969, potter Naomi Fielding began firing her ceramics using only wood-burning kilns she built herself. Craft historians argue that Fielding's rejection of industrial manufacturing is ______ the uneven glazes and irregular shapes of her finished pieces; these imperfect qualities exemplify her artistic values.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "insensible to",
+    "B": "manifest in",
+    "C": "scrutinized by",
+    "D": "complicated by"
+   },
+   "filler": "5"
+  },
+  "o3": {
+   "body": "______ the long-standing trend of overemphasizing teenagers and young adults in research on social media use, scholars have recently begun to expand their focus to include the fastest-growing cohort of social media users: senior citizens.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "Exacerbating",
+    "B": "Redressing",
+    "C": "Epitomizing",
+    "D": "Precluding"
+   },
+   "filler": null
+  },
+  "3.1": {
+   "body": "______ the long-standing trend of overemphasizing urban neighborhoods in studies of public transit use, transportation researchers have recently begun to expand their focus to include the fastest-growing group of transit riders: residents of small rural towns.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "Exacerbating",
+    "B": "Redressing",
+    "C": "Epitomizing",
+    "D": "Precluding"
+   },
+   "filler": "1"
+  },
+  "3.2": {
+   "body": "______ the long-standing trend of overemphasizing large predators in wildlife conservation funding, ecologists have recently begun to expand their focus to include the fastest-declining group of species: freshwater insects.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "Exacerbating",
+    "B": "Redressing",
+    "C": "Epitomizing",
+    "D": "Precluding"
+   },
+   "filler": "2"
+  },
+  "3.3": {
+   "body": "______ the long-standing trend of overemphasizing male athletes in sports medicine research, physiologists have recently begun to expand their focus to include the fastest-growing group of competitive athletes: women over the age of forty.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "Exacerbating",
+    "B": "Redressing",
+    "C": "Epitomizing",
+    "D": "Precluding"
+   },
+   "filler": "3"
+  },
+  "3.4": {
+   "body": "______ the long-standing trend of overemphasizing well-known composers in music history courses, musicologists have recently begun to expand their focus to include the fastest-growing area of scholarly interest: anonymous folk compositions.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "Exacerbating",
+    "B": "Redressing",
+    "C": "Epitomizing",
+    "D": "Precluding"
+   },
+   "filler": "4"
+  },
+  "3.5": {
+   "body": "______ the long-standing trend of overemphasizing coastal cities in climate adaptation planning, policy researchers have recently begun to expand their focus to include the fastest-growing group of at-risk communities: inland floodplain towns.",
+   "stem": "Which choice completes the text with the most logical and precise word or phrase?",
+   "opts": {
+    "A": "Exacerbating",
+    "B": "Redressing",
+    "C": "Epitomizing",
+    "D": "Precluding"
+   },
+   "filler": "5"
+  },
+  "o4": {
+   "body": "The following text is adapted from James Baldwin's 1956 novel Giovanni's Room. The narrator is riding in a taxi down a street lined with food vendors and shoppers in Paris, France.\n\nThe multitude of Paris seems to be dressed in blue every day but Sunday, when, for the most part, they put on an unbelievably festive black. Here they were now, in blue, disputing, every inch, our passage, with their wagons, handtrucks, their bursting baskets carried at an angle steeply self-confident on the back.",
+   "stem": "As used in the text, what does the word disputing most nearly mean?",
+   "opts": {
+    "A": "Arguing about",
+    "B": "Disapproving of",
+    "C": "Asserting possession of",
+    "D": "Providing resistance to"
+   },
+   "filler": null
+  },
+  "4.1": {
+   "body": "The following text is adapted from a novel. The narrator is walking through a crowded market street at dusk. Carts, crates, and the last stragglers of the evening crowd were disputing every inch of our path, each unwilling to yield the narrow lane before finishing whatever business had kept them there.",
+   "stem": "As used in the text, what does the word disputing most nearly mean?",
+   "opts": {
+    "A": "Arguing about",
+    "B": "Disapproving of",
+    "C": "Asserting possession of",
+    "D": "Providing resistance to"
+   },
+   "filler": "1"
+  },
+  "4.2": {
+   "body": "The following text is adapted from a novel. The narrator is trying to cross a flooded field after a storm. Fallen branches and tangled undergrowth were disputing every step forward, each obstacle demanding to be climbed over or pushed aside before the next could even be seen.",
+   "stem": "As used in the text, what does the word disputing most nearly mean?",
+   "opts": {
+    "A": "Arguing about",
+    "B": "Disapproving of",
+    "C": "Asserting possession of",
+    "D": "Providing resistance to"
+   },
+   "filler": "2"
+  },
+  "4.3": {
+   "body": "The following text is adapted from a memoir. The narrator is pushing through a crowded subway platform during rush hour. Shoulders, bags, and elbows were disputing every foot of space, and by the time I reached the stairs my coat had been pulled nearly off one arm.",
+   "stem": "As used in the text, what does the word disputing most nearly mean?",
+   "opts": {
+    "A": "Arguing about",
+    "B": "Disapproving of",
+    "C": "Asserting possession of",
+    "D": "Providing resistance to"
+   },
+   "filler": "3"
+  },
+  "4.4": {
+   "body": "The following text is adapted from a short story. The narrator is climbing a steep, overgrown trail at midday. Roots, loose stones, and thick vines were disputing every stride uphill, so that what should have been an hour's walk stretched into most of the afternoon.",
+   "stem": "As used in the text, what does the word disputing most nearly mean?",
+   "opts": {
+    "A": "Arguing about",
+    "B": "Disapproving of",
+    "C": "Asserting possession of",
+    "D": "Providing resistance to"
+   },
+   "filler": "4"
+  },
+  "4.5": {
+   "body": "The following text is adapted from a novel. The narrator is wading through a crowded harbor market at midday. Baskets, coiled ropes, and idle fishermen were disputing every step toward the dock, and I had to turn sideways more than once just to keep moving forward.",
+   "stem": "As used in the text, what does the word disputing most nearly mean?",
+   "opts": {
+    "A": "Arguing about",
+    "B": "Disapproving of",
+    "C": "Asserting possession of",
+    "D": "Providing resistance to"
+   },
+   "filler": "5"
+  },
+  "o5": {
+   "body": "On painter William H. Johnson's return to the United States in 1938 after a decade in Europe, his style underwent an abrupt transformation. Turning away from landscapes painted in an expressionist style—a style that often involves using fluid, distorted shapes and thick, textured brushstrokes to express the artist's subjective experience of reality—Johnson began painting portraits of Black Americans in a bold new way. Evocative of African sculpture and American and Scandinavian folk art, these portraits feature flat, deliberately oversimplified figures in a vibrant but limited color palette.",
+   "stem": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+   "opts": {
+    "A": "It elaborates on the previous sentence's statement about a transitional moment in Johnson's artistic career.",
+    "B": "It provides information about Johnson's travels in support of a claim about his artistic influences, which is advanced in the following sentence.",
+    "C": "It recounts a moment in Johnson's personal life that enabled the success of his subsequent career, which is summarized in the following sentence.",
+    "D": "It presents evidence that calls into question the previous sentence's characterization of Johnson's artistic development."
+   },
+   "filler": null
+  },
+  "5.1": {
+   "body": "On composer Ingrid Falk's return to Norway in 1952 after years abroad, her musical style underwent an abrupt transformation. Turning away from the dense orchestral scores she had written throughout the 1940s, Falk began composing sparse chamber pieces built around long silences and single sustained notes. Evocative of Norwegian folk fiddle traditions and the natural acoustics of fjord landscapes, these pieces feature minimal instrumentation and deliberately unresolved harmonies.",
+   "stem": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+   "opts": {
+    "A": "It elaborates on the previous sentence's statement about a transitional moment in Falk's musical career.",
+    "B": "It provides information about Falk's travels in support of a claim about her musical influences, which is advanced in the following sentence.",
+    "C": "It recounts a moment in Falk's personal life that enabled the success of her subsequent career, which is summarized in the following sentence.",
+    "D": "It presents evidence that calls into question the previous sentence's characterization of Falk's musical development."
+   },
+   "filler": "1"
+  },
+  "5.2": {
+   "body": "Upon novelist Teodor Basescu's release from a decade in political exile in 1987, his writing style underwent an abrupt transformation. Turning away from the dense, allegorical prose he had published before his exile, Basescu began writing spare, plainly narrated short stories centered on ordinary daily routines. Evocative of oral storytelling traditions and postwar minimalist fiction, these stories feature unadorned sentences and almost no figurative language.",
+   "stem": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+   "opts": {
+    "A": "It elaborates on the previous sentence's statement about a transitional moment in Basescu's literary career.",
+    "B": "It provides information about Basescu's exile in support of a claim about his literary influences, which is advanced in the following sentence.",
+    "C": "It recounts a moment in Basescu's personal life that enabled the success of his subsequent career, which is summarized in the following sentence.",
+    "D": "It presents evidence that calls into question the previous sentence's characterization of Basescu's literary development."
+   },
+   "filler": "2"
+  },
+  "5.3": {
+   "body": "After designer Naomi Achterberg relocated her studio from Paris to Lagos in 1975, her design style underwent an abrupt transformation. Turning away from the closely tailored, monochrome silhouettes she had built her early reputation on, Achterberg began designing loose, brightly patterned garments cut from hand-dyed cotton. Evocative of regional textile traditions and the bright light of the West African coast, these garments feature bold geometric prints and asymmetrical draping.",
+   "stem": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+   "opts": {
+    "A": "It elaborates on the previous sentence's statement about a transitional moment in Achterberg's design career.",
+    "B": "It provides information about Achterberg's relocation in support of a claim about her design influences, which is advanced in the following sentence.",
+    "C": "It recounts a moment in Achterberg's personal life that enabled the success of her subsequent career, which is summarized in the following sentence.",
+    "D": "It presents evidence that calls into question the previous sentence's characterization of Achterberg's design development."
+   },
+   "filler": "3"
+  },
+  "5.4": {
+   "body": "Following director Hassan Idrissi's return to Morocco in 1968 after film school abroad, his directing style underwent an abrupt transformation. Turning away from the tightly scripted, dialogue-heavy films he had made as a student, Idrissi began directing loosely structured films built around long, unscripted takes of everyday street life. Evocative of Italian neorealism and traditional Moroccan storytelling, these films feature nonprofessional actors and minimal editing.",
+   "stem": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+   "opts": {
+    "A": "It elaborates on the previous sentence's statement about a transitional moment in Idrissi's directing career.",
+    "B": "It provides information about Idrissi's film schooling in support of a claim about his directing influences, which is advanced in the following sentence.",
+    "C": "It recounts a moment in Idrissi's personal life that enabled the success of his subsequent career, which is summarized in the following sentence.",
+    "D": "It presents evidence that calls into question the previous sentence's characterization of Idrissi's directing development."
+   },
+   "filler": "4"
+  },
+  "5.5": {
+   "body": "After potter Junko Aoyama took over her family's workshop in 1990, her ceramic style underwent an abrupt transformation. Turning away from the delicately painted porcelain her family had produced for generations, Aoyama began firing rough, unglazed stoneware left deliberately asymmetrical. Evocative of centuries-old wabi-sabi aesthetics and the coastal clay of her hometown, these pieces feature visible cracks and uneven surfaces left exposed rather than smoothed away.",
+   "stem": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+   "opts": {
+    "A": "It elaborates on the previous sentence's statement about a transitional moment in Aoyama's ceramic career.",
+    "B": "It provides information about Aoyama's family workshop in support of a claim about her ceramic influences, which is advanced in the following sentence.",
+    "C": "It recounts a moment in Aoyama's personal life that enabled the success of her subsequent career, which is summarized in the following sentence.",
+    "D": "It presents evidence that calls into question the previous sentence's characterization of Aoyama's ceramic development."
+   },
+   "filler": "5"
+  },
+  "o6": {
+   "body": "Scholarly accounts of the Chicano movement—a movement that advocated for the social, political, and cultural empowerment of Mexican Americans and reached its zenith in the 1960s and 1970s—tend to focus on the most militant, outspoken figures in the movement, making it seem uniformly radical. Geographer Juan Herrera has shown, however, that if we shift our focus toward the way the movement manifested in comparatively low-profile neighborhood institutions and projects, we see participants espousing an array of political orientations and approaches to community activism.",
+   "stem": "Which choice best describes the function of the underlined portion in the text as a whole?",
+   "opts": {
+    "A": "It presents a trend in scholarship on the Chicano movement that the text claims has been reevaluated by researchers in light of Herrera's work on the movement's participants.",
+    "B": "It identifies an aspect of the Chicano movement that the text implies was overemphasized by scholars due to their own political orientations.",
+    "C": "It describes a common approach to studying the Chicano movement that, according to the text, obscures the ideological diversity of the movement's participants.",
+    "D": "It summarizes the conventional method for analyzing the Chicano movement, which the text suggests creates a misleading impression of the effectiveness of neighborhood institutions and projects."
+   },
+   "filler": null
+  },
+  "6.1": {
+   "body": "Standard accounts of the guild movement in medieval textile towns tend to focus on the wealthiest master weavers, making the guilds seem uniformly prosperous. Economic historian Ana Beltran has shown, however, that if we shift focus toward the far more numerous apprentice and journeyman weavers, we see participants facing a wide range of economic circumstances, from comfortable stability to persistent hardship.",
+   "stem": "Which choice best describes the function of the underlined portion in the text as a whole?",
+   "opts": {
+    "A": "It presents a trend in scholarship on the guild movement that the text claims has been reevaluated by researchers in light of Beltran's work on the guilds' members.",
+    "B": "It identifies an aspect of the guild movement that the text implies was overemphasized by scholars due to their own economic backgrounds.",
+    "C": "It describes a common approach to studying the guild movement that, according to the text, obscures the range of economic circumstances among its members.",
+    "D": "It summarizes the conventional method for analyzing the guild movement, which the text suggests creates a misleading impression of the effectiveness of apprenticeship programs."
+   },
+   "filler": "1"
+  },
+  "6.2": {
+   "body": "Standard accounts of the abolitionist movement in a particular state tend to focus on its most prominent public speakers, making the movement seem uniformly confrontational in its tactics. Historian Marcus DeWitt has shown, however, that if we shift focus toward the movement's local church-based and neighborhood organizing efforts, we see participants employing a wide range of strategies, from quiet fundraising to direct legal challenges.",
+   "stem": "Which choice best describes the function of the underlined portion in the text as a whole?",
+   "opts": {
+    "A": "It presents a trend in scholarship on the abolitionist movement that the text claims has been reevaluated by researchers in light of DeWitt's work on the movement's participants.",
+    "B": "It identifies an aspect of the abolitionist movement that the text implies was overemphasized by scholars due to their own political views.",
+    "C": "It describes a common approach to studying the abolitionist movement that, according to the text, obscures the range of strategies used by its participants.",
+    "D": "It summarizes the conventional method for analyzing the abolitionist movement, which the text suggests creates a misleading impression of the effectiveness of local organizing."
+   },
+   "filler": "2"
+  },
+  "6.3": {
+   "body": "Standard accounts of the early environmental movement tend to focus on its national lobbying organizations, making the movement seem uniformly focused on federal legislation. Sociologist Priya Ramaswamy has shown, however, that if we shift focus toward small, community-led conservation projects of the same period, we see participants pursuing a wide range of goals, from local land trusts to neighborhood recycling programs.",
+   "stem": "Which choice best describes the function of the underlined portion in the text as a whole?",
+   "opts": {
+    "A": "It presents a trend in scholarship on the environmental movement that the text claims has been reevaluated by researchers in light of Ramaswamy's work on the movement's participants.",
+    "B": "It identifies an aspect of the environmental movement that the text implies was overemphasized by scholars due to their own institutional affiliations.",
+    "C": "It describes a common approach to studying the environmental movement that, according to the text, obscures the range of goals pursued by its participants.",
+    "D": "It summarizes the conventional method for analyzing the environmental movement, which the text suggests creates a misleading impression of the effectiveness of national lobbying."
+   },
+   "filler": "3"
+  },
+  "6.4": {
+   "body": "Standard accounts of the early computer hobbyist movement tend to focus on a handful of well-known garage inventors, making the movement seem uniformly oriented toward commercial success. Historian Wei Chen has shown, however, that if we shift focus toward the many small hobbyist clubs that met in libraries and community centers, we see participants pursuing a wide range of motivations, from pure curiosity to educational outreach.",
+   "stem": "Which choice best describes the function of the underlined portion in the text as a whole?",
+   "opts": {
+    "A": "It presents a trend in scholarship on the computer hobbyist movement that the text claims has been reevaluated by researchers in light of Chen's work on the movement's participants.",
+    "B": "It identifies an aspect of the computer hobbyist movement that the text implies was overemphasized by scholars due to their own professional backgrounds.",
+    "C": "It describes a common approach to studying the computer hobbyist movement that, according to the text, obscures the range of motivations among its participants.",
+    "D": "It summarizes the conventional method for analyzing the computer hobbyist movement, which the text suggests creates a misleading impression of the effectiveness of garage inventors."
+   },
+   "filler": "4"
+  },
+  "6.5": {
+   "body": "Standard accounts of the settlement house movement tend to focus on its most famous founders, making the movement seem uniformly shaped by a single reform philosophy. Historian Odalys Ferreira has shown, however, that if we shift focus toward the day-to-day staff who ran individual settlement houses, we see participants adopting a wide range of approaches, from strict vocational training to loosely structured community gatherings.",
+   "stem": "Which choice best describes the function of the underlined portion in the text as a whole?",
+   "opts": {
+    "A": "It presents a trend in scholarship on the settlement house movement that the text claims has been reevaluated by researchers in light of Ferreira's work on the movement's participants.",
+    "B": "It identifies an aspect of the settlement house movement that the text implies was overemphasized by scholars due to their own class backgrounds.",
+    "C": "It describes a common approach to studying the settlement house movement that, according to the text, obscures the range of approaches among its participants.",
+    "D": "It summarizes the conventional method for analyzing the settlement house movement, which the text suggests creates a misleading impression of the effectiveness of a single reform philosophy."
+   },
+   "filler": "5"
+  },
+  "o7": {
+   "body": "Since its completion in 2014, Bosco Verticale (Vertical Forest)—a pair of residential towers in Milan, Italy, covered by vegetation—has become a striking symbol of environmental sustainability in architecture. Stefano Boeri intended his design, which features balconies that are home to hundreds of trees, to serve as a model for promoting urban biodiversity. However, the concept has faced skepticism: critics note that although the trees used in Bosco Verticale were specifically cultivated for the project, it's too early to tell if they can thrive in this unusual setting.",
+   "stem": "According to the text, why are some critics skeptical of the concept behind Bosco Verticale?",
+   "opts": {
+    "A": "Some essential aspects of Bosco Verticale's design are difficult to adapt to locations other than Milan.",
+    "B": "The plant life on Bosco Verticale ended up being less varied than Boeri had envisioned it would be.",
+    "C": "The construction of Bosco Verticale was no less environmentally damaging than the construction of more conventional buildings is.",
+    "D": "It is unclear whether Bosco Verticale can support the plant life included in its design."
+   },
+   "filler": null
+  },
+  "7.1": {
+   "body": "Since its unveiling in 2019, the Solaris Canopy—a shading structure over a public plaza in Doha covered in photovoltaic-embedded fabric—has become a widely cited example of climate-adaptive architecture. Designer Farah Haddad intended the fabric, which generates electricity while blocking direct sun, to serve as a model for hot-climate public spaces. However, the concept has faced skepticism: critics note that although the fabric was specifically engineered for this installation, it's too early to tell if it can maintain its electrical output after years of exposure to blowing sand and extreme heat.",
+   "stem": "According to the text, why are some critics skeptical of the concept behind the Solaris Canopy?",
+   "opts": {
+    "A": "Some essential aspects of the Solaris Canopy's design are difficult to adapt to locations other than Doha.",
+    "B": "The fabric used in the Solaris Canopy generates less electricity than Haddad had originally envisioned.",
+    "C": "The construction of the Solaris Canopy required more resources than the construction of conventional shading structures.",
+    "D": "It is unclear whether the fabric can maintain its performance under the installation's specific long-term conditions."
+   },
+   "filler": "1"
+  },
+  "7.2": {
+   "body": "Since its completion in 2016, the Living Seawall—a stretch of artificial reef panels installed along a harbor in Sydney—has become a frequently cited example of urban marine restoration. Engineer Devika Nair intended the textured panels, designed to mimic natural rock crevices, to serve as a model for restoring marine life along developed coastlines. However, the concept has faced skepticism: critics note that although the panels were specifically molded for this harbor, it's too early to tell if the marine species they attract can establish a stable, self-sustaining population there.",
+   "stem": "According to the text, why are some critics skeptical of the concept behind the Living Seawall?",
+   "opts": {
+    "A": "Some essential aspects of the Living Seawall's design are difficult to adapt to harbors other than Sydney's.",
+    "B": "The panels used in the Living Seawall attracted fewer species than Nair had originally envisioned.",
+    "C": "The construction of the Living Seawall was no less disruptive to marine life than conventional seawall construction.",
+    "D": "It is unclear whether the attracted marine species can establish a lasting, self-sustaining population there."
+   },
+   "filler": "2"
+  },
+  "7.3": {
+   "body": "Since its planting in 2018, the Whispering Grove—a stand of genetically modified drought-resistant oaks planted along a highway outside Phoenix—has become a frequently cited example of climate-resilient urban forestry. Horticulturalist Marco Silva intended the trees, engineered to require minimal irrigation, to serve as a model for greening arid roadways. However, the concept has faced skepticism: critics note that although the trees were specifically bred for this climate, it's too early to tell if their root systems can remain stable in the compacted soil found along most highway corridors.",
+   "stem": "According to the text, why are some critics skeptical of the concept behind the Whispering Grove?",
+   "opts": {
+    "A": "Some essential aspects of the Whispering Grove's design are difficult to adapt to climates other than Phoenix's.",
+    "B": "The trees used in the Whispering Grove required more irrigation than Silva had originally envisioned.",
+    "C": "The planting of the Whispering Grove was no less costly than planting conventional highway trees.",
+    "D": "It is unclear whether the trees' root systems can remain stable in the compacted soil found along highway corridors."
+   },
+   "filler": "3"
+  },
+  "7.4": {
+   "body": "Since its launch in 2021, the Tidal Lantern—a string of buoy-mounted turbines generating power from wave motion off the coast of Cornwall—has become a frequently cited example of small-scale marine energy. Engineer Bryn Talbot intended the buoys, designed to flex with passing waves, to serve as a model for coastal renewable energy. However, the concept has faced skepticism: critics note that although the buoys were specifically built for this stretch of coastline, it's too early to tell if their moving parts can withstand years of continuous storm exposure.",
+   "stem": "According to the text, why are some critics skeptical of the concept behind the Tidal Lantern?",
+   "opts": {
+    "A": "Some essential aspects of the Tidal Lantern's design are difficult to adapt to coastlines other than Cornwall's.",
+    "B": "The buoys used in the Tidal Lantern generated less power than Talbot had originally envisioned.",
+    "C": "The construction of the Tidal Lantern was no less disruptive to marine traffic than conventional turbine installations.",
+    "D": "It is unclear whether the buoys' moving parts can withstand years of continuous storm exposure."
+   },
+   "filler": "4"
+  },
+  "7.5": {
+   "body": "Since its opening in 2020, the Hollow Spire—a residential tower in Rotterdam built around a central column of vertical gardens—has become a frequently cited example of biophilic urban design. Architect Lotte Bakker intended the column, irrigated by recycled greywater, to serve as a model for integrating greenery into dense housing. However, the concept has faced skepticism: critics note that although the plants were specifically selected for this system, it's too early to tell if the greywater irrigation can reliably support them through the building's coldest winters.",
+   "stem": "According to the text, why are some critics skeptical of the concept behind the Hollow Spire?",
+   "opts": {
+    "A": "Some essential aspects of the Hollow Spire's design are difficult to adapt to buildings other than residential towers.",
+    "B": "The plants used in the Hollow Spire required less water than Bakker had originally envisioned.",
+    "C": "The construction of the Hollow Spire was no less costly than the construction of conventional residential towers.",
+    "D": "It is unclear whether the greywater irrigation can reliably support the plants through the building's coldest winters."
+   },
+   "filler": "5"
+  },
+  "o8": {
+   "body": "Elizabeth Asiedu has identified a negative correlation between the share of developing countries' economies derived from natural-resource extraction and those countries' receipts of foreign investment. This may appear counterintuitive—resource extraction requires initial investments (in extractive technology, for instance) at scales best met by multinational corporations—but Asiedu notes that natural-resource industries' boom-bust cycle can destabilize local currencies and increase developing countries' vulnerability to external shocks, creating levels of uncertainty to which foreign investors are typically averse.",
+   "stem": "Which choice best states the main idea of the text?",
+   "opts": {
+    "A": "Although it may seem surprising that foreign investment declines in developing countries as natural-resource extraction makes up a larger share of those countries' economies, that decline happens because resource extraction requires initial investments too large for foreign investors to supply.",
+    "B": "Although developing countries tend to become less dependent on foreign investment as natural-resource industries make up a larger share of their economies, this change may not occur if the boom-bust cycle of those industries destabilizes local currencies or increases countries' vulnerability to external shocks.",
+    "C": "Although one might expect that foreign investment would increase as natural-resource extraction makes up a larger share of developing countries' economies, the opposite happens because heavy reliance on natural resources can lead to unattractive conditions for investors.",
+    "D": "Although foreign investors tend to avoid initial investments in natural-resource industries in developing countries, foreign investment may increase significantly as those industries stabilize and the risks associated with them decline."
+   },
+   "filler": null
+  },
+  "8.1": {
+   "body": "Camille Duval has identified a negative correlation between the proportion of a city's downtown occupied by short-term vacation rentals and that city's long-term small-business survival rate. This may appear counterintuitive—vacation rentals bring a steady stream of visitors who might be expected to support local shops—but Duval notes that the resulting spikes in rent, driven by property owners converting long-term leases into short-term rentals, price out the very small businesses that once served longtime residents, creating a less stable customer base overall.",
+   "stem": "Which choice best states the main idea of the text?",
+   "opts": {
+    "A": "Although it may seem surprising that small-business survival declines in cities with more short-term rentals, that decline happens because rental owners avoid renting to businesses that serve tourists.",
+    "B": "Although downtown neighborhoods tend to become less dependent on tourism as vacation rentals increase, this change may not occur if rent increases displace long-term residents.",
+    "C": "Although one might expect small-business survival to increase as vacation rentals bring more visitors downtown, the opposite happens because rising rents driven by those rentals price out small businesses and destabilize their customer base.",
+    "D": "Although vacation rental owners tend to avoid converting properties in areas with strong small-business districts, conversions may increase significantly as those districts decline and rents fall."
+   },
+   "filler": "1"
+  },
+  "8.2": {
+   "body": "Tomasz Wieczorek has identified a negative correlation between the share of a country's electricity generated from a newly built dam and that country's electricity price stability in the years immediately following construction. This may appear counterintuitive—large dams are often expected to provide cheap, stable power—but Wieczorek notes that the debt taken on to finance construction, combined with unpredictable rainfall affecting output, can make electricity prices more volatile rather than less, at least until the debt is paid down.",
+   "stem": "Which choice best states the main idea of the text?",
+   "opts": {
+    "A": "Although it may seem surprising that electricity prices become less stable after a large dam is built, that instability happens because dam operators intentionally raise prices to recover construction costs.",
+    "B": "Although countries tend to become less reliant on imported electricity as dam-generated power increases, this change may not occur if rainfall patterns shift unpredictably.",
+    "C": "Although one might expect electricity prices to become more stable as a new dam comes online, the opposite happens because construction debt and unpredictable rainfall can make prices more volatile instead.",
+    "D": "Although dam financiers tend to avoid funding projects in countries with unstable electricity prices, financing may increase significantly as those countries' rainfall patterns become more predictable."
+   },
+   "filler": "2"
+  },
+  "8.3": {
+   "body": "Aisha Bello has identified a negative correlation between the number of self-checkout kiosks a grocery chain installs and that chain's overall customer satisfaction scores in the following year. This may appear counterintuitive—self-checkout is often expected to reduce wait times and improve the shopping experience—but Bello notes that the resulting reduction in staffed checkout lanes can leave customers with complex purchases or technical problems with no easy source of help, lowering satisfaction overall.",
+   "stem": "Which choice best states the main idea of the text?",
+   "opts": {
+    "A": "Although it may seem surprising that customer satisfaction falls as self-checkout kiosks increase, that decline happens because kiosks are more expensive for stores to maintain than staffed lanes.",
+    "B": "Although grocery chains tend to become less reliant on staffed checkout lanes as kiosks increase, this change may not occur if customers resist using the new technology.",
+    "C": "Although one might expect customer satisfaction to rise as self-checkout kiosks reduce wait times, the opposite happens because fewer staffed lanes leave customers without help for complex purchases or technical issues.",
+    "D": "Although grocery chains tend to avoid installing kiosks in stores with high customer satisfaction, installation may increase significantly as satisfaction scores in those stores decline."
+   },
+   "filler": "3"
+  },
+  "8.4": {
+   "body": "Ravi Chandrasekaran has identified a negative correlation between the number of budget-priced streaming platforms a household subscribes to and that household's reported satisfaction with its overall entertainment options. This may appear counterintuitive—more platforms are often expected to mean more content and greater choice—but Chandrasekaran notes that the resulting need to track multiple libraries, prices, and interfaces can create decision fatigue that leaves households feeling less satisfied rather than more.",
+   "stem": "Which choice best states the main idea of the text?",
+   "opts": {
+    "A": "Although it may seem surprising that entertainment satisfaction falls as streaming subscriptions increase, that decline happens because platforms deliberately limit content to encourage additional subscriptions.",
+    "B": "Although households tend to become less selective about content as streaming subscriptions increase, this change may not occur if a household cancels unused subscriptions.",
+    "C": "Although one might expect entertainment satisfaction to rise as more streaming platforms offer more choice, the opposite happens because tracking multiple libraries and interfaces creates decision fatigue that lowers satisfaction.",
+    "D": "Although streaming platforms tend to avoid targeting households with several existing subscriptions, targeting may increase significantly as those households' satisfaction with existing platforms declines."
+   },
+   "filler": "4"
+  },
+  "8.5": {
+   "body": "Helena Kowalczyk has identified a negative correlation between the number of open-plan seating areas a company adds to its office and that company's employee-reported focus and productivity. This may appear counterintuitive—open floor plans are often expected to boost collaboration and efficiency—but Kowalczyk notes that the resulting rise in ambient noise and visual distraction can make sustained concentration more difficult, lowering measured productivity rather than raising it.",
+   "stem": "Which choice best states the main idea of the text?",
+   "opts": {
+    "A": "Although it may seem surprising that productivity falls as open-plan seating increases, that decline happens because companies use open plans mainly to reduce office space costs.",
+    "B": "Although companies tend to become less collaborative as open-plan seating increases, this change may not occur if employees are given noise-canceling headphones.",
+    "C": "Although one might expect productivity to rise as open-plan seating boosts collaboration, the opposite happens because increased noise and visual distraction make sustained concentration more difficult.",
+    "D": "Although companies tend to avoid adding open-plan seating in departments with high existing productivity, additions may increase significantly as those departments' productivity declines."
+   },
+   "filler": "5"
+  },
+  "o9": {
+   "body": "Some astronomers searching for extraterrestrial life have proposed that atmospheric NH3 (ammonia) can serve as a biosignature gas—an indication that a planet harbors life. Jingcheng Huang, Sara Seager, and colleagues evaluated this possibility, finding that on rocky planets, atmospheric NH3 likely couldn't reach detectably high levels in the absence of biological activity. But the team also found that on so-called mini-Neptunes—gas planets smaller than Neptune but with atmospheres similar to Neptune's—atmospheric pressure and temperature can be high enough to produce atmospheric NH3.",
+   "stem": "Based on the text, Huang, Seager, and colleagues would most likely agree with which statement about atmospheric NH3?",
+   "opts": {
+    "A": "Its presence is more likely to indicate that a planet is a mini-Neptune than that the planet is a rocky planet that could support life.",
+    "B": "Its absence from a planet that's not a mini-Neptune indicates that the planet probably doesn't have life.",
+    "C": "It should be treated as a biosignature gas if detected in the atmosphere of a rocky planet but not if detected in the atmosphere of a mini-Neptune.",
+    "D": "It doesn't reliably reach high enough concentrations in the atmospheres of rocky planets or mini-Neptunes to be treated as a biosignature gas."
+   },
+   "filler": null
+  },
+  "9.1": {
+   "body": "Some astrobiologists have proposed that atmospheric phosphine can serve as a biosignature gas—an indication that a planet harbors life. Elena Marchetti and colleagues evaluated this possibility, finding that on small rocky planets, atmospheric phosphine likely couldn't reach detectably high levels in the absence of biological activity. But the team also found that on gas giants with deep, high-pressure atmospheres, phosphine can form abiotically under extreme temperature and pressure alone.",
+   "stem": "Based on the text, Marchetti and colleagues would most likely agree with which statement about atmospheric phosphine?",
+   "opts": {
+    "A": "Its presence is more likely to indicate that a planet is a gas giant than that the planet is a rocky planet that could support life.",
+    "B": "Its absence from a planet that's not a gas giant indicates that the planet probably doesn't have life.",
+    "C": "It should be treated as a biosignature gas if detected in the atmosphere of a rocky planet but not if detected in the atmosphere of a gas giant.",
+    "D": "It doesn't reliably reach high enough concentrations in the atmospheres of rocky planets or gas giants to be treated as a biosignature gas."
+   },
+   "filler": "1"
+  },
+  "9.2": {
+   "body": "Some astrobiologists have proposed that atmospheric methyl chloride can serve as a biosignature gas. Dara Osei and colleagues evaluated this possibility, finding that on small rocky planets orbiting quiet stars, atmospheric methyl chloride likely couldn't reach detectably high levels in the absence of biological activity. But the team also found that on rocky planets orbiting highly active, flaring stars, methyl chloride can form abiotically through intense stellar radiation striking the atmosphere.",
+   "stem": "Based on the text, Osei and colleagues would most likely agree with which statement about atmospheric methyl chloride?",
+   "opts": {
+    "A": "Its presence is more likely to indicate that a planet orbits a flaring star than that the planet could support life.",
+    "B": "Its absence from a planet orbiting a quiet star indicates that the planet probably doesn't have life.",
+    "C": "It should be treated as a biosignature gas if detected around a quiet star but not if detected around a highly active, flaring star.",
+    "D": "It doesn't reliably reach high enough concentrations around either quiet or flaring stars to be treated as a biosignature gas."
+   },
+   "filler": "2"
+  },
+  "9.3": {
+   "body": "Some astrobiologists have proposed that atmospheric dimethyl sulfide can serve as a biosignature gas. Jorge Villalobos and colleagues evaluated this possibility, finding that on planets with thin, oxygen-poor atmospheres, atmospheric dimethyl sulfide likely couldn't reach detectably high levels in the absence of biological activity. But the team also found that on planets with thick, sulfur-rich volcanic atmospheres, dimethyl sulfide can form abiotically through ongoing volcanic outgassing alone.",
+   "stem": "Based on the text, Villalobos and colleagues would most likely agree with which statement about atmospheric dimethyl sulfide?",
+   "opts": {
+    "A": "Its presence is more likely to indicate that a planet is volcanically active than that the planet could support life.",
+    "B": "Its absence from a planet without a sulfur-rich atmosphere indicates that the planet probably doesn't have life.",
+    "C": "It should be treated as a biosignature gas if detected in a thin, oxygen-poor atmosphere but not if detected in a thick, sulfur-rich volcanic atmosphere.",
+    "D": "It doesn't reliably reach high enough concentrations in either type of atmosphere to be treated as a biosignature gas."
+   },
+   "filler": "3"
+  },
+  "9.4": {
+   "body": "Some astrobiologists have proposed that atmospheric nitrous oxide can serve as a biosignature gas. Priya Deshmukh and colleagues evaluated this possibility, finding that on temperate rocky planets, atmospheric nitrous oxide likely couldn't reach detectably high levels in the absence of biological activity. But the team also found that on rocky planets subjected to frequent large asteroid impacts, nitrous oxide can form abiotically through the intense heat and chemical shock of repeated collisions.",
+   "stem": "Based on the text, Deshmukh and colleagues would most likely agree with which statement about atmospheric nitrous oxide?",
+   "opts": {
+    "A": "Its presence is more likely to indicate that a planet experiences frequent impacts than that the planet could support life.",
+    "B": "Its absence from a planet with few impacts indicates that the planet probably doesn't have life.",
+    "C": "It should be treated as a biosignature gas if detected on a temperate planet but not if detected on a planet with frequent large impacts.",
+    "D": "It doesn't reliably reach high enough concentrations on either type of planet to be treated as a biosignature gas."
+   },
+   "filler": "4"
+  },
+  "9.5": {
+   "body": "Some astrobiologists have proposed that atmospheric ethane can serve as a biosignature gas. Soren Lindqvist and colleagues evaluated this possibility, finding that on rocky planets with liquid-water oceans, atmospheric ethane likely couldn't reach detectably high levels in the absence of biological activity. But the team also found that on icy moons with subsurface methane lakes, ethane can form abiotically through ultraviolet radiation breaking down methane in the upper atmosphere.",
+   "stem": "Based on the text, Lindqvist and colleagues would most likely agree with which statement about atmospheric ethane?",
+   "opts": {
+    "A": "Its presence is more likely to indicate that a body is an icy moon than that the body could support life.",
+    "B": "Its absence from an icy moon indicates that the moon probably doesn't have life.",
+    "C": "It should be treated as a biosignature gas if detected on a rocky, ocean-bearing planet but not if detected on an icy moon with methane lakes.",
+    "D": "It doesn't reliably reach high enough concentrations on either body to be treated as a biosignature gas."
+   },
+   "filler": "5"
+  },
+  "o12": {
+   "body": "Under normal atmospheric pressure at Earth's surface, water molecules form a tetrahedral network stabilized by hydrogen bonds between adjacent molecules. Extreme high pressure, such as can be found in deep ocean waters, destabilizes these bonds and compresses water's structure, allowing water molecules within organisms to permeate proteins and impede crucial biological functions; yet deep-sea organisms known as piezophiles have adapted to extreme pressure. Studies have found a positive correlation between the depths that various piezophiles inhabit and concentrations of a compound called trimethylamine N-oxide (TMAO) in their muscle tissues, which has led a team of researchers to hypothesize that TMAO reduces water's compressibility.",
+   "stem": "Which finding, if true, would most directly support the researchers' hypothesis?",
+   "opts": {
+    "A": "Water molecules are found to be impervious to TMAO even when the water molecules' tetrahedral configuration has been distorted by high pressure.",
+    "B": "Examination of TMAO's molecular structure shows that TMAO molecules retain their shape even as pressure increases.",
+    "C": "A positive correlation is found between concentrations of TMAO and the rate at which water's molecular structure compresses as pressure increases.",
+    "D": "Analysis of water's molecular structure under high pressure reveals that hydrogen bonds are more stable when TMAO is present than when it is not."
+   },
+   "filler": null
+  },
+  "12.1": {
+   "body": "Under normal atmospheric pressure, cell membranes maintain a flexible, semi-fluid lipid structure. Extreme cold, such as found in polar waters, rigidifies this structure and can impair nutrient transport across the membrane; yet cold-adapted fish have evolved to survive these temperatures. Studies have found a positive correlation between the depths at which various cold-adapted fish live and concentrations of unsaturated fatty acids in their cell membranes, leading a team of researchers to hypothesize that these fatty acids reduce the membrane's tendency to stiffen in the cold.",
+   "stem": "Which finding, if true, would most directly support the researchers' hypothesis?",
+   "opts": {
+    "A": "Membrane lipids are found to be unaffected by unsaturated fatty acids even when the lipids' arrangement has been altered by low temperature.",
+    "B": "Examination of unsaturated fatty acids' molecular structure shows that they retain their shape even as temperature decreases.",
+    "C": "A positive correlation is found between concentrations of unsaturated fatty acids and the rate at which membrane lipids stiffen as temperature decreases.",
+    "D": "Analysis of membrane structure at low temperature reveals that lipids remain more flexible when unsaturated fatty acids are present than when they are not."
+   },
+   "filler": "1"
+  },
+  "12.2": {
+   "body": "Under normal soil conditions, plant root cell walls maintain a semi-rigid structure that allows for steady water uptake. Extreme salinity, such as found in coastal floodplains, destabilizes this structure and can impair water absorption; yet certain salt-tolerant grasses have adapted to these conditions. Studies have found a positive correlation between the salinity levels grasses tolerate and concentrations of a compound called glycine betaine in their root cells, leading a team of researchers to hypothesize that glycine betaine reduces the cell wall's vulnerability to salt-induced damage.",
+   "stem": "Which finding, if true, would most directly support the researchers' hypothesis?",
+   "opts": {
+    "A": "Root cell walls are found to be unaffected by glycine betaine even when the walls' structure has been altered by high salinity.",
+    "B": "Examination of glycine betaine's molecular structure shows that it retains its shape even as salinity increases.",
+    "C": "A positive correlation is found between concentrations of glycine betaine and the rate at which cell walls become damaged as salinity increases.",
+    "D": "Analysis of root cell structure under high salinity reveals that cell walls remain more stable when glycine betaine is present than when it is not."
+   },
+   "filler": "2"
+  },
+  "12.3": {
+   "body": "Under normal temperatures, insect cuticle maintains a hardened, protective structure. Extreme heat, such as found during heat waves, softens this structure and can leave insects vulnerable to water loss; yet certain desert beetles have adapted to survive such heat. Studies have found a positive correlation between the temperatures desert beetles can withstand and concentrations of a wax-like compound in their cuticle, leading a team of researchers to hypothesize that this compound reduces the cuticle's tendency to soften in extreme heat.",
+   "stem": "Which finding, if true, would most directly support the researchers' hypothesis?",
+   "opts": {
+    "A": "Cuticle structure is found to be unaffected by the wax-like compound even when the cuticle's arrangement has been altered by high heat.",
+    "B": "Examination of the wax-like compound's molecular structure shows that it retains its shape even as temperature increases.",
+    "C": "A positive correlation is found between concentrations of the wax-like compound and the rate at which cuticle softens as temperature increases.",
+    "D": "Analysis of cuticle structure at high temperature reveals that it remains more rigid when the wax-like compound is present than when it is not."
+   },
+   "filler": "3"
+  },
+  "12.4": {
+   "body": "Under normal light levels, the pigment-protein complexes in certain algae maintain a stable folded structure. Extreme sunlight, such as found near the ocean's surface at midday, destabilizes these complexes and can impair photosynthesis; yet some surface-dwelling algae have adapted to withstand intense light. Studies have found a positive correlation between the light intensities algae can tolerate and concentrations of a carotenoid pigment within their cells, leading a team of researchers to hypothesize that this carotenoid reduces the complexes' vulnerability to light-induced damage.",
+   "stem": "Which finding, if true, would most directly support the researchers' hypothesis?",
+   "opts": {
+    "A": "Pigment-protein complexes are found to be unaffected by the carotenoid even when the complexes' structure has been altered by intense light.",
+    "B": "Examination of the carotenoid's molecular structure shows that it retains its shape even as light intensity increases.",
+    "C": "A positive correlation is found between concentrations of the carotenoid and the rate at which complexes become damaged as light intensity increases.",
+    "D": "Analysis of complex structure under intense light reveals that the folded structure remains more stable when the carotenoid is present than when it is not."
+   },
+   "filler": "4"
+  },
+  "12.5": {
+   "body": "Under normal humidity, spider silk maintains a tightly coiled molecular structure that gives it its strength. Extreme dryness, such as found in arid habitats, disrupts this structure and can make the silk brittle; yet certain desert spiders produce silk that withstands such conditions. Studies have found a positive correlation between the dryness levels a spider's habitat reaches and concentrations of a particular protein in its silk, leading a team of researchers to hypothesize that this protein reduces the silk's tendency to become brittle in dry conditions.",
+   "stem": "Which finding, if true, would most directly support the researchers' hypothesis?",
+   "opts": {
+    "A": "Silk structure is found to be unaffected by the protein even when the structure has been altered by low humidity.",
+    "B": "Examination of the protein's molecular structure shows that it retains its shape even as humidity decreases.",
+    "C": "A positive correlation is found between concentrations of the protein and the rate at which silk becomes brittle as humidity decreases.",
+    "D": "Analysis of silk structure under low humidity reveals that the coiled structure remains more stable when the protein is present than when it is not."
+   },
+   "filler": "5"
+  },
+  "o14": {
+   "body": "In a 2013 study, Agness Gidna, Jose Yravedra, and Manuel Dominguez-Rodrigo compared the feeding behaviors of wild lions in Tanzania's Tarangire National Park with those of captive lions in Spain's Cabarceno Reserve. The researchers noted that previous studies focused on other carnivores have shown that providing animals with food at regular intervals, as is common in captive settings, may inadvertently facilitate the development of novel stereotypic (i.e., purposeless repetitive) behaviors by reducing the need for a high degree of cognitive engagement with the environment; the researchers were therefore not altogether surprised to find that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "bones from carcasses provided to captive lions showed signs of extensive gnawing beyond the point of nutrient extraction, whereas bones from prey hunted by wild lions did not.",
+    "B": "during feeding episodes, captive male lions showed much more aggression than did wild male lions, whereas female captive and wild lions showed similar levels of aggression.",
+    "C": "when caretakers placed food in boxes that were cognitively demanding to open, captive lions showed repeated behaviors similar to those that wild lions show when stalking prey.",
+    "D": "captive lions showed a stereotypic behavior of pacing in their enclosures as feeding times approached, whereas wild lions showed a stereotypic behavior of pacing before embarking on a hunt."
+   },
+   "filler": null
+  },
+  "14.1": {
+   "body": "In a 2015 study, Marcus Webb and Aline Duarte compared the foraging behaviors of wild capuchin monkeys in Costa Rica's rainforests with those of captive capuchins in a large zoo enclosure. The researchers noted that previous studies focused on other primates have shown that providing animals with food at predictable times and locations, as is common in captive settings, may inadvertently facilitate the development of novel repetitive behaviors by reducing the need for active searching; the researchers were therefore not altogether surprised to find that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "captive capuchins repeatedly turned over the same empty feeding dishes long after any food had been removed, whereas wild capuchins moved on quickly once a foraging site was exhausted.",
+    "B": "during feeding episodes, captive capuchins showed much more aggression toward each other than wild capuchins did toward members of their own troop.",
+    "C": "when caretakers hid food inside puzzle feeders, captive capuchins solved the puzzles more quickly than wild capuchins located comparable hidden food sources.",
+    "D": "captive capuchins showed a repetitive pacing behavior near enclosure walls as feeding times approached, whereas wild capuchins showed no comparable behavior before a successful hunt."
+   },
+   "filler": "1"
+  },
+  "14.2": {
+   "body": "In a 2012 study, Renata Silva and Owen Blackwood compared the nest-building behaviors of wild orangutans in Borneo with those of captive orangutans at a large sanctuary. The researchers noted that previous studies focused on other great apes have shown that providing animals with pre-cut nesting materials at fixed times, as is common in captive settings, may inadvertently facilitate the development of novel repetitive behaviors by reducing the need for active material selection; the researchers were therefore not altogether surprised to find that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "captive orangutans repeatedly rearranged the same small pile of nesting material without ever completing a usable nest, whereas wild orangutans built complete, structurally sound nests each evening.",
+    "B": "during nest-building episodes, captive orangutans showed much less vocalization than wild orangutans did while gathering branches.",
+    "C": "when caretakers scattered fresh branches unpredictably, captive orangutans located them more quickly than wild orangutans located naturally growing branches.",
+    "D": "captive orangutans showed a repetitive swaying behavior near feeding stations as mealtimes approached, whereas wild orangutans showed no comparable behavior before building a nest."
+   },
+   "filler": "2"
+  },
+  "14.3": {
+   "body": "In a 2018 study, Idris Osei and Camila Rocha compared the digging behaviors of wild meerkats in the Kalahari with those of captive meerkats at a wildlife park. The researchers noted that previous studies focused on other burrowing mammals have shown that providing animals with pre-dug shelters, as is common in captive settings, may inadvertently facilitate the development of novel repetitive behaviors by reducing the need for active burrow construction; the researchers were therefore not altogether surprised to find that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "captive meerkats repeatedly scraped at the same patch of soil near their shelter entrance without ever extending the burrow, whereas wild meerkats continuously extended their burrow systems.",
+    "B": "during digging episodes, captive meerkats showed much more aggression toward each other than wild meerkats did toward members of their own group.",
+    "C": "when caretakers buried food at unpredictable depths, captive meerkats located it more quickly than wild meerkats located naturally buried insects.",
+    "D": "captive meerkats showed a repetitive sentry-posture behavior near enclosure walls as feeding times approached, whereas wild meerkats showed no comparable behavior before digging for food."
+   },
+   "filler": "3"
+  },
+  "14.4": {
+   "body": "In a 2020 study, Fatima Al-Rashid and Dmitri Volkov compared the nut-caching behaviors of wild squirrels in a temperate forest with those of captive squirrels at a research facility. The researchers noted that previous studies focused on other rodents have shown that providing animals with food at fixed, predictable locations, as is common in captive settings, may inadvertently facilitate the development of novel repetitive behaviors by reducing the need for active spatial memory use; the researchers were therefore not altogether surprised to find that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "captive squirrels repeatedly dug and re-covered the same small patch of substrate without ever caching a nut there, whereas wild squirrels cached nuts across dozens of distinct, spatially separated sites.",
+    "B": "during caching episodes, captive squirrels showed much less vigilance for predators than wild squirrels did while burying nuts.",
+    "C": "when caretakers hid nuts in unpredictable locations, captive squirrels located them more quickly than wild squirrels located naturally hidden seeds.",
+    "D": "captive squirrels showed a repetitive tail-flicking behavior near feeding stations as mealtimes approached, whereas wild squirrels showed no comparable behavior before caching food."
+   },
+   "filler": "4"
+  },
+  "14.5": {
+   "body": "In a 2017 study, Leilani Kahale and Tobias Reinholt compared the nest-defense behaviors of wild gulls on a remote island colony with those of captive gulls at a coastal aviary. The researchers noted that previous studies focused on other seabirds have shown that providing animals with food at fixed times and locations, as is common in captive settings, may inadvertently facilitate the development of novel repetitive behaviors by reducing the need for active territorial patrolling; the researchers were therefore not altogether surprised to find that ______",
+   "stem": "Which choice most logically completes the text?",
+   "opts": {
+    "A": "captive gulls repeatedly circled the same small perch near the feeding station without ever establishing a defended territory, whereas wild gulls actively patrolled and defended distinct nesting territories.",
+    "B": "during feeding episodes, captive gulls showed much more aggression toward caretakers than wild gulls showed toward researchers observing their colony.",
+    "C": "when caretakers scattered food unpredictably, captive gulls located it more quickly than wild gulls located naturally available fish.",
+    "D": "captive gulls showed a repetitive head-bobbing behavior near enclosure walls as feeding times approached, whereas wild gulls showed no comparable behavior before defending a nest."
+   },
+   "filler": "5"
+  },
+  "o15": {
+   "body": "In Auguste Escoffier's 1903 cookbook titled Le Guide Culinaire, the chef included over 5,000 dishes, including Oeufs Aurore (baked eggs), Gambas (jumbo shrimp) in garlic sauce, and Tarte aux Pignons (pine nut tart). Such iconic French recipes, described in surprisingly brief detail in Le Guide Culinaire, ______ the Victorian French cuisine Escoffier sought to preserve in his encyclopedic book.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "epitomize",
+    "B": "has epitomized",
+    "C": "epitomizes",
+    "D": "was epitomizing"
+   },
+   "filler": null
+  },
+  "15.1": {
+   "body": "Such intricate mosaic floors, uncovered only recently beneath a much later marble surface, ______ the wealth and craftsmanship of the villa's original owners.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "reveal",
+    "B": "has revealed",
+    "C": "reveals",
+    "D": "was revealing"
+   },
+   "filler": "1"
+  },
+  "15.2": {
+   "body": "Such carefully preserved letters, stored for decades in a nondescript attic trunk, ______ a side of the family's history that no published biography had ever mentioned.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "illuminate",
+    "B": "has illuminated",
+    "C": "illuminates",
+    "D": "was illuminating"
+   },
+   "filler": "2"
+  },
+  "15.3": {
+   "body": "Such elaborate carved doorways, found only in the oldest quarter of the city, ______ a building tradition that largely disappeared after the region's later conquest.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "represent",
+    "B": "has represented",
+    "C": "represents",
+    "D": "was representing"
+   },
+   "filler": "3"
+  },
+  "15.4": {
+   "body": "Such meticulously kept ledgers, maintained by the same family for nearly two centuries, ______ shifts in the local economy that no other surviving record captures in such detail.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "document",
+    "B": "has documented",
+    "C": "documents",
+    "D": "was documenting"
+   },
+   "filler": "4"
+  },
+  "15.5": {
+   "body": "Such tightly woven baskets, traded widely along the ancient river route, ______ a level of technical skill that archaeologists had not previously attributed to the region's early inhabitants.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "demonstrate",
+    "B": "has demonstrated",
+    "C": "demonstrates",
+    "D": "was demonstrating"
+   },
+   "filler": "5"
+  },
+  "o16": {
+   "body": "Consider the mechanics of the pinhole camera: light passes through a small hole, resulting in a focused projected image. A ray diagram reveals how this ______ the hole's small size restricts light to a single ray, all light passing through the hole can only arrive at a single destination, eliminating diffraction and ensuring a clear image.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "works because",
+    "B": "works. Because",
+    "C": "works, it's because",
+    "D": "works: it's because"
+   },
+   "filler": null
+  },
+  "16.1": {
+   "body": "Consider the mechanics of a simple lever: a small force applied far from the pivot lifts a much larger weight placed close to it. A force diagram reveals how this ______ the pivot's position determines how far each end must travel, all the force applied at the long end is multiplied at the short end, producing greater lifting power.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "works because",
+    "B": "works. Because",
+    "C": "works, it's because",
+    "D": "works: it's because"
+   },
+   "filler": "1"
+  },
+  "16.2": {
+   "body": "Consider the mechanics of a prism: white light entering one face exits the other split into a visible band of colors. A ray diagram reveals how this ______ each wavelength of light bends by a slightly different amount, all the colors that entered together spread apart as they exit, producing a visible spectrum.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "works because",
+    "B": "works. Because",
+    "C": "works, it's because",
+    "D": "works: it's because"
+   },
+   "filler": "2"
+  },
+  "16.3": {
+   "body": "Consider the mechanics of a suspension bridge: the roadway hangs from cables anchored at towers on either end. A load diagram reveals how this ______ the curved cables convert the roadway's weight into tension, all the downward force on the deck is redirected along the cables to the towers, keeping the structure stable.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "works because",
+    "B": "works. Because",
+    "C": "works, it's because",
+    "D": "works: it's because"
+   },
+   "filler": "3"
+  },
+  "16.4": {
+   "body": "Consider the mechanics of a refrigerator: a warm kitchen stays separate from a cold interior compartment. A cycle diagram reveals how this ______ a circulating refrigerant absorbs heat inside the compartment and releases it outside, all the warmth removed from the food is carried away and expelled into the room, keeping the interior cold.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "works because",
+    "B": "works. Because",
+    "C": "works, it's because",
+    "D": "works: it's because"
+   },
+   "filler": "4"
+  },
+  "16.5": {
+   "body": "Consider the mechanics of a telescope: distant, dim objects appear brighter and larger than they do to the naked eye. An optical diagram reveals how this ______ a large primary lens or mirror gathers far more light than the human eye can on its own, all the collected light is focused into a single, magnified image, revealing detail invisible without the instrument.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "works because",
+    "B": "works. Because",
+    "C": "works, it's because",
+    "D": "works: it's because"
+   },
+   "filler": "5"
+  },
+  "o17": {
+   "body": "Long attributed to Jacques-Louis David, the preeminent Neoclassical painter of his day, the 1801 painting Marie Josephine Charlotte du Val d'Ognes gained fresh attention in the 1990s when art historians discovered that the painting—which depicts a solitary young woman sketching—was actually the work of little-known French portrait ______ Marie-Denise Villers (1774-1821).",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "artist—",
+    "B": "artist",
+    "C": "artist:",
+    "D": "artist,"
+   },
+   "filler": null
+  },
+  "17.1": {
+   "body": "Long credited to master luthier Antonio Rossi, the celebrated violin housed at the regional museum was recently found, after extensive restoration work, to be the creation of little-known apprentice ______ Concetta Farina (1802-1856).",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "luthier—",
+    "B": "luthier",
+    "C": "luthier:",
+    "D": "luthier,"
+   },
+   "filler": "1"
+  },
+  "17.2": {
+   "body": "Long attributed to celebrated engraver Heinrich Voss, the intricate frontispiece in the rare edition was recently discovered, after archival research, to be the work of little-known apprentice ______ Marta Kessler (1780-1834).",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "engraver—",
+    "B": "engraver",
+    "C": "engraver:",
+    "D": "engraver,"
+   },
+   "filler": "2"
+  },
+  "17.3": {
+   "body": "Long attributed to well-known cabinetmaker Louis Fontaine, the ornately carved chest in the collection was recently discovered, after close examination, to be the work of little-known journeyman ______ Pierre Aubert (1795-1841).",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "journeyman—",
+    "B": "journeyman",
+    "C": "journeyman:",
+    "D": "journeyman,"
+   },
+   "filler": "3"
+  },
+  "17.4": {
+   "body": "Long credited to renowned muralist Diego Salazar, the fresco discovered beneath the plaster wall was recently confirmed, after pigment analysis, to be the work of little-known assistant ______ Beatriz Nunez (1888-1942).",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "assistant—",
+    "B": "assistant",
+    "C": "assistant:",
+    "D": "assistant,"
+   },
+   "filler": "4"
+  },
+  "17.5": {
+   "body": "Long attributed to celebrated composer Anton Reimer, the newly rediscovered manuscript was confirmed, after handwriting analysis, to be the work of little-known copyist ______ Ilse Brandt (1810-1867).",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "copyist—",
+    "B": "copyist",
+    "C": "copyist:",
+    "D": "copyist,"
+   },
+   "filler": "5"
+  },
+  "o18": {
+   "body": "In 1986, conceptual artist Sophie Calle asked twenty-three people, some of whom had been born without sight, to describe their image of beauty in rich detail. Calle paired excerpts of these conversations with photographs—both of interviewees and the items they ______ to powerful effect in her exhibition The Blind.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "described, from hair to grass to sculptures",
+    "B": "described, from hair to grass to sculptures—",
+    "C": "described—from hair to grass to sculptures,",
+    "D": "described: from hair to grass to sculptures"
+   },
+   "filler": null
+  },
+  "18.1": {
+   "body": "In 1998, curator Renata Osei paired oral histories from factory retirees with photographs—both of the workers themselves and the tools they ______ to striking effect in her exhibition Hands That Built It.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "used, from wrenches to rivet guns to soldering irons",
+    "B": "used, from wrenches to rivet guns to soldering irons—",
+    "C": "used—from wrenches to rivet guns to soldering irons,",
+    "D": "used: from wrenches to rivet guns to soldering irons"
+   },
+   "filler": "1"
+  },
+  "18.2": {
+   "body": "In 2003, folklorist Amos Reinholt paired grandmothers' recorded recipes with photographs—both of the cooks themselves and the ingredients they ______ to moving effect in his exhibition What We Kept.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "named, from saffron to sorrel to salted plums",
+    "B": "named, from saffron to sorrel to salted plums—",
+    "C": "named—from saffron to sorrel to salted plums,",
+    "D": "named: from saffron to sorrel to salted plums"
+   },
+   "filler": "2"
+  },
+  "18.3": {
+   "body": "In 2011, artist Priya Chandran paired handwritten letters from war veterans with photographs—both of the veterans and the small objects they ______ to quiet effect in her exhibition What Remained.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "kept, from dog tags to pressed flowers to torn maps",
+    "B": "kept, from dog tags to pressed flowers to torn maps—",
+    "C": "kept—from dog tags to pressed flowers to torn maps,",
+    "D": "kept: from dog tags to pressed flowers to torn maps"
+   },
+   "filler": "3"
+  },
+  "18.4": {
+   "body": "In 1994, photographer Tomas Elguera paired interviews with retired sailors with photographs—both of the sailors themselves and the knots they ______ to fascinating effect in his exhibition Rope and Memory.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "demonstrated, from bowlines to clove hitches to sheet bends",
+    "B": "demonstrated, from bowlines to clove hitches to sheet bends—",
+    "C": "demonstrated—from bowlines to clove hitches to sheet bends,",
+    "D": "demonstrated: from bowlines to clove hitches to sheet bends"
+   },
+   "filler": "4"
+  },
+  "18.5": {
+   "body": "In 2016, artist Ines Cardoso paired interviews with elderly seamstresses with photographs—both of the women themselves and the fabrics they ______ to poignant effect in her exhibition Thread by Thread.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "favored, from raw silk to indigo cotton to hand-loomed wool",
+    "B": "favored, from raw silk to indigo cotton to hand-loomed wool—",
+    "C": "favored—from raw silk to indigo cotton to hand-loomed wool,",
+    "D": "favored: from raw silk to indigo cotton to hand-loomed wool"
+   },
+   "filler": "5"
+  },
+  "o19": {
+   "body": "American abstract artist Richard ______ his installations to make passersby keenly aware of how one's movements are affected by the physical features of one's environment, assembles large-scale steel plates into sculptures that dominate the outdoor spaces they occupy.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "Serra is intending",
+    "B": "Serra, intends",
+    "C": "Serra, intending",
+    "D": "Serra intends"
+   },
+   "filler": null
+  },
+  "19.1": {
+   "body": "American conceptual artist Naledi ______ her installations to remind viewers of vanished industrial sites; she arranges rusted machine parts into freestanding sculptures displayed in public parks.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "is intending",
+    "B": ", intends",
+    "C": ", intending",
+    "D": "intends"
+   },
+   "filler": "1"
+  },
+  "19.2": {
+   "body": "British land artist Desmond ______ his earthworks to make visitors reconsider the scale of their own bodies; he carves spiral trenches into open hillsides using only hand tools.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "is intending",
+    "B": ", intends",
+    "C": ", intending",
+    "D": "intends"
+   },
+   "filler": "2"
+  },
+  "19.3": {
+   "body": "Japanese sound artist Emi ______ her installations to make listeners notice ambient noise they usually ignore; she places hidden microphones throughout ordinary public spaces.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "is intending",
+    "B": ", intends",
+    "C": ", intending",
+    "D": "intends"
+   },
+   "filler": "3"
+  },
+  "19.4": {
+   "body": "Brazilian light artist Otavio ______ his installations to make pedestrians aware of how shadows shift throughout the day; he suspends translucent panels above busy plazas.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "is intending",
+    "B": ", intends",
+    "C": ", intending",
+    "D": "intends"
+   },
+   "filler": "4"
+  },
+  "19.5": {
+   "body": "Canadian textile artist Priya ______ her installations to make museum visitors reconsider the labor behind everyday fabric; she suspends hand-loomed panels from gallery ceilings.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "is intending",
+    "B": ", intends",
+    "C": ", intending",
+    "D": "intends"
+   },
+   "filler": "5"
+  },
+  "o20": {
+   "body": "A species of Byropsis algae produces toxins to avoid being eaten by predators. However, in some cases, the toxins the organism uses to protect itself from predation actually ______ its attractiveness to predators. The Hawaiian sea slug, for example, not only tolerates Byropsis toxins but actually uses them for protection in the same way the algae does.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "is increasing",
+    "B": "increase",
+    "C": "increases",
+    "D": "has increased"
+   },
+   "filler": null
+  },
+  "20.1": {
+   "body": "A species of desert shrub produces thorns to deter grazing animals. However, in some cases, the thorns the plant grows to protect its leaves actually ______ its visibility to animals searching for shade, since the thorny silhouette stands out starkly against the open sand.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "is increasing",
+    "B": "increase",
+    "C": "increases",
+    "D": "has increased"
+   },
+   "filler": "1"
+  },
+  "20.2": {
+   "body": "A species of tropical frog produces bright skin pigments to warn predators of its toxicity. However, in some cases, the pigments the frog develops to advertise danger actually ______ its appeal to collectors seeking unusually colorful specimens.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "is increasing",
+    "B": "increase",
+    "C": "increases",
+    "D": "has increased"
+   },
+   "filler": "2"
+  },
+  "20.3": {
+   "body": "A species of burrowing beetle produces a strong chemical odor to repel would-be predators. However, in some cases, the compounds the beetle releases to defend itself actually ______ its detectability to specialized predators that have evolved to track that exact scent.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "is increasing",
+    "B": "increase",
+    "C": "increases",
+    "D": "has increased"
+   },
+   "filler": "3"
+  },
+  "20.4": {
+   "body": "A species of coral produces a bitter-tasting compound to discourage grazing fish. However, in some cases, the compounds the coral secretes to deter feeding actually ______ its attractiveness to a specialized fish species that has evolved to seek out that exact taste.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "is increasing",
+    "B": "increase",
+    "C": "increases",
+    "D": "has increased"
+   },
+   "filler": "4"
+  },
+  "20.5": {
+   "body": "A species of nocturnal moth produces a high-pitched clicking sound to startle approaching bats. However, in some cases, the clicks the moth emits to defend itself actually ______ its detectability to bats that have learned to associate the sound with an easy meal.",
+   "stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+   "opts": {
+    "A": "is increasing",
+    "B": "increase",
+    "C": "increases",
+    "D": "has increased"
+   },
+   "filler": "5"
+  },
+  "o21": {
+   "body": "Historians agree that the jazz pianist Jelly Roll Morton was exaggerating when he claimed to have invented jazz music. No one can deny, ______, that Morton's innovative compositions and remarkable improvisational skills helped shape jazz as a genre during its early years.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "therefore,",
+    "B": "in the second place,",
+    "C": "in other words,",
+    "D": "though,"
+   },
+   "filler": null
+  },
+  "21.1": {
+   "body": "Historians agree that inventor Otto Lindqvist was exaggerating when he claimed to have single-handedly designed the city's entire subway system. No one can deny, ______, that Lindqvist's engineering innovations solved several of the project's most difficult technical problems.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "therefore,",
+    "B": "in the second place,",
+    "C": "in other words,",
+    "D": "though,"
+   },
+   "filler": "1"
+  },
+  "21.2": {
+   "body": "Critics agree that memoirist Adaeze Okonkwo was exaggerating when she claimed to have predicted the region's political collapse years in advance. No one can deny, ______, that her early essays captured widespread frustrations that most commentators at the time overlooked.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "therefore,",
+    "B": "in the second place,",
+    "C": "in other words,",
+    "D": "though,"
+   },
+   "filler": "2"
+  },
+  "21.3": {
+   "body": "Scholars agree that explorer Bram Visser was exaggerating when he claimed to be the first European to reach the remote valley. No one can deny, ______, that his detailed maps of the region were more accurate than any produced before them.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "therefore,",
+    "B": "in the second place,",
+    "C": "in other words,",
+    "D": "though,"
+   },
+   "filler": "3"
+  },
+  "21.4": {
+   "body": "Economists agree that entrepreneur Delia Vasquez was exaggerating when she claimed to have single-handedly revived the town's economy. No one can deny, ______, that her factory created hundreds of jobs during a period of severe local unemployment.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "therefore,",
+    "B": "in the second place,",
+    "C": "in other words,",
+    "D": "though,"
+   },
+   "filler": "4"
+  },
+  "21.5": {
+   "body": "Musicologists agree that bandleader Cassius Reid was exaggerating when he claimed to have invented an entirely new musical genre. No one can deny, ______, that his unconventional arrangements influenced an entire generation of younger composers.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "therefore,",
+    "B": "in the second place,",
+    "C": "in other words,",
+    "D": "though,"
+   },
+   "filler": "5"
+  },
+  "o22": {
+   "body": "Biographer Michael Gorra notes that the novelist Henry James lived in a world of second thoughts, frequently tinkering with his novels and stories after their initial publication. However, the differences between the 1881 first edition and the 1908 edition of his novel A Portrait of a Lady are extreme, even by James's standards; ______ some critics regard the two editions as two different novels altogether.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "by contrast,",
+    "B": "in fact,",
+    "C": "nevertheless,",
+    "D": "in other words,"
+   },
+   "filler": null
+  },
+  "22.1": {
+   "body": "Biographer Elin Torvald notes that architect Soren Aas was known for revising his blueprints even after construction had begun. However, the differences between his 1922 design for the concert hall and the building as it was ultimately completed are extreme, even by Aas's standards; ______ some historians regard the finished building as an entirely different structure from what he originally proposed.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "by contrast,",
+    "B": "in fact,",
+    "C": "nevertheless,",
+    "D": "in other words,"
+   },
+   "filler": "1"
+  },
+  "22.2": {
+   "body": "Biographer Marcus Whitfield notes that playwright Odalys Ferreira frequently rewrote her plays after opening night. However, the differences between the 1965 premiere script and the 1978 published edition of her play Salt Water are extreme, even by Ferreira's standards; ______ some critics regard the two versions as entirely separate plays.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "by contrast,",
+    "B": "in fact,",
+    "C": "nevertheless,",
+    "D": "in other words,"
+   },
+   "filler": "2"
+  },
+  "22.3": {
+   "body": "Biographer Naledi Khumalo notes that composer Tobias Renner habitually reworked his symphonies for years after their first performance. However, the differences between the 1901 and the 1924 versions of his Symphony No. 3 are extreme, even by Renner's standards; ______ some musicologists regard the two versions as fundamentally different compositions.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "by contrast,",
+    "B": "in fact,",
+    "C": "nevertheless,",
+    "D": "in other words,"
+   },
+   "filler": "3"
+  },
+  "22.4": {
+   "body": "Biographer Priya Deshmukh notes that painter Henrik Solberg often repainted sections of his canvases years after their first exhibition. However, the differences between the 1889 exhibited version and the 1910 final version of his painting Harbor at Dusk are extreme, even by Solberg's standards; ______ some art historians regard the two versions as two separate paintings.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "by contrast,",
+    "B": "in fact,",
+    "C": "nevertheless,",
+    "D": "in other words,"
+   },
+   "filler": "4"
+  },
+  "22.5": {
+   "body": "Biographer Camille Duvall notes that novelist Idris Bakr routinely revised his manuscripts long after their initial publication. However, the differences between the 1954 first edition and the 1971 revised edition of his novel The Long Season are extreme, even by Bakr's standards; ______ some literary scholars regard the two editions as entirely separate novels.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "by contrast,",
+    "B": "in fact,",
+    "C": "nevertheless,",
+    "D": "in other words,"
+   },
+   "filler": "5"
+  },
+  "o23": {
+   "body": "In hindsight, given the ideas about the natural world circulating among British scientists in the 1800s, the theory of natural selection was an obvious next step. It may not have been a coincidence, ______, that Charles Darwin and Alfred Wallace arrived at the concept independently. Indeed, contrary to the popular myth of the lone genius, theirs is not the first paradigm-shifting theory to have emerged from multiple scholars working in parallel.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "however,",
+    "B": "then,",
+    "C": "moreover,",
+    "D": "for example,"
+   },
+   "filler": null
+  },
+  "23.1": {
+   "body": "In hindsight, given the mathematical techniques circulating among European scholars in the 1670s, the development of calculus was an obvious next step. It may not have been a coincidence, ______, that Isaac Newton and Gottfried Leibniz arrived at the method independently. Indeed, contrary to the popular myth of the solitary genius, theirs is not the first foundational mathematical idea to have emerged from multiple scholars working in parallel.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "however,",
+    "B": "then,",
+    "C": "moreover,",
+    "D": "for example,"
+   },
+   "filler": "1"
+  },
+  "23.2": {
+   "body": "In hindsight, given the chemical experiments circulating among researchers in the 1770s, the discovery of oxygen's role in combustion was an obvious next step. It may not have been a coincidence, ______, that Carl Wilhelm Scheele and Joseph Priestley isolated the gas independently. Indeed, contrary to the popular myth of the solitary genius, theirs is not the first foundational scientific finding to have emerged from multiple scholars working in parallel.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "however,",
+    "B": "then,",
+    "C": "moreover,",
+    "D": "for example,"
+   },
+   "filler": "2"
+  },
+  "23.3": {
+   "body": "In hindsight, given the astronomical observations circulating among scholars in the 1840s, the prediction of a new planet beyond Uranus was an obvious next step. It may not have been a coincidence, ______, that Urbain Le Verrier and John Couch Adams calculated its position independently. Indeed, contrary to the popular myth of the solitary genius, theirs is not the first major scientific prediction to have emerged from multiple scholars working in parallel.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "however,",
+    "B": "then,",
+    "C": "moreover,",
+    "D": "for example,"
+   },
+   "filler": "3"
+  },
+  "23.4": {
+   "body": "In hindsight, given the electrical experiments circulating among inventors in the 1870s, the development of a practical telephone was an obvious next step. It may not have been a coincidence, ______, that Alexander Graham Bell and Elisha Gray filed their patent claims within hours of each other. Indeed, contrary to the popular myth of the solitary genius, theirs is not the first major invention to have emerged from multiple inventors working in parallel.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "however,",
+    "B": "then,",
+    "C": "moreover,",
+    "D": "for example,"
+   },
+   "filler": "4"
+  },
+  "23.5": {
+   "body": "In hindsight, given the genetic research circulating among biologists in the early 1950s, the discovery of DNA's double-helix structure was an obvious next step. It may not have been a coincidence, ______, that James Watson and Francis Crick reached their model around the same time that Rosalind Franklin's data pointed toward a similar structure. Indeed, contrary to the popular myth of the solitary genius, theirs is not the first major biological breakthrough to have emerged from multiple researchers working in parallel.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "however,",
+    "B": "then,",
+    "C": "moreover,",
+    "D": "for example,"
+   },
+   "filler": "5"
+  },
+  "o24": {
+   "body": "In a recent study, researchers examined the sleeping and waking habits of a group of dairy cows to determine if the cows' patterns of activity suggested that the animals were diurnal, nocturnal, or crepuscular. ______ the researchers studied whether the cows were most active in the daytime (diurnal), nighttime (nocturnal), or at dawn and dusk (crepuscular).",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Afterward,",
+    "B": "In other words,",
+    "C": "Additionally,",
+    "D": "However,"
+   },
+   "filler": null
+  },
+  "24.1": {
+   "body": "In a recent study, researchers examined the vocalizations of a group of captive dolphins to determine whether their calls exhibited evidence of individual signature patterns. ______ the researchers investigated whether each dolphin produced a distinct, repeatable call that functioned like a name.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Afterward,",
+    "B": "In other words,",
+    "C": "Additionally,",
+    "D": "However,"
+   },
+   "filler": "1"
+  },
+  "24.2": {
+   "body": "In a recent study, researchers examined the foraging patterns of a colony of leafcutter ants to determine whether their trail-marking behavior exhibited evidence of route optimization. ______ the researchers investigated whether the ants gradually favored shorter, more efficient paths to food sources over time.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Afterward,",
+    "B": "In other words,",
+    "C": "Additionally,",
+    "D": "However,"
+   },
+   "filler": "2"
+  },
+  "24.3": {
+   "body": "In a recent study, researchers examined the sleep patterns of a group of migratory songbirds to determine whether their rest periods exhibited evidence of unihemispheric sleep. ______ the researchers investigated whether the birds could keep one half of the brain awake while the other half rested during flight.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Afterward,",
+    "B": "In other words,",
+    "C": "Additionally,",
+    "D": "However,"
+   },
+   "filler": "3"
+  },
+  "24.4": {
+   "body": "In a recent study, researchers examined the grooming behavior of a troop of wild baboons to determine whether social interactions exhibited evidence of reciprocal exchange. ______ the researchers investigated whether baboons that groomed a particular troop member were more likely to receive grooming from that same individual later on.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Afterward,",
+    "B": "In other words,",
+    "C": "Additionally,",
+    "D": "However,"
+   },
+   "filler": "4"
+  },
+  "24.5": {
+   "body": "In a recent study, researchers examined the nest-building materials chosen by a population of urban crows to determine whether their selections exhibited evidence of deliberate material preference. ______ the researchers investigated whether the crows consistently chose certain materials over other, equally available options.",
+   "stem": "Which choice completes the text with the most logical transition?",
+   "opts": {
+    "A": "Afterward,",
+    "B": "In other words,",
+    "C": "Additionally,",
+    "D": "However,"
+   },
+   "filler": "5"
+  },
+  "o25": {
+   "body": "While researching a topic, a student has taken the following notes:\n- Earthquakes start at a point called a \"focus\" and spread out from there as seismic waves.\n- The two types of seismic waves that travel beneath Earth's surface are primary waves (P waves) and secondary waves (S waves).\n- P waves travel more quickly beneath Earth's surface than do S waves.\n- P waves compress and expand the ground, causing it to move backward and forward.\n- S waves cause the ground to move from side to side.",
+   "stem": "The student wants to emphasize a similarity between P waves and S waves. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "P waves and S waves both travel beneath Earth's surface, causing the ground to move.",
+    "B": "P waves travel away from an earthquake's starting point at a higher rate of speed than do S waves.",
+    "C": "Spreading out from the focus of an earthquake, P waves move the ground backward and forward.",
+    "D": "Although P waves and S waves start at the same point, they behave very differently."
+   },
+   "filler": null
+  },
+  "25.1": {
+   "body": "While researching a topic, a student has taken the following notes:\n- Hurricanes and typhoons are both large rotating storm systems that form over warm ocean water.\n- Hurricanes form over the Atlantic and northeastern Pacific; typhoons form over the northwestern Pacific.\n- Hurricanes are categorized using the Saffir-Simpson scale; typhoons are categorized using a different regional scale.\n- Both storm types draw energy from warm ocean surface temperatures.\n- Both storm types can produce sustained winds exceeding 150 miles per hour.",
+   "stem": "The student wants to emphasize a similarity between hurricanes and typhoons. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Hurricanes and typhoons are both large rotating storm systems that draw their energy from warm ocean surface temperatures.",
+    "B": "Hurricanes form over the Atlantic and northeastern Pacific, while typhoons form over the northwestern Pacific Ocean.",
+    "C": "Typhoons are, unlike hurricanes, categorized using a regional intensity scale rather than the Saffir-Simpson scale.",
+    "D": "Sustained winds exceeding 150 miles per hour occur in both hurricanes and typhoons, though the two form in different ocean basins."
+   },
+   "filler": "1"
+  },
+  "25.2": {
+   "body": "While researching a topic, a student has taken the following notes:\n- Cellos and double basses are both string instruments played with a bow.\n- Cellos are tuned in fifths; double basses are tuned in fourths.\n- Cellos are typically played while seated with the instrument between the knees; double basses are typically played standing or on a stool.\n- Both instruments have four main strings in their standard configuration.\n- Both instruments provide the bass foundation in an orchestral string section.",
+   "stem": "The student wants to emphasize a similarity between cellos and double basses. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Cellos and double basses both provide the bass foundation in an orchestral string section.",
+    "B": "Cellos are tuned in fifths, while double basses are tuned in fourths.",
+    "C": "Double basses are typically played standing, unlike cellos, which are played seated.",
+    "D": "Although cellos and double basses are tuned differently, both instruments have four main strings."
+   },
+   "filler": "2"
+  },
+  "25.3": {
+   "body": "While researching a topic, a student has taken the following notes:\n- Octopuses and cuttlefish are both cephalopods capable of rapidly changing the color and texture of their skin.\n- Octopuses have eight arms; cuttlefish have eight arms plus two longer feeding tentacles.\n- Octopuses generally lack an internal shell; cuttlefish have an internal structure called a cuttlebone.\n- Both animals use specialized skin cells called chromatophores to change color almost instantly.\n- Octopuses are typically solitary, while cuttlefish are sometimes found in small groups.",
+   "stem": "The student wants to emphasize a similarity between octopuses and cuttlefish. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Octopuses and cuttlefish both use specialized skin cells called chromatophores to change color almost instantly.",
+    "B": "Octopuses have eight arms, while cuttlefish have eight arms plus two longer feeding tentacles.",
+    "C": "Cuttlefish, unlike octopuses, have an internal structure called a cuttlebone.",
+    "D": "Although octopuses are typically solitary, cuttlefish are sometimes found in small groups."
+   },
+   "filler": "3"
+  },
+  "25.4": {
+   "body": "While researching a topic, a student has taken the following notes:\n- Maple syrup and agave syrup are both natural liquid sweeteners derived from plants.\n- Maple syrup is made by boiling down the sap of maple trees; agave syrup is made by processing the sap of the agave plant.\n- Maple syrup has a moderate glycemic index; agave syrup has a lower glycemic index.\n- Both sweeteners can be substituted for refined sugar in most baking recipes.\n- Maple syrup is primarily produced in North America; agave syrup is primarily produced in Mexico.",
+   "stem": "The student wants to emphasize a similarity between maple syrup and agave syrup. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Maple syrup and agave syrup can both be substituted for refined sugar in most baking recipes.",
+    "B": "Maple syrup is made from tree sap, while agave syrup is made from the sap of the agave plant.",
+    "C": "Agave syrup has a lower glycemic index than maple syrup does.",
+    "D": "Although maple syrup is produced mainly in North America, agave syrup is produced mainly in Mexico."
+   },
+   "filler": "4"
+  },
+  "25.5": {
+   "body": "While researching a topic, a student has taken the following notes:\n- Solar panels and wind turbines are both renewable energy technologies that generate electricity without burning fossil fuels.\n- Solar panels convert sunlight directly into electricity; wind turbines convert the kinetic energy of moving air.\n- Solar panels produce more consistently during daylight hours; wind turbines can generate power at any time of day.\n- Both technologies require little water to operate compared with traditional power plants.\n- Solar panel installations are often placed on rooftops; wind turbines are typically installed in open, elevated areas.",
+   "stem": "The student wants to emphasize a similarity between solar panels and wind turbines. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Solar panels and wind turbines both require little water to operate compared with traditional power plants.",
+    "B": "Solar panels convert sunlight into electricity, while wind turbines convert the kinetic energy of moving air.",
+    "C": "Wind turbines, unlike solar panels, can generate power at any time of day.",
+    "D": "Although solar panels are often installed on rooftops, wind turbines are typically installed in open, elevated areas."
+   },
+   "filler": "5"
+  },
+  "o26": {
+   "body": "While researching a topic, a student has taken the following notes:\n- The US Fish and Wildlife Service (FWS) keeps a list of all at-risk species.\n- Species on the list are classified as either endangered or threatened.\n- A species that is in danger of extinction throughout most or all of its range is classified as endangered.\n- A species that is likely to soon become endangered is classified as threatened.\n- The California red-legged frog (Rana draytonii) is likely to soon become endangered, according to the FWS.",
+   "stem": "The student wants to indicate the California red-legged frog's FWS classification category. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Species on the FWS list, which includes the California red-legged frog (Rana draytonii), are classified as either endangered or threatened.",
+    "B": "The California red-legged frog (Rana draytonii) appears on the FWS list of at-risk species.",
+    "C": "According to the FWS, the California red-legged frog is in the endangered category, in danger of extinction throughout most or all of its range.",
+    "D": "Likely to soon become endangered, the California red-legged frog is classified as threatened by the FWS."
+   },
+   "filler": null
+  },
+  "26.1": {
+   "body": "While researching a topic, a student has taken the following notes:\n- The International Union for Conservation of Nature (IUCN) maintains a Red List of species conservation status.\n- Species are classified in several categories, including \"Vulnerable\" and \"Endangered.\"\n- A species facing a high risk of extinction in the wild is classified as Vulnerable.\n- A species facing a very high risk of extinction in the wild is classified as Endangered.\n- The Sumatran orangutan faces an extremely high risk of extinction in the wild, according to the IUCN.",
+   "stem": "The student wants to indicate the Sumatran orangutan's IUCN classification category. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Species on the IUCN Red List, which includes the Sumatran orangutan, are classified in several categories.",
+    "B": "The Sumatran orangutan appears on the IUCN Red List of species facing conservation concern.",
+    "C": "According to the IUCN, a species facing a high risk of extinction in the wild is classified as Vulnerable.",
+    "D": "Facing an extremely high risk of extinction in the wild, the Sumatran orangutan is classified as Endangered by the IUCN."
+   },
+   "filler": "1"
+  },
+  "26.2": {
+   "body": "While researching a topic, a student has taken the following notes:\n- A national weather service classifies winter storm warnings into two levels: \"Advisory\" and \"Warning.\"\n- An Advisory is issued when snowfall is expected to cause significant inconvenience but not a serious hazard.\n- A Warning is issued when snowfall is expected to create a serious hazard to life and property.\n- Meteorologists forecast that the approaching storm will drop enough snow to create a serious hazard to life and property in the region.",
+   "stem": "The student wants to indicate which classification level the approaching storm falls into. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The national weather service, which issues both Advisories and Warnings, classifies winter storms into two levels.",
+    "B": "The approaching storm has been forecast by meteorologists to drop significant snowfall on the region.",
+    "C": "According to the weather service, an Advisory is issued when snowfall causes significant inconvenience but not a serious hazard.",
+    "D": "Expected to create a serious hazard to life and property, the approaching storm has been classified as a Warning."
+   },
+   "filler": "2"
+  },
+  "26.3": {
+   "body": "While researching a topic, a student has taken the following notes:\n- A city's building code classifies structural repairs as either \"Minor\" or \"Major.\"\n- A Minor repair does not affect a building's structural load-bearing capacity.\n- A Major repair does affect a building's structural load-bearing capacity.\n- Inspectors determined that replacing the cracked support beam in the old warehouse would affect the building's structural load-bearing capacity.",
+   "stem": "The student wants to indicate which classification the beam replacement falls into under the building code. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The city's building code, which inspectors must follow, classifies structural repairs into two categories.",
+    "B": "Inspectors examined the cracked support beam in the old warehouse as part of a routine inspection.",
+    "C": "According to the building code, a Minor repair does not affect a building's structural load-bearing capacity.",
+    "D": "Affecting the building's structural load-bearing capacity, the beam replacement is classified as a Major repair under the code."
+   },
+   "filler": "3"
+  },
+  "26.4": {
+   "body": "While researching a topic, a student has taken the following notes:\n- A hospital's triage system sorts incoming patients into \"Urgent\" and \"Non-Urgent\" categories.\n- A patient is classified as Urgent if their condition could worsen significantly without treatment within the hour.\n- A patient is classified as Non-Urgent if their condition is unlikely to worsen significantly without immediate treatment.\n- Physicians determined that a patient's condition could worsen significantly without treatment within the hour.",
+   "stem": "The student wants to indicate which triage category the patient falls into. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The hospital's triage system, which physicians rely on daily, sorts patients into two categories.",
+    "B": "Physicians examined the patient shortly after arrival at the hospital.",
+    "C": "According to the triage system, a patient is classified as Non-Urgent if immediate treatment is not required.",
+    "D": "Likely to worsen significantly without treatment within the hour, the patient is classified as Urgent."
+   },
+   "filler": "4"
+  },
+  "26.5": {
+   "body": "While researching a topic, a student has taken the following notes:\n- A national parks agency classifies hiking trails as either \"Easy\" or \"Strenuous.\"\n- An Easy trail has a total elevation gain of less than 500 feet.\n- A Strenuous trail has a total elevation gain of 500 feet or more.\n- Park surveyors measured the new ridge trail's total elevation gain at 1,200 feet.",
+   "stem": "The student wants to indicate which classification the new ridge trail falls into. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "The national parks agency, which maintains the new ridge trail, classifies hiking trails into two categories.",
+    "B": "Park surveyors recently completed measuring the new ridge trail's total elevation gain.",
+    "C": "According to the agency, an Easy trail has a total elevation gain of less than 500 feet.",
+    "D": "With a total elevation gain of 1,200 feet, the new ridge trail is classified as Strenuous by the agency."
+   },
+   "filler": "5"
+  },
+  "o27": {
+   "body": "While researching a topic, a student has taken the following notes:\n- The ancient Arab dhow was a sailing vessel distinguishable by its triangular sails and stitched hull construction.\n- Dhows were used primarily for trade along the coasts of Arab, South Asian, and East African countries.\n- Contemporary shipbuilders in Oman use a mix of modern and traditional materials to build replicas of ancient dhows.\n- Most of the materials used are traditional.\n- Replica hulls are stitched together using the same traditional coconut palm fiber rope used on the hulls of ancient dhows.",
+   "stem": "The student wants to make a generalization about the materials used in dhow replicas. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "A traditional material that was used to stitch together the hulls of ancient dhows, coconut palm fiber rope is still used by shipbuilders.",
+    "B": "The ancient Arab dhow was a sailing vessel used primarily for trade and distinguishable by its triangular sails.",
+    "C": "Although most materials used in dhow replicas are traditional, some modern materials are used.",
+    "D": "Contemporary shipbuilders in Oman build replicas of the dhow, which was an ancient sailing vessel with a stitched hull construction."
+   },
+   "filler": null
+  },
+  "27.1": {
+   "body": "While researching a topic, a student has taken the following notes:\n- Traditional Andean weavers use natural plant and mineral dyes to color wool yarn.\n- Cochineal insects are used to produce a deep red dye still common in many workshops today.\n- Some contemporary weaving cooperatives have begun incorporating synthetic dyes for certain bright colors not achievable naturally.\n- Most workshops surveyed in a recent study still rely primarily on natural dyes for the bulk of their production.\n- A small number of workshops have switched entirely to synthetic dyes for cost reasons.",
+   "stem": "The student wants to make a generalization about the dyes used in contemporary Andean weaving. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Cochineal insects are used to produce a deep red dye still common in many Andean weaving workshops today.",
+    "B": "A recent study surveyed workshops to determine which dyes were used in contemporary Andean weaving.",
+    "C": "Although most contemporary Andean weaving workshops rely primarily on natural dyes, some use synthetic dyes.",
+    "D": "A small number of Andean weaving workshops have switched entirely to synthetic dyes for cost reasons."
+   },
+   "filler": "1"
+  },
+  "27.2": {
+   "body": "While researching a topic, a student has taken the following notes:\n- Community bakeries in a coastal region traditionally bake bread in wood-fired brick ovens.\n- Wood-fired baking gives the bread a distinctive smoky flavor prized by longtime customers.\n- Some newer bakeries in the same region have adopted gas-fired ovens for greater consistency and lower fuel costs.\n- Most bakeries surveyed in the region still use wood-fired ovens for their signature loaves.\n- A handful of bakeries use gas-fired ovens exclusively.",
+   "stem": "The student wants to make a generalization about how bread is baked in the region. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Wood-fired baking gives bread a distinctive smoky flavor prized by longtime customers in the region.",
+    "B": "A survey was conducted to determine which ovens bakeries in the region used.",
+    "C": "Although most bakeries in the region still use wood-fired ovens, some use gas-fired ovens.",
+    "D": "A handful of bakeries in the region use gas-fired ovens exclusively."
+   },
+   "filler": "2"
+  },
+  "27.3": {
+   "body": "While researching a topic, a student has taken the following notes:\n- Furniture makers in a rural woodworking town traditionally join joints using hand-cut dovetails.\n- Hand-cut dovetails are prized for their durability and fine appearance.\n- Some newer furniture makers in the town have begun using machine-cut joints to speed up production.\n- Most workshops in the town still rely primarily on hand-cut joinery for their finished pieces.\n- A few workshops now use machine-cut joinery exclusively.",
+   "stem": "The student wants to make a generalization about how furniture is joined in the town. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Hand-cut dovetails are prized for their durability and fine appearance among furniture makers in the town.",
+    "B": "Some newer furniture makers in the town have adopted machine-cut joints in recent years.",
+    "C": "Although most workshops in the town still rely primarily on hand-cut joinery, some use machine-cut joinery.",
+    "D": "A few workshops in the town now use machine-cut joinery exclusively."
+   },
+   "filler": "3"
+  },
+  "27.4": {
+   "body": "While researching a topic, a student has taken the following notes:\n- Fishing crews along a northern coastline traditionally navigate using landmarks and memorized currents.\n- This traditional method has been passed down through generations of local fishing families.\n- Some younger crews have begun relying on GPS devices for navigation instead.\n- Most crews surveyed in the region still navigate primarily using traditional landmark-based methods.\n- A small number of crews rely on GPS devices exclusively.",
+   "stem": "The student wants to make a generalization about how fishing crews navigate along the coastline. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Traditional landmark-based navigation has been passed down through generations of local fishing families.",
+    "B": "Some younger fishing crews along the coastline have begun relying on GPS devices instead.",
+    "C": "Although most fishing crews along the coastline still navigate primarily using traditional methods, some use GPS devices.",
+    "D": "A small number of fishing crews along the coastline rely on GPS devices exclusively."
+   },
+   "filler": "4"
+  },
+  "27.5": {
+   "body": "While researching a topic, a student has taken the following notes:\n- Potters in a highland village traditionally shape clay vessels entirely by hand, without a wheel.\n- Hand-shaping is considered essential to the village's traditional aesthetic.\n- Some younger potters in the village have begun using a pottery wheel for certain simpler forms.\n- Most potters surveyed in the village still shape the majority of their vessels entirely by hand.\n- A few potters now use a wheel for all of their work.",
+   "stem": "The student wants to make a generalization about how vessels are shaped in the village. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+   "opts": {
+    "A": "Hand-shaping is considered essential to the village's traditional pottery aesthetic.",
+    "B": "Some younger potters in the village have begun using a pottery wheel for certain simpler forms.",
+    "C": "Although most potters in the village still shape the majority of their vessels entirely by hand, some use a wheel.",
+    "D": "A few potters in the village now use a wheel for all of their work."
+   },
+   "filler": "5"
+  }
+ }
+}

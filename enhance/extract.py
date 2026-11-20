@@ -4,7 +4,15 @@ def _ci(name):  # Test 10 files are capitalized (Practice_Test_10_...); match ca
   for f in os.listdir('.'):
     if f.lower()==name: return f
   return name
-d=json.load(open(_ci(f'practice_test_{test}_module_{mod}_data.json')))
+
+SPECIAL = {  # non-numbered mock tests: T -> (file prefix, title, source)
+  'cram': ('cram_school_aug1_2026', 'Cram School Digital SAT Mock Test (Aug 1, 2026)', 'Cram School Mock Test (Aug 1, 2026)'),
+  'princeton': ('princeton_digital_sat', 'Princeton Digital SAT Mock Test', 'Princeton Digital SAT Mock Test'),
+}
+def _fname(T, M, kind):  # kind: 'data.json' | 'mock_quiz.html'
+  if T in SPECIAL: return f'{SPECIAL[T][0]}_module_{M}_{kind}'
+  return _ci(f'practice_test_{T}_module_{M}_{kind}')
+d=json.load(open(_fname(test,mod,'data.json')))
 STEMS=["Which choice completes the text with the most logical and precise word or phrase?","Which choice best states the main purpose of the text?","Which choice best describes the function of the underlined sentence in the text as a whole?","Which choice most directly supports the claim or hypothesis?","Which choice most effectively uses or describes data from the table?","Which choice most logically completes the text?","Which choice completes the text so that it conforms to the conventions of Standard English?","Which choice completes the text with the most logical transition?","Which choice most effectively uses relevant information from the notes to accomplish this goal?"]
 groups={}
 for q in d:

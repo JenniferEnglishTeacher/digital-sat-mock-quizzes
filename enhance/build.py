@@ -14,7 +14,15 @@ def _ci(name):  # Test 10 files are capitalized (Practice_Test_10_...); match ca
     for f in os.listdir('.'):
         if f.lower() == name: return f
     return name
-data = json.load(open(_ci(f'practice_test_{T}_module_{M}_data.json')))
+
+SPECIAL = {  # non-numbered mock tests: T -> (file prefix, title, source)
+  'cram': ('cram_school_aug1_2026', 'Cram School Digital SAT Mock Test (Aug 1, 2026)', 'Cram School Mock Test (Aug 1, 2026)'),
+  'princeton': ('princeton_digital_sat', 'Princeton Digital SAT Mock Test', 'Princeton Digital SAT Mock Test'),
+}
+def _fname(T, M, kind):  # kind: 'data.json' | 'mock_quiz.html'
+  if T in SPECIAL: return f'{SPECIAL[T][0]}_module_{M}_{kind}'
+  return _ci(f'practice_test_{T}_module_{M}_{kind}')
+data = json.load(open(_fname(T,M,'data.json')))
 I = json.load(open(f'enhance/{tag}_items.json'))
 items, pref = I['items'], I['pref']
 sents_list = json.load(open(f'enhance/{tag}_sents.json'))
@@ -136,12 +144,12 @@ if missing:
     print('MISSING translations:', len(set(missing)))
     for s in sorted(set(missing))[:20]: print('  -', s[:100])
 
-title = f'Digital SAT English Mock Quiz - Practice Test {T}, Module {M}'
+title = f'{SPECIAL[T][1]} - Module {M}' if T in SPECIAL else f'Digital SAT English Mock Quiz - Practice Test {T}, Module {M}'
 slug = f'dsat_t{T}m{M}'
 page = open('enhance/template.html').read()
-page = page.replace('__TITLE__', title).replace('__SLUG__', slug).replace('__SOURCE__', f'Digital SAT Practice Test {T}, Module {M}')
+page = page.replace('__TITLE__', title).replace('__SLUG__', slug).replace('__SOURCE__', (f'{SPECIAL[T][2]}, Module {M}' if T in SPECIAL else f'Digital SAT Practice Test {T}, Module {M}'))
 page = page.replace('__NCONCEPTS__', str(len(data))).replace('__NITEMS__', str(len(Q)))
 page = page.replace('__DATA__', json.dumps(Q, ensure_ascii=False).replace('</', '<\\/'))
-out = _ci(f'practice_test_{T}_module_{M}_mock_quiz.html')
+out = _fname(T, M, 'mock_quiz.html')
 open(out, 'w').write(page)
 print('wrote', out, len(page), 'bytes;', len(Q), 'items')

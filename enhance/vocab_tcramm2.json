@@ -1,0 +1,18 @@
+{
+"Arguing about": {"w": "argue about", "pos": "phr.", "en": "to disagree with someone in words about something", "zh": "爭論；爭辯"},
+"Asserting possession of": {"w": "assert possession of", "pos": "phr.", "en": "to claim that something belongs to you", "zh": "宣稱擁有"},
+"Disapproving of": {"w": "disapprove of", "pos": "phr.", "en": "to think something is bad or wrong", "zh": "不贊成"},
+"Epitomizing": {"w": "epitomize", "pos": "v.", "en": "to be a perfect example of something", "zh": "作為……的典型；體現"},
+"Exacerbating": {"w": "exacerbate", "pos": "v.", "en": "to make a bad situation worse", "zh": "使惡化；加劇"},
+"Precluding": {"w": "preclude", "pos": "v.", "en": "to prevent something from happening", "zh": "排除；阻止"},
+"Providing resistance to": {"w": "provide resistance to", "pos": "phr.", "en": "to act against or block something", "zh": "提供阻力；阻擋"},
+"Redressing": {"w": "redress", "pos": "v.", "en": "to correct something that is wrong or unfair", "zh": "矯正；彌補"},
+"a conspicuous": {"w": "conspicuous", "pos": "adj.", "en": "very easy to notice", "zh": "顯眼的；引人注目的"},
+"a contentious": {"w": "contentious", "pos": "adj.", "en": "causing a lot of disagreement", "zh": "有爭議的"},
+"a tenuous": {"w": "tenuous", "pos": "adj.", "en": "very weak or slight", "zh": "薄弱的；微弱的"},
+"an enduring": {"w": "enduring", "pos": "adj.", "en": "lasting for a long time", "zh": "持久的"},
+"complicated by": {"pos": "phr.", "en": "made more difficult or confusing by", "zh": "因……而複雜化"},
+"insensible to": {"pos": "phr.", "en": "not aware of or not affected by", "zh": "對……無感的；未察覺的"},
+"manifest in": {"pos": "phr.", "en": "clearly shown in", "zh": "顯現於……"},
+"scrutinized by": {"pos": "phr.", "en": "examined very carefully by", "zh": "受到……仔細審查"}
+}
