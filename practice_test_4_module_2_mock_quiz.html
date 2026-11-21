@@ -16,6 +16,8 @@
     .toolbar button, .mini { border:1px solid var(--line); background:white; color:var(--ink); padding:8px 11px; border-radius:7px; cursor:pointer; font-weight:700; font-size:.95rem; }
     .toolbar button:hover, .mini:hover { border-color:var(--accent); }
     .toolbar button.active { background:var(--accent); color:white; border-color:var(--accent); }
+    .toolbar .scope { font-weight:700; font-size:.9rem; color:var(--muted); }
+    .toolbar .scope select { font:inherit; padding:6px 8px; border:1px solid var(--line); border-radius:7px; background:white; color:var(--ink); }
     .toolbar .stat { margin-left:auto; color:var(--muted); font-weight:700; }
     .card { background:white; border:1px solid var(--line); border-radius:8px; margin:18px 0; overflow:hidden; }
     .card-head { padding:16px 22px; border-bottom:1px solid var(--line); background:#fbfcfe; }
@@ -97,6 +99,8 @@
       <button type="button" id="btnRetest">Retest wrong only 重測錯題</button>
       <button type="button" id="btnDlTxt">⬇ Download wrong (.txt)</button>
       <button type="button" id="btnDlCsv">⬇ Download wrong (.csv)</button>
+      <button type="button" id="btnDlDoc">⬇ Download wrong (Word 錯題講義)</button>
+      <label class="scope">下載範圍 <select id="dlScope"><option value="session">本次作答 This attempt</option><option value="all">全部錯題本 All saved</option></select></label>
       <button type="button" id="btnClear">Clear wrong list</button>
       <button type="button" id="resetQuiz">Reset answers</button>
       <span class="stat" id="stat"></span>
@@ -238,6 +242,7 @@
         const prev = wrong[q.id] || { count: 0 };
         wrong[q.id] = { picked, ts: Date.now(), count: (prev.count || 0) + 1 };
         saveWrong(wrong);
+        sessionWrong[q.id] = { picked, ts: Date.now(), count: (sessionWrong[q.id]?.count || 0) + 1 };
         const h = art.querySelector('h3');
         if (!h.querySelector('.badge.wrong')) h.insertAdjacentHTML('beforeend', `<span class="badge wrong">✗ saved to 錯題本</span>`);
       } else if (wrong[q.id]) {
@@ -248,9 +253,23 @@
     });
 
     // ---- wrong list panel / downloads ----
-    function wrongList() {
-      const w = loadWrong();
+    const sessionWrong = {}; // questions answered wrong since this page was opened (kept even if fixed later)
+    function wrongList(scope = 'all') {
+      const w = scope === 'session' ? sessionWrong : loadWrong();
       return DATA.filter(q => w[q.id]).map(q => ({ q, meta: w[q.id] }));
+    }
+    // list for downloads: the chosen scope; if "this attempt" is empty, offer the saved list instead
+    function dlList() {
+      let scope = document.getElementById('dlScope').value;
+      let list = wrongList(scope);
+      if (!list.length && scope === 'session') {
+        const all = wrongList('all');
+        if (!all.length) { alert('還沒有錯題 No wrong questions yet. 作答後答錯的題目會自動收錄。'); return null; }
+        if (!confirm(`本次作答還沒有錯題。要改下載全部錯題本（${all.length} 題）嗎？\nNo wrong answers in this attempt yet. Download all ${all.length} saved wrong questions instead?`)) return null;
+        scope = 'all'; list = all;
+      }
+      if (!list.length) { alert('錯題本是空的 No wrong questions saved.'); return null; }
+      return { list, scope, tag: scope === 'session' ? 'this_attempt' : 'all_saved', label: scope === 'session' ? '本次作答 This attempt' : '全部錯題本 All saved' };
     }
     function plain(q) {
       const opts = ['A','B','C','D'].map(L => `${L}) ${q.opts[L] || ''}`).join('\n');
@@ -274,20 +293,41 @@
     document.getElementById('btnClear').onclick = () => { if (confirm('Clear the saved wrong-question list? 確定清除錯題本？')) { saveWrong({}); renderPanel(); render(); } };
     document.getElementById('resetQuiz').onclick = render;
     document.getElementById('btnDlTxt').onclick = () => {
-      const list = wrongList(); if (!list.length) { alert('錯題本是空的 No wrong questions saved.'); return; }
+      const sel = dlList(); if (!sel) return; const { list, tag, label } = sel;
       const d = new Date().toISOString().slice(0,10);
-      let out = `${SOURCE} — Wrong Questions 錯題本 (${list.length})  exported ${d}\n${'='.repeat(70)}\n\n`;
+      let out = `${SOURCE} — Wrong Questions 錯題本 · ${label} (${list.length})  exported ${d}\n${'='.repeat(70)}\n\n`;
       list.forEach(({q, meta}, i) => {
         out += `${i+1}. ${q.label}  [${q.concept}]\nSource: ${SOURCE}\n\n${plain(q)}\n\nYour answer: ${meta.picked}   Correct answer: ${q.answer}\nExplanation: ${q.expl}${q.explZh ? '\n解析: ' + q.explZh : ''}\n\n--- 中文翻譯 ---\n${q.bodyZh}\n${q.stemZh}\n${['A','B','C','D'].map(L => `${L}) ${q.optsZh[L] || ''}`).join('\n')}\n\n${'-'.repeat(70)}\n\n`;
       });
-      download(`${SLUG}_wrong_questions_${d}.txt`, out, 'text/plain;charset=utf-8');
+      download(`${SLUG}_wrong_questions_${tag}_${d}.txt`, out, 'text/plain;charset=utf-8');
     };
     document.getElementById('btnDlCsv').onclick = () => {
-      const list = wrongList(); if (!list.length) { alert('錯題本是空的 No wrong questions saved.'); return; }
+      const sel = dlList(); if (!sel) return; const { list, tag } = sel;
       const c = v => '"' + String(v ?? '').replace(/"/g, '""') + '"';
       const rows = [['#','Item','Source','Concept','Question','A','B','C','D','Your answer','Correct answer','Explanation','中文翻譯','A 中','B 中','C 中','D 中','Times wrong']];
       list.forEach(({q, meta}, i) => rows.push([i+1, q.label, SOURCE, q.concept, q.bodyPlain + '\n' + (q.stem||''), q.opts.A, q.opts.B, q.opts.C, q.opts.D, meta.picked, q.answer, q.expl + (q.explZh ? ' / ' + q.explZh : ''), q.bodyZh + '\n' + q.stemZh, q.optsZh.A, q.optsZh.B, q.optsZh.C, q.optsZh.D, meta.count || 1]));
-      download(`${SLUG}_wrong_questions_${new Date().toISOString().slice(0,10)}.csv`, rows.map(r => r.map(c).join(',')).join('\r\n'), 'text/csv;charset=utf-8');
+      download(`${SLUG}_wrong_questions_${tag}_${new Date().toISOString().slice(0,10)}.csv`, rows.map(r => r.map(c).join(',')).join('\r\n'), 'text/csv;charset=utf-8');
+    };
+    // Word handout: Part 1 = redo the questions (no answers), Part 2 = answer key with explanations + 中文翻譯
+    document.getElementById('btnDlDoc').onclick = () => {
+      const sel = dlList(); if (!sel) return; const { list, tag, label } = sel;
+      const d = new Date().toISOString().slice(0,10);
+      const body = q => String(q.body || '').replace(/<a\b[^>]*>/g, '').replace(/<\/a>/g, '');
+      const opts = q => ['A','B','C','D'].map(L => `<p class="opt">${L}) ${esc(q.opts[L] || '')}</p>`).join('');
+      const part1 = list.map(({q}, i) => `<div class="q"><p class="qh">${i+1}. ${esc(q.label)}</p>
+        <p>${body(q)}</p><p class="stem">${esc(q.stem || '')}</p>${opts(q)}<p class="ans">Answer 作答：______</p></div>`).join('');
+      const part2 = list.map(({q, meta}, i) => `<div class="q"><p class="qh">${i+1}. ${esc(q.label)}　Your answer 你的答案：${esc(meta.picked)}　Correct 正確答案：<b>${esc(q.answer)}</b>${meta.count > 1 ? `　(錯 ${meta.count} 次)` : ''}</p><p class="tag">${esc(q.concept)}</p>
+        <p class="ex">${esc(q.expl || '')}</p>${q.explZh ? `<p class="ex">解析：${esc(q.explZh)}</p>` : ''}
+        <p class="zh">${esc(q.bodyZh || '')}</p><p class="zh">${esc(q.stemZh || '')}</p>
+        ${['A','B','C','D'].map(L => `<p class="zh">${L}) ${esc(q.optsZh[L] || '')}</p>`).join('')}</div>`).join('');
+      const html = `<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word"><head><meta charset="utf-8"><title>${esc(SOURCE)} 錯題講義</title>
+        <style>body{font-family:Calibri,"Microsoft JhengHei",sans-serif;font-size:11pt;line-height:1.4}h1{font-size:16pt;margin:0}h2{font-size:13pt;border-bottom:1px solid #999;margin-top:18pt}
+        .q{margin:0 0 12pt}.qh{font-weight:bold;margin:0 0 4pt}.tag{font-weight:normal;color:#555;font-size:9pt}.stem{font-weight:bold}.opt{margin:0 0 0 18pt}.ans{margin-top:4pt;color:#333}
+        .ex{margin:2pt 0;color:#14532d}.zh{margin:2pt 0;color:#5b3a8a;font-size:10pt}p{margin:3pt 0}</style></head><body>
+        <h1>${esc(SOURCE)} — 錯題講義 Wrong-Question Review</h1><p>${label} · ${list.length} 題 · ${d}　Name 姓名：____________</p>
+        <h2>Part 1 重新作答 Try again (no answers)</h2>${part1}
+        <br style="page-break-before:always" clear="all"><h2>Part 2 解答與解析 Answer key & explanations</h2>${part2}</body></html>`;
+      download(`${SLUG}_wrong_questions_${tag}_${d}.doc`, html, 'application/msword;charset=utf-8');
     };
     // ---- hover definitions for dictionary-linked words ----
     const tip = document.getElementById('tip'); let tipTimer = null, tipFor = null;
